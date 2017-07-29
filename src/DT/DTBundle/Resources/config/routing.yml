@@ -1,0 +1,3 @@
+dt_homepage:
+    path:     /
+    defaults: { _controller: DTBundle:Default:index }
