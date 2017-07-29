@@ -1,4 +1,4 @@
 services:
-#    dt.example:
-#        class: DT\DTBundle\Example
+#    dt_catalogue.example:
+#        class: DT\CatalogueBundle\Example
 #        arguments: ["@service_id", "plain_value", %parameter%]

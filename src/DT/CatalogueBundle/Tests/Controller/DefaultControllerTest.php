@@ -1,6 +1,6 @@
 <?php
 
-namespace DT\DTBundle\Tests\Controller;
+namespace DT\CatalogueBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 

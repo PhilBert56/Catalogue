@@ -2,9 +2,7 @@ app:
     resource: "@AppBundle/Controller/"
     type:     annotation
 
-
-dt:
-    resource: "@DT/DTBundle/Resources/config/routing.yml"
-    type : annotatio
+dt_catalogue:
+    resource: "@DTCatalogueBundle/Controller/"
+    type:     annotation
     prefix:   /
-

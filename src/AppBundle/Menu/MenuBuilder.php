@@ -12,9 +12,6 @@ class MenuBuilder
         $menu->setChildrenAttribute('class', 'nav navbar-nav');
         $menu->addChild('Accueil', ['route' => 'homepage']);
         $menu->addChild('Catalogue', ['route' => 'catalogue']);
-        //$menu->addChild('Catalogue Delarue Teneze', ['route' => 'catalogue']);
-        
         return $menu;
-
     }
 }
