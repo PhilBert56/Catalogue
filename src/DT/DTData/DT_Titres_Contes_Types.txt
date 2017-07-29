@@ -1,0 +1,112 @@
+T300 - La bête à sept têtes
+T301 - Les princesses délivrées du monde souterrain
+T302 - le corps sans ame
+T303 - Le roi des poissons ou la bête à sept têtes
+T304 - Le chasseur adroit 
+T306 - Les souliers usés à la danse
+T307 - La princesse délivrée
+T310 - Persinette
+T311 - Le gros cheval blanc
+T312 A & B - barbe-bleue
+T313 - La fille du diable
+T314 - Le Petit Jardinier aux cheveux d'or ou Le Teigneux
+T315 - La soeur infidèle
+T316 - L'enfant promis à la sirène
+T317 - Le petit berger et les trois geants
+T325 - Le magicien et son élève ou l'apprenti magicien
+T326 - Jean sans peur
+T327 - A et B - Le Petit Poucet ou Les Enfants abandonnés dans la Forêt	
+T328 - Le Garçon qui vole les trésors de l'Ogre
+T329 (var.) - La Fille du magicien et les cachettes à découvrir
+T330 - Le Diable et le Maréchal Ferrant ou le Bonhomme Misère
+T331 - La Mort (ou le Diable) dans une bouteille
+T332 - La mort parrain
+T333 - Le petit chaperon rouge
+T365 - La fiancee du mort
+T366 - Rends-moi ma jambe
+T400 - L'homme à la recherche de son épouse disparue
+T401 - La princesse enchantée libérée après trois nuits d'épreuves
+T402 - La Chatte blanche
+T403 - La fiancée (l'épouse) substituée
+T408 - Les trois oranges
+T425 - La recherche de l'epoux disparu
+T426 - Les deux fillettes, l'ours et le nain
+T431 - La maison dans la Forêt
+T432 - L'oiseau Bleu
+T433 - Le Prince en serpent
+T440 - Le roi-Grenouille
+T449 - L'Homme qui a épousé une femme vampire
+T450 - Petit frère et petite soeur
+T451 - La petite fille qui cherche ses frères
+T460_B - Le voyage pour chercher fortune
+T461 - Les trois poils du diable
+T470 - Amis dans la vie et dans la mort
+T470_A - La vengeance du trepasse
+T470_B - Le pays où l'on ne meurt pas
+T471 - Le voyage dans l'autre monde
+T475 - Le chauffeur du diable
+T480 - Les fées
+T480_B - [La nuit avec le chat ou le chien dans le château hante]  Cf. T480
+T500 - Le nom de l'aide
+T501 - Les trois fileuses
+T502 - L'homme sauvage
+T503 - Les deux bossus
+T506_A - Jean de Calais
+T510_A - Cendrillon
+T510_B - Peau d'Ane
+T511 - Un-Oeil, Double-Oeil, Triple-Oeil
+T511_A - Le petit boeuf rouge
+T513 - Le bateau qui va sur terre comme sur mer
+T516 - Le fidèle serviteur
+T518 - [Objets magiques]
+T530 - La montagne de verre
+T531 - La belle aux cheveux d'or
+T533 - La tête de cheval qui parle
+T545 - Le chat botte	
+T550 - Le merle blanc
+T551 - Les fils en quête d'un remède merveilleux pour leur père
+T552 - Les filles mariées à des animaux
+T554 - Les animaux reconnaissants
+T555 - Le pêcheur et sa femme
+T559 - Le bousier
+T560 - L'anneau magique
+T561 - Aladin ou La lampe merveilleuse
+T562 - L'homme de fer
+T563 - La serviette, l'âne et le bâton
+T565 - Le moulin magique
+T566 - Les objets magiques récupérés avec des fruits merveilleux
+T567 - Le coeur de l'oiseau merveilleux
+T569 - La giberne, le chapeau et la trompe
+T570 - Le troupeau de lapins ou Le sac de vérités
+T571 - Tous collés ensemble
+T571_A et T571_B - Le conte du bassin et Le Himphamp
+T571_C - La poupée qui mord
+T590 - La mère traîtresse ou Le ruban qui rend fort
+T592 - La danse dans les épines
+T593 - Fiddevav
+T610 - Les fruits qui guérissent
+T612 - Les feuilles qui ressuscitent *
+T613 - Les deux voyageurs (Vérité et Fausseté)
+T621 - La peau de Pou
+T650 - Jean le fort ou Quatorze
+T652 - Le prince dont tous les souhaits se réalisent
+T653 - Les quatre frères ingénieux
+T653_A - L'objet le plus précieux
+T654 - Les trois frères
+T660 - Les Trois médecins
+T670 - Le langage des animaux et la femme curieuse
+T671 - (et 517 : Le garçon qui apprend le langage des oiseaux)
+T673 - La viande de serpent qui apprend le langage des animaux
+T675 - Jean Bête
+T676 - Sesame, ouvre-toi
+T700 - Pouçot
+T706 - La fille aux mains (bras) coupé(e)s
+T707 - L'oiseau de vérité
+T708 - La fille innocente qui accouche d'un  monstre
+T709 - Blanche-Neige
+T710 - L’enfant de Marie
+T713 - La mère qui ne m'a pas porté mais m'a nourri
+T715 - Moitié de Coq
+T717 - La nourriture volée pour les pauvres est changée en roses
+T725 - Le rêve
+T736_A - L'anneau de Polycrate

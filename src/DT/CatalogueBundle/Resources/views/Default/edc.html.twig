@@ -7,17 +7,14 @@
     <thead>
     <tr>
         <th>Conte Type</th>
-        <th>titre</th>
+        <th>Elements du conte</th>
         
     </tr>
     </thead>
     <tbody>
-    {% for conteType in contes_type %}
+    {% for ligne in edc %}
         <tr>
-            <td>
-                <a href="{{ path('ct_show_edc', {'ct':conteType.ct} )  }}">{{conteType.ct}} | </a>
-                <a href="{{ path('ct_show_versions', {'ct':conteType.ct} )  }}">{{conteType.titre}} | </a>
-            </td>
+            <td> {{ ligne }} </td>
 
            
         </tr>

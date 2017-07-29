@@ -1,3 +1,0 @@
-dt_catalogue_homepage:
-    path:     /
-    defaults: { _controller: DTCatalogueBundle:Default:index }
