@@ -25,17 +25,21 @@ class DefaultController extends Controller
      foreach ($lines as $lineNumber => $lineContent)
         { 
             $conteType = new ConteType();
+            $conteType->isDefined = false;
             $conteType->ct = (explode ("-",$lines[$lineNumber],2)[0]);
             $conteType->ct = rtrim($conteType->ct);
             $conteType->titre = (explode ("-",$lines[$lineNumber],2)[1]);
             $conteType->fichierDesElementsDuConte = '..\src\DT\DTData\A'.$conteType->ct.'\DT_A'.$conteType->ct.'_EDC.txt';
             $conteType->fichierDesVersions = '..\src\DT\DTData\A'.$conteType->ct.'\DT_A'.$conteType->ct.'_Liste_des_Versions.txt';
-            
-            $tableauDesContesTypes [] =  $conteType;
+            $conteType->fichierDesSources =  '..\src\DT\DTData\A'.$conteType->ct.'\DT_A'.$conteType->ct.'_Fichier_des_Versions.txt';
+            $tableauDesContesType[] = $conteType;
+    
         }
-            $session->set('tableauDesContesTypes', $tableauDesContesTypes );
+            $session->set('tableauDesContesType', $tableauDesContesType );
+
+            dump($tableauDesContesType);
             return $this->render('DTCatalogueBundle:Default:index.html.twig', [
-                'contes_type'=> $tableauDesContesTypes
+                'contes_type'=> $tableauDesContesType
         ]);
     
     }
@@ -45,16 +49,30 @@ class DefaultController extends Controller
      */
     public function showEdcAction($ct)
     {
-        $fileName = '..\src\DT\DTData\A'.$ct.'\DT_A'.$ct.'_EDC.txt';
-        $lines = file($fileName);
+        $session = $this->get('session');
+        $tableauDesContesType = $session->get('tableauDesContesType');
+
+        foreach($tableauDesContesType as $ctype){
+            if ($ct == $ctype->ct ) {
+                $conteType = $ctype;
+                break;
+            } 
+        };
+
+        if (!$conteType->isDefined) {
+            $conteType->genererLesInformationsDuConteType($session);
+        };
+    
+        /*
+        $lines = file($fichierDesElementsDuConte);
         $edc = [];
         foreach ($lines as $lineNumber => $lineContent){ 
              $edc [] = $lines[$lineNumber];
-        }
+        }*/
 
         return $this->render('DTCatalogueBundle:Default:edc.html.twig',
         [
-            'edc'=> $edc, 
+            'edc'=> $conteType->elementsDuConte, 
         ]);
    
     }
@@ -66,7 +84,7 @@ class DefaultController extends Controller
     {
         $fileName = '..\src\DT\DTData\A'.$ct.'\DT_A'.$ct.'_Liste_des_Versions.txt';
         $lines = file($fileName);
-        $edc = [];
+        $versions = [];
         foreach ($lines as $lineNumber => $lineContent){ 
              $versions [] = $lines[$lineNumber];
         }
