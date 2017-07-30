@@ -8,15 +8,16 @@
     <tr>
         <th>Conte Type</th>
         <th>titre</th>
-        
+    
     </tr>
     </thead>
     <tbody>
     {% for conteType in contes_type %}
         <tr>
             <td>
-                <a href="{{ path('ct_show_edc', {'ct':conteType.ct} )  }}">{{conteType.ct}} | </a>
-                <a href="{{ path('ct_show_versions', {'ct':conteType.ct} )  }}">{{conteType.titre}} | </a>
+                <a href="{{ path('ct_show_edc', {'ctCode':conteType.ctCode} )  }}">{{conteType.ctCode}} | </a>
+            
+                <a href="{{ path('ct_show_versions', {'ctCode':conteType.ctCode} ) }}">{{conteType.titre}} | </a>
             </td>
 
            

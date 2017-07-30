@@ -4,17 +4,17 @@ namespace DT\CatalogueBundle\Services;
 
 class VersionDuConteType 
 {
-    public $ct;
+    public $ctCode;
     public $numero;
     public $reference;
     public $description;
     public $fichierSource;
     public $hasSource;
 
-     public function __construct($conteType)
+     public function __construct($conteTypeCode)
     {   
-        $this->ct = $conteType;
-        $this->description = '';
+        $this->ctCode = $conteTypeCode;
+        $this->description = [];
         $this->fichierSource = '';
         $this->hasSource = false;
     }
@@ -28,10 +28,16 @@ class VersionDuConteType
                 if (rtrim($elements[0]) == $v ){
                     $this->fichierSource = $elements[1] ;
                     $this->hasSource = true;
+                    if ( iconv_strlen($elements[1]) <= 2)$this->fichierSource = '' ;
                     break;
                 }
             }
         }
+    }
+    public function setDescription($description){
+
+        $this->description[] = $description;
+
     }
 
 }

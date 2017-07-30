@@ -5,7 +5,7 @@ use DT\CatalogueBundle\Services\VersionDuConteType;
 
 class ConteType 
 {
-    public $ct ;
+    public $ctCode ;
     public $titre;
     public $isDefined;
     public $fichierDesElementsDuConte;
@@ -14,42 +14,15 @@ class ConteType
     public $elementsDuConte=[];
     public $versions=[];
 
-    public function genererLesInformationsDuConteType($session)
+    public function genererLesInformationsDuConteType()
     {
-            
-            $tableauDesContesType = $session->get('tableauDesContesType');
-            
-            $isAlredyDefined = false;
-            
-            
-            foreach($tableauDesContesType as $ct){
-                if ($this->ct == $ct->ct && $ct->isDefined) $isAlredyDefined = true;
-            }
+        if ($this->isDefined)return;
 
-            if(!$isAlredyDefined ){
-
-                $lines = file($this->fichierDesElementsDuConte);
-                $edc = [];
-                foreach ($lines as $lineNumber => $lineContent){ 
-                    $edc [] = $lines[$lineNumber];
-                }
-                $this->elementsDuConte = $edc;
-
-                $this->genererLaListeDesVersions($this);
-             }
-
-             dump($tableauDesContesType );
+        $this->genererLaListeDesVersions();
+        $this->genererLaListeDesElementsDuConte();
+        $this->isDefined = true;
 
     }
-
-    public function getConteType($ct){
-        $tableauDesContesTypes = $session->get('tableauDesContesTypes');
-        foreach($tableauDesContesTypes as $ctype){
-            if ($ct == $ctype->ct ) return $ctype;
-        }
-        return null;
-    }
-
 
     public function genererLaListeDesVersions(){
 
@@ -60,7 +33,7 @@ class ConteType
             $elements = explode (".",$lines[$lineNumber],2);
             
             if (is_numeric($elements[0])){
-                $version = new VersionDuConteType($this);
+                $version = new VersionDuConteType($this->ctCode);
                 $version->numero = $elements[0];
                 $version->reference = $elements[1];
                 $this->versions[] = $version;
@@ -68,16 +41,23 @@ class ConteType
                 //$version->$description = ''; 
             } else {
                 
-                //$version->$description = $lines[$lineNumber];
+                $version->setDescription ($lines[$lineNumber]);
             }
         }
         dump($this->versions);
 
     }
 
-    
-
-    
-
+    public function genererLaListeDesElementsduConte(){
+        
+        $lines = file($this->fichierDesElementsDuConte);
+        $edcTab = [];
+        foreach ($lines as $lineNumber => $lineContent){
+            $edct = new ElementDuConteType($this->ctCode);
+            $edct->setDescription($lines[$lineNumber]);
+            $edcTab[] = $edct;
+        }
+        $this->elementsDuConte = $edcTab;
+    }
 
 }
