@@ -1,0 +1,67 @@
+I. LA PRINCESSE ENCHANTEE
+I A - Une princesse est vouée au diable par sa mère (ou par son père qui a eu un enfant à cette condition)
+I A1 - ou par son père contre de l'argent
+I A2 - elle est punie d'un crime
+I A3 - elle a été métamorphosée en bête par une sorcière ou un magicien
+I A4 - c'est une princesse morte, sans plus
+I A5 - autre
+I B - Elle est enterrée dans une église
+I B1 - dans le cimetière
+I B2 - sur la demande qu'elle a faite avant de mourir
+I B3 - elle est simplement enfermée dans l'église
+I B4 - elle est en enfer et vient chaque nuit dans l'église
+I C - Chaque nuit elle apparaît de onze heures à minuit
+I C1 - de onze heure et demie à minuit
+I C2 - de onze heures trois quarts à minuit
+Attention pas de C3
+I C4 - pendant les douze coups de minuit
+I C5 - à minuit
+I D - Elle tue
+I D1 - ou dévore le veilleur
+I E - Celui qui passera trois nuits dans l'église la libérera
+I E1 - et l'épousera
+
+II. LE LIBERATEUR ET SA CONSEILLERE
+II A - La garde est prise par un jeune homme qui tente sa chance
+II A1 - par un soldat dont c'est le tour
+II A2 - par un soldat volontaire
+II A3 - à qui on offre une récompense
+II A4 - autre
+II B - Le héros est conseillé chaque fois par une vieille femme
+II B1 - une belle dame
+II B2 - qui est la Sainte Vierge
+II B3 - à qui il a offert quelque chose
+II B4 - par une voix
+II B5 - par une autre personne
+II B6 - qui chaque fois l'empêche de fuir
+II B7 - qui lui dit où se cacher et le conseille
+
+III. LES TROIS NUITS D'EPREUVES
+III A - Le héros se cache sur ou derrière l'autel
+III A1 - derrière un tableau ou un saint
+III A2 - sur la chaire
+III A3 - dans le confessionnal
+III A4 - sous ou derrière un tas de chaises
+III A5 - sous les ossements des victimes
+III A6 - dans le clocher
+III A7 - contre le tombeau
+III A8 - à l'intérieur du tombeau quand la princesse en est sortie
+III A9 - ailleurs
+III B - La princesse cherche en poussant des cris
+III B1 - en appelant le soldat
+III B2 - en récitant une formule
+III B3 - en sentant
+III B4 - en jetant des flammes
+III C - L'heure oblige la princesse à regagner sa fosse alors qu'elle découvre le veilleur
+III C1 - qu'elle enlève les derniers sièges ou les derniers os
+III C2 - qu'elle est sur l'escalier de sa cachette
+III C3 - qu'elle va le toucher ou le touche déjà
+III D - La troisième nuit, le veilleur doit la prendre dans ses bras
+III D1 - lui faire dire une prière
+III D2 - agir autrement
+
+IV. CONCLUSION
+IV A - Le soldat la ramène libérée à son père
+IV A1 - est richement récompensé
+IV A2 - l'épouse
+IV A3 - devient ou deviendra roi

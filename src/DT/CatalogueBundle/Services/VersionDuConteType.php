@@ -26,14 +26,21 @@ class VersionDuConteType
             $elements = explode ("=",$lines[$lineNumber],2);
             if (count ($elements) > 1){ 
                 if (rtrim($elements[0]) == $v ){
-                    $this->fichierSource = $elements[1] ;
+                    $fileName = trim($elements[1]);
+                    $path = $conteType->pathDesSources;
+                    $this->fichierSource = $path.$fileName;
                     $this->hasSource = true;
-                    if ( iconv_strlen($elements[1]) <= 2)$this->fichierSource = '' ;
-                    break;
+
+                    if ( iconv_strlen($elements[1]) <= 5){
+                        $this->fichierSource = '';
+                        $this->hasSource = false;
+                        break;
+                    }
                 }
             }
         }
     }
+
     public function setDescription($description){
 
         $this->description[] = $description;

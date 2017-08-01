@@ -1,0 +1,142 @@
+I. L'apprenti magicien ou le serviteur du magicien (diable)
+I A - Un garçon
+I A1 - est le fils de pauvres gens qui lui cherchent un parrain à sa naissance
+I A2 - a des parents qui veulent le faire instruire
+I A3 - il cherche une place
+I A4 - il veut apprendre le métier de magicien
+I A5 - son père invoque imprudemment le diable contre lui
+I A6 - il va par le monde
+I B - Le garçon
+I B1 - son père
+I B2 - rencontre
+I B3 - va trouver en son château (maison)
+I B4 - un monsieur
+I B5 - un seigneur
+I B6 - un personnage
+I B7 - qui est un magicien
+I B8 - le diable
+I B9 - il a affaire à deux ou trois magiciens
+I B10 - il est pris comme serviteur
+I B11 - comme élève
+I C - Le garçon avec un certain habit
+I C1 - demande un emploi
+I C2 - est refusé parce qu'il dit savoir lire
+I C3 - se présente de nouveau avec un habit différent ou le même porté différemment
+I C4 - dit qu'il ne sait pas lire et est pris comme serviteur
+I D - Le garçon est pris à un certain âge
+I D1 - il doit servir ou étudier un certain temps
+I D2 - son père doit venir le chercher à l'expiration du délai
+I D3 - reçoit une certaine somme à l'avance
+I D4 - son fils lui sera rendu s'il le reconnaît
+I E - Le garçon doit veiller au bon état des livres du magicien
+I E1 - il a d'autres tâches
+I E2 - il étudie en cachette dans les livres de magie
+I E3 - pendant que son maître est absent
+I E4 - autre
+
+
+II. Libération de l'élève (serviteur) du magicien
+II A - Le garçon va voir son père
+II A1 - ou le fait prévenir
+II A2 - le prévient qu'il aura à le reconnaître métamorphosé en animal parmi d'autres animaux
+II A3 - sinon le fils restera en la possession du magicien
+II A4 - il le reconnaîtra à une certaine attitude ou à la place qu'il occupera
+II A5 - le père reçoit les renseignements d'un autre
+II A6 - le père va retirer son fils le délai écoulé
+II B - Le magicien présente au père un ou deux groupes d'animaux où ne figure pas son fils
+II B1 - le groupe où est son fils
+II B2 - il le reconnaît grâce aux indications reçues et le désigne
+II B3 - le fils redevient homme aussitôt
+II B4 - son père l'emmène
+II C - Le garçon quitte son maître librement
+II C1 - se sauve en cachette
+II C2 - se libère par une ruse
+II C3 - il rentre chez lui
+
+
+III. La transformation en animaux pour la vente
+III A - Par son pouvoir magique, le garçon se change
+III A1 - ou change des objets
+III A2 - en chien
+III A3 - cochon
+III A4 - mouton
+III A5 - boeuf
+III A6 - cheval
+III A7 - que son père mène à la foire
+III A8 - vend à un acheteur ordinaire
+III A9 - au magicien (diable) même)
+III A10 - autre
+III B - Conformément aux indications de son fils, le père conserve corde, laisse, collier, bride
+III B1 - l'animal reprend la forme humaine
+III B2 - rejoint le père ou rentre à la maison
+III C - Le père laisse la bride à l'acheteur
+III C1 - par oubli
+III C2 - ébloui par la grosse somme qu'on lui paie
+III C3 - parce qu'on lui a offert un supplément pour la bride
+III C4 - parce que l'acheteur l'a fait boire
+III C5 - ou a refusé de la rendre
+III C6 - parce que les assistants prennent parti pour l'acheteur
+
+
+IV. Les transformations dans la poursuite
+IV A - Le magicien acheteur du cheval l'emmène
+IV A1 - le confie à un valet
+IV A2 - à qui il recommande de ne pas le débrider
+IV A3 - ou fait d'autres recommandations
+IV A4 - autre
+IV B - Le cheval refuse de boire
+IV B1 - demande à quelqu'un de lui ôter la bride
+IV B2 - on lui ôte la bride
+IV B3 - il est libéré autrement
+IV C - Le cheval en présence de l'eau
+IV C1 - se change en poisson
+IV C2 - en grenouille
+IV C3 - en autre animal
+IV C4 - le magicien pour le chasser se change en poisson
+IV C5 - en loutre
+IV C6 - autre
+IV D - L'apprenti-magicien se change en lièvre
+IV D1 - en autre animal
+IV D2 - le magicien en chien de chasse
+IV D3 - en autre animal
+IV E - L'apprenti-magicien se change en pigeon
+IV E1 - en autre oiseau
+IV E2 - le magicien en oiseau de proie
+IV E3 - ou autre
+IV F - Autre forme de l'apprenti-magicien
+IV F1 - du magicien
+
+
+V. Les transformations dans le combat final
+V A - L'apprenti-magicien entre dans la chambre d'une jeune fille
+V A1 - de la fille de roi
+V A2 - ailleurs
+V A3 - prend la forme d'une bague
+V A4 - d'une orange
+V A5 - autre refuge
+V A6 - autre forme
+V B - La jeune fille se met la bague au doigt
+V B1 - le jeune homme lui parle
+V B2 - lui dit qui il est
+V B3 - lui annonce l'arrivée du magicien sous telle forme
+V B4 - lui dit ce qu'elle doit faire
+V C - Le magicien se présente sous la forme d'un médecin
+V C1 - qui guérit le père de la jeune fille, malade
+V C2 - sous forme de musicien
+V C3 - de marchand de bijoux
+V C4 - il demande la bague en paiement
+V C5 - en échange de bijoux plus beaux ou de richesses
+V D - La bague
+V D1 - ou l'orange
+V D2 - tombe ou est lancée sur le sol
+V D3 - l'apprenti-magicien se change en graines
+V D4 - a un autre sort
+V D5 - le magicien se change en coq
+V D6 - qui picore les graines
+V D7 - cherche l'objet
+V D8 - l'unique graine ou une des graines
+V D9 - ou un autre objet
+V D10 - se change en renard qui mange le coq
+
+
+VI. Après la victoire de l'apprenti-magicien

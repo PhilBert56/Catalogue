@@ -6,17 +6,18 @@
     <table class="table table-striped">
     <thead>
     <tr>
-        <th>Conte Type</th>
+        <th>Conte Type {{conteTypeCode }}</th>
         <th>Versions</th>
             {% for version in versions %}
             <tr>
             <td>
 
                <strong> 
-                    {% if version.fichierSource == '' %} 
-                        {{version.numero}}
+                    {% if version.hasSource %} 
+                        <a href="{{version.fichierSource }}">{{version.numero}}</a>
                     {% else %}
-                        <a href="{{ path('ct_show_file', {'ctCode':version.ctCode, 'numeroVersion' : version.numero} )  }}"> {{version.numero}} </a>
+                        {{version.numero}}
+                        
                     {% endif %}
                     - {{ version.reference }} 
                 </strong></br>

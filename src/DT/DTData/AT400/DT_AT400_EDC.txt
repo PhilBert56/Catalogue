@@ -1,0 +1,64 @@
+I. L'ENFANT PROMIS AU DIABLE
+I A - un pêcheur malheureux, pour obtenir de quoi vivre, vend son fils au diable
+I A1 - ou promet de lui livrer ce qu'il rencontrera en premier lieu en rentrant (il pense à une chose anodine mais ce sera son fils)
+I A2 - dans un certain délai
+I B - Le moment venu, le diable est berné
+I B1 - ou tenu en échec par un objet béni
+I C - Le jeune homme est sauvé du diable, mais ne peut retourner chez lui
+
+II. LA LIBERATION DE LA PRINCESSE
+II A - Le héros est le jeune homme du §I, abordant dans un pays inconnu
+II A1 - c'est un prince à la chasse
+II A2 - autre
+II B - Il épouse la princesse du pays inconnu
+II B1 - il rencontre une princesse ensorcelée
+II B2 - en animal
+II B3 - qu'il peut libérer en acceptant de l'épouser
+II B4 - il accepte
+
+III. LA DESOBEISSANCE PUNIE
+.Forme A 
+III_a  A - Le héros, au bout d'un certain temps de vie heureuse, veut revoir ses parents
+III_a B - La princesse l'y autorise
+III_a B1 - lui donne une baguette [ou un autre objet] magique 
+III_a B2 - mais lui interdit de dévoiler leur mariage
+III_a B3 - ou d'user de la baguette [l'objet magique] pour la faire venir
+III_a C - Le héros, sous l'effet de l'ivresse ou par vantardise, désobéit
+III_a C1 - et perd son épouse
+
+.Forme B
+III_b A - Le héros ne devra pas chercher à voir sa compagne pendant un certain temps
+III_b B - Il obéit d'abord
+III_b B1 - puis désobéit en regardant par le trou de la serrure
+III_b B2 - et voit la princesse abattre de l'or de ses cheveux en se peignant
+III_b C - La libération est compromise
+III_b C1 - et la princesse le quitte
+
+IV. A LA RECHERCHE DE LA PRINCESSE DISPARUE
+IV A - Le héros (revenu à lui) part à sa recherche
+IV B - Il obtient des objets magiques
+IV B1 - que se disputaient des voleurs
+IV B2 - ou des géants
+IV C - Il demande sa route
+IV C1 - au roi (ou à la mère) des oiseaux
+IV C2 - au roi d'autres animaux
+IV C3 - aux vents
+IV C4 - aux astres
+IV C5 - à des ermites
+IV C6 - à des géants
+IV D - Il apprend où se trouve l'endroit cherché
+IV D1 - par un animal arrivé en retard à l'appel
+IV D2 - on y prépare le mariage de la princesse avec un autre
+IV E - L'animal accepte d'y porter (ou conduire) le héros
+IV E1 - qui devra se munir de chair pour la route et en donner à chaque demande de l'animal
+IV E2 - cette viande ne suffit pas et le héros doit finalement nourrir sa monture de sa propre chair
+
+V. LA REUNION
+V A - Le héros arrive au château où est la princesse
+V A1 - comme elle est sur le point de se marier
+V A2 - il se loue comme serviteur
+V B - Il est reconnu
+V B1 - se fait reconnaître
+V B2 - grâce aux objets qu'il tient de la princesse
+V C - Celle-ci dit l'histoire de la clef perdue et retrouvée (motif VII F du T313)
+V C1 - elle épouse son libérateur

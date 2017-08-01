@@ -1,0 +1,62 @@
+I. LE HEROS, PATRE  DU ROI
+I A - le héros est un jeune garçon
+I A1 - qui a déjà eu des aventures se rattachant à un autre thème
+I A2 - quitte son pays
+I A3 - ou son maître
+I B - Il est pourvu d'une arme merveilleuse
+I B1 - [il est pourvu] d'un objet magique
+I B2 - il dispose d'animaux secourables
+I C - Il se loue chez le roi
+I C1 - ou chez un autre
+I C2 - comme berger
+I C3 - comme vacher
+I C4 - comme porcher
+I D - Il ne doit pas laisser aller ses bêtes dans le bois
+I D1 - dans la prairie
+I D2 - d'un géant
+I D3 - de trois géants
+I D4 - d'un vieux sanglier
+I D5 - d'ours
+I D6 - sinon elles seront dévorées
+I D7 - et leurs gardiens
+I D8 - ses prédécesseurs ont tous disparu ; s'il ne ramène pas toutes ses bêtes,
+I D9 - il sera puni de mort
+
+
+II. LA LUTTE CONTRE LES GEANTS
+II A - Il mène ses bêtes à la prairie de son maître
+II A1 - où l'herbe est courte et mauvaise
+II A2 - les conduit dans la prairie ou le bois interdit
+II A3 - où la nourriture est abondante
+II A4 - il y fait du bruit
+II A5 - il y va plusieurs fois sans rencontrer personne
+II A6 - il ramène les bêtes repues à son maître enchanté
+II B - Il rencontre un géant
+II B1 - le fait jouer ou manger
+II B2 - le tue
+II B3 - fait de même le lendemain avec un second
+II B4 - le surlendemain avec un troisième
+II B5 - en tue un plus grand nombre
+II B6 - rencontre et tue un vieux sanglier
+II B7 - un ours
+II B8 - il tue la mère des géants
+II C - Il se rend au château du géant
+II C1 - des trois géants
+II C2 - du sanglier
+II C3 - des ours
+II C4 - c'est un château de cuivre
+II C5 - d'acier
+II C6 - d'argent
+II C7 - d'or
+II C8 - d'autre matière
+II C9 - il y trouve un cheval merveilleux
+II C10 - il y délivre trois princesses
+II C11 - une princesse
+
+
+III. INSTALLATION OU AUTRES AVENTURES
+III A - Il s'installe dans le château
+III A1 - y vit heureux grâce aux richesses qu'il contient
+III B - En utilisant ce qu'il a trouvé dans le château 
+III B1 - il va à d'autres aventures
+III B2 - qui appartiennent à un autre conte type

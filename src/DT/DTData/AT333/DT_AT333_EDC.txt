@@ -1,0 +1,100 @@
+I. L'HEROÏNE
+I A -
+I A1 - C'est une petite fille
+I A2 - Nommée le Petit Chaperon rouge
+I A3 - à cause de sa coiffure rouge
+I A4 - nommée autrement
+I A5 - non nommée
+I A6 - autre
+
+I B - 
+I B1 - Elle est envoyée par sa mère
+I B2 - veut aller
+I B3 - ses parents refusent d'abord
+I B4 - elle va
+I B5 - chez sa grand'mère
+I B6 - chez une autre personne
+
+I C - 
+I C1 - Elle porte du beurre
+I C2 - du fromage
+I C3 - du lait
+I C4 - une galette
+I C5 - un gâteau
+I C6 - du pain
+I C7 - autre
+
+
+II. RENCONTRE AVEC LE LOUP
+II A - 
+II A1 - Elle rencontre le loup
+II A2 - d'autres animaux
+II A3 - une personne
+
+II B - 
+II B1 - Le loup lui demande où elle va
+II B2 - lui demande lequel des deux chemins possibles elle prendra
+II B3 - il prend l'autre
+II B4 - c'est le loup qui prend le chemin le plus court
+
+
+III. CHEZ LA GRAND-MERE
+III A - 
+III A1 - Le loup arrive chez la grand'mère
+III A2 - apprend comment on ouvre la porte
+III A3 - mange la grand'mère
+III A4 - met de la chair de côté
+III A5 - du sang de côté
+III A6 - revêt les habits de la grand-mère
+III A7 - se met dans son lit
+
+III B - 
+III B1 - La fillette arrive
+III B2 - apprend comment on ouvre la porte
+III B3 - dit qu'elle a faim
+III B4 - qu'elle a soif
+III B5 - le loup lui dit de manger la viande
+III B6 - de boire du vin (sang de la grand-mère)
+III B7 - un animal
+III B8 - une voix
+III B9 - dit à la fillette ce qu'elle mange
+III B10 - ce qu'elle boit
+
+III C - 
+III C1 - Elle dit qu'elle a froid
+III C2 - qu'elle a sommeil
+III C3 - le loup lui dit de venir se coucher
+III C4 - elle se déshabille
+III C5 - demande où mettre chaque vêtement
+III C6 - le loup lui dit de le brûler
+III C7 - elle se couche
+
+III D - 
+III D1 - Etonnement de la fillette sur les grands bras
+III D2 - les grandes jambes
+III D3 - les grandes oreilles
+III D4 - les grands yeux
+III D5 - le corps velu
+III D6 - d'autres parties du corps
+III D7 - Les grandes dents
+
+III E - 
+III E1 - Dernière réplique du loup : "C'est pour te manger"
+III E2 - il dévore l'enfant
+
+
+IV. FUITE DE LA FILLETTE, MORT DU LOUP
+IV A - 
+IV A1 - La fillette demande à sortir
+IV A2 - pour satisfaire un besoin
+IV A3 - elle part attachée par un fil
+IV A4 - se libère du fil
+IV A5 - rentre chez elle
+
+IV B - 
+IV B1 - Le loup la poursuit
+IV B2 - va l'atteindre au moment où elle rentre chez elle
+
+IV C - 
+IV C1 - Le loup est tué
+

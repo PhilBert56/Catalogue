@@ -1,0 +1,125 @@
+I. LA MECHANTE MARATRE
+I A - L'héroïne est une jeune fille belle et bonne
+I A1 - qui a un frère
+I A2 - qui a deux frères
+I A3 - qui a plusieurs frères
+I B - Le père se remarie avec une femme méchante
+I B1 - de ce second mariage naît une fille laide
+I B2 - les enfants deviennent orphelins
+I B3 - habitent avec leur nourrice
+I B4 - qui a elle-même une fille, mais laide
+
+.Forme A
+II [A] - LE PORTRAIT DE LA SOEUR
+II [A] A - pour échapper aux mauvais traitements de la méchante femme
+II [A] A1 - le(s) frère(s) part(ent) et va (vont) s'engager à la cour du roi
+II [A] A2 - dont il(s) devien(nen)t le(s) favori(s)
+II [A] A3- il(s) contemple(n)t tendrement chaque jour un portrait de sa (leur) soeur
+II [B] B- Le roi aperçoit le portrait et en tombe amoureux
+II [A] B1 - il apprend du (des) frère(s) que la soeur est encore plus belle que lui (qu'eux)
+II [A] B2 - il apprend qu'elle fait tomber du blé de ses cheveux en se peignant
+II [A] B3 - de l'or de ses mains en se lavant
+II [A] C - Le roi commande au(x) frère(s) de lui amener la jeune fille
+
+III [A]. LA SUBSTITUTION DE LA FIANCEE 
+III [A] A - L'héroïne se rend auprès du roi en voiture
+III [A] A1 - en bateau
+III [A] A2 - accompagnée de la méchante femme et de sa fille
+III [A] A3 - et du (des) frère(s)
+III [A] A4 - le frère prend un autre chemin
+III [A] B - Le(s) frère(s) dit (disent) à la soeur de prendre garde à sa beauté
+III [A] B1 - veut (veulent) attirer son attention sur quelque chose
+III [A] B2 - à la question de la jeune fille : "Que di(sen)t mon (mes) frère(s) ?", la mauvaise femme répond
+III [A] B3 - qu'elle doit donner à sa propre fille ses souliers blancs
+III [A] B4 - sa robe blanche
+III [A] B5 - son voile blanc
+III [A] B6 - quelle doit s'arracher un oeil
+III [A] B7 - l'autre oeil
+III [A] B8 - se jeter à l'eau
+III [A] B9 - la jeune fille obéit
+III [A] B10 - la méchante femme fait mine de montrer à la jeune fille de beaux poissons
+III [A] B11 - et la jette à l'eau
+III [A] B12 - et la jette dans un bourbier
+III [A] C - Arrivé(s) à la cour, le(s) frère(s) se rend(en)t compte de la disparition de la soeur
+III [A] C1 - mais n'ose(nt) en informer le roi
+III [A] C2 - en informe(nt) le roi mais n'est (ne sont) pas cru(s)
+III [A] C3 - il(s) croi(en)t à une transformation de sa (leur) soeur due à la maladie
+III [A] C4 - il(s) est (sont) précipité(s) en prison
+III [A] C5 - autre châtiment
+III [A] C6 - la méchante femme le(s) fait tuer
+III [A] D - Le roi renvoie la marâtre et sa fille
+III [A] D1 - après s'être rendu compte qu'au lieu de blé et d'or, il ne tombait de ses cheveux et de ses mains que poux et crasse
+III [A] D2 - il ajourne la noce, mais garde les deux femmes
+III [A] D3 - il épouse la fiancée substituée
+III [A] D4 - par fidélité à sa parole de roi
+
+IV [A]. L'HEUREUX DENOUEMENT 
+IV [A] A - L'héroïne a été recueillie par
+IV [A] A1 - un brave homme
+IV [A] A2 - une brave femme
+IV [A] A3 - qu'elle rend riche grâce à ses dons
+IV [A] A4 - une sirène
+IV [A] A5 - un Drac
+IV [A] A6 - un gros poisson
+IV [A] A7 - qui la maintient prisonnière avec une (des) chaîne(s) d'or
+IV [A] A8 - lui permettant de se promener sur l'eau ou sur la rive
+IV [A] A9 - mais l'être marin tire la (les) chaîne(s) quand il le juge utile
+IV [A] B - L'héroïne elle-même fait une quenouille et un fuseau en or
+IV [A] B1 - le Drac les fait
+IV [A] B2 - sa protectrice a de beaux fruits
+IV [A] B3 - qu'elle (il) fait vendre à la méchante reine et à sa fille moyennant chaque fois un oeil, l'héroïne retrouvant ainsi la vue
+IV [A] C - L'être marin informe sa prisonnière de ce qui est advenu à son frère
+IV [A] C1 - et lui accorde de se rendre par trois fois auprès de lui
+IV [A] C2 - afin de le faire revenir à la vie
+IV [A] C3 - elle fait dire à son geôlier le secret de sa délivrance
+IV [A] C4 - elle communique ce secret à son frère
+IV [A] C5 - elle se peigne sur la rive, nourrissant les porcs du roi de ce qui tombe de ses joues et de ses cheveux
+IV [A] D - Un témoin de la scène va en informer le roi
+IV [A] E - Le roi fait briser dans les conditions voulues la chaîne, et délivre la vraie fiancée
+IV [A] E1 - il l'épouse
+IV [A] E2 - après avoir mis en liberté son (ses) frères
+IV [A] F - La méchante femme et sa fille sont punies
+IV [A] F1 - on leur applique la punition que la mère a elle-même exprimée, ne sachant pas qu'il s'agissait d'elle(s)
+
+
+.Forme B
+II [B]. LES DONS  (=T480)
+II [B] A - La marâtre envoie sa belle-fille après la nuit tombée chercher son livre d'heures à l'église, l'obligeant ainsi à passer au carrefour des "danseurs de nuit", mais la jeune fille, aimable, accepte de danser avec eux et reçoit des dons
+II [B] A1 - la marâtre recommande à une sorcière d'enlaidir sa belle-fille, mais la sorcière, conquise, lui fait des dons 
+II [B] A2 - une plus grande beauté
+II [B] A3 - perles et diamants à chaque parole
+II [B] A4 - de transformer en or ce qu'elle touchera
+II [B] B - Par contre, dans les mêmes circonstances, la file de la marâtre se montre revêche et reçoit des dons inverses
+II [B] B1 - une plus grande laideur
+II [B] B2 - crapauds à chaque parole
+II [B] B3 - odeur puante
+II [B] B4 - de transformer en ordures ce qu'elle touchera
+
+III [B]. LA SUBSTITUTION
+III [B] A - Après une tentative d'assassinat de la part de la marâtre
+III [B] A1 -l'héroïne est courtisée par un prince
+III [B] A2 - qu'elle épouse et qui la rend mère
+III [B] B -Venues pour le baptême de l'enfant
+III [B] B1 - la méchante femme (et sa fille) se débarrasse(nt) de la jeune femme
+III [B] B2 - en lui enfonçant une épingle dans la tête
+III [B] B3 - et en la transformant en cane
+III [B] B4 - en oiseau
+III [B] B5 - en biche
+III [B] C - La méchante femme substitue sa propre fille à la belle
+III [B] C1 - se substitue elle-même à l'héroïne
+III [B] C2 - qu'elle a cachée dans un coffre
+III [B] D - Au retour du prince, la fausse épouse demande à manger de l'animal (cf. T450, motif V.A)
+III [B] D1 - mais le prince ne peut l'atteindre
+III [B] D2 - mais il ne peut se résoudre à le tuer
+
+IV [B]. L'HEUREUX DENOUEMENT
+IV [B] A - Sous sa forme animale, la véritable épouse revient trois fois de suite se lamenter
+IV [B] A1 -et faire téter son enfant
+IV [B] B - Alors que le roi, endormi par un soporifique, n'entend rien
+IV [B] B1 - un domestique l'entend et décide, après la seconde nuit, d'en informer le roi
+IV [B] B2 - un animal familier (chien, oiseau) révèle la supercherie
+IV [B] C -Après avoir fait semblant de boire le soporifique
+IV [B] C1 - le roi, la troisième nuit, veille et délivre sa femme
+IV [B] C2 - en retirant l'épingle
+IV [B] C3 - il trouve la belle cachée et l'épouse
+IV [B] D -Les (la) méchante(s) femme(s) sont (est) punie

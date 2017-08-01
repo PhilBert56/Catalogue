@@ -1,0 +1,45 @@
+I. LE HEROS
+I A -Berger
+I A1 - soldat libéré 
+I A2 - garçon qui va chercher fortune 
+I A3 - garçon qui fait son tour de France 
+I A4 - chasseur
+
+
+II. LES ANIMAUX SECOURABLES
+II A - Il a trois chiens 
+II A1 - qu'il reçoit d'un vieil homme ou d'un seigneur
+II A2 - qu'il reçoit d'une fée
+II A3 - qu'il reçoit d'un autre
+II A4 - qu'il reçoit en échange de trois moutons
+II A5 - qu'il reçoit en échange de trois chèvres
+II A6 - qu'il reçoit en échange d'une chèvre
+II A7 - qu'il reçoit autrement 
+II B - Les chiens s'appellent Brise-Fer, Brise-Fer-et-Acier, Brûle-Fer
+II B1 - Les chiens s'appellent Va-comme-le-Vent, Vite-comme-le-Vent, Vif-comme-le-vent, Va-sans-vent
+II B2 - Le chien s'appelle Passe-Partout
+II B3 - Les chiens s'appellent Tranche-Montagne, Passe-Montagne, Perce-Montagne
+II B4 - autres
+II C - Autres animaux.
+II D - Il reçoit un sifflet qui fait venir les animaux où qu'ils soient
+
+
+III.  DANS LA MAISON DU BOIS
+III A - Il part seul 
+III A1 - part avec sa soeur
+III B - Il s'arrête à maison ou château de brigands 
+III B1 - Il s'arrête à maison ou château de géants 
+III B3 - Il s'arrête à une auberge
+III B4 - tue les occupants
+III C - Pendant qu'il chasse, sa perte est complotée avec sa soeur 
+III C1 - par les occupants du château sortant d'une cachette 
+III C2 - par un survivant 
+III C3 - par le maître de la maison 
+III C4 - sa soeur se dit malade et l'envoie chercher des remèdes pour le séparer de ses chiens
+III C5 - doit préparer sa mort d'une autre façon 
+III C6 - chiens enfermés.
+III D - Attaqué par ses adversaires
+III D1 - il siffle ses animaux qui accourent
+III D2 - tuent ses ennemis
+III D3 - et sa soeur
+

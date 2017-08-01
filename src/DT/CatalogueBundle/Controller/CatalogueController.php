@@ -31,8 +31,7 @@ class CatalogueController extends Controller
         foreach ($lines as $lineNumber => $lineContent)
         { 
             $newConteType = $this->creerUnConteType($lines[$lineNumber]);
-            //dump($newConteType);
-
+            
             $tableauDesContesType[] = $newConteType; 
         }
         return $tableauDesContesType;
@@ -48,6 +47,8 @@ class CatalogueController extends Controller
         $conteType->fichierDesElementsDuConte = '..\src\DT\DTData\A'.$conteType->ctCode.'\DT_A'.$conteType->ctCode.'_EDC.txt';
         $conteType->fichierDesVersions = '..\src\DT\DTData\A'.$conteType->ctCode.'\DT_A'.$conteType->ctCode.'_Liste_des_Versions.txt';
         $conteType->fichierDesSources =  '..\src\DT\DTData\A'.$conteType->ctCode.'\DT_A'.$conteType->ctCode.'_Fichier_des_Versions.txt';
+        if(file_exists ($conteType->fichierDesVersions))$conteType->hasVersions = true;
+        $conteType->pathDesSources = '\pdf\DT_A'.$conteType->ctCode.'_Versions\\' ;
         return $conteType;
     }
 
@@ -57,14 +58,15 @@ class CatalogueController extends Controller
     public function showEdcAction($ctCode) {
     
         $conteType = $this->rechercherLeConteType($ctCode);
-        //$session = $this->get('session');
+        
         if (!$conteType->isDefined) {
             $conteType->genererLesInformationsDuConteType();
         };
 
         return $this->render('DTCatalogueBundle:CatalogueViews:edc.html.twig',
         [
-            'edc'=> $conteType->elementsDuConte, 
+            'edc'=> $conteType->elementsDuConte,
+            'conteTypeCode' => $conteType->ctCode 
         ]);
    
     }
@@ -82,6 +84,7 @@ class CatalogueController extends Controller
         return $this->render('DTCatalogueBundle:CatalogueViews:versions.html.twig',
         [
             'versions' => $conteType->versions, 
+            'conteTypeCode' => $conteType->ctCode
         ]);
     }
 

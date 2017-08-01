@@ -1,0 +1,137 @@
+I.LA CAPTURE ET LE PARTAGE DU POISSON
+I A - Un pêcheur
+I A1 - Un homme qui va à la pêche parce que sa femme a envie de poisson
+I A2 - Un autre 
+I B - Prend le roi des poissons
+I B1 - Prend la reine ou la mère des poissons
+I B2 - Prend un tout petit poisson 
+I B3 - Prend un très gros poisson 
+I B4 - Prend un poisson déterminé : truite, carpe, poisson rouge etc. 
+I B5 - Autre
+I C - Le rejette contre promesse de prendre beaucoup de poissons
+I C1 - Mais sa femme l'exige
+I C2 - Prend et garde le poisson qui lui dit de le partager
+I D - Une part à sa femme qui aura deux ou trois jumeaux
+I D1 - Une part à sa chienne qui aura des chiens
+I D2 - Une part à sa jument qui aura des poulains
+I D3 - Une part plantée dans le jardin, qui donnera signe de vie. 
+I D4 - Ou armes
+I D5 - Autres (tête)
+
+II.LES FRERES, LES ANIMAUX, LES ARMES
+I A - Les frères, chiens, poulains, armes, signes de vie parfaitement semblables sont deux
+II A1 - Les frères, chiens, poulains, armes, signes de vie parfaitement semblables sont trois
+(II B id. T300) :
+II B - Les chiens s'appellent Brise-Fer, Brise-Fer-et-Acier, Brûle-Fer (cf.T300)
+II B1 - Les chiens s'appellent Va-comme-le-Vent, Vite-comme-le-vent, Vif-comme-le-Vent, Va-sans-vent
+II B2 - Passe-Partout
+II B3 - Tranche-Montagne, Passe-Montagne, Perce-Montagne
+II B4 - Autres
+II C - Les poulains.
+II D - Les armes : épées 
+II D1 - ...ou lances
+
+III.LES SIGNES DE VIE ET LA SEPARATION
+III A - Sang du poisson mis de côté bouillonnera
+III A1 - eau d'un récipient ou d'un puits se troublera ou rougira
+III A2 - Jets d'eau tariront
+III A3 - arbres se flétriront et mourront
+III A4 - deux ou trois rosiers, ou un rosier à deux ou trois roses dont les fleurs faneront et tomberont
+III A5 - autres fleurs faneront
+III A6 - un couteau planté dans un arbre saignera
+III A7 - un couteau planté dans un arbre rouillera
+III A8 - Autres
+III B - L'aîné part avec chien, cheval, arme.
+III B1 - Les frères partent ensemble et se séparent à un carrefour.
+III B2 - Les frères se retrouveront dans un an et un jour
+
+IV.LE COMBAT CONTRE LE MONSTRE
+V A - Le héros arrive à une ville en deuil avec ses chiens
+IV A1 - avec animaux sauvages recueillis en route
+IV B - Une jeune fille (c'est le tour de la fille du roi) doit être livrée à une bête à 7 têtes ;
+IV B1 - à 9 têtes ;
+IV B2 - à 3 têtes ;
+IV B3 - ou à un autre monstre ;
+IV B4 - chaque année
+IV B5 - chaque mois 
+IV B6 - autre.
+IV C - Le héros combat seul ;
+IV C1 - aidé de ses chiens ;
+IV C2 - aidé par chien et cheval ;
+IV C3 - aidé par animaux sauvages 
+IV C4 - par d'autres ;
+IV C5 - les têtes repoussent si on ne les abat toutes d'un coup.
+IV D - Le combat dure trois jours 
+IV D1 - Le combat dure deux jours 
+IV D2 - sept jours.
+IV E - Le héros emporte les langues du monstre 
+IV E1 - Le héros emporte le mouchoir 
+IV E2 - Le héros emporte l'anneau de la princesse 
+IV E3 - Le héros emporte d'autres gages
+IV F - C'est la princesse qui prend des gages.
+IV G - Le héros reviendra dans un an et un jour épouser la princesse 
+IV G1 - la suit ou revient peu après ;
+IV G2 - délai indéterminé
+
+V.L'IMPOSTEUR CONFONDU 
+  - (comme pour T300, V)
+V A - Les têtes de la bête sont emportées par un charbonnier qui se dit le libérateur 
+V A1 - par trois charbonniers 
+V A2 - par un chaudronnier ;
+V A3 - par un autre 
+V A4 - par une personne non précisée
+V B - Le héros revient, trouve la ville en joie, apprend le mariage avec l'imposteur
+V C - Il envoie un chien chercher des vivres ou des objets à la cour du roi 
+V C1 - porter un message à la princesse
+V C2 - après avoir parié 
+V C3 - il tue avec ses bêtes les soldats envoyés contre lui
+V D - Venu ou appelé à la cour, il confond l'imposteur en montrant langues et gages 
+V D1- c'est la princesse qui montre des gages.
+V E - L'imposteur est brûlé 
+V E1 - L'imposteur est écartelé 
+V E2 - L'imposteur est pendu 
+V E3 - L'imposteur s'échappe 
+V E4 - Autre sort
+V F - Mariage avec la fille libérée 
+
+VI. AU POUVOIR DE LA SORCIERE
+VI A - Le héros va la nuit dans un château illuminé qu'il a vu le soir
+VI A1 - Le héros va la nuit dans un château dans un château mystérieux qu'il a vu le jour
+VI A2 - entre dans une maison qui se trouve sur son passage
+VI A3 - est entraîné dans la forêt par un oiseau qu'il suit
+VI A4 - Autres
+VI B - Une sorcière attache ou fait attacher le chien et le cheval avec un ou deux cheveux qui deviennent des chaînes de fer
+VI B1 - touche de sa baguette le héros qu'elle change en pierre
+VI B2 - en s'approchant du feu pour se chauffer
+VI B3 - en passant derrière lui par politesse
+VI B4 - en lui demandant de ramasser quelque chose qu'elle a laissé tomber
+VI B5 - elle le fait tomber dans une fosse, un cachot
+VI B6 - elle use d'un onguent pour pétrifier le héros
+VI B7 - elle use d'un onguent pour pétrifier les animaux
+VI B8 - elle tue les animaux
+VI B9 - elle tue le héros
+VI B10 - Autres actions
+
+VII. LIBERATION
+VII A - Le deuxième frère prévenu par le signe de vie, part, est pris pour son frère
+VII A1 - couche avec la princesse, une jambe dans le lit, une jambe hors du lit
+VII A2 - on met une épée entre elle et lui
+VII A3 - tombe comme son frère au pouvoir de la sorcière (cas de trois frères)
+VII A4 - refuse de faire ce que demande la sorcière
+VII A5 - suit les conseils d'une fée qui le renseigne
+VII B - le troisième frère prévenu de la mort du second, part, est pris pour le premier 
+VII B1 - agit comme dans A1 [couche avec la princesse, une jambe dans le lit, une jambe hors du lit]
+VII B2 - agit comme dans A2 [on met une épée entre elle et lui]
+VII B3 - [agit comme dans A3] [tombe comme son frère au pouvoir de la sorcière]
+VII B4 - agit comme dans A4 [refuse de faire ce que demande la sorcière]
+VII B5 - agit comme dans A5 [suit les conseils d'une fée qui le renseigne]
+VII C - Le deuxième ou troisième (selon qu'ils sont deux ou trois) force la sorcière à rendre la vie et la liberté à ses victimes
+VII C1 - obtient de la sorcière onguent qui ressuscite ou eau qui rend la vie
+VII C2 - libère lui-même les victimes
+VII C3 - tue la sorcière
+VII C4 - tue le frère qui a partagé le lit de sa femme ou les deux
+VII C5 - le ou les ressuscite avec onguent ou eau de vie en apprenant sa (leur) conduite
+VII C6 - Les frères reviennent ensemble, si semblables que le mari doit se faire reconnaître de sa femme
+VII C7 - Le frères se séparent et rentrent chacun chez soi
+VII D - Les signes de vie reprennent chacun leur apparence normale.
+ - (Continué par T1650)

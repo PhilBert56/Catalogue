@@ -1,0 +1,46 @@
+I. RECOMPENSE
+I A - Le héros est un bossu
+I A1 - tailleur
+I A2 - valet de ferme ou paysan
+I A3 - berger
+I A4 - chasseur
+I A5 - une fille ou une femme
+I A6 - bossue
+
+I B - Surpris par la nuit au dehors, le héros aperçoit une réunion
+I B1 - de nains (lutins, korigans)
+I B2 - de fées
+I B3 - de sorciers
+I B4 - de chats-sorciers
+I B5 - d'autres êtres
+I B6 - sur la lande
+I B7 - sous un arbre ou dans la forêt
+I B8 - près de grosses pierres
+I B9 - autour d'une croix
+I B10 - sur un pont
+I B11 - dans une grotte
+
+I C - Le héros participe à leur danse
+I C1 - (et) à leur festin
+I C2 - (et) à leur chanson
+I C3 - qui énumère quelques jours de la semaine
+I C4 - à laquelle il ajoute un (ou des) vers
+I C5 - il leur apprend une chanson
+
+I D - En récompense le héros est débarrassé de sa bosse; 
+I D1 - il reçoit des richesses
+I D2 - il reçoit des présents apparemment sans valeur qui se changent en richesses au contact de l'eau bénite
+I D3 - car il les a délivrés d'une peine
+
+II. PUNITION
+II A - Le héros fait part de son aventure à un autre bossu
+II A1 - à son camarade
+II A2 - qui a mauvais caractère ou est bête
+II B - Celui-ci, dans des circonstances semblables, s'attire la malveillance des êtres surnaturels
+II B1 - parce qu'il ajoute à leur chanson des jours de la semaine la mention d'un (ou de plusieurs) jour(s) qui en détruit le rythme
+II B2 - parce qu'il ajoute le dimanche, jour honni
+II B3 - parce qu'il emmèle les noms des jours
+II B4 - parce qu'il ne trouve qu'une mauvaise rime ou pas de rime du tout à leur chanson
+II C - Il reçoit en punition la bosse enlevée au premier bossu
+II C1 - il est obligé de danseer jusqu'à épuisement
+II C2 - il est traîné à travers haies et ronces

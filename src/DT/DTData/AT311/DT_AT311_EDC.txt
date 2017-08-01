@@ -1,0 +1,133 @@
+I. LE MEURTRIER ET SES VICTIMES
+I A - 
+I A1 - Le tueur de femmes est un seigneur
+I A2 - un ogre
+I A3 - le diable
+I A4 - un géant
+I A5 - un "monsieur"
+I A6 - un homme
+I A7 - un autre personnage
+I B - 
+I B1 - Il s'appelle Barbe-Bleue
+I B2 - d'un autre nom
+I B3 - son nom n'est pas précisé
+I C - 
+I C1 - Il a déjà épousé un certain nombre de femmes
+I C2 - qu'il a tuées
+I C3 - qui sont disparues
+I C4 - qui sont emprisonnées
+I D - 
+I D1 - Il enlève
+I D2 - prend comme femme
+I D3 - ou comme servante
+I D4 - une fille
+I D5 - deux soeurs (T312B)
+I D6 - trois soeurs successivement (T311)
+I D7 - (ayant des frères)
+I E - 
+I E1 - Qu'il emmène à son château
+I E2 - avec une soeur
+
+
+II. L'INTERDICTION ET SA VIOLATION
+II A - 
+II A1 - Il interdit l'entrée d'une pièce
+II A2 - remet les clefs des chambres
+II A3 - une boule
+II A4 - s'absente
+II A5 - autre
+II B - 
+II B1 - La femme entre dans la chambre interdite
+II B2 - poussée par sa soeur
+II B3 - voit des femmes mortes
+II C - 
+II C1 - Il y a du sang sur la clef qui est tombée
+II C2 - sur la boule
+II C3 - sur ses mains
+II C4 - elle essaye vainement de l'enlever
+II D - 
+II D1 - Le monstre réclame les clefs
+II D2 - la boule
+II D3 - constate qu'il manque la clef de la chambre défendue et la réclame
+II D4 - tue la coupable dont le corps rejoint les autres cadavres
+II D5 - l'emprisonne
+II D6 - décide de la tuer
+II E - 
+II E1 - Mêmes aventures à la deuxième soeur (T311)
+II E2 - il amène la troisième soeur (T311)
+II F - 
+II F1 - Il veut tuer sa femme pour une autre raison
+
+
+III. LA DELIVRANCE PAR LA TROISIEME SOEUR (T311)
+III A - 
+III A1 - La troisième soeur va à la chambre défendue
+III A2 - y voit ses soeurs mortes
+III A3 - prisonnières
+III B - 
+III B1 - Elle nettoie la clef révélatrice
+III B2 - a recours à une ruse
+III B3 - trompe le meurtrier
+III C - 
+III C1 - Elle rend la vie à ses soeurs
+III C2 - envoie le meurtrier porter les corps dans des caisses
+III C3 - se fait porter elle-même dans une caisse
+III C4 - d'où elle parle à l'ogre qui n'ose s'arrêter
+
+
+IV. LA DELIVRANCE DE L'HEROÏNE PAR SES FRERES OU SES PROCHES (T312)
+IV A - 
+IV A1 - A la demande de la victime
+IV A2 - sur l'ordre de l'ogre
+IV B - 
+IV B1 - La condamnée monte dans sa chambre
+IV B2 - pour y prier
+IV B3 - pour y mettre ses habits de noces ou ses beaux habits
+IV B4 - pour poser ses habits
+IV B5 - l'ogre déshabille sa victime
+IV B6 - lui adresse des paroles pour chaque vêtement (question ou ordre)
+IV C - 
+IV C1 - Elle fait prévenir ses frères
+IV C2 - d'autres
+IV C3 - par une petite chienne ou un petit chien
+IV C4 - par un oiseau
+IV C5 - autre
+IV D - 
+IV D1 - Le meurtrier lui demande si elle est prête
+IV D2 - En aiguisant son couteau
+IV D3 - son sabre
+IV E - 
+IV E1 - Pour gagner du temps, elle énumère les vêtements qu'elle met
+IV E2 - ou qu'elle pose
+IV E3 - descend les marches de l'escalier avec un arrêt sur chacune
+IV E4 - demande encore un instant
+IV F - 
+IV F1 - Elle donne mission de guetter à sa soeur
+IV F2 - à une servante
+IV F3 - à un animal
+IV F4 - qu'elle interroge après chacune de ses réponses à l'ogre
+IV F5 - l'observateur ne voit d'abord rien
+IV F6 - puis de la poussière
+IV F7 - les sauveurs
+IV F8 - le Bon Dieu et la Sainte-Vierge
+IV F9 - autre
+
+
+V. LE CHATIMENT DU MEURTRIER ET LA DELIVRANCE DE LA VICTIME
+V A - 
+V A1 - Les sauveurs arrivent
+V A2 - le meurtrier se sauve
+V A3 - se cache
+V A4 - est pris
+V A5 - autre
+V B - 
+V B1 - Il est tué
+V B2 - est mis dans un tonneau hérissé de pointes à l'intérieur, que l'on fait rouler
+V B3 - est attaché derrière un cheval ou un char
+V B4 - ses membres se recollent à mesure qu'on les coupe
+V B5 - autre
+V C - 
+V C1 - L'héroïne hérite du château
+V C2 - se marie richement
+V C3 - est emmenée
+V C4 - avec les richesses du château

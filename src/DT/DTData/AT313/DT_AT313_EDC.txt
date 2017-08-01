@@ -1,0 +1,302 @@
+I. LE JEUNE HOMME ET LE DIABLE (OGRE, ETC.)
+I A - Un jeune homme
+I A1 - dans le besoin, emprunte de l'argent à un personnage
+I A2 - perd tout ce qu'il a en jouant
+I A3 - va demander du travail dans un château ou une maison
+I A4 - poursuit longtemps une pièce de gibier
+I A5 - s'égare dans la forêt et arrive à un château (maison)
+I A6 - a été promis au diable par un engagement inconsidéré du père
+I A7 - va demander la main de la fille dans un château
+I A8 - un ou plusieurs enfants perdus dans la forêt arrivent à un château
+I A9 - autre
+I B - Le héros tombe ainsi au pouvoir du diable
+I B1 - le héros tombe ainsi au pouvoir d'un ogre
+I B2 -le héros tombe ainsi au pouvoir d'un magicien
+I B3 - le héros tombe ainsi au pouvoir d'un sorcier
+I B4 - le héros tombe ainsi au pouvoir d'un géant
+I B5 - le héros tombe ainsi au pouvoir d'une fée
+I B6 - le héros tombe ainsi au pouvoir d'un autre personnage
+I C - Le héros doit se rendre chez lui dans un an et un jour
+I C1 - le héros doit se rendre chez lui dans un autre délai
+I C2 - le héros doit se rendre à un endroit qui n'est pas désigné et qu'il doit découvrir
+I C3 - le héros doit se rendre à la Montagne noire
+I C4 - le héros doit se rendre à la Montagne verte
+I C5 -le héros doit se rendre dans la Forêt Noire
+I C6 - le héros doit se rendre ailleurs
+I D -Le héros part
+I D1 - malgré ses parents
+I D2 - le héros demande sa route à une ou plusieurs vieilles femmes
+I D3 - le héros demande sa route à un ou plusieurs géants
+I D4 - frères de celui qu'il veut rejoindre
+I D5 - le héros demande sa route à un ou plusieurs ermites
+I D6 - le héros reçoit une boule qui roule devant lui pour le guider
+I D7 - et revient ensuite
+I D8 - au roi des petits animaux
+I D9 - au roi des petits oiseaux
+I D10 - au roi des gros oiseaux
+I D11 - un oiseau retardataire revient du lieu cherché et y conduit le jeune homme
+I D12 - autre
+
+
+II. LE JEUNE HOMME ET LA FILLE DU DIABLE
+II A - Conseillé par l'oiseau qui l'a amené
+II A1 - conseillé par une autre personne
+II A2 - ayant observé lui même les filles qui viennent se baigner
+II A3 -
+II B - le héros se cache
+II B1 - il voit arriver trois jeunes filles
+II B2 - en oiseaux qui posent leur vêtement de plumes
+II B3 - vêtues de robes de couleur
+II B4 - elles se baignent
+II B5 - ont des noms d'oiseaux ou qui évoquent des oiseaux
+II B6 - d'autres noms
+II C - Le héros choisit une des filles
+II C1 - le héros choisit la plus jeune
+II C2 - il prend ou cache son vêtement de plume
+II C3 - il cache ou prend une pièce de ses vêtements
+II C4 - il cache ou prend ses vêtements
+II C5 - qu'il lui rend contre un baiser
+II C6 - [qu'il lui rend] contre promesse de l'aider
+II C7 - [qu'il lui rend] contre promesse de l'épouser
+II D - Le maître a une fille unique
+II D1 - [le maître a] une captive
+II D2 - [le maître a] une servante
+II D3 - qui connaît les secrets du maître
+II D4 - [le maître ?] a un nom particulier 
+II D5 - [elle] accepte d'aider le héros
+II D6 - à condition qu'il l'emmène et l'épouse
+
+
+III. LE SEJOUR DANS LA DEMEURE DU DIABLE
+III A - La fille lui montre le chemin
+III A1 - la fille le conduit
+III A2 - il pénètre dans la demeure du diable
+III A3 - il se présente dans le délai voulu
+III A4 - il demande la main de la fille du diable
+III A5 - il l'obtiendra s'il exécute trois tâches
+III B - Renseigné par la fille
+III B1 - renseigné par une autre personne
+III B2 - il fait le contraire de ce que lui dit le diable
+III B3 - il n'entre pas le premier
+III B4 - il ne monte pas les escaliers comme on l'y invite
+III B5 - il ne s'assied pas sur le siège offert
+III B6 - il n'accepte pas les aliments qu'on lui présente
+III B7 - il ne regarde pas le tableau, le miroir ou la fenêtre indiqué
+III B8 - autres refus
+III B9 - il doit répondre si on l'interroge : "On fait ainsi dans mon pays"
+III C - La nuit, il ne couche pas dans le lit offert
+III C1 - il se couche dans le lit offert mais se lève dans la nuit
+III C2 - averti par la fille
+III C3 - il échappe ainsi à la mort
+
+
+IV. LES TACHES IMPOSEES
+IV A - Bois à couper et à débiter
+IV A1 -terrain à défricher
+IV A2 - étang à vider
+IV A3 - montagne à raser
+IV A4 - avec des outils dérisoires
+IV A5 - pont de plumes à faire sur la mer
+IV A6 - oiseau ou objet à aller chercher dans un endroit élevé inaccessible
+IV A7 - objet jeté ou perdu dans la mer à rapporter
+IV A8 - autres taches
+IV B - Le travail est à accomplir avant le coucher dusoleil ou avant le soir
+IV B1 - dans un autre délai
+IV C - Le héros essaie
+IV C1 - il brise ses outils
+IV C2 - il se désole
+IV D - La fille arrive
+IV D1 - elle lui apporte son repas
+IV D2 - elle lui donne une baguette
+IV D3 - elle lui dit comment faire
+IV D4 - [elle lui indique] les paroles à dire
+IV D5 - elle exécute elle-même la tâche
+IV D6 - avec une baguette magique
+IV D7 - avec une formule magique
+IV D8 - pendant qu'il fait un somme
+IV D9 - autrement
+IV E - Elle lui dit de la couper en morceaux
+IV E1 - et de la faire bouillir en chaudière
+IV E2 - de séparer les os
+IV E3 - d'en faire une échelle pour monter chercher l'objet demandé
+IV E4 - de les jeter dans l'eau d'où elle rapporte l'objet cherché
+IV E5 - lui recommande de ne pas s'endormir
+IV E6 - il s'endort
+IV E7 - il rassemble ses os et elle revient à la vie
+IV E8 - il a oublié un orteil
+IV F - Le garçon doit monter (dresser) un cheval qui est le diable lui-même métamorphosé
+IV F1 - averti par la fille
+IV F2 - il le rosse
+IV F3 - le diable est malade ou tout meurtri le lendemain
+Dans les versions créoles :
+IV G - Le diable demande au garçon de faire des planches (poutres) avec de l'eau
+IV G1 - conseillé par la fille
+IV G2 - le garçon demande pour les apporter une "torche" (coussin de tête pour le portage) faite avec de la fumée
+IV G3 - le diable essaye vainement
+IV G4 - le diable dit que c'est impossible
+IV G5 - "pas plus que de faire des planches avec de l'eau", dit le garçon
+IV G6 - le diable renonce à exiger cette épreuve
+
+
+V. LE MARIAGE ET LA FUITE
+V A - Le jeune homme s'étant acquitté des travaux imposés peut épouser la fille
+V A1 - qu'il choisira parmi les soeurs
+V A2 - cachées dans un sac
+V A3 - derrière un écran
+V A4 - dans l'obscurité
+V A5 - métamorphosées en animaux, graines etc.
+V A6 - en ayant les yeux bandés
+V A7 - autrement
+V B - Il reconnaît celle qu'il veut au toucher, à l'orteil manquant ;
+V B1 - d'après les renseignements qu'elle lui a donnés avant
+V C - Il l'épouse
+V C1 - ou ils doivent s'épouser
+V C2 - le diable veut faire venir le jeune homme
+V C3 - le diable veut faire mourir la fille
+V C4 - ils décident de fuir
+V D - La fille envoie le jeune homme chercher une monture qu'elle lui désigne
+V D1 - le jeune homme prend une autre monture
+V D2 - [la fille envoie le jeune homme] chercher des objets qu'elle lui désigne
+V D3 - il en prend d'autres
+V D4 - ils fuiront à pied
+V D5 - ils fuiront autrement
+V E - Elle dispose des objets magiques qui répondront à la place des fugitifs après le départ : pâtés
+V E1 - mannequins
+V E2 - pois
+V E3 - fèves
+V E4 - gouttes de sang
+V E5 - crachats
+V E6 - cheveux
+V E6 - autres 
+V F - Le diable interroge ou appelle la fille
+V F1 - le diable interroge ou appelle le jeune homme
+V F2 - l'objet enchanté répond
+V F3 - l'objet enchanté ne répond plus
+V F4 - constation de la fuite
+
+
+VI. LA POURSUITE
+VI A - Le diable prend un cheval
+VI A1 - une autre monture
+VI A2 - le diable prend des bottes de 7 lieues
+VI A3 - autre
+VI B - La fille
+VI B1 - ou le garçon qui regarde sur son indication
+VI B2 - voit le diable qui approche
+VI B3 - voit la femme du diable
+VI B4 - sous forme de nuage
+VI B5 - sous forme de poussière
+VI B6 - sous forme de fumée
+VI B7 - sous forme de feu
+VI B8 - autre
+
+.		1e  Dans la forme : Métamorphose des fugitifs
+VI C - Par magie, la fille se métamorphose avec son compagnon en deux êtres ou objets
+VI C1 - avec la monture, en trois
+VI C2 - ou en un plus grand nombre
+VI D - Chapelle
+VI D1 - autel
+VI D2 - prêtre
+VI D3 - sacristain
+VI D4 - enfant de choeur
+VI E - Jardinier
+VI E1 - femme
+VI E2 - rosier
+VI E3 - rose
+VI E4 - légume
+VI E5 - arbre fruitier
+VI E6 - fruit
+VI E7 - jardin
+VI F - Pierre
+VI F1 - tas de pierres
+VI F2 - casseur de pierres
+VI F3 - autre
+VI G - Arbre
+VI G1 - oiseau
+VI G2 - abeille
+VI H - -Rivière
+VI H1 - étang
+VI H2 - bateau
+VI H3 - passeur
+VI H4 - cane
+VI H5 - poisson
+VI H6 - pêcheur
+VI I -Autres êtres et objets
+VI J - Le diable demande au personnage qui est parmi les êtres métamorphosés s'il a vu les fugitifs
+VI J1 - reçoit une réponse sans rapport avec sa question
+VI J2 - ou qui le trompe
+VI J3 - le diable revient
+VI J4 - et racconte ce qu'il a vu
+VI J5 - sa femme dit que ce sont les fugitifs
+VI J6 - il repart
+VI J7 - sa femme part à son tour
+
+.		Dans la forme : Obstacles créés par jet d'objets
+VI K - La fille jette
+VI K1 - ou le jeune homme sur son indication jette
+VI K2 - une étrille
+VI K3 - une brosse
+VI K4 - un bouchon de paille
+VI K5 - une éponge
+VI K6 - un peigne
+VI K7 - un autre objet
+VI L - L'objet jeté crée une haute montagne
+VI L1 - l'objet jeté crée une forêt impénétrable
+VI L2 - une grande muraille
+VI L3 - un abîme
+VI L4 - une masse d'eau
+VI L5 - un fleuve ou une rivière
+VI L6 - un autre obstacle
+VI M - Le diable finit par franchir l'obstacle
+VI M1 - le contourne
+VI M2 - le détruit
+VI M3 - avec des outils qu'il va chercher à la maison
+VI M4 - et qu'il reporte
+VI M5 - le diable approche des fugitifs
+VI M6 - le diable est arrêté définitivement
+
+.		3e Partie commune aux 2 formes :
+VI N - Le poursuivant ne peut atteindre les fugitifs
+VI N1 - parce qu'ils sont en terre qui lui est interdite
+VI N2 - au-delà d'une rivière qui limite son pouvoir
+VI N3 - parce qu'il perd sa baguette
+VI N4 - jette un sort aux fugitifs
+VI N5 - meurt
+
+VII. LA FIANCEE OUBLIEE
+VII A - Le garçon emmène la jeune fille chez ses parents
+VII A1 - le jeune homme quitte la jeune fille pour aller prévenir ses parents
+VII A2 - elle lui recommande de ne pas se laisser embrasser
+VII A3 - elle lui recommande de ne pas se séparer de son anneau
+VII A4 - elle lui recommande de ne pas accepter à manger, ni à boire
+VII A5 - elle lui recommande autre chose
+VII A6 - sinon il l'oubliera
+VII B - L'interdiction est violée
+VII B1 - pendant son sommeil 
+VII B2 - il oublie la jeune fille
+VII B3 - qui par son art magique se fait une belle maison
+VII B4 - elle se loue comme servante
+VII B5 - autre
+VII C - Elle reçoit successivement la visite de 3 galants
+VII C1 - dont le troisième est son mari
+VII C2 - elle les berne tous les trois
+VII C3 - ou les 2 premiers seulement
+VII C4 - elle se fait reconnaître de son mari
+VII C5 - elle impose par magie aux galants de continuer toute la nuit la besogne commencée : couvrir le feu
+VII C6 - tirer de l'eau
+VII C7 - fermer la porte
+VII C8 - fermer la fenêtre ou les volets
+VII C9 - autre
+VII D - Le jeune homme doit se marier
+VII D1 - la fiancée oubliée est invitée au mariage
+VII D2 - la fiancée oubliée assiste au mariage à un autre titre
+VII D3 - elle rend la mémoire au futur avec pâtés qui parlent
+VII D4 - avec des oiseaux qui parlent
+VII D5 - par un autre moyen
+VII E - Elle expose des objets précieux
+VII E1 -que la fiancée du jeune homme lui demande à acheter
+VII E2 - qu'elle cède contre une nuit avec le futur
+VII E3 - celui-ci à qui on fait prendre un soporifique dort les deux premières nuits
+VII E4 - mis en garde par quelqu'un qui a entendu, s'abstient de boire et reconnaît la fiancée oubliée
+VII E5 - l'épouse
+VII F - Motif de la clef perdue et retrouvée (voir version résumée).

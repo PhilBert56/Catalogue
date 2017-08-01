@@ -1,0 +1,65 @@
+I. LES FRUITS QUI GUERISSENT 
+I A - Le héros est le plus jeune de trois frères
+I A1 - fils d'une pauvre veuve
+I A2 - fils de paysan ou de berger
+I A3 - le héros est lui-même berger (ou vacher)
+I A4 - il est chétif ou contrefait
+I A5 - il passe pour être simple d'esprit
+I A6 - le héros n'a pas de frère
+
+I B - Le roi fait proclamer qu'il donnera sa fille en mariage à qui lui apportera les plus beaux fruits
+I B1 - pêches
+I B2 - pommes
+I B3 - pommes d'orange ou oranges
+I B4 - figues
+I B5 - hors saison
+I B6 - qui ne poussent pas dans son royaume
+I B7 - car le roi en est très gourmand
+I B8 - car la princesse est très malade
+I B9 - et il a été prédit par une personne consultée qu'elle ne pourrait guérir qu'en mangeant de tels fruits
+I B10 - il a été prédit qu'elle épouserait le garçon qui lui en apporterait
+I B11 - roi fait proclamer qu'il donnera sa fille en mariage à celui qui sortira vainqueur de certaines épreuves
+I B12 - la princesse épousera celui des prétendants qui saura attraper une pomme d'or lancée par elle ; c'est le héros qui l'attrape.
+
+I C - L'aîné part
+I C1 - emportant des fruits de son jardin
+I C2 - emportant des fruits qu'il a été cueillir au loin
+I C3 - il rencontre un être secourable
+I C4 - sous forme d'une vieille femme
+I C5 - qui est fée
+I C6 - qui est la Sainte-Vierge
+I C7 - marraine du héros
+I C8 - un homme
+I C9 - qui est Dieu
+I C10 - près d'une fontaine (ou d'une rivière)
+I C11 - qui lui demande ce qu'il porte dans son panier
+I C12 - qui lui demande à partager son repas
+I C13 - mais à laquelle (auquel) il répond grossièrement
+I C14 - 
+I C15 - qu'il porte des crottes (ou autres ordures)
+I C16 - des cornes
+I C17 - des cailloux
+I C18 - des crapauds
+I C19 - des serpents
+I C20 - autre
+I C21 - et l'être rencontré répond qu'il en sera bien ainsi.
+
+I D - C'est effectivement ce qu'il trouve dans son panier en arrivant au château
+I D1 - et il est mis à la porte
+I D2 - et il est mis en prison
+I D3 - il est pendu
+I E - aventure identique du 2e frère
+
+I F - Au héros qui (dans les mêmes circonstances) dit poliment la vérité
+I F1 - offre de son repas
+I F2 - offre de ses fruits
+I F3 - l'être secourable souhaite (pas toujours explicitement) que ses fruits soient encore plus beaux
+I F4 - l'être secourable remet un objet magique
+I F5 - remet plusieurs objets magiques
+I F6 - qui pourra (-ont) lui servir par la suite
+I F7 - à l'appeler à son aide.
+
+I G - Les fruits du héros sont effectivement trouvés magnifiques
+I G1 - la princesse est guérie par eux
+I G2 - et sa main est accordée au héros
+I G3 - mais sa main ne sera accordée au héros que moyennant une (de) nouvelle(s) épreuve(s).

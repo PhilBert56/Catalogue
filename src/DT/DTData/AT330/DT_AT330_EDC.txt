@@ -1,0 +1,123 @@
+I. LE HEROS
+I A - C'est un forgeron
+I A1 - un soldat en congé
+I A2 - un homme pauvre
+I A3 - un autre
+I B - Le diable lui donne de l'argent
+I B1 - qu'il doit rendre dans un certain délai
+I B2 - sinon son âme sera au diable
+I B3 - contre son âme
+I C - Il s'appelle Misère
+I C1 - a un chien
+I C2 - qui s'appelle Pauvreté
+I C3 - il possède un poirier
+I C4 - ou un autre arbre fruitier
+I C5 - que les gens viennent piller
+I C6 - il a un autre nom
+I D - Il aime beaucoup jouer aux cartes
+I D1 - boire
+
+
+II. L'AIDE AUX PERSONNAGES SACRES 
+II A - Il reçoit chez lui
+II A1 - voit arriver à sa forge
+II A2 - rencontre
+II A3 - successivement
+II A4 - deux pauvres
+II A5 - trois pauvres
+II A6 - un vieillard
+II A7 - une femme
+II A8 - un mendiant
+II A9 - autre
+II B - Il(s) lui demande(nt) l'hospitalité
+II B1 - l'aumône
+II B2 - le ferrage d'un âne
+II B3 - après avoir été mal reçu(s) ailleurs
+II B4 - le passage d'une rivière sur son dos
+II B5 - autre
+II C - Le héros le(s) reçoit bien
+II C1 - donne ou partage ce qu'il a
+II C2 - fait le travail ou rend le service demandé
+II C3 - refuse d'être payé
+II C4 - autre
+II D - Le(s) personnage(s) révèle(nt) son (leur) identité
+II D1 - c'est le Bon Dieu
+II D2 - Jésus-Christ
+II D3 - la Sainte Vierge
+II D4 - saint Pierre
+II D5 - autres
+
+
+III. LES DONS
+III A - Le personnage (ou le puissant des deux ou trois personnages)
+III A1 - les trois
+III A2 - offre(nt) au héros de choisir ou accepter trois dons
+III A3 - un don
+III A4 - autre
+III B - Saint Pierre lui conseille de choisir le paradis
+III C - Le héros demande que quiconque montera sur son arbre fruitier n'en puisse descendre sans sa permission
+III C1 - quiconque s'assiéra sur tel siège ne pourra le quitter sans sa permission
+III C2 - id. sur une enclume
+III C3 - ou sur un autre objet
+III C4 - autre
+III D - Il demande ou reçoit un sac magique
+III D1 - où entrera ce qu'il voudra
+III D2 - une bourse ayant même propriété
+III D3 - ce qui sera dans son sac (bourse) y restera le temps qu'il voudra
+III D4 - sifflet qui fait danser (contamination par T592)
+III D5 - fusil qui ne manque jamais son but (id.)
+III D6 - autre
+III E - Il demande jeu de cartes qui gagne toujours
+III E1 - demande à toujours gagner aux cartes
+III F - Il vérifie pouvoir magique de son sac
+III F1 - de son siège
+III F2 - passe son temps à jouer aux cartes ete gagne
+III G - Il surprend les voleurs sur son arbre
+III G1 - les libère
+III G2 - peut jouir en paix de ses fruits
+
+
+IV. LA MORT OU LE DIABLE DUPE
+IV A - Arrivée du Diable
+IV A1 - de la Mort
+IV A2 - qui vient chercher le héros
+IV A3 - qui vient réclamer son dû
+IV A4 - qui paraît parce que le héros a dit : "Que le diable m'emporte !"
+IV B - Le héros demande à se préparer
+IV B1 - invite le diable ou la Mort à s'asseoir
+IV B2 - l'invite à monter sur l'arbre fruitier
+IV B3 - le (la) défie de se faire tout(e) petit(e) ou demande à vérifier s'il (si elle) en a le pouvoir
+IV B4 - l'enferme dans son sac (bourse, tabatière, etc.)
+IV B5 - fait marteler le sac et son contenu
+IV B6 - ne le (la) libère que contre un sursis
+IV B7 - ou à la demande de Dieu ou des gens parce que personne ne meurt plus sur terre
+IV B8 - contre promesse de ne plus revenir
+IV B9 - c'est pourquoi la Misère reste sur terre
+
+
+
+V. L'ENTREE AU PARADIS OU LE RETOUR SUR TERRE
+V A - Le héros meurt
+V A1 - est emmené par la Mort
+V A2 - se rend lui-même au ciel
+V A3 - emporte avec lui (ou fait mettre en son cercueil) le ou les objets magiques (sac, jeu de cartes, etc.)
+V A4 - se présente à la porte du paradis
+V A5 - saint Pierre lui refuse l'entrée
+V A6 - parce qu'il n'a pas choisi ou accepté le paradis parmi les dons
+V A7 - parce qu'il s'est mal conduit sur terre
+V A8 - autre
+V B - Il va en enfer
+V B1 - est repoussé par le(s) Diable(s) qui garde(nt) le souvenir des tours qu'il lui (leur) a joués sur terre
+V B2 - est refusé au purgatoire
+V B3 - joue aux cartes avec le Diable et gagne
+V B4 - emmène les âmes gagnées au Diable en Paradis
+V C - Il revient à la porte du paradis
+V C1 - demande à voir l'intérieur par la porte entrebaillée
+V C2 - se glisse à l'intérieur et n'en veut plus sortir
+V C3 - jette son sac à l'intérieur et se souhaite dedans
+V C4 - jette un objet à l'intérieur, demande à l'aller chercher et reste
+V C5 - il est admis avec les âmes gagnées au Diable
+V D - Il ne peut entrer au paradis
+V D1 - revient sur terre
+V D2 - où Misère est encore
+V D3 - avec son chien Pauvreté

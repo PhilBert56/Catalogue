@@ -1,0 +1,168 @@
+I. LE HEROS
+I A - Soldat en congé
+I A1 - déserteur
+I A2 - fils d'un roi
+I A3 - époux de la fille d'un roi
+I A4 - le plus jeune de 3 frères
+I A5 - engagé au service du roi
+I A6 - le fils de pauvres gens
+I A7 - autre
+I B - Il rentre chez lui
+I B1 - il va par le monde
+I B2 - autre
+
+II. LES DONS DES ANIMAUX
+II A - Le héros partage un cadavre ou une proie entre plusieurs animaux
+II A1 - lion
+II A2 - aigle
+II A3 - fourmi
+II A4 - corbeau (ou corneille)
+II A5 - pigeon (ou colombe)
+II A6 - loup
+II A7 - chien
+II A8 - ours
+II A9 - autre
+II B - Il rend service à des animaux : remet un poisson à l'eau
+II B1 - donne à manger à une bête affamée (ou à plusieurs)
+II B2 - sauve un animal d'un chasseur
+II B3 - autre
+II C - Il va voir ses soeurs mariées à des animaux : mouton
+II C1 - aigle
+II C2 - poisson
+II C3 - ours
+II C4 - autre (mélange avec T552)
+II D - Il reçoit des animaux un poil
+II D1 - une plume
+II D2 - une patte
+II D3 - une écaille
+II D4 - un autre don
+II E - En grillant la partie reçue
+II E1 - en la tenant
+II E2 - en invoquant l'animal
+II E3 - sur un simple désir
+II E4 - autrement
+II F - Il a le pouvoir de devenir l'animal
+II F1 - d'avoir sa force ou sa petitesse
+II F2 - d'être le plus fort de son espèce (seulement pour lion, ours etc.)
+II F3 - de faire venir l'animal
+II F4 - avec ceux de son espèce
+II G - Usant de ce pouvoir
+II G1 - il devient lion
+II G2 - il devient aigle
+II G3 - il devient fourmi
+II G4 - il devient corbeau (ou corneille)
+II G5 - il devient pigeon (ou colombe)
+II G6 - il devient loup
+II G7 - il devient chien
+II G8 - il devient ours
+II G9 - autre
+
+III. LES OBJETS MAGIQUES (EPISODE COMMUN A T400, T518 ETC)
+III A - Le héros dérobe des objets magiques
+III A1 - ou reçoit des objets magiques
+III B - Chapeau qui rend invisible
+III B1 - manteau qui transporte où l'on veut
+III B2 - chaussures magiques
+III B3 - serviette magique (qui se charge de mets)
+III B4 - baguette magique
+III B5 - anneau qu'on frotte pour appeler le donateur
+III B6 - arc qui atteint toujours le but visé
+III B7 - sabre qui donne toujours la victoire (porté sur inscription)
+
+IV. LA CAPTIVE ET LE CORPS SANS AME
+IV A - Une princesse ou fille de roi
+IV A1 - à marier
+IV A2 - déjà mariée
+IV A3 - ou autre
+IV A4 - est ou a été enlevée
+IV A5 - par la voie des airs
+IV A6 - étant à sa fenêtre
+IV A7 - en promenade
+IV A8 - pendant que chasse son père
+IV A9 - ou son mari
+IV A10 - pendant que son père est en guerre
+IV A11 - pendant que son mari est en guerre
+IV B - Son mari part à sa recherche
+IV B1 - elle est promise à qui la délivrera
+IV B2 - un jeune homme (le héros) part à sa recherche
+IV B3 - ou plusieurs [i.e. plusieurs jeunes gens partent à sa recherche ?]
+IV B4 - ou un autre jeune homme [que le héros] part à sa checherche
+IV C - Le ravisseur est le Corps sans âme
+IV C1 - le ravisseur n'a pas ce nom
+IV C2 - le ravisseur est un magicien
+IV C3 - le ravisseur est un géant
+IV C4 - le ravisseur est un ogre
+IV C5 - le ravisseur est un monstre à 7 têtes
+IV C6 - le ravisseur est le diable
+IV C7 - le ravisseur est un roi
+IV C8 - autre
+IV D - Le ravisseur habite un château
+IV D1 - situé dans une île
+IV D2 - situé dans une forêt
+IV D3 - situé entre ciel et terre
+IV D4 - situé au fond des eaux
+IV D5 - défendu par des animaux
+IV D6 - autre 
+IV E - Des flammes sont projetées au loin par le ravisseur
+IV E1 - par le château
+
+V. LA DELIVRANCE
+V A - Le héros sollicite ou obtient des renseignements d'une vieille femme
+V A1 - d'un berger
+V A2 - d'un autre
+V B - Le héros arrive au château du ravisseur en homme
+V B1 - en oiseau
+V B2 - se laisse prendre et mettre en cage
+V B3 - se met en homme
+V B4 - entre chez la captive en fourmi
+V B5 - conseille à la captive de demander au ravisseur où est sa vie
+V B6 - écoute sous forme de fourmi
+V B7 - autre
+V C - Le héros se loue chez le ravisseur
+V C1 - le héros se loue chez le fermier du ravisseur
+V C2 - le héros se loue dans une ferme ou un château
+V C3 - où on lui dit de ne pas aller dans la forêt de telle bête
+V C4 - qui se trouve être la bête contenant la vie du ravisseur (ce que le héros ne sait pas encore si V C4 est cité avant V B5)
+V D - La vie du ravisseur est dans un oeuf
+V D1 - ou 3 oeufs
+V D2 - qu'il faut lui briser sur le front
+V D3 - qu'il faut lui briser sur la poitrine
+V D4 - qu'il faut briser simplement
+V D5 - ou la vie du ravisseur est dans une plante
+V D6 autre 
+V E - L'oeuf (ou les 3 oeufs) est dans des enveloppes successives : pigeon
+V E1 - ou autre oiseau
+V E2 - lièvre
+V E3 - renard
+V E4 - chien
+V E5 - loup
+V E6 - lion
+V E7 - ours
+V E8 - caisse
+V E9 - autre
+V F - Le héros, par ses métamorphoses successives
+V F1 - ou avec l'aide des animaux appelés
+V F2 - tue ou brise les enveloppes de l'oeuf
+V F3 - ou la plante
+V F4 - obtient l'oeuf (ou les 3)
+V F5 - tue le ravisseur
+V F6 - donne l'oeuf (ou les 3 à la captive
+V F7 - qui tue son ravisseur
+V F8 - déjà malade ou affaibli par la mort de ses animaux
+
+VI. LE RETOUR
+VI A - Le héros ramène la captive
+VI A1 - en bateau
+VI A2 - le héros se met en oiseau et la porte
+VI A3 - autre
+VI B - En traversant la mer, il est jeté à l'eau
+VI B1 - par un personnage jaloux
+VI B2 - qui ramène la princesse et se dit son libérateur
+VI B3 - veut l'épouser
+VI B4 - le héros échappe au danger grâce à ses métamorphoses
+VI B5 - le héros a d'autres aventures
+VI B6 - le héros arrive à la cour du roi
+VI B7 - il confond l'imposteur
+VI B8 - qui est châtié
+VI B9 - le héros épouse la princesse.
+

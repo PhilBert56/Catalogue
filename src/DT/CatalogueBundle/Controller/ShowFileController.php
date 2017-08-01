@@ -17,10 +17,15 @@ class ShowFileController extends Controller
     public function showFileAction($ctCode, $numeroVersion){
 
         $conteType = $this->rechercherLeConteType($ctCode) ;
-        //dump($conteType); die();
+        dump($conteType);
+        $path = $conteType->pathDesSources;
         $fileName = $this->rechercherLeFichierDeLaVersion($conteType, $numeroVersion);
+        $file = $path.$fileName;
+        echo '|',$fileName,'|',$file,'|';
+        dump($file);
+        
         return $this->render('DTCatalogueBundle:CatalogueViews:file.html.twig', 
-        ['file' => $fileName]);
+        ['file' => $file]);
 
     }
 

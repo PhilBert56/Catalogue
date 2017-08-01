@@ -1,0 +1,53 @@
+I. LA TACHE IMPOSSIBLE
+I A - L'héroïne est une jeune fille que sa mère bat parce qu'elle est paresseuse
+I A1 - une jeune fille si gourmande que sa mère en jette les hauts cris
+
+I B - Alerté par les cris de la fille ou les exclamations de la mère, un seigneur s'arrête et questionne
+
+I C - La mère ayant répondu que sa fille est une travailleuse acharnée, le seigneur l'emmène
+I C1 - et l'épouse
+I C2 - et l'installe devant une tâche impossible pour elle
+I C3 - lui promettant le mariage, si elle réussit à l'accomplir
+
+II. L'ACCORD AVEC LES AIDES
+II A - L'héroïne qui se lamente reçoit la visite
+II A1 - par la cheminée
+II A2 - en trois fois successives
+II A3 - d'une vieille femme difforme
+II A4 - de trois vieilles femmes difformes
+II A5 - et d'un nain
+
+II B - Ayant accompli le travail demandé
+II B1 - filer
+II B2 - tricoter
+II B3 - coudre
+II B4 - autre
+II B5 - les aides (l'aide) demande(nt) à l'héroïne d'être invitée(s) à son mariage
+II B6 - demande(nt) à être invitée(s) à un repas
+II B7 - et à être appelées ses tantes
+
+III. L'HEUREUX DENOUEMENT
+III A - Devant le travail accompli, l'héroïne épouse le seigneur et invite les aides (l'aide) à son mariage
+III A1 - au retour de son mari, l'héroïne invite les aides à un repas
+
+III B - Elle(s) se présente(nt) et le mari est effrayé par leurs (ses) difformités
+III B1 - gros yeux
+III B2 - grosses lèvres
+III B3 - grandes dents
+III B4 - grands bras ou doigts déformés
+III B5 - gros seins
+III B6 - bosse
+III B7 - descente d'organes
+III B8 - autre
+
+III C - Questionnée(s), elle(s) répond(ent) que leurs (ses) difformités viennent
+III C1 - de trop filer
+III C2 - de trop tricoter
+III C3 - de trop coudre
+III C4 - de trop avoir eu d'enfants
+III C5 - autre
+III C6 - et ajoutent que la mariée deviendra pareille si elle travaille de même
+
+III D - Le marié décide que sa femme ne filera pas
+III D1 - qu'elle n'aura point d'enfant
+III D2 - qu'elle ne fera aucune des tâches évoquées

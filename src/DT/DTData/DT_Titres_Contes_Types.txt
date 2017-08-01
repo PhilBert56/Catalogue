@@ -1,7 +1,7 @@
 T300 - La bête à sept têtes
 T301 - Les princesses délivrées du monde souterrain
 T302 - le corps sans ame
-T303 - Le roi des poissons ou la bête à sept têtes
+T303 - Le roi des poissons ou la bête à sept têtes
 T304 - Le chasseur adroit 
 T306 - Les souliers usés à la danse
 T307 - La princesse délivrée

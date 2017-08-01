@@ -1,0 +1,260 @@
+I. AU SERVICE DU DIABLE  (MAGICIEN, ETC..)
+I A - Un garçon
+I A1 - est promis au diable avant d'être né
+I A2 - est promis à un parrain de fortune au moment du baptême
+I A3 - doit être pris, livré, ou se présenter dans un certain délai
+I A4 - cherchant du travail
+I A5 - fuyant la maison où il a commis une faute
+I A6 - perdu par ses parents qui ont trop d'enfants
+I A7 - se loue à un personnage qu'il rencontre
+I A8 - va se louer dans un château
+I A9 - autre
+I B - Il se trouve ainsi entre les mains du diable
+I B1 - il se trouve ainsi entre les mains d'un magicien
+I B2 - il se trouve ainsi entre les mains d'un sorcier
+I B3 - il se trouve ainsi entre les mains d'un ogre
+I B4 - il se trouve ainsi entre les mains d'un géant
+I B5 - il se trouve ainsi entre les mains d'une magicienne
+I B6 - il se trouve ainsi entre les mains d'un autre
+I C - Il doit donner tous ses soins
+I C1 - il doit donner à manger du foin (trèfle, avoine)
+I C2 - il doit donner de la viande
+I C3 - il doit donner du pain
+I C4 - ne pas donner de soins
+I C5 - il doit donner des coups de bâton
+I C6 -il doit donner à manger des épines
+I C7 - il doit donner à manger des épines à un cheval
+I C8 - il doit donner à manger des épines à plusieurs chevaux
+I C9 - il doit donner à manger des épines à une jument
+I C10 - il doit donner à manger des épines à une mule
+I C11 - il doit donner à manger des épines à un chien ou une chienne
+I C12 - il doit donner à manger des épines à d'autres animaux
+I C13 - autres missions
+I D - Il ne doit pas visiter certaine chambre
+I D1 - il ne doit pas toucher à l'eau d'une certaine fontaine
+I D2 - autres interdictions
+I E - Avant le départ du maître, il reçoit une nappe ou serviette magique
+I E1 - il reçoit une baguette qui procure aliments
+I E2 - il reçoit des objets précieux
+I F - Le maître s'absente pour un certain nombre de jours
+I F1 - le maître s'absente pour un an et un jour
+I F2 - le maître s'absente pour sept ans
+I F3 - autre
+
+
+II. L'ANIMAL ENCHANTE
+II A - Le garçon visite les chambres
+II A1 - il pénètre dans la chambre interdite
+II A2 - il y voit des cadavres (T312)
+II A3 - il y voit une jument
+II A4 - il y voit un cheval
+II A5 - il y voit une fontaine qui dore ce qu'elle baigne
+II A6 - il y voit une arme magique
+II A7 - il y voit les livres de magie du maître
+II A8 - autre
+II B - L'animal qu'il soigne
+II B1 - l'animal qu'il maltraite
+II B2 - l'animal qu'il a vu dans la chambre interdite
+II B3 - lui parle
+II B4 - lui dit être un prince enchanté
+II B5 - lui dit être une princesse enchantée
+II B6 - lui dit quel maître il sert
+II B7 - lui dit quel maître il sert et le sort qui l'attend
+II B8 - lui conseille de changer le régime des animaux prescrit par le maître
+II B9 - lui offre de fuir sur son dos
+II B10 - lui conseille d'immobiliser la cloche d'alarme
+II B11 - lui conseille d'immobiliser l'animal qui doit rappeler le maître
+II B12 - d'autres actions
+II C - Spontanément
+II C1 - Sur le conseil de l'animal enchanté
+II C2 - le garçon trempe le doigt dans la fontaine et le retire doré
+II C3 - le garçon baigne sa chevelure dans la fontaine et la retire dorée
+II C4 - il enveloppe son doigt
+II C5 - il enveloppe sa chevelure
+II C6 - autre
+II D - L'animal enchanté lui fait emporter une étrille
+II D1 - l'animal enchanté lui fait emporter une brosse
+II D2 - l'animal enchanté lui fait emporter un bouchon de paille
+II D3 - l'animal enchanté lui fait emporter une éponge
+II D4 - l'animal enchanté lui fait emporter un peigne
+II D5 - l'animal enchanté lui fait emporter les livres de magie du maître
+II D6 - l'animal enchanté lui fait emporter d'autres objets
+II E - La monture saute l'enceinte
+II E1 - la monture emmène le garçon
+
+
+III. LA FUITE MAGIQUE
+III A -Le maître sait la fuite de l'animal et du garçon grâce à son pouvoir magique
+III A1 - le maître sait la fuite de l'animal et du garçon grâce à la cloche qui s'est dégagée
+III A2 - le maître sait la fuite de l'animal et du garçon grâce à l'animal avertisseur qui s'est libéré
+III A3 - le maître sait la fuite de l'animal et du garçon autrement
+III A4 - le maître se met à leur poursuite
+III B - La monture sent l'approche du poursuivant
+III B1 - La monture est renseignée par le garçon qui observe et voit le maître
+III B2 - [voit] son ou ses envoyés 
+III B3 - sous forme de nuage
+III B4 - sous forme de poussière
+III B5 - sous forme de fumée
+III B6 - sous forme de feu
+III B7 - autrement [i. e. sous une autre forme ?]
+
+.		1° Forme habituelle [du conte] : obstacles créés par jet d'objets
+III C - sur l'indication de sa monture, le garçon jette derrière lui l'étrille
+III C1 - il jette derrière lui la brosse
+III C2 - il jette derrière lui le bouchon de paille
+III C3 - il jette derrière lui l'éponge
+III C4 - il jette derrière lui le peigne
+III C5 - il jette derrière lui un autre objet
+III D - l'objet jeté produit une montagne
+III D1 - l'objet jeté produit une forêt impénétrable
+III D2 - l'objet jeté produit une grande muraille
+III D3 - l'objet jeté produit une masse d'eau
+III D4 - l'objet jeté produit un fleuve ou une rivière
+III D5 - l'objet jeté produit un autre obstacle
+III E - Le poursuivant finit par franchir l'obstacle
+III E1 - le poursuivant contourne l'obstacle
+III E2 - le poursuivant détruit l'obstacle
+III E3 - le poursuivant ramasse l'objet jeté et le rapporte chez lui 
+III E4 - le poursuivant est arrêté définitivement
+III E5 - autre
+
+.	2° Forme exceptionnelle : métamorphose des fugitifs (voir indicatifs du T313)
+
+.	3° Partie commune aux deux formes.
+III F -Le maître ne peut atteindre les fugitifs parce qu'ils sont en terre qui lui est interdite
+III F1 - le maître ne peut atteindre les fugitifs parce qu'ils sont au delà d'une rivière ou d'un ruisseau où s'arrête son pouvoir
+III F2 - le maître ne peut atteindre les fugitifs parce qu'ils sont au delà d'un pont où s'arrête son pouvoir
+III F3 - le maître touche seulement la queue de l'animal au moment où il franchit la limite
+III F4 - le maître attrape une touffe de crins de la queue
+III F5 - le maître meurt
+
+
+IV. AU SERVICE DU ROI
+IV A - Sur le conseil de l'animal enchanté
+IV A1 - sur le conseil de l'animal enchanté qui restera caché
+IV A2 - le garçon demandera à servir chez le roi
+IV A3 - le garçon demandera à servir ailleurs que chez le roi
+IV A4 - le garçon demandera à loger son cheval dans l'écurie
+IV B - le garçon cache ses cheveux sous un bonnet
+IV B1 - le garçon cache ses cheveux sous une autre enveloppe
+IV B2 - le garçon doit se faire passer pour teigneux
+IV B3 - le garçon ne répondra aux questions que par certains mots
+IV C - En cas de besoin il appellera l'animal
+IV C1 - en se servant d'une baguette magique que l'animal lui remet
+IV C2 - il viendra le consulter
+IV D -Le garçon est pris [embauché] chez le roi
+IV D1 - le garçon est pris [embauché] ailleurs
+IV D2 - comme garçon jardinier
+IV D3 - comme berger
+IV D4 - comme vacher
+IV D5 - comme gardeur de dindons
+IV D6 -autre
+IV E - Comme jardinier, il est chargé d'un travail
+IV E1 - il détruit ce qu'il doit cultiver ou tailler
+IV E2 - il ne fait rien 
+IV E3 - le travail se trouve exécuté à la perfection en temps voulu
+IV E4 - grâce à l'aide de l'animal enchanté
+
+
+V. LE PETIT TEIGNEUX ET LA PRINCESSE
+V A -Le roi a une fille
+V A1 - le roi a trois filles
+V B - Le garçon fait un bouquet  pour la fille du roi
+V B1 - le garçon fait un bouquet pour les trois filles
+V B2 - spontanément
+V B3 - sur demande ou sur ordre
+V B4 - il offre le plus beau bouquet à la plus jeune
+V C - La fille du roi (ou la plus jeune) voit ses cheveux d'or
+V C1 - un jour quand il se peigne
+V C2 - quand il dort dans le jardin
+V C3 - [elle voit] ses beaux habits
+V C4 - comme il se promène
+V C5 - comme il se promène avec sa monture
+V C6 - en d'autres circonstances
+V C7 - elle en devient amoureuse
+V D - la fille du roi, ou la plus jeune voit les objets merveilleux du garçon
+V D1 - elle les lui demande successivement
+V D2 - il les lui accorde contre attouchements
+V D3 - il les lui accorde contre des caresses
+V D4 - autres
+V E - La princesse demande à épouser le garçon
+V E1 - Le roi demande à ses trois filles de choisir un mari
+V E2 - en le désignant dans un groupe par une boule d'or
+V E3 - les deux aînées choisissent des princes
+V E4 - d'autres
+V E5 - la jeune princesse choisit le garçon
+V E6 - elle l'épouse
+V E7 - le roi envoie les mariés dans une maison isolée
+
+
+VI. LES PROUESSES DU HEROS
+VI A -Le roi est en guerre
+VI A1 - les deux beaux-frères reçoivent de beaux chevaux
+VI A2 - le teigneux reçoit un mauvais cheval
+VI A3 - un cheval à trois pattes
+VI A4 - un cheval boiteux
+VI A5 - une arme défectueuse
+VI A6 - autre
+VI B - Le teigneux part
+VI B1 - et son cheval s'embourbe
+VI B2 - ses beaux-frères le dépassent en se moquant
+VI B3 - le teigneux va au combat sous l'aspect d'un beau cavalier avec les moyens précisés en F-F8.
+VI B4 - le teigneux dépasse ses beaux-frères qui le prennent pour un beau prince
+VI B5 - le teigneux remporte la victoire
+VI B6 - sur le chemin, au retour, [le teigneux méconnaissable] informe ses beaux frères du succès
+VI B7 - il leur cède les gages de sa victoire
+VI B8 - contre leurs anneaux de mariage
+VI B9 - contre d'autres objets
+VI B10 - contre les marques d'une empreinte ignominieuse sut le corps
+VI B11 - le teigneux revient à son vieux cheval embourbé
+VI B12 - ses beaux-frères se moquent en repassant
+VI B13 - il disparaît de la bataille
+VI B14 - il rentre avec son vieil équipage
+VI C - Le teigneux est vainqueur
+VI C1 - trois fois de suite
+VI C2 - à un concours dont l'enjeu est la princesse
+VI C3 - ve5 (donné pour fête de sa soeur)
+VI D - Le teigneux délivre la princesse d'une bête à sept têtes (T300)
+VI E - Le teigneux va quérir un remède magique pour le roi (T551)
+VI F - Le teigneux réalise ses exploits avec sa monture merveilleuse
+VI F1 - ses cheveux d'or libérés sur ses épaules
+VI F2 - sur un autre cheval merveilleux
+VI F3 - avec une arme magique ou merveilleuse
+VI F4 - [vétu d'un] habit splendide
+VI F5 - avec un cheval, une arme et un équipement d'une même couleur chaque fois
+VI F6 - fournis par l'animal enchanté
+VI F7 - provenant du ou des châteaux occupés (T317)
+VI F8 - fournis par l'homme sauvage (T502)
+VI F9 - ou autrement
+VI F10 - il disparaît son exploit accompli
+
+
+VII. LA RECONNAISSANCE DU MYSTERIEUX CAVALIER
+VII A -le roi veut connaître le mystérieux cavalier qui disparaît après chaque victoire
+VII A1 - le roi dit de l'arrêter à tout prix
+VII A2 - un soldat le blesse de son arme après le troisième exploit
+VII A3 - la pointe de l'arme reste dans la blessure
+VII A4 - le roi fait examiner tout le monde
+VII A5 - de faux blessés se présentent
+VII A6 - le héros est examiné
+VII A7 - sur indication de la princesse
+VII A8 - la pointe retrouvée dans la blessure s'adapte à l'arme
+VII A9 - autre
+VII B - Dans un repas, chacun raconte une histoire
+VII B1 - les beaux-frères disent leurs prétendus succès
+VII B2 - le héros les confond en montrant les gages qu'il détient
+VII B3 - le héros les confond en montrant les marques sur leur corps
+VII B4 - autre
+VII C - Les imposteurs sont chassés
+VII C1 - les imposteurs sont punis
+VII C2 - le héros épouse la princesse
+VII C3 - le héros est appelé à succéder au roi
+
+
+VIII. FIN DE L'ENCHANTEMENT DU CHEVAL (DE LA JUMENT, DE LA MULE)
+VIII A - L'animal enchanté demande au héros de le tuer
+VIII A1 - en lui coupant la tête
+VIII A2 - et il redevient un beau prince
+VIII A3 - qui est le fils du roi
+VIII A4 - jadis enchanté par le diable (magicien, etc.)
+VIII A5 - l'animal redevient une belle princesse

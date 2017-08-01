@@ -1,0 +1,29 @@
+I. LE DON DU SERPENT
+I A - Un berger reçoit d'un serpent reconnaissant le pouvoir de comprendre le langage des animaux
+[I A3 - parce qu'il l'a sauvé de la mort]
+[I A4 - en le tirant du feu au moyen de son bâton]
+[I A5 - autrement]
+[I A6 - ce serpent est le roi des animaux]
+
+I B - Il ne doit pas révéler ce secret [sous peine de mort]
+
+[I C - Il entend parler
+I C1 - un loup et ses propres chiens
+I C2 - des oiseaux 
+I C3 - qui lui dévoilent un trésor caché]
+I D - ayant trouvé le trésor il épouse la fille de son maître
+
+II. LA FEMME CURIEUSE
+II A - Il entend parler les animaux et rit
+[II A1 - le cheval et la jument
+II A2 - qui révèlent que la femme est enceinte et la jument grosse
+II A3 - autre]
+
+II B - Sa femme lui demande pourquoi il rit
+II B1 - Comme elle insiste il promet de le lui dire
+II B2 - dans un certain délai 
+II B3 - et va embrasser tous ses parents car il mourra après avoir dit son secret
+
+III. LA PAROLE DU COQ
+III A - alors qu'il se résoud à mourir il entend le coq dire comment il parvient à être maître de toutes ses poules alors que l'homme ne peut être maître de son unique femme
+III B - L'homme garde son secret et tient tête à sa femme
