@@ -10,6 +10,7 @@ class VersionDuConteType
     public $description;
     public $fichierSource;
     public $hasSource;
+    public $occurencesDesElementsDuConte;
 
      public function __construct($conteTypeCode)
     {   
@@ -17,6 +18,7 @@ class VersionDuConteType
         $this->description = [];
         $this->fichierSource = '';
         $this->hasSource = false;
+        $this->occurencesDesElementsDuConte =[];
     }
 
     public function trouverLeFichierSourceAssocie($conteType){

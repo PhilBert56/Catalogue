@@ -1,7 +1,7 @@
-I. LE HÉROS
+I. LE HÃ‰ROS
 I A1 - C'est le plus jeune
 I A2 - le plus petit
-I A3 - de deux frères
+I A3 - de deux frÃ¨res
 I A4 - d'un certain nombre d'enfants
 I A5 - il a une soeur
 I A6 - il est gros comme le pouce
@@ -9,31 +9,31 @@ I A7 - autre
 
 I B1 - Il s'appelle Petit Poucet
 I B2 - d'un autre nom
-I B3 - sa soeur est également nommée
+I B3 - sa soeur est Ã©galement nommÃ©e
 
-I C1 - C'est une fille qui est l'héroïne du conte
-I C2 - elle a des frères et soeurs
+I C1 - C'est une fille qui est l'hÃ©roÃ¯ne du conte
+I C2 - elle a des frÃ¨res et soeurs
 I C3 - des soeurs seulement
-I C4 - c'est un frère et une soeur
+I C4 - c'est un frÃ¨re et une soeur
  
-I D1 - Les parents sont un père remarié et une marâtre
+I D1 - Les parents sont un pÃ¨re remariÃ© et une marÃ¢tre
 I D2 - des pauvres gens
 I D3 - un roi et une reine
 I D4 - autre
 
-I E1 - Les enfants sont aidés par une petite chienne
+I E1 - Les enfants sont aidÃ©s par une petite chienne
 
 
 II. LES ENFANTS DANS LA FORET
-II A1 - Le père
-II A2 - la mère
+II A1 - Le pÃ¨re
+II A2 - la mÃ¨re
 II A3 - veut (veulent) perdre les enfants
-II A4 - parce qu'il n'y a pas assez à manger
+II A4 - parce qu'il n'y a pas assez Ã  manger
 II A5 - parce qu'ils sont trop nombreux
 II A6 - par haine
 II A7 - autre
 
-II B1 - Le garçon
+II B1 - Le garÃ§on
 II B2 - la fille
 II B3 - entend exprimer le projet
 II B4 - va consulter sa marraine
@@ -41,62 +41,62 @@ II B5 - une autre personne
 II B6 - qui lui dit ce qu'il faut faire
 II B7 - autre
 
-II C1 - Il (elle) sème des cailloux
+II C1 - Il (elle) sÃ¨me des cailloux
 II C2 - des cendres
 II C3 - que disperse le vent
 II C4 - des graines
 II C5 - des miettes de pain
 II C6 - que mangent les oiseaux
 II C7 - d'autres objets
-II C8 - déroule un fil
+II C8 - dÃ©roule un fil
 
 II D1 - Les enfants retrouvent leur chemin
-II D2 - entendent les regrets des parents qui ont à manger
+II D2 - entendent les regrets des parents qui ont Ã  manger
 II D3 - sont bien accueillis
-II D4 - mécontentement des parents
-II D5 - de la mère
-II D6 - du père
+II D4 - mÃ©contentement des parents
+II D5 - de la mÃ¨re
+II D6 - du pÃ¨re
 
-II E1 - Les enfants dans la forêt doivent se reposer
+II E1 - Les enfants dans la forÃªt doivent se reposer
 II E2 - faire des fagots ou ramasser du bois
 II E3 - attendre qu'on vienne les chercher
 II E4 - appeler quand le travail sera fini
 II E5 - rester tant qu'ils entendront des coups (sabot heurtant un tronc)
-II E6 - ils s'aperçoivent qu'ils sont abandonnés
+II E6 - ils s'aperÃ§oivent qu'ils sont abandonnÃ©s
 
-II F1 - Le héros (héroïne) monte sur un arbre
-II F2 - voit une lumière
-II F3 - de la fumée
-II F4 - une maison ou un château
+II F1 - Le hÃ©ros (hÃ©roÃ¯ne) monte sur un arbre
+II F2 - voit une lumiÃ¨re
+II F3 - de la fumÃ©e
+II F4 - une maison ou un chÃ¢teau
 II F5 - d'une certaine couleur
 II F6 - jette sa coiffure vers ce qu'il voit pour marquer la direction
-II F7 - les enfants vont à l'aventure
+II F7 - les enfants vont Ã  l'aventure
  
-II G1 - Arrivée à la maison ou au château du diable
+II G1 - ArrivÃ©e Ã  la maison ou au chÃ¢teau du diable
 II G2 - d'un ogre
-II G3 - d'une sorcière ou ogresse
+II G3 - d'une sorciÃ¨re ou ogresse
 II G4 - d'un loup
 II G5 - d'un Sarrazin
 II G6 - d'un autre
 
 
 III. CHEZ L'OGRE (DIABLE, ETC.)
-III A1 - Les enfants sont reçus par la femme de l'ogre
-III A2 - restaurés
-III A3 - cachés
-III A4 - couchés vers les enfants de l'ogre
+III A1 - Les enfants sont reÃ§us par la femme de l'ogre
+III A2 - restaurÃ©s
+III A3 - cachÃ©s
+III A4 - couchÃ©s vers les enfants de l'ogre
 III A5 - autre
  
-III B1 - L'ogre sent la chair fraîche
+III B1 - L'ogre sent la chair fraÃ®che
 III B2 - la femme nie
 III B3 - elle dit qu'un animal a mis bas : vache
 III B4 - jument
 III B5 - chatte
 III B6 - chienne
 III B7 - donne une autre explication
-III B8 - menacée par l'ogre
-III B9 - elle signale la présence des enfants
-III B10 - l'ogre les découvre
+III B8 - menacÃ©e par l'ogre
+III B9 - elle signale la prÃ©sence des enfants
+III B10 - l'ogre les dÃ©couvre
 III B11 - chauffe ou dit de chauffer le four 
  
 III C1 - Echange des coiffures
@@ -110,61 +110,61 @@ III D3 - ses filles protestent
 III D4 - l'ogre dit que ce ne sont pas ses enfants
 
 III E1 - Les enfants fuient
-III E2 - en emportant trésors de l'ogre
+III E2 - en emportant trÃ©sors de l'ogre
 III E3 - objets de l'ogre
 
 III F1 - L'ogre veut engraisser les enfants
 III F2 - les enferme
-III F3 - est trompé sur l'état d'engraissement par la présentation d'une queue de rat au lieu du doigt
-III F4 - découvre la supercherie
+III F3 - est trompÃ© sur l'Ã©tat d'engraissement par la prÃ©sentation d'une queue de rat au lieu du doigt
+III F4 - dÃ©couvre la supercherie
 
 III G1 - L'ogre
 III G2 - l'ogresse
 III G3 - doit tuer un enfant
 III G4 - qui demande comment se placer
 III G5 - on le lui montre
-III G6 - ou le héros donne des conseils sur la manière de se placer pour faire telle besogne
+III G6 - ou le hÃ©ros donne des conseils sur la maniÃ¨re de se placer pour faire telle besogne
 III G7 - autre ruse
 III G8 - l'ogre
 III G9 - sa femme
-III G10 - est tué(e)
-III G11 - brûlée) 
+III G10 - est tuÃ©(e)
+III G11 - brÃ»lÃ©e) 
 
-III H1 -(versions créoles : objets demandés par l'enfant pour s'endormir, fuite)
+III H1 -(versions crÃ©oles : objets demandÃ©s par l'enfant pour s'endormir, fuite)
 
 
 IV. LA POURSUITE
 IV A1 - L'ogre poursuit les fugitifs
 IV A2 - avec ses bottes de sept lieues
-IV A3 - monté sur une truie
+IV A3 - montÃ© sur une truie
 IV A4 - sur un autre animal
 IV A5 - en disant une formulette
 
 IV B1 - Il interroge des travailleurs
 IV B2 - avec une formulette
-IV B3 - et reçoit une réponse sans rapport avec sa question
+IV B3 - et reÃ§oit une rÃ©ponse sans rapport avec sa question
 
-IV C1 - Les enfants franchissent une rivière
-IV C2 - aidés par des laveuses
+IV C1 - Les enfants franchissent une riviÃ¨re
+IV C2 - aidÃ©s par des laveuses
 IV C3 - ou une seule
-IV C4 - grâce à des draps étendus sur l'eau
-IV C5 - ils se métamorphosent (T313)
+IV C4 - grÃ¢ce Ã  des draps Ã©tendus sur l'eau
+IV C5 - ils se mÃ©tamorphosent (T313)
  
 IV D1 - L'ogre interroge des laveuses
 IV D2 - une femme
-IV D3 - il est mal renseigné
-IV D4 - dit une formulette à sa monture
-IV D5 - veut passer sur drap étendu
-IV D6 - ou sur ligne d'écume blanche qu'on lui dit être une passerelle
+IV D3 - il est mal renseignÃ©
+IV D4 - dit une formulette Ã  sa monture
+IV D5 - veut passer sur drap Ã©tendu
+IV D6 - ou sur ligne d'Ã©cume blanche qu'on lui dit Ãªtre une passerelle
 IV D7 - se noie
 
 IV E1 - L'ogre se repose en route
-IV E2 - le héros lui prend ses bottes
-IV E3 - va demander de l'argent à la femme de l'ogre
+IV E2 - le hÃ©ros lui prend ses bottes
+IV E3 - va demander de l'argent Ã  la femme de l'ogre
 
 IV F1 - Les enfants restent dans la demeure de l'ogre
 IV F2 - reviennent chez l'ogre
 IV F3 - rentrent chez leurs parents
-IV F4 - vivent à l'aise grâce aux richesses de l'ogre
+IV F4 - vivent Ã  l'aise grÃ¢ce aux richesses de l'ogre
  
-IV G1 - La fuite sur l'arbre et le sac du diable (versions créoles, voir version de Sainte-Lucie, n° 75)
+IV G1 - La fuite sur l'arbre et le sac du diable (versions crÃ©oles, voir version de Sainte-Lucie, nÂ° 75)

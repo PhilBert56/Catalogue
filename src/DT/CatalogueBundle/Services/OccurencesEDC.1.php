@@ -32,14 +32,22 @@ class OccurencesEDC
         
 
         $listeDesElements =[];
-/* --------------------------------------------------------------------------- */
+/*
+        if($section != ''){
+            $section = trim($section);
+            //echo 'section à tester = |',$section,'| = ', $this->isRomain($section),'</br>';
+        }
+*/
+/* ============================================================================ */
         if($section != '' && $this->isRomain($section)){
-
             $this->edcSection = $section;
-            
-            foreach ($section3 as $ss){ 
+            echo 'section = ', $section, '</br>';
+
+/* -------------------------------------------------------------- */
+            foreach ($section3 as $ss){
+
                 $ss = trim($ss);
-            
+
                 echo 'examine ',$ss,'</br>';
 
                 if ( strpos($ss,'(') != false) {
@@ -52,11 +60,12 @@ class OccurencesEDC
                     $ss1 = explode ('.', $ss);
                     $ss = $ss1[0];
                 }
-
+                
                 if (strlen($ss) > 3) $ss = 'vide';
 
                 $ss = trim($ss);
-
+    
+                //echo 'ICI : $ss = |',$ss,'| et longueur = ', strlen($ss),'</br>';
                 if (strlen ($ss) > 1) { 
                     $premier = substr($ss,0,1);
                     //echo ' longueur de chaine > 1 => reste plus qu à tester si CAP pour ',$premier,'</br>';
@@ -65,27 +74,25 @@ class OccurencesEDC
                         echo ' extrait :', trim($ss), '</br>';
                     } 
                 }
+            }
 
-                foreach ($listeDesElements as $element){ 
-                    $this->edcCodes[]=$element;
-                }
-            } /* fin de foreach $ss */
-
-
-        } /* fin de section */
-/* --------------------------------------------------------------------------- */
+            }
+/* -------------------------------------------------------------- */   
+                    
+        foreach ($listeDesElements as $element){ 
+            $this->edcCodes[]=$elem
+       } 
     }
+   } }
+
+
+
     private function isRomain($aTester){
 
         $romain = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII','XIII','XIV','XV','XVI','XVII','XVIII','XIX','XX'];
         
         return in_array($aTester,$romain);
     }
-
-
-
-
-
 
 }
 

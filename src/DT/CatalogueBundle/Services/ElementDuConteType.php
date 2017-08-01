@@ -9,11 +9,14 @@ class ElementDuConteType
     public $codeElementDuConte;
     public $description;
     public $listeDesVersions;
+    public $hasVersions;
 
     public function __construct($ctCode)
     {   
         $this->ctCode = $ctCode;
         $this->description = '';
+        $this->listeDesVersions = '';
+        $this->hasVersions = false;
     }
 
 
