@@ -10,6 +10,7 @@ class ElementDuConteType
     public $description;
     public $listeDesVersions;
     public $hasVersions;
+    public $isHeader;
 
     public function __construct($ctCode)
     {   
@@ -17,6 +18,7 @@ class ElementDuConteType
         $this->description = '';
         $this->listeDesVersions = '';
         $this->hasVersions = false;
+        $this->isHeader = false;
     }
 
 

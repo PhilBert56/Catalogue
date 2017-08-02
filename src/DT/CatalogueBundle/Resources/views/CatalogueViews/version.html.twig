@@ -1,0 +1,43 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+
+    <h3><span>VERSION</h3>
+    <table class="table table-striped">
+    <thead>
+    <tr>
+        <p>Conte Type {{version.ctCode }}</p>
+        <p>Version {{version.numero}}</p>
+            
+            
+               <strong> 
+                    {% if version.hasSource %} 
+                        <a href="{{version.fichierSource }}">{{version.numero}}</a>
+                    {% else %}
+                        {{version.numero}}
+                        
+                    {% endif %}
+                    - {{ version.reference }} 
+                </strong></br>
+
+                {% for ligne in version.description %}
+                    {{ ligne }} </br>
+                
+            
+       
+    {% endfor %}
+
+        
+    </tr>
+    </thead>
+    <tbody>
+    
+    </tbody>
+
+
+
+</table>
+    
+
+
+{% endblock %}

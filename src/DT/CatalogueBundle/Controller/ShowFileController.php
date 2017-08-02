@@ -11,7 +11,7 @@ class ShowFileController extends Controller
 {
 
     /**
-    * @Route("/ConteType/version/{ctCode}/{numeroVersion}/", name = "ct_show_file")
+    * @Route("/ConteType/fichiers/{ctCode}/{numeroVersion}/", name = "ct_show_file")
     */
 
     public function showFileAction($ctCode, $numeroVersion){

@@ -28,53 +28,68 @@ class OccurencesEDC
         $section2 = stristr($ligne,':');
         $section2 = str_replace(':','',$section2);
         $section3 = explode (',', $section2);
-        echo 'VERSION : ', $this->versionNumber,' reçu à parser ligne = *', $ligne, '*</br>';
+        //echo 'VERSION : ', $this->versionNumber,' reçu à parser ligne = *', $ligne, '*</br>';
         
-
+        $debug = false;
         $listeDesElements =[];
 /* --------------------------------------------------------------------------- */
         if($section != '' && $this->isRomain($section)){
 
+            if ($debug) echo 'examine la ligne = ',$ligne,'</br>';
             $this->edcSection = $section;
-            
+            if ($debug) echo 'SECTION = ', $section, '</br>';
+
             foreach ($section3 as $ss){ 
                 $ss = trim($ss);
             
-                echo 'examine ',$ss,'</br>';
+                if  ($debug)echo 'examine |',$ss,'|</br>';
 
                 if ( strpos($ss,'(') != false) {
                     $ss1 = explode ('(', $ss);
                     $ss = trim($ss1[0]);
-                    //echo '  parenthèse détectée => $ss = |', $ss, '|</br>';
+                    if ($debug) echo '  parenthèse détectée => $ss = |', $ss, '|</br>';
                 }
 
                 if ( strpos($ss,'.') != false) {
+                    if ($debug) echo 'un point a ete detecte </br>';
                     $ss1 = explode ('.', $ss);
                     $ss = $ss1[0];
+                    if ($debug) echo 'après retrait du point $ss = |',$ss,'|</br>';
                 }
 
-                if (strlen($ss) > 3) $ss = 'vide';
+                if (strlen($ss) > 3) {
+                    $ss = 'vide';
+                    if ($debug) echo 'la chaine est trop longue pour etre un code </br>';
+                }
 
                 $ss = trim($ss);
 
                 if (strlen ($ss) > 1) { 
                     $premier = substr($ss,0,1);
-                    //echo ' longueur de chaine > 1 => reste plus qu à tester si CAP pour ',$premier,'</br>';
-                    if (ctype_upper($premier)) { 
-                        $listeDesElements[] = trim($ss);
-                        echo ' extrait :', trim($ss), '</br>';
-                    } 
-                }
-
-                foreach ($listeDesElements as $element){ 
+                } else $premier = $ss;
+                    
+                    
+                //echo 'reste plus qu à tester si CAPITALE pour ',$premier,'</br>';
+                if (ctype_upper($premier)) { 
+                    $listeDesElements[] = trim($ss);
+                    if ($debug) echo ' on extrait : |', trim($ss), '|</br>';
+                } 
+            }/* fin de foreach $ss */
+            if ($debug) echo 'stocke les codes extraits </br>';
+            foreach ($listeDesElements as $element){ 
                     $this->edcCodes[]=$element;
-                }
-            } /* fin de foreach $ss */
-
+                    if ($debug) echo 'code = |',$element,'| ';
+            }
+            if ($debug) echo '</br>';
 
         } /* fin de section */
+
+
+       
 /* --------------------------------------------------------------------------- */
     }
+
+
     private function isRomain($aTester){
 
         $romain = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII','XIII','XIV','XV','XVI','XVII','XVIII','XIX','XX'];

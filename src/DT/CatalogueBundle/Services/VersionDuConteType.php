@@ -22,12 +22,22 @@ class VersionDuConteType
     }
 
     public function trouverLeFichierSourceAssocie($conteType){
+
+    /*  
+        Balaye le fichier des versions disponibles en PDF (fichier des sources)
+        pour les associer à l'objet version dans l'attribut $this->fichierSource 
+    */
+
         $v = 'V'.$this->numero;
+
         $lines = file($conteType->fichierDesSources);
         foreach ($lines as $lineNumber => $lineContent){ 
+
             $elements = explode ("=",$lines[$lineNumber],2);
+
             if (count ($elements) > 1){ 
                 if (rtrim($elements[0]) == $v ){
+
                     $fileName = trim($elements[1]);
                     $path = $conteType->pathDesSources;
                     $this->fichierSource = $path.$fileName;
@@ -43,7 +53,11 @@ class VersionDuConteType
         }
     }
 
+
+
     public function setDescription($description){
+    /*  (même si l'attribut descriptio est public, 
+        on ne peut pas le modifier de l'extérieur sans passer par un setteur) */
 
         $this->description[] = $description;
 

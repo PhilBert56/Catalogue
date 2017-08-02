@@ -14,11 +14,19 @@
     <tbody>
     {% for element in edc %}
         <tr>
-            <td> {{ element.description }}
+            <td> 
+            {% if element.isHeader %}
+                <strong>{{ element.description }}</strong>
+            {% else %}
+                {{ element.description }}
+            {% endif %}
+            
             {% if element.hasVersions %}
                 | version(s) = 
                 {% for version in element.listeDesVersions %}
-                    {{ version }} ;
+
+                <a href="{{ path('ct_show_une_version', {'ctCode':conteTypeCode , 'numeroVersion':version} ) }}">{{version}}; </a>
+                    
                 {% endfor %}
             {% endif %}
 

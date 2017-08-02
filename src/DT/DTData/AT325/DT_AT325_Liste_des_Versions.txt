@@ -22,7 +22,7 @@ VI : A, B.
 I : A, A4, B, B1, B3, B6, B7, D1 (1 an et. 3 jours), D2 (son fils ira le voir 3 fois avant). 
 II : A (le renseignera la 3e fois), A2, A3, A4 (fera le boiteux), B (rang de jaux rouges), B1 (rang de jaux verts), B2, B4. 
 III : 1° A, A3 (avec porcelets), B, B1, B2; 2° A5 (taureau), B, B1 (en bûcheron, dit à acheteurs en quête du taureau qu'il ne l'a pas vu), B2, 3° A, A6, A9, C, C3. 
-IV : A, A1 (dans auberge où il s'arrête), B (à rivière), B2, C, Cr, C4 (brochet), E1 (hirondelle), E2 (fauchet). 
+IV : A, A1 (dans auberge où il s'arrête), B (à rivière), B2, C, C1, C4 (brochet), E1 (hirondelle), E2 (fauchet). 
 V : A (par cheminée), A3, B, C2, C4 (en échange contre bague plus belle), D, D3 (de chènevis), D5 (poule), D6, D8, D10. 
 VI : A, A1, A2. 
 

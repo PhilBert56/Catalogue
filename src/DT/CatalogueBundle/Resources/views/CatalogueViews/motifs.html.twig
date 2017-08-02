@@ -1,0 +1,35 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+
+    <h3><span>Motifs du Motif-Index en addition au Catalogue Delarue Teneze</h3>
+    <table class="table table-striped">
+    <thead>
+    <tr>
+        <th>Conte Type {{conteTypeCode }}</th>
+        <th>Motifs du Motif-Index de Thompson</th>
+    </tr>
+    </thead>
+    
+    {% for motif in motifs %}
+        <tr>
+            <td> 
+            {% if motif.isTitre %}
+            </br><strong> {{ motif.motifDescription }}</strong></br></br>
+            {% else %}
+                {{ motif.motifDescription }} </br></br>
+            {% endif %}
+
+            </td>
+
+        </tr>
+    {% endfor %}
+    </tbody>
+
+
+
+</table>
+    
+
+
+{% endblock %}

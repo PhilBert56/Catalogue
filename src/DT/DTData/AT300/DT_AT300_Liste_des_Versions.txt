@@ -82,7 +82,7 @@ IV : A, B3 (géant gardé par un dragon à 3 têtes dont les têtes doivent êtr
 I : A. 
 II : A, A2, A6, B, B1, B4 (chasseur). 
 III : A1, B1, C1, C5 (poison), C5 (fauteuil de mort), C4, C6, D (mis en cachot), D1, D2, D3. 
-IV : A, B3 (monstre à 7 têtes et à 7 cornes), C1, E, El, E3 (la princesse lui donne eau de la fontaine de vie). Va ressusciter géants qui l'aideront et soeur. 
+IV : A, B3 (monstre à 7 têtes et à 7 cornes), C1, E, E1, E3 (la princesse lui donne eau de la fontaine de vie). Va ressusciter géants qui l'aideront et soeur. 
 V : A3, D, E2, F. 
 
 17.ID., ib., III, 207 = C. B.-Bret. (1955), n° 10, p. 109. Georgik et Merlin (avec 502 et 314). IV : B, D (1er jour avec cheval et manteau noirs et épée fournis par oiseau Merlin; 2e en gris; 3e en rouge. La bête refusant le combat, il la force à sortir), E, E1, F (la princesse a coupé chaque fois un pan du manteau de couleur). 

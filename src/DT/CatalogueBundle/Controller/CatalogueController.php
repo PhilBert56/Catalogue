@@ -9,18 +9,22 @@ use DT\CatalogueBundle\Services\ConteType;
 class CatalogueController extends Controller
 {
     /**
-     * @Route("/Catalogue", name="catalogue")
+     * @Route("/Catalogue Delarue Teneze", name="catalogue")
      */
     public function indexAction()
     {
         $session = $this->get('session');
         $tableauDesContesType = $this->creerLeTableauDesContesTypes();
         $session->set('tableauDesContesType', $tableauDesContesType );
-        dump($tableauDesContesType);
+
+        //$this->setBonus();
+
+        //dump($tableauDesContesType);
         return $this->render('DTCatalogueBundle:CatalogueViews:index.html.twig', [
                 'contes_type'=> $tableauDesContesType
         ]);
     }
+
 
     public function creerLeTableauDesContesTypes(){ 
 
@@ -30,26 +34,10 @@ class CatalogueController extends Controller
 
         foreach ($lines as $lineNumber => $lineContent)
         { 
-            $newConteType = $this->creerUnConteType($lines[$lineNumber]);
-            
-            $tableauDesContesType[] = $newConteType; 
+            $tableauDesContesType[] = new ConteType($lines[$lineNumber]); 
         }
         return $tableauDesContesType;
         
-    }
-
-    public function creerUnConteType($description) {
-        $conteType = new ConteType();
-        $conteType->isDefined = false;
-        $conteType->ctCode = (explode ("-",$description,2)[0]);
-        $conteType->ctCode = rtrim($conteType->ctCode);
-        $conteType->titre = (explode ("-",$description,2)[1]);
-        $conteType->fichierDesElementsDuConte = '..\src\DT\DTData\A'.$conteType->ctCode.'\DT_A'.$conteType->ctCode.'_EDC.txt';
-        $conteType->fichierDesVersions = '..\src\DT\DTData\A'.$conteType->ctCode.'\DT_A'.$conteType->ctCode.'_Liste_des_Versions.txt';
-        $conteType->fichierDesSources =  '..\src\DT\DTData\A'.$conteType->ctCode.'\DT_A'.$conteType->ctCode.'_Fichier_des_Versions.txt';
-        if(file_exists ($conteType->fichierDesVersions))$conteType->hasVersions = true;
-        $conteType->pathDesSources = '\pdf\DT_A'.$conteType->ctCode.'_Versions\\' ;
-        return $conteType;
     }
 
     /**
@@ -88,6 +76,8 @@ class CatalogueController extends Controller
         ]);
     }
 
+
+
     public function rechercherLeConteType($ctCode) {
 
         $session = $this->get('session');
@@ -100,5 +90,32 @@ class CatalogueController extends Controller
         }
         
         return 'not found';
+    
     }
+
+
+
+    /**
+     * @Route("/ConteType/motifs du Motif-Index/{ctCode}", name = "ct_show_motifs")
+     */
+    public function showMotifsAction($ctCode) {
+    
+        $conteType = $this->rechercherLeConteType($ctCode);
+        
+        if (!$conteType->isDefined) {
+            $conteType->genererLesInformationsDuConteType();
+        };
+
+        return $this->render('DTCatalogueBundle:CatalogueViews:motifs.html.twig',
+        [
+            'motifs'=> $conteType->motifsDuConte,
+            'conteTypeCode' => $conteType->ctCode 
+        ]);
+   
+    }
+
+
+
+    
+
 }

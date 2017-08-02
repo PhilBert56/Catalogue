@@ -1,7 +1,6 @@
 {% extends 'base.html.twig' %}
 
 {% block body %}
-
     <h3><span>Catalogue Delarue Teneze</h3>
     <table class="table table-striped">
     <thead>
@@ -16,10 +15,22 @@
         <tr>
             <td>
                 <a href="{{ path('ct_show_edc', {'ctCode':conteType.ctCode} )  }}">{{conteType.ctCode}} | </a>
+
                 {% if conteType.hasVersions %}
                     <a href="{{ path('ct_show_versions', {'ctCode':conteType.ctCode} ) }}">{{conteType.titre}} | </a>
                 {% else %}
                     {{conteType.titre}}
+
+                    {% if conteType.hasScanVersion %}
+                    <a href="{{conteType.fichierScan}}"> |(scan)| </a>
+                    {% endif %}
+
+                {% endif %}
+
+                    <a href="{{ path('ct_show_motifs', {'ctCode':conteType.ctCode} ) }}">  Motifs | </a>
+
+                {% if conteType.hasBonus %}
+                    <a href= "{{conteType.bonusFile}}"> *</a>
                 {% endif %}
             </td>
 
