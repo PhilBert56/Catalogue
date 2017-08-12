@@ -1,37 +1,37 @@
-I. LE HEROS
+ï»¿I. LE HEROS
 I A - Un jeune homme orgueilleux, d'origine modeste
 I A1 - acquiert gloire et fortune
-I A2 - un homme qu'il traite avec mépris lui rappelle sa condition de mortel
-I A3 - décide qu'il ne mourra pas et part à la recherche du pays de l'immortalité
+I A2 - un homme qu'il traite avec mÃ©pris lui rappelle sa condition de mortel
+I A3 - dÃ©cide qu'il ne mourra pas et part Ã  la recherche du pays de l'immortalitÃ©
 I B - Un fils de roi
-I B1 - s'étant égaré à la chasse 
+I B1 - s'Ã©tant Ã©garÃ© Ã  la chasse 
 
 II. AU PAYS OU L'ON NE MEURT PAS
-II A - Il arrive dans un pays où personne n'est jamais mort
+II A - Il arrive dans un pays oÃ¹ personne n'est jamais mort
 II A1 - y reste 300 ans
-II A2 - un animal commence à dévorer le pays : quand il aura terminé ce sera la fin du monde
-II A3 - Il arrive dans une île où personne n'est jamais mort
+II A2 - un animal commence Ã  dÃ©vorer le pays : quand il aura terminÃ© ce sera la fin du monde
+II A3 - Il arrive dans une Ã®le oÃ¹ personne n'est jamais mort
 II A4 - y reste 600 ans
-II A5 - un animal assèche le pays : quand il aura fini ce sera la fin du monde
-II B - las de ces pays d'immortalité relative il part chercher ailleurs
-II B1 - il se résigne à mourir un jour
-II B2 - il délivre par hasard un animal prisonnier qui est une fée
-II B3 - une fée l'emmène dans le pays de l'immortalité 
-II C - Le héros arrive fortuitement au pays de l'immortalité
-II C1 - chez la mère des vents
-II C2 - Une princesse qui l'aime l'emmène dans son royaume d'immortalité
+II A5 - un animal assÃ¨che le pays : quand il aura fini ce sera la fin du monde
+II B - las de ces pays d'immortalitÃ© relative il part chercher ailleurs
+II B1 - il se rÃ©signe Ã  mourir un jour
+II B2 - il dÃ©livre par hasard un animal prisonnier qui est une fÃ©e
+II B3 - une fÃ©e l'emmÃ¨ne dans le pays de l'immortalitÃ© 
+II C - Le hÃ©ros arrive fortuitement au pays de l'immortalitÃ©
+II C1 - chez la mÃ¨re des vents
+II C2 - Une princesse qui l'aime l'emmÃ¨ne dans son royaume d'immortalitÃ©
 
 III. LE RETOUR AU PAYS
 III A - Mais le jeune homme s'ennuie et souhaite revoir son pays
 III A1 - ses parents
-III B - Après tentative de le dissuader, il est autorisé à y retourner
-III B1 -monté sur un cheval dont il ne devra descendre à aucun prix
+III B - AprÃ¨s tentative de le dissuader, il est autorisÃ© Ã  y retourner
+III B1 -montÃ© sur un cheval dont il ne devra descendre Ã  aucun prix
 III B2 - autrement
-III C - Il croit être resté peu de temps mais est resté très longtemps
-III C2 - tout a changé dans son pays 
-III D - trouvant une charrette renversée, il met pied à terre
+III C - Il croit Ãªtre restÃ© peu de temps mais est restÃ© trÃ¨s longtemps
+III C2 - tout a changÃ© dans son pays 
+III D - trouvant une charrette renversÃ©e, il met pied Ã  terre
 III D1 - le charretier est la mort qui se saisit de lui
-III D2 - la charrette est remplie de vieilles chaussures que la mort a usées en le cherchant
+III D2 - la charrette est remplie de vieilles chaussures que la mort a usÃ©es en le cherchant
 III D3 - est remplie d'autre chose 
 III E - son cheval a disparu
-III E1 - autre dénouement
+III E1 - autre dÃ©nouement

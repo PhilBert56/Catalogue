@@ -1,1 +1,20 @@
- 
+﻿
+Motifs du motif Index de Aarne et Thompson présents dans le type 302
+
+D831. Magic object acquired by trick exchange. By means of second magic object hero recovers first. (Often mixed with D832).--*Types 302, 400, 507, 569
+
+G530.1. Help from ogre's wife (mistress). *Types 302, 461
+
+B571.1. Animals help man overcome monster with external soul. Discover where he keeps his soul.--BP I 134; Type 302
+
+E710. External soul. A person (often a giant or ogre) keeps his soul or life separate from the rest of his body. *Type 302
+
+E711.1. Soul in egg. *Type 302
+
+K956. Murder by destroying external soul. Type 302.
+
+K975.2. Secret of external soul learned by deception. *Type 302
+
+R10.1. Princess (maiden) abducted. (Cf. R11.1, R12.1, R13.1, R16.1, R17.1, R25.1, R31.) *Types 301, 302, 311, 312
+
+R11.1. Princess (maiden) abducted by monster (ogre). (Cf. R10.1.) *Types 301, 302, 311, 312 

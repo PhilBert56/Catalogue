@@ -1,8 +1,8 @@
-I. LA MORT PARRAIN
+ï»¿I. LA MORT PARRAIN
 I A - Un homme pauvre
 I A1 - un autre
-I A2 - ayant déjà beaucoup d'enfants
-I A3 - a, ou va avoir, un nouveau né
+I A2 - ayant dÃ©jÃ  beaucoup d'enfants
+I A3 - a, ou va avoir, un nouveau nÃ©
 I A4 - pour lequel il cherche un parrain
 I A5 - qui soit un homme juste
 I B - Il refuse le Bon Dieu
@@ -10,32 +10,32 @@ I B1 - le diable
 I B2 - saint Pierre
 I B3 - un autre
 I B4 - accepte la mort
-I C - La Mort assiste au baptême
+I C - La Mort assiste au baptÃªme
 I C1 - au repas
 I C2 - dont elle fait les frais
 
 II. LE FILLEUL OU SON PERE MEDECIN
 II A - La Mort fait les frais de l'entretien et de l'instruction de son filleul
-II A1 - déclare qu'il sera médecin
-II A2 - dit au père de se faire médecin
-II A3 - c'est le filleul qui va être médecin
+II A1 - dÃ©clare qu'il sera mÃ©decin
+II A2 - dit au pÃ¨re de se faire mÃ©decin
+II A3 - c'est le filleul qui va Ãªtre mÃ©decin
 II A4 - autre
-II B - Il reconnaîtra que le malade guérira à la présence de la Mort à telle extrémité du lit
-II B1 - à son absence
-II B2 - que le malade pourra à la présence de la Mort à l'autre extrémité du lit
+II B - Il reconnaÃ®tra que le malade guÃ©rira Ã  la prÃ©sence de la Mort Ã  telle extrÃ©mitÃ© du lit
+II B1 - Ã  son absence
+II B2 - que le malade pourra Ã  la prÃ©sence de la Mort Ã  l'autre extrÃ©mitÃ© du lit
 II B3 - ailleurs
-II B4 - donnera dans le premier cas un remède quelconque
-II C - Le médecin devient célèbre
-II C1 - guérit un haut personnage (ou plusieurs)
+II B4 - donnera dans le premier cas un remÃ¨de quelconque
+II C - Le mÃ©decin devient cÃ©lÃ¨bre
+II C1 - guÃ©rit un haut personnage (ou plusieurs)
 II C2 - la fille d'un roi
-II C3 - malgré indication contraire de la Mort, en faisant pivoter le lit
-II C4 - épouse la princesse guérie
-II C5 - devient très riche
+II C3 - malgrÃ© indication contraire de la Mort, en faisant pivoter le lit
+II C4 - Ã©pouse la princesse guÃ©rie
+II C5 - devient trÃ¨s riche
 
 III. LA MORT DU MEDECIN
-III A - La Mort gronde le médecin et lui défend de recommencer
+III A - La Mort gronde le mÃ©decin et lui dÃ©fend de recommencer
 III A1 - il continue
-III B - Elle emmène le médecin chez elle
-III B1 - lui fait voir la chambre où sont les lumières de la vie
-III B2 - lui montre la sienne sur le point de s'éteindre
-III B3 - résiste à ses prières et le fait mourir
+III B - Elle emmÃ¨ne le mÃ©decin chez elle
+III B1 - lui fait voir la chambre oÃ¹ sont les lumiÃ¨res de la vie
+III B2 - lui montre la sienne sur le point de s'Ã©teindre
+III B3 - rÃ©siste Ã  ses priÃ¨res et le fait mourir

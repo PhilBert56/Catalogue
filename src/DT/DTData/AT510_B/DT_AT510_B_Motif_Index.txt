@@ -1,1 +1,161 @@
- 
+﻿
+Motifs du motif Index de Aarne et Thompson présents dans le type 510
+
+
+E323.2. Dead mother returns to aid persecuted children. *Types 510A, 511, 923
+
+
+B184.2.2. Magic ox. (Cf. B154.)--Types 510, 511
+
+
+E611.2. Reincarnation as cow. (Cf. D133.1.) *Type 510, 511
+
+
+E611.4. Man reincarnated as goat. (Cf. D134.) *Type 510, 511
+
+
+B335. Helpful animal killed by hero's enemy. *Types 510, 533
+
+
+T411.1. Lecherous father. Unnatural father wants to marry his daughter. (Manekine.) *Types 510B, 706
+
+
+B394. Cow grateful for being milked. (Cf. B411.)--Type 510A
+
+
+B411. Helpful cow. (Cf. B354.)--*Type 510A
+
+
+B412. Helpful sheep. Type 510
+
+
+B413. Helpful goat. Type 510
+
+
+C761.3. Tabu: staying too long at ball. Must leave before certain hour.--*Type 510AB
+
+
+D315.1. Transformation: rat to person. Type 510
+
+
+D411.6.1. Transformation: mouse to horse. Type 510.
+
+
+D813. Magic object received from fairy. *Type 510
+
+
+D815.1. Magic object received from mother. (Cf. D842.)--*Type 510
+
+
+D842.1. Magic object found on mother's grave. (Cf. D815.1.)--Type 510
+
+
+D1050.1. Clothes produced by magic. *Type 510
+
+
+D1473.1. Magic wand furnishes clothes. (Cf. D1254.1.) *Type 510
+
+
+E366. Return from dead to give counsel. (Cf. V229.1.) *Type 510
+
+
+E631. Reincarnation in plant (tree) growing from grave. (Cf. E632, D1610.2.) Type 510
+
+
+F821.1.3. Dress of raw fur. Cat-fur, mouse-fur, or other undressed fur. *Type 510B
+
+
+F821.1.4. Wooden coat. *Type 510B
+
+
+F821.1.5. Dress of gold, silver, color of sun, moon and stars. *Type 510B
+
+
+F823.1. Golden shoes. *Type 510
+
+
+F823.2. Glass shoes. Type 510
+
+
+F861.4.3. Carriage from pumpkin. Type 510 (Perrault's version).
+
+
+H36.1. Slipper test. Identification by fitting of slipper. *Type 510
+
+
+H94.2. Identification by ring baked in bread. *Type 510
+
+
+H151.5. Attention attracted by hints dropped by heroine as menial: recognition follows. *Type 510
+
+
+H151.6. Heroine in menial disguise discovered in her beautiful clothes: recognition follows. *Type 510
+
+
+H151.6.2. Recognition because of imperfection of disguise. Type 510; Grimm No. 152.
+
+
+H363.1. Bride test: wearing deceased wife's clothes. *Type 510B
+
+
+J1146.1. Detection by pitch-trap. Pitch is spread so that footprints are left in it, or that shoe is left behind as clue. *Type 510
+
+
+K521.4.3. Escape in humble disguise. (Cap o' Rushes.) *Type 510B
+
+
+N711.4. Prince sees maiden at church and is enamored. *Types 510AB
+
+
+N711.6. Prince sees heroine at ball and is enamored. *Type 510AB
+
+
+K1815. Humble disguise. (Cap o' Rushes, Peau d'ƒne Allerleirauh.) Usually in rough clothing. (Cf. K521.4.3, K1812, K1816.) Type 510B
+
+
+K1821.9. Disguise in wooden covering. *Type 510
+
+
+K1911.3.3. False bride fails when husband tests her. Uses slipper test, jumping test, or the like. *Type 510
+
+
+K1911.3.3.1. False bride's mutilated feet. In order to wear the shoes with which the husband is testing the identity of his bride, the false bride cuts her feet. She is detected. *Type 510
+
+
+M21. King Lear judgment. A king flattered by his elder daughters and angered by the seeming indifference, though real love, of the youngest, banishes the youngest and favors the elder daughters. Type 510
+
+
+M255. Deathbed promise concerning the second wife. Promises his dying wife that he will not marry unless the bride meets the specifications the dying wife imposes. *Type 510B
+
+
+R221. Heroine's three-fold flight from ball. Cinderella (Cap o' Rushes) after meeting the prince at a ball (church) flees before identification is possible. Repeated three times. *Type 510
+
+
+R255. Formula for girl fleeing: behind me night, etc. Behind me night and before me day that no one shall see where I go. *Type 510B
+
+
+S322.1.2. Father casts daughter forth when she will not marry him. (Cf. T411.1.) *Type 510B
+
+
+H111. Identification by garment. *Types 301, 510B, 451
+
+
+H971.1. Tasks performed with help of old woman. Types 306, 510, 566, 567; Grimm Nos. 9, 14, 29, 122, 125, 133, 181, 186
+
+
+K521.1. Escape by dressing in animal (bird, human) skin. *Types 311, 510B, 1137
+
+
+D950. Magic tree. *Types 330, 510, 511
+
+
+L52. Abused youngest daughter. *Types 425, 510, 511, 709
+
+
+D1658. Grateful objects. *Type 480, 510
+
+
+D1658.1.5. Apple-tree grateful for being shaken. (Cf. D950, D1610.2.0.1.) *Type 480, 510
+
+
+T311.1. Flight of maiden (bridegroom) to escape marriage. Type 888*; cf. Type 510B 

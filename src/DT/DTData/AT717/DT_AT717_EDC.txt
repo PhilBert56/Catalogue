@@ -1,89 +1,89 @@
-I. LES ENFANTS ENVOYES AU BOIS ET LA PROMESSE D'UNE RECOMPENSE
+ï»¿I. LES ENFANTS ENVOYES AU BOIS ET LA PROMESSE D'UNE RECOMPENSE
 I A - Un veuf ayant un enfant se remarie
 I A1 - un veuf ayant deux enfants se remarie
-I A2 - avec une femme ayant déjà un enfant
+I A2 - avec une femme ayant dÃ©jÃ  un enfant
 I A3 - il a un autre enfant avec sa seconde femme
 I A4 - un homme et une femme ont deux enfants
 I A5 - plusieurs enfants
 
-I B - La mauvaise mère déteste les enfants du premier lit
-I B1 - déteste l'enfant du premier lit
-I B2 - déteste l'un des enfants
-I B3 - comme il n'y a plus rien à manger dans la maison, elle veut se débarrasser d'un des enfants
-I B4 - qui est un garçon
+I B - La mauvaise mÃ¨re dÃ©teste les enfants du premier lit
+I B1 - dÃ©teste l'enfant du premier lit
+I B2 - dÃ©teste l'un des enfants
+I B3 - comme il n'y a plus rien Ã  manger dans la maison, elle veut se dÃ©barrasser d'un des enfants
+I B4 - qui est un garÃ§on
 I B5 - qui est une fille
 I B6 - l'autre enfant est une fille
-I B7 - l'autre enfant est un garçon
+I B7 - l'autre enfant est un garÃ§on
 
-I C - La mauvaise mère envoie les enfants chercher du bois mort dans la forêt
+I C - La mauvaise mÃ¨re envoie les enfants chercher du bois mort dans la forÃªt
 I C1 - ou ailleurs
-I C2 - promettant une réponse au premier rentré
-I C3 - promettant une réponse à qui rapportera le plus gros fagot
+I C2 - promettant une rÃ©ponse au premier rentrÃ©
+I C3 - promettant une rÃ©ponse Ã  qui rapportera le plus gros fagot
 I C4 - une pomme rouge
 I C5 - des souliers rouges
-I C6 - une galette ou un gâteau
+I C6 - une galette ou un gÃ¢teau
 I C7 - la plus grosse galette
 I C8 - des bombons
 I C9 - un morceau de sucre
 I C10 - des noix
 I C11 - du beurre
 
-I D - La petite fille réunit un beau fagot
-I D1 - alors que le petit garçon s'attarde à jouer
-I D2 - alors que le petit garçon se montre moins leste qu'elle
+I D - La petite fille rÃ©unit un beau fagot
+I D1 - alors que le petit garÃ§on s'attarde Ã  jouer
+I D2 - alors que le petit garÃ§on se montre moins leste qu'elle
 I D3 - il attache sa soeur
-I D4 - il réunit un fagot
-I D5 - il s'empare du fagot déjà fait
+I D4 - il rÃ©unit un fagot
+I D5 - il s'empare du fagot dÃ©jÃ  fait
 I D6 - et rentre le premier
-I D7 - après avoir détaché sa soeur
+I D7 - aprÃ¨s avoir dÃ©tachÃ© sa soeur
 
 II. LE MEURTRE
-II A -La mauvaise mère dit à l'enfant de chercher la récompense au fond d'un coffre, dont elle rabat le couvercle avec force, le tuant ainsi
-II A1 - elle envoie l'autre enfant acheter des aiguilles à mettre dans la soupe de l'enfant qu'elle veut tuer
+II A -La mauvaise mÃ¨re dit Ã  l'enfant de chercher la rÃ©compense au fond d'un coffre, dont elle rabat le couvercle avec force, le tuant ainsi
+II A1 - elle envoie l'autre enfant acheter des aiguilles Ã  mettre dans la soupe de l'enfant qu'elle veut tuer
 II A2 - mais qui, averti, jette sa soupe
-II A3 - elle le tue d'une autre manière
+II A3 - elle le tue d'une autre maniÃ¨re
 
-II B - La mauvaise mère met le petit cadavre à cuire
+II B - La mauvaise mÃ¨re met le petit cadavre Ã  cuire
 
 II C - La petite fille rentre
-II C1 - et demande où est son frère
+II C1 - et demande oÃ¹ est son frÃ¨re
 II C2 - elle doit allumer le feu
 II C3 - elle doit souffler le feu sous la marmite
 II C4 - elle doit piquer dans la viande qui cuit
 II C5 - elle entend une voix
-II C6 - qu'elle reconnaît pour être la voix de son frère
-II C7 - sa mère lui interdit de regarder dans la marmite
-II C8 - elle le fait cependant et aperçoit une main
-II C9 - elle le fait cependant et aperçoit un autre morceau de corps
-II C10 - qu'elle reconnaît pour  être de son frère
+II C6 - qu'elle reconnaÃ®t pour Ãªtre la voix de son frÃ¨re
+II C7 - sa mÃ¨re lui interdit de regarder dans la marmite
+II C8 - elle le fait cependant et aperÃ§oit une main
+II C9 - elle le fait cependant et aperÃ§oit un autre morceau de corps
+II C10 - qu'elle reconnaÃ®t pour  Ãªtre de son frÃ¨re
 
-II D - Après avoir refusé elle-même de manger
-II D1 - la petite doit porter à son père qui travaille aux champs le terrible repas
+II D - AprÃ¨s avoir refusÃ© elle-mÃªme de manger
+II D1 - la petite doit porter Ã  son pÃ¨re qui travaille aux champs le terrible repas
 II D2 - dont elle n'ignore pas le contenu
 II D3 - dont elle ignore le contenu
-II D4 - le père rentre manger à la maison le terrible repas
+II D4 - le pÃ¨re rentre manger Ã  la maison le terrible repas
 
 III. LA TRANSFORMATION
 III A - La petite rencontre en chemin une dame
 III A1 - qui est la Sainte-Vierge
-III A2 - qui est une fée
+III A2 - qui est une fÃ©e
 III A3 - elle rencontre un homme
 III A4 - qui est le Bon Dieu
 III A5 - qui lui conseille
-III A6 - de ramasser tous les os du repas de son père
+III A6 - de ramasser tous les os du repas de son pÃ¨re
 III A7 - de les mettre dans un linge blanc
-III A8 - de les laver soigneusement à la fontaine
-III A9 - de les mettre sur (sous) un aubépin
-III A10 - en disant des paroles déterminées
+III A8 - de les laver soigneusement Ã  la fontaine
+III A9 - de les mettre sur (sous) un aubÃ©pin
+III A10 - en disant des paroles dÃ©terminÃ©es
 III A11 - de les mettre en un autre lieu
 III A12 - de les lui apporter
 III A13 - promettant de lui en faire un bel oiseau
 
 III B - La petite suit les recommandations
 III B1 - ou agit de sa propre initiative
-III B2 - cherchant même quelques os tombés à l'eau
+III B2 - cherchant mÃªme quelques os tombÃ©s Ã  l'eau
 III B3 - qui ne la mouille pas
-III B4 - les os descendent au fond de l'eau au fur et à mesure qu'elle les lave
+III B4 - les os descendent au fond de l'eau au fur et Ã  mesure qu'elle les lave
 III B5 - les os s'envolent au ciel
 III B6 - il se forme un bel oiseau
 III B7 - un pigeon
@@ -93,44 +93,44 @@ III B10 - l'enfant revit
 
 IV. LE CHATIMENT
 IV A -L'oiseau chante une chanson
-IV A1 - l'os perdu se met à chanter une chanson
+IV A1 - l'os perdu se met Ã  chanter une chanson
 IV A2 - une chanson se fait entendre
 
 IV B - L'oiseau va chanter sa chanson
-IV B1 - sur le toit d'un châtelain
-IV B2 - sur le toit d'un orfèvre
+IV B1 - sur le toit d'un chÃ¢telain
+IV B2 - sur le toit d'un orfÃ¨vre
 IV B3 - sur le toit d'un chapelier
 IV B4 - sur le toit d'un cordonnier
 IV B5 - sur le toit d'un boulanger
-IV B6 - sur le toit d'une couturière
-IV B7 - près de laveuses
+IV B6 - sur le toit d'une couturiÃ¨re
+IV B7 - prÃ¨s de laveuses
 IV B8 - sur le toit d'un meunier
-IV B9 - qui lui demande(nt) de répéter sa chanson et lui donne(nt) en récompense
+IV B9 - qui lui demande(nt) de rÃ©pÃ©ter sa chanson et lui donne(nt) en rÃ©compense
 IV B10 - une bourse remplie d'or ou d'argent
-IV B11 - une chaîne ou une montre d'or
+IV B11 - une chaÃ®ne ou une montre d'or
 IV B12 - un chapeau
 IV B13 - une paire de chaussures
-IV B14 - une fournée de pain
+IV B14 - une fournÃ©e de pain
 IV B15 - une robe
 IV B16 - une (des) chemise(s)
-IV B17 - une pièce de toile
+IV B17 - une piÃ¨ce de toile
 IV B18 - une meule (roue, aile) de moulin
 
-IV C - Le soir le père appelle ou fait appeler l'absent
-IV C1 - l'oiseau va chanter sa chanson près de sa maison
-IV C2 - faisant tomber des présents
-IV C3 - par la cheminée
-IV C4 - pour son père
+IV C - Le soir le pÃ¨re appelle ou fait appeler l'absent
+IV C1 - l'oiseau va chanter sa chanson prÃ¨s de sa maison
+IV C2 - faisant tomber des prÃ©sents
+IV C3 - par la cheminÃ©e
+IV C4 - pour son pÃ¨re
 IV C5 - pour sa soeur
-IV C6 - et écrasant la mauvaise mère de la meule de moulin
-IV C7 - et écrasant la mauvaise mère d'une grosse pierre
-IV C8 - envoyant la mère en enfer
-IV C9 - envoyant le père en purgatoire
+IV C6 - et Ã©crasant la mauvaise mÃ¨re de la meule de moulin
+IV C7 - et Ã©crasant la mauvaise mÃ¨re d'une grosse pierre
+IV C8 - envoyant la mÃ¨re en enfer
+IV C9 - envoyant le pÃ¨re en purgatoire
 IV C10 - emmenant sa soeur en paradis
 
-IV D - L'oiseau s'envole à jamais
-IV D1 - l'oiseau vit dorénavant avec sa soeur
-IV D2 - et son père
-IV D3 - l'oiseau se retransforme en petit garçon
-IV D4 - qui vit dorénavant heureux avec sa soeur
-IV D5 - et son père
+IV D - L'oiseau s'envole Ã  jamais
+IV D1 - l'oiseau vit dorÃ©navant avec sa soeur
+IV D2 - et son pÃ¨re
+IV D3 - l'oiseau se retransforme en petit garÃ§on
+IV D4 - qui vit dorÃ©navant heureux avec sa soeur
+IV D5 - et son pÃ¨re

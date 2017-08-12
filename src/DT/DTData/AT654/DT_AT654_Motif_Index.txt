@@ -1,1 +1,23 @@
- 
+﻿
+Motifs du motif Index de Aarne et Thompson présents dans le type 654
+
+
+P251.6.1. Three brothers. Types 654, 655
+
+
+F663.1. Skillful smith shoes running horse. *Type 654
+
+
+F664.1. Skillful flayer skins running rabbit. *Type 654
+
+
+F665.1. Skillful barber shaves running hare. *Type 654
+
+
+F667.1. Skillful fencer keeps sword dry in rain. Swings it so fast. *Type 654
+
+
+F673. Man can keep together feathers in great wind. *Type 654
+
+
+X983. Lie: skillful flayer. Man skins buffalo alive, turns them loose to grow new skins. (Cf. F664.1.) Type 654

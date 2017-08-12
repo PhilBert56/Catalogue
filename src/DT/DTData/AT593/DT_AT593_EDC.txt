@@ -1,21 +1,21 @@
-I. LE JEUNE HOMME ECONDUIT
+ÔªøI. LE JEUNE HOMME ECONDUIT
 I A - Un jeune homme
 I A1 - pauvre
 I A2 - aime une jeune fille
 I A3 - qui ne le paye pas de retour
 I A4 - que ses parents lui refusent
-I B - Il rencontre une femme un peu fÈe
+I B - Il rencontre une femme un peu f√©e
 I B1 - il rencontre un homme un peu sorcier
-I B2 - ‡ qui il fait part du motif de son chagrin et qui lui remet un objet magique devant lui assurer la main de sa belle
+I B2 - √† qui il fait part du motif de son chagrin et qui lui remet un objet magique devant lui assurer la main de sa belle
 I B3 - herbe
 I B4 - boule
 I B5 - poudre
-I B6 - lequel mis dans les cendres fera l‚cher des vents sonores ‡ tous ceux qui essaieront d'allumer le feu.
+I B6 - lequel mis dans les cendres fera l√¢cher des vents sonores √† tous ceux qui essaieront d'allumer le feu.
 
 II.  ... ARRIVE A SES FINS
 II A - La servante
 II A1 - la fille
-II A2 - la mËre
-II A3 - le pËre
-II A4 - puis le curÈ appelÈ ‡ l'aide car on croit ‡ un effet du diable en s'approchant du feu l‚chent des bruits incongrus
-II B - Le garÁon appelÈ ‡ l'aide promet de faire cesser le sortilËge si on lui accorde la main de la fille ; c'est ce qui arrive.
+II A2 - la m√®re
+II A3 - le p√®re
+II A4 - puis le cur√© appel√© √† l'aide car on croit √† un effet du diable en s'approchant du feu l√¢chent des bruits incongrus
+II B - Le gar√ßon appel√© √† l'aide promet de faire cesser le sortil√®ge si on lui accorde la main de la fille ; c'est ce qui arrive.

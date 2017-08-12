@@ -30,7 +30,11 @@
                     <a href="{{ path('ct_show_motifs', {'ctCode':conteType.ctCode} ) }}">  Motifs | </a>
 
                 {% if conteType.hasBonus %}
-                    <a href= "{{conteType.bonusFile}}"> *</a>
+                <!--
+                    <a href= "{{conteType.bonusFile}}"> compléments </a>
+                -->
+                    <a href="{{ path('ct_show_complements', {'ctCode':conteType.ctCode} ) }}">  Compléments | </a>
+
                 {% endif %}
             </td>
 

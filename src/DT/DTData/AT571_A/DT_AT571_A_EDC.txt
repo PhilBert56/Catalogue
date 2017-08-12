@@ -1,70 +1,70 @@
-I. L'OBJET MAGIQUE
-I A - Le héros est le plus jeune de trois frères
-I A1 - et le moins déluré
+ï»¿I. L'OBJET MAGIQUE
+I A - Le hÃ©ros est le plus jeune de trois frÃ¨res
+I A1 - et le moins dÃ©lurÃ©
 I A2 - un berger (vacher)
-I A3 - parti pour aller faire rire la princesse promise par le roi son père à qui réussirait
-I A4 - sur les instigations du curé qui convoite la femme du héros
-I A5 - le héros est chargé par son maître
+I A3 - parti pour aller faire rire la princesse promise par le roi son pÃ¨re Ã  qui rÃ©ussirait
+I A4 - sur les instigations du curÃ© qui convoite la femme du hÃ©ros
+I A5 - le hÃ©ros est chargÃ© par son maÃ®tre
 I A6 - sous peine de mort
-I A7 - de lui rapporter un objet inconnu au nom étrange
-I A8 - de réussir des tâches apparemment impossibles.
+I A7 - de lui rapporter un objet inconnu au nom Ã©trange
+I A8 - de rÃ©ussir des tÃ¢ches apparemment impossibles.
 
-I B - Alors que ses frères, qui ont tenté l'aventure avant lui, n'ont pas réussi
-I B1 - parce qu'ils ont été impolis envers une vieille femme
-I B2 - le héros répond poliment à la vieille femme, qui est fée, rencontrée
-I B3 - près d'une fontaine (ruisseau)
-I B4 - le héros va voir sa marraine-fée
+I B - Alors que ses frÃ¨res, qui ont tentÃ© l'aventure avant lui, n'ont pas rÃ©ussi
+I B1 - parce qu'ils ont Ã©tÃ© impolis envers une vieille femme
+I B2 - le hÃ©ros rÃ©pond poliment Ã  la vieille femme, qui est fÃ©e, rencontrÃ©e
+I B3 - prÃ¨s d'une fontaine (ruisseau)
+I B4 - le hÃ©ros va voir sa marraine-fÃ©e
 I B5 - il partage sa nourriture avec elle
-I B6 - elle lui donne en récompense
+I B6 - elle lui donne en rÃ©compense
 I B7 - elle lui conseille de prendre
 I B7 - une baguette
 I B9 - un animal
 I B10 - un objet magique
-I B11 - à laquelle (auquel) il commandera de tenir ce qu'il voudra
-I B12 - avec laquelle (lequel) il réussit les tâches imposées
+I B11 - Ã  laquelle (auquel) il commandera de tenir ce qu'il voudra
+I B12 - avec laquelle (lequel) il rÃ©ussit les tÃ¢ches imposÃ©es
 I B13 - elle lui apprend que sa femme le trompe en son absence.
 
 II. TOUS COLLES ENSEMBLE
-II A - Le héros passe la nuit dans une hôtellerie
+II A - Le hÃ©ros passe la nuit dans une hÃ´tellerie
 II A1 - et va se coucher avec son objet (animal) magique
-II A2 - et remet son objet (animal) à l'hôtesse pour la nuit en recommandant de ne pas y toucher 
-II A3 - l'hôtesse
+II A2 - et remet son objet (animal) Ã  l'hÃ´tesse pour la nuit en recommandant de ne pas y toucher 
+II A3 - l'hÃ´tesse
 II A4 - ses (des) filles
 II A5 - une servante
 II A6 - veut (veulent) le toucher
 II A7 - veut (veulent) le voler
 II A8 - veulent en voler quelques plumes
-II A9 - le héros rentre chez lui et se cache pour surprendre sa femme et son amant
-II A10 - qui est le curé.
+II A9 - le hÃ©ros rentre chez lui et se cache pour surprendre sa femme et son amant
+II A10 - qui est le curÃ©.
 
 II B - Par l'effet de son objet (animal) magique qui colle tout
-II B1 - dès que le héros prononce les paroles enseignées
-II B2 - il attache ainsi successivement une farandole d'êtres
-II B3 - les uns accourus pour détacher les premiers collés
-II B4 - l'hôtesse
+II B1 - dÃ¨s que le hÃ©ros prononce les paroles enseignÃ©es
+II B2 - il attache ainsi successivement une farandole d'Ãªtres
+II B3 - les uns accourus pour dÃ©tacher les premiers collÃ©s
+II B4 - l'hÃ´tesse
 II B5 - les filles
 II B6 - la servante
 II B7 - le domestique
 II B8 - le patron
 II B9 - levant le pied ou la main pour la (le, les) fesser
-II B10 - la femme adultère et son amant
-II B11 - le curé
+II B10 - la femme adultÃ¨re et son amant
+II B11 - le curÃ©
 II B12 - le sacristain
 II B13 - tenant le vase de nuit
-II B14 - peu vêtu(e,s)
+II B14 - peu vÃªtu(e,s)
 II B15 - une (des) femmes 
 II B16 - un (des) homme(s)
 II B17 - avec des ustensiles
-II B18 - des végétaux
+II B18 - des vÃ©gÃ©taux
 II B19 - un (des) animal (aux)
 
 III. L'HEUREUX DENOUEMENT
-III A - Le héros amène cette farandole
-III A1 - à la fille du roi qui rit énormément
-III A2 - en disant que c'est l'objet demandé
-III A3 - au maître sui se déclare satisfait
+III A - Le hÃ©ros amÃ¨ne cette farandole
+III A1 - Ã  la fille du roi qui rit Ã©normÃ©ment
+III A2 - en disant que c'est l'objet demandÃ©
+III A3 - au maÃ®tre sui se dÃ©clare satisfait
 III B - il obtient la princesse en mariage
-III B1 - après d'autres épreuves appartenant à un autre conte type
-III B2 - il est récompensé par son maître.
+III B1 - aprÃ¨s d'autres Ã©preuves appartenant Ã  un autre conte type
+III B2 - il est rÃ©compensÃ© par son maÃ®tre.
 
-III C - Tous et tout se décollent
+III C - Tous et tout se dÃ©collent

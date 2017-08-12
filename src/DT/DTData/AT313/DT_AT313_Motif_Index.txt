@@ -1,1 +1,124 @@
- 
+﻿
+Motifs du motif Index de Aarne et Thompson présents dans le type 313
+
+
+D672. Obstacle flight. Fugitives throw objects behind them which magically become obstacles in pursuer's path.--*Types 313, 314, 325, 327, 502
+
+
+D1258.1. Bridge made by magic. *Types 313, 314
+
+
+G461. Youth promised to ogre visits ogre's home. *Types 313, 314, 313***
+
+
+D671. Transformation flight. Fugitives transforms themselves in order to escape detection by the pursuer.--*Types 313, 325, 327
+
+
+H161. Recognition of transformed person among identical companions. Prearranged signals. *Type 313, 325
+
+
+D361.1. Swan Maiden. A swan transforms herself at will into a maiden. She resumes her swan form by putting on her swan coat. (It is difficult to tell in most Swan Maiden tales whether the primary form is swan or maiden: the incident may belong at D161.)--*Type 313, 400, 465A
+
+
+K1335. Seduction (or wooing) by stealing clothes of bathing girl (swan maiden). *Types 313, 400
+
+
+C120. Tabu: kissing. Usually causes disenchantment or magic forgetfulness. (Cf. D735, D2003.)--*Type 313C, 410.--Grimm Nos. 113, 186, 193
+
+
+D2003. Forgotten fianc‚e. Young husband visiting his home breaks tabu and forgets his wife. Later she succeeds in reawakening his memory. (For details of the ways in which the memory is lost and regained see D2004 and D2006.--*Type 313C, 425
+
+
+D2006.1.4. Forgotten fianc‚e buys place in husband's bed and reawakens his memory. *Types 313, 425
+
+
+H335. Tasks assigned suitors. Bride as prize for accomplishment. (For nature of tasks see H1000ff.) *Types 313, 502, 513, 514, 518, 570, 577
+
+
+H13. Recognition by overheard conversation (usually with animals or objects). Person not daring to reveal self directly thus attracts attention and recognition. *Types 313, 533, 706, 870
+
+
+H1091. Task: sorting a large amount of grain (beads, beans, peas) in one night. *Types 313, 554
+
+
+D1001. Magic spittle. *Type 313
+
+
+D1611. Magic object answers for fugitive. Left behind to impersonate fugitive and delay pursuit. *Type 313
+
+
+D1642.1. Self-folding bridge prevents pursuit. (Cf. D1268.) Type 313.
+
+
+D1649.1.2. Magic birds keep falling off perch. *Type 313
+
+
+D1978.4. Hero wakened from magic sleep by wife who has purchased place in his bed from false bride. (Cf. D1971.) Type 313
+
+
+D2004.2. Kiss of forgetfulness. *Type 313
+
+
+D2006.1.1. Forgotten fianc‚e reawakens husband's memory by detaining lovers through magic. Heroine takes up residence near home of her forgetful husband. She is apparently going to permit a lover to sleep with her when she detains him by having him try to place some magic birds on their roost. They continue to fall down throughout the night. (Or the lover is left magically sticking to a calf's tail or other object.) The thwarted lover tells of his experience, and in this way the attention of the husband is gained. *Type 313
+
+
+D2006.1.2. Forgotten fianc‚e reawakens husband's memory by serving as milkmaid and talking to calf. *Type 313
+
+
+D2006.1.3. Forgotten fianc‚e reawakens husband's memory by having magic doves converse. *Type 313
+
+
+D2006.1.5. Forgotten fianc‚e attracts attention by magically stopping wedding carriage of new bride. *Type 313
+
+
+E33. Resuscitation with missing member. In reassembling the members, one has been inadvertently omitted. The resuscitated person or animal lacks this member. *Type 313
+
+
+F116. Journey to the Land of the Immortals. Type 313*
+
+
+G402.1. Pursuit of bird leads to ogre's house. Type 313
+
+
+G465. Ogre sets impossible tasks. *Type 313
+
+
+H57.0.1. Recognition of resuscitated person by missing member. *Type 313
+
+
+H335.0.1. Bride helps suitor perform his tasks. *Type 313 Grimm Nos. 92, 113, 121, 196
+
+
+H1095. Task: felling a forest in one night. (Cf. H1115.) *Type 313
+
+
+H1101. Task: removing mountain (mound) in one night. *Type 313
+
+
+H1102. Task: cleaning Augean stable. Stable has not been cleaned in years. Must be done in one night. River turned through it. Type 313
+
+
+H1103. Task: setting out vineyard in one night. *Type 313.
+
+
+H1104. Task: building castle in one night. Type 313
+
+
+H1113. Task: bailing out a pond. Type 313 Grimm No. 113
+
+
+H1115. Task: chopping down large tree with blunt (fragile) implements. (Cf. H1095.) Type 313
+
+
+H1154.8. Task: capturing magic horse. Type 313.
+
+
+S221.2. Youth sells himself to an ogre in settlement of a gambling debt. (Cf. M211, S215.) *Type 313
+
+
+Z62.1. The old and the new keys. Hero marries his first sweetheart according to the proverb that the old key is better than the new. (Cf. L214.) *Type 313
+
+D1971. Three-fold magic sleep. Husband (lover) put to sleep by false bride. Only on the third night (the last chance) he wakes. *Types 303, 313
+
+
+N831. Girl as helper. Types 311, 313; 

@@ -41,6 +41,7 @@ class OccurencesEDC
 
             foreach ($section3 as $ss){ 
                 $ss = trim($ss);
+                $ss = str_replace(' ','',$ss);
             
                 if  ($debug)echo 'examine |',$ss,'|</br>';
 
@@ -71,14 +72,15 @@ class OccurencesEDC
                     
                 //echo 'reste plus qu à tester si CAPITALE pour ',$premier,'</br>';
                 if (ctype_upper($premier)) { 
-                    $listeDesElements[] = trim($ss);
-                    if ($debug) echo ' on extrait : |', trim($ss), '|</br>';
+                    $listeDesElements[] = $ss;
+                    if ($debug) echo ' on extrait : |', $ss, '|</br>';
+                    if ($debug) echo ' on devrait marquer |', $ss, '|</br>';
                 } 
             }/* fin de foreach $ss */
             if ($debug) echo 'stocke les codes extraits </br>';
             foreach ($listeDesElements as $element){ 
-                    $this->edcCodes[]=$element;
-                    if ($debug) echo 'code = |',$element,'| ';
+                    $this->edcCodes[]= trim($element);
+                    if ($debug) echo 'code = |',trim($element),'| ';
             }
             if ($debug) echo '</br>';
 

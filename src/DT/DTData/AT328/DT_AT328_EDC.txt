@@ -1,12 +1,12 @@
-I. LE HEROS
-I A - C'est un garçon
+ï»¿I. LE HEROS
+I A - C'est un garÃ§on
 I A1 - une fille
 I A2 - le (la) plus jeune
 I A3 - le (la) plus subtil(e)
-I A4 - de trois frères
+I A4 - de trois frÃ¨res
 I A5 - de trois soeurs
 I B - Il (elle) part
-I B1 - avec ses frères
+I B1 - avec ses frÃ¨res
 I B2 - avec ses soeurs
 I B3 - avec un compagnon
 I B4 - avec deux compagnons
@@ -15,85 +15,85 @@ I B6 - pour aller s'engager chez le roi
 
 
 II. LE MONSTRE
-II A - C'est un géant [ou plusieurs]q
+II A - C'est un gÃ©ant [ou plusieurs]q
 II A1 - un ogre
 II A2 - un diable
 II A3 - un autre
-II B - Il habite un château
-II B1 - dans une forêt
-II B2 - au delà d'une rivière
+II B - Il habite un chÃ¢teau
+II B1 - dans une forÃªt
+II B2 - au delÃ  d'une riviÃ¨re
 II B3 - avec sa femme
 II B4 - ses filles
-II C - Le héros
+II C - Le hÃ©ros
 II C1 - les enfants
-II C2 - s'égare(nt)
-II C3 - arrive(nt) au château
+II C2 - s'Ã©gare(nt)
+II C3 - arrive(nt) au chÃ¢teau
 
 
 III. LE RAPT DES OBJETS OU DES ANIMAUX MERVEILLEUX
-III A - Le héros ou l'héroïne
+III A - Le hÃ©ros ou l'hÃ©roÃ¯ne
 III A1 - est au service du roi
 III A2 - d'un autre
-III A3 - avec ses frères ou soeurs
+III A3 - avec ses frÃ¨res ou soeurs
 III A4 - avec son (ses) compagnons
-III B - Il (elle) est envoyé(e) chez le géant
+III B - Il (elle) est envoyÃ©(e) chez le gÃ©ant
 III B1 - par le roi
-III B2 - par son maître
-III B3 - à l'instigation de ses frères (soeurs)
+III B2 - par son maÃ®tre
+III B3 - Ã  l'instigation de ses frÃ¨res (soeurs)
 III B4 - de son (ses) compagnon(s)
 III B5 - de la fille du roi
 III B6 - d'un autre
 III B7 - par jalousie
-III B8 - c'est le héros qui renseigne son maître sur les trésors de l'ogre
-III B9 - le héros décide de son plein gré d'aller voler les trésors
+III B8 - c'est le hÃ©ros qui renseigne son maÃ®tre sur les trÃ©sors de l'ogre
+III B9 - le hÃ©ros dÃ©cide de son plein grÃ© d'aller voler les trÃ©sors
 III C - Il doit en rapporter un objet lumineux (lune, demi-lune, soleil, etc.)
-III C1 - qui éclaire à sept lieues à la ronde
+III C1 - qui Ã©claire Ã  sept lieues Ã  la ronde
 III C2 - un animal merveilleux
 III C3 - un instrument de musique
-III C4 - qu'on entend à sept lieues à la ronde
+III C4 - qu'on entend Ã  sept lieues Ã  la ronde
 III C5 - un autre objet
 III C6 - sous peine de mort
 III D - Il demande quelque chose avant de partir
 III E - Il entre dans la maison de l'ogre
 III E1 - monte sur le toit
-III E2 - verse par la cheminée du sel dans la marmite de l'ogre
-III E3 - qui sort l'objet lumineux pour qu'on aille à l'eau
+III E2 - verse par la cheminÃ©e du sel dans la marmite de l'ogre
+III E3 - qui sort l'objet lumineux pour qu'on aille Ã  l'eau
 III E4 - autre moyen
-III E5 - l'animal ou l'objet est rapporté
-III E6 - l'ogre poursuit le héros
-III E7 - est arrêté par une rivière
-III F - L'ogre prend le héros
-III F1 - décide de le manger
-III F2 - le héros suggère qu'on lui fasse subir tel traitement
+III E5 - l'animal ou l'objet est rapportÃ©
+III E6 - l'ogre poursuit le hÃ©ros
+III E7 - est arrÃªtÃ© par une riviÃ¨re
+III F - L'ogre prend le hÃ©ros
+III F1 - dÃ©cide de le manger
+III F2 - le hÃ©ros suggÃ¨re qu'on lui fasse subir tel traitement
 III F3 - l'ogre va inviter des amis
-III F4 - dit à sa femme de tuer le héros
+III F4 - dit Ã  sa femme de tuer le hÃ©ros
 III F5 - de le cuire dans le four
-III F6 - par ruse, le héros se fait libérer
-III F7 - met la femme de l'ogre à sa place
-III F8 - l'enferme dans le four qui lui est destiné
+III F6 - par ruse, le hÃ©ros se fait libÃ©rer
+III F7 - met la femme de l'ogre Ã  sa place
+III F8 - l'enferme dans le four qui lui est destinÃ©
 III F9 - la tue
 
 
 IV. LA CAPTURE ET LA MORT DE L'OGRE
-IV A - Le héros (héroïne) doit ramener l'ogre
+IV A - Le hÃ©ros (hÃ©roÃ¯ne) doit ramener l'ogre
 IV A1 - sous peine de mort
-IV A2 - va le chercher de son plein gré
+IV A2 - va le chercher de son plein grÃ©
 IV B - Il (elle) se fait faire une voiture de fer
-IV B1 - hérissée de pointes à l'intérieur
+IV B1 - hÃ©rissÃ©e de pointes Ã  l'intÃ©rieur
 IV B2 - avec une porte qui se referme seule
-IV B3 - traînée par un certain nombre de chevaux
-IV B4 - le héros [héroïne] se déguise
+IV B3 - traÃ®nÃ©e par un certain nombre de chevaux
+IV B4 - le hÃ©ros [hÃ©roÃ¯ne] se dÃ©guise
 IV B5 - autre
 IV C - Il [elle] rencontre l'ogre
-IV C1 - lui dit qu'il [elle] cherche lui [elle] aussi celui [celle] qui a joué des tours à l'ogre
+IV C1 - lui dit qu'il [elle] cherche lui [elle] aussi celui [celle] qui a jouÃ© des tours Ã  l'ogre
 IV C2 - fait monter l'ogre dans la voiture
-IV C3 - pour vérifier si elle tiendra leur ennemi
-IV C4 - il [elle] ramène l'ogre
-IV C5 - qui est tué
+IV C3 - pour vÃ©rifier si elle tiendra leur ennemi
+IV C4 - il [elle] ramÃ¨ne l'ogre
+IV C5 - qui est tuÃ©
 IV C6 - autre
-IV D - L'ogre est tué d'une autre façon
+IV D - L'ogre est tuÃ© d'une autre faÃ§on
 IV D1 - reste prisonnier
-IV E - Le héros épouse la fille du roi
-IV E1 - châtiment du (des) jaloux
-IV E2 - le héros [l'héroïne] pardonne aux jaloux
-IV E3 - le héros [l'héroïne] pardonne aux jaloux 
+IV E - Le hÃ©ros Ã©pouse la fille du roi
+IV E1 - chÃ¢timent du (des) jaloux
+IV E2 - le hÃ©ros [l'hÃ©roÃ¯ne] pardonne aux jaloux
+IV E3 - le hÃ©ros [l'hÃ©roÃ¯ne] pardonne aux jaloux 

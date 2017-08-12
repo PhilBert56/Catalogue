@@ -1,0 +1,46 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+
+    <h3><span>Catalogue Delarue Teneze</h3>
+    <table class="table table-striped">
+    <thead>
+    <tr>
+        <th>Conte Type {{conteTypeCode }}</th>
+        <th>Elements du conte</th>
+        
+    </tr>
+    </thead>
+    <tbody>
+    
+        <tr>
+            <td> 
+            {% if element.isHeader %}
+                <strong>{{ element.description }}</strong>
+            {% else %}
+                {{ element.description }}
+            {% endif %}
+            
+            {% if element.hasVersions %}
+                | version(s) = 
+                {% for version in element.listeDesVersions %}
+
+                <a href="{{ path('ct_show_une_version', {'ctCode':conteTypeCode , 'numeroVersion':version} ) }}">{{version}}; </a>
+                    
+                {% endfor %}
+            {% endif %}
+
+            </td>
+
+           
+        </tr>
+   
+    </tbody>
+
+
+
+</table>
+    
+
+
+{% endblock %}

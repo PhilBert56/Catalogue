@@ -1,40 +1,40 @@
-I. LE RACHAT DU CADAVRE
-I A - Le héros est fils d'un armateur ou d'un marchand
+ï»¿I. LE RACHAT DU CADAVRE
+I A - Le hÃ©ros est fils d'un armateur ou d'un marchand
 I A1 - il est fils de roi
-I A2 - non précisé ou autre
+I A2 - non prÃ©cisÃ© ou autre
 
 I B - Il se nomme Jean de Calais
 I B1 - a un autre nom
 
-I C - Son père lui fait équiper un bateau
+I C - Son pÃ¨re lui fait Ã©quiper un bateau
 I C1 - dont il va vendre le chargement
-I C2 - il découvre le cadavre d'un homme endetté, laissé sans sépulture
-I C3 - exposé aux coups
-I C4 - et exposé aux chiens
+I C2 - il dÃ©couvre le cadavre d'un homme endettÃ©, laissÃ© sans sÃ©pulture
+I C3 - exposÃ© aux coups
+I C4 - et exposÃ© aux chiens
 I C5 - il paie les dettes du mort
-I C6 - et sa sépulture
+I C6 - et sa sÃ©pulture
 
-I D - A son retour il est blâmé par son père
-I D1 - il est loué par son père
+I D - A son retour il est blÃ¢mÃ© par son pÃ¨re
+I D1 - il est louÃ© par son pÃ¨re
 
 II.LE RACHAT DE LA PRINCESSE 
-II A - Le héros obtient de son père un second chargement
-II A1 - avec le prix de la vente il rachète une captive
-II A2 - rachète deux captives
-II A3 - prisonnière(s) de pirates
+II A - Le hÃ©ros obtient de son pÃ¨re un second chargement
+II A1 - avec le prix de la vente il rachÃ¨te une captive
+II A2 - rachÃ¨te deux captives
+II A3 - prisonniÃ¨re(s) de pirates
 II A4 - la plus belle se nomme Constance 
 II A5 - a un autre nom
 II A6 - sa compagne se nomme Isabelle
 II A7 - a un autre nom
 
-II B - Le héros épouse la belle captive
-II B1 -sans connaître son identité réelle 
+II B - Le hÃ©ros Ã©pouse la belle captive
+II B1 -sans connaÃ®tre son identitÃ© rÃ©elle 
 
-II C - Il est désavoué par son père
-II C1 - il est loué par son père
+II C - Il est dÃ©savouÃ© par son pÃ¨re
+II C1 - il est louÃ© par son pÃ¨re
 
 III. LE HEROS JETE PAR DESSUS BORD
-III A - Le héros prépare un nouveau voyage
+III A - Le hÃ©ros prÃ©pare un nouveau voyage
 III A1 - et sur les instances de sa femme 
 III A2 - qui a eu un enfant entre-temps
 III A3 - il fait peindre sur son bateau le portrait de sa femme
@@ -48,52 +48,52 @@ III B3 - pour l'Angleterre
 III B4 - pour un autre pays
 
 III C - A bord se trouve un compagnon jaloux
-III C1 - à l'arrivée dans le pays étranger, le portrait de sa femme est reconnu par le roi comme étant celui de sa fille
-III C2 - le roi envoie le héros chercher sa femme
-III C3 - il le fait accompagner par quelqu’un de son entourage
-III C4 - qui est un ancien prétendant de la princesse
-III C5 - et qui jette le héros par-dessus bord
+III C1 - Ã  l'arrivÃ©e dans le pays Ã©tranger, le portrait de sa femme est reconnu par le roi comme Ã©tant celui de sa fille
+III C2 - le roi envoie le hÃ©ros chercher sa femme
+III C3 - il le fait accompagner par quelquâ€™un de son entourage
+III C4 - qui est un ancien prÃ©tendant de la princesse
+III C5 - et qui jette le hÃ©ros par-dessus bord
 
-III D - L'épouse du héros croit à un accident
-III D1 - Le traître l'oblige au silence
-III D2 - et à le présenter, lui, comme étant son sauveur des pirates 
+III D - L'Ã©pouse du hÃ©ros croit Ã  un accident
+III D1 - Le traÃ®tre l'oblige au silence
+III D2 - et Ã  le prÃ©senter, lui, comme Ã©tant son sauveur des pirates 
 
 IV. LA RECONNAISSANCE DU MORT
-IV A - Le héros réussit à gagner un rocher dans la mer
-IV A1 - grâce à une aide miraculeuse
+IV A - Le hÃ©ros rÃ©ussit Ã  gagner un rocher dans la mer
+IV A1 - grÃ¢ce Ã  une aide miraculeuse
 IV A2 - qui assure sa subsistance
 
 IV B - Au bout de sept ans
 IV B1 - au bout d'un an et un jour
-IV B2 - autre délai
-IV B3 - se présente devant le héros
-IV B4 - et se fait reconnaître comme étant le mort racheté
+IV B2 - autre dÃ©lai
+IV B3 - se prÃ©sente devant le hÃ©ros
+IV B4 - et se fait reconnaÃ®tre comme Ã©tant le mort rachetÃ©
 IV B5 - une ombre
 IV B6 - un homme grand
 IV B7 - un animal
-IV B8 - l'informe que sa femme est obligée de se remarier avec son meurtrier
-IV B9 - et lui propose de le conduire devant son château
+IV B8 - l'informe que sa femme est obligÃ©e de se remarier avec son meurtrier
+IV B9 - et lui propose de le conduire devant son chÃ¢teau
 IV B10 - moyennant le partage de tous ses biens
 IV B11 - moyennant le partage de ce qu'il a de plus cher
 IV B12 - moyennant le partage de son enfant
 
-IV C - Le héros accepte
-IV C1 - est porté par son bienfaiteur
-IV C2 - et se retrouve devant le château de sa femme
-IV C3 - où tout est préparé pour le remariage
+IV C - Le hÃ©ros accepte
+IV C1 - est portÃ© par son bienfaiteur
+IV C2 - et se retrouve devant le chÃ¢teau de sa femme
+IV C3 - oÃ¹ tout est prÃ©parÃ© pour le remariage
 
 IV D - Il est reconnu
-IV D1 - grâce à un mouchoir
-IV D2 - grâce à une bague
+IV D1 - grÃ¢ce Ã  un mouchoir
+IV D2 - grÃ¢ce Ã  une bague
 IV D3 - autre
 
-IV E - Le traître est puni
+IV E - Le traÃ®tre est puni
 
 V. LE PARTAGE DES BIENS
 V A - au cours d'un festin
-V A1 - le mort apparaît
-V A2 - et réclame son dû
+V A1 - le mort apparaÃ®t
+V A2 - et rÃ©clame son dÃ»
 
-V B - Le héros s'apprête à partager son enfant
-V B1 - quand le mort l'arrête
-V B2 - et se fait reconnaître comme étant celui dont le héros paya jadis les dettes et qu'il fait enterrer
+V B - Le hÃ©ros s'apprÃªte Ã  partager son enfant
+V B1 - quand le mort l'arrÃªte
+V B2 - et se fait reconnaÃ®tre comme Ã©tant celui dont le hÃ©ros paya jadis les dettes et qu'il fait enterrer

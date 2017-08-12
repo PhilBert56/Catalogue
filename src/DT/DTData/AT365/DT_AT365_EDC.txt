@@ -1,88 +1,88 @@
-I. LA PROMESSE DE MARIAGE
+ï»¿I. LA PROMESSE DE MARIAGE
 I A - un jeune homme
 I A1 - fils de paysans riches
 I A2 - un marin
-I A3 - une jeune fille fiancée à un marin qui fait naufrage 
-I B - promet qu'il épousera j.f. qu'il aime "en dépit de tout et de tous"
-I B1 - et une jeune fille promettent de s'épouser quoi qu'il arrive
-I B2 - promettent de s'être fidèles même après la mort
+I A3 - une jeune fille fiancÃ©e Ã  un marin qui fait naufrage 
+I B - promet qu'il Ã©pousera j.f. qu'il aime "en dÃ©pit de tout et de tous"
+I B1 - et une jeune fille promettent de s'Ã©pouser quoi qu'il arrive
+I B2 - promettent de s'Ãªtre fidÃ¨les mÃªme aprÃ¨s la mort
 
 II.
-ve2 lb - le j.h. est envoyé travailler en un lieu dangereux. Il salue la j.f. en passant et lui promet de passer en rentrant
-Bürger - J. f., Lénore, qui n'a pas eu de nouvelles de son fiancé parti aux armées, le cherche vainement dans les rangs des guerriers qui reviennent. Dans son égarement renie la providence.
-ve5 s - II Le jeune homme meurt sans que sa fiancée le sache
-ve4 c- j.f. doit épouser j.h. qui meurt sans qu'elle le sache
+ve2 lb - le j.h. est envoyÃ© travailler en un lieu dangereux. Il salue la j.f. en passant et lui promet de passer en rentrant
+BÃ¼rger - J. f., LÃ©nore, qui n'a pas eu de nouvelles de son fiancÃ© parti aux armÃ©es, le cherche vainement dans les rangs des guerriers qui reviennent. Dans son Ã©garement renie la providence.
+ve5 s - II Le jeune homme meurt sans que sa fiancÃ©e le sache
+ve4 c- j.f. doit Ã©pouser j.h. qui meurt sans qu'elle le sache
 ve2 lb - se tue en tombant de cheval
-ve6 - quand on ramène le corps la j.f. est envoyée à une noce pour qu'elle n'en sache rien
-ve2 lb - on ramène le corps du j.h. chez les parents
-ve2 lb la j.f. s'inquiète de ne l'avoir revu, ne peut dormir
-ve4 c - surprise de ne pas l'y trouver, refuse de danser à l'"assemblée" où ils se sont donnés rendez-vous et part à la nuit
+ve6 - quand on ramÃ¨ne le corps la j.f. est envoyÃ©e Ã  une noce pour qu'elle n'en sache rien
+ve2 lb - on ramÃ¨ne le corps du j.h. chez les parents
+ve2 lb la j.f. s'inquiÃ¨te de ne l'avoir revu, ne peut dormir
+ve4 c - surprise de ne pas l'y trouver, refuse de danser Ã  l'"assemblÃ©e" oÃ¹ ils se sont donnÃ©s rendez-vous et part Ã  la nuit
 
 . LE VISITEUR NOCTURNE
-c - Dernière fille de pauvres gens, couturière, ne pense qu'à son plaisir et fait le malheur de ses vieux parents. Maudite par son père car elle part à une veillée chez sa tante alors que sa mère malade lui demande de rester. Prend peur en traversant les bois et souhaite compagnie, "fut-ce le diable en personne". Rencontre un jeune étranger richement vêtu qui va à la veillée et dont la compagnie lui fait trouver chemmin trop court. L'étranger intrigue la tante de la j.f. qui remarque empreintes laissées en dansant et veut retenir la j.f. jusqu'au lendemain. 
-ve7 - Garçon revient de voyage, va voir la fille, puis parents qui lui disent la fille morte depuis 8 jours. Oublie, retourne, se souvient, fuit ; recommence.
+c - DerniÃ¨re fille de pauvres gens, couturiÃ¨re, ne pense qu'Ã  son plaisir et fait le malheur de ses vieux parents. Maudite par son pÃ¨re car elle part Ã  une veillÃ©e chez sa tante alors que sa mÃ¨re malade lui demande de rester. Prend peur en traversant les bois et souhaite compagnie, "fut-ce le diable en personne". Rencontre un jeune Ã©tranger richement vÃªtu qui va Ã  la veillÃ©e et dont la compagnie lui fait trouver chemmin trop court. L'Ã©tranger intrigue la tante de la j.f. qui remarque empreintes laissÃ©es en dansant et veut retenir la j.f. jusqu'au lendemain. 
+ve7 - GarÃ§on revient de voyage, va voir la fille, puis parents qui lui disent la fille morte depuis 8 jours. Oublie, retourne, se souvient, fuit ; recommence.
 
-ve4 c - en route le voit à ses côtés ; ils parlent
+ve4 c - en route le voit Ã  ses cÃ´tÃ©s ; ils parlent
 ve5 s - il sort de sa tombe
-ve5 s - il prend jument blanche dans l'écurie des parents de sa fiancée
+ve5 s - il prend jument blanche dans l'Ã©curie des parents de sa fiancÃ©e
 
 ve5 s - il va chercher la jeune fille 
-ve2 lb - a minuit la j.f.; entend son fiancé l'appeler
-ve2 lb - chez ses parents, à minuit
-ve5 s - à une veillée 
+ve2 lb - a minuit la j.f.; entend son fiancÃ© l'appeler
+ve2 lb - chez ses parents, Ã  minuit
+ve5 s - Ã  une veillÃ©e 
 ve6 - comme elle danse un h. sur cheval gris vient la demander
-ve5 s - il dit qu'il vient la chercher pour leurs fiançailles
+ve5 s - il dit qu'il vient la chercher pour leurs fianÃ§ailles
 ve2 lb - pour leur mariage
-ve2 lb - elle le suit sur les conseils de sa mère qui suivra avec son mari en habits de fête
-Bürger - A minuit, un cavalier frappe à sa porte : c'est son fiancé qui vient la prendre pour qu'on célèbre leurs noces. Elle veut le faire entrer mais il est pressé de repartir.
+ve2 lb - elle le suit sur les conseils de sa mÃ¨re qui suivra avec son mari en habits de fÃªte
+BÃ¼rger - A minuit, un cavalier frappe Ã  sa porte : c'est son fiancÃ© qui vient la prendre pour qu'on cÃ©lÃ¨bre leurs noces. Elle veut le faire entrer mais il est pressÃ© de repartir.
 
 
 . LA CHEVAUCHEE
-c - Elle part malgré tout avec lui. Prend peur pendant le trajet. En arrivant s'aperçoit qu'il est un monstre
-c - Le diable lui accorde de la laisser si son père lui ouvre. Son père la maudit à nouveau. Quand sa mère ouvre la porte la j.f. a déjà disparu ne laissant que ses sabots et son bonnet
-ve5 s - elle monte en croupe derrière lui
-ve6 - C'est son fiancé qui l'emmène en croupe
-ve2 lb - le fantôme du j.h. l'emporte sur cheval (assise en croupe derrière lui) au galop
-ve5 s - le jeune h. dit : "La lune t'éclaire, la mort t'accompagne. N'as-tu pas peur ?"
-ve5 s - réponse de la j. fille : Non je n'ai pas peur avec toi
-ve2 lb - la j.f. est blessée à la joue par crinière flottante du cheval, se plaint d'aller trop vite
-ve2 lb - la j.f. questionne le cavalier sur le chemin pris: "tout chemin mène où nous devons aller !"..."je vous conduis chez moi"
-.Bürger - Elle monte en croupe, et les voilà lancés dans une course folle. Et à plusieurs reprises au cours de la chevauchée nocturne, l'amant demande : 
+c - Elle part malgrÃ© tout avec lui. Prend peur pendant le trajet. En arrivant s'aperÃ§oit qu'il est un monstre
+c - Le diable lui accorde de la laisser si son pÃ¨re lui ouvre. Son pÃ¨re la maudit Ã  nouveau. Quand sa mÃ¨re ouvre la porte la j.f. a dÃ©jÃ  disparu ne laissant que ses sabots et son bonnet
+ve5 s - elle monte en croupe derriÃ¨re lui
+ve6 - C'est son fiancÃ© qui l'emmÃ¨ne en croupe
+ve2 lb - le fantÃ´me du j.h. l'emporte sur cheval (assise en croupe derriÃ¨re lui) au galop
+ve5 s - le jeune h. dit : "La lune t'Ã©claire, la mort t'accompagne. N'as-tu pas peur ?"
+ve5 s - rÃ©ponse de la j. fille : Non je n'ai pas peur avec toi
+ve2 lb - la j.f. est blessÃ©e Ã  la joue par criniÃ¨re flottante du cheval, se plaint d'aller trop vite
+ve2 lb - la j.f. questionne le cavalier sur le chemin pris: "tout chemin mÃ¨ne oÃ¹ nous devons aller !"..."je vous conduis chez moi"
+.BÃ¼rger - Elle monte en croupe, et les voilÃ  lancÃ©s dans une course folle. Et Ã  plusieurs reprises au cours de la chevauchÃ©e nocturne, l'amant demande : 
 ."M'amie a peur ? Vois ! la lune rayonne !...
 .Les morts vont vite ! en as-tu peur, ma bonne ?
 .- Non, mon ami, mais laisse en paix les morts"
 
 
 .LES OBJETS DONNEES
-ve5 s - elle lui prête son mouchoir qu'il noue autour de sa tête
+ve5 s - elle lui prÃªte son mouchoir qu'il noue autour de sa tÃªte
 ve6 - il a froid, elle lui met 
-.sa capuce sur les épaules
+.sa capuce sur les Ã©paules
 .son mouchoir autour du front
 .ve6 - il lui demande si elle l'aime, 
 .elle lui passe sa bague au doigt
 
 
 .L'ARRIVEE AU CIMETIERE 
-ve4 c - ils passent dans cimetière, le j.h. dit à la j.f. d'attendre, s'avance, soulève une pierre. Le sacristain sortant de l'église dit à la j.f. de fuir : son fiancé mort demuis plusieurs jours va l'entraîner dans sa tombe. Le mort entend, accourt, mais j.f. et sacristain ont franchi la limite où s'arrête son pouvoir.
-ve2 lb - la j.f. voit l'église. la porte du cimetière ouverte
-ve2 lb - le cheval prend l'allée centrale
-.fait un bond par dessus rangées de tombes
-.s'abat au bord d'une fosse toute fraîche. La j.f. est couchée au fond du trou
+ve4 c - ils passent dans cimetiÃ¨re, le j.h. dit Ã  la j.f. d'attendre, s'avance, soulÃ¨ve une pierre. Le sacristain sortant de l'Ã©glise dit Ã  la j.f. de fuir : son fiancÃ© mort demuis plusieurs jours va l'entraÃ®ner dans sa tombe. Le mort entend, accourt, mais j.f. et sacristain ont franchi la limite oÃ¹ s'arrÃªte son pouvoir.
+ve2 lb - la j.f. voit l'Ã©glise. la porte du cimetiÃ¨re ouverte
+ve2 lb - le cheval prend l'allÃ©e centrale
+.fait un bond par dessus rangÃ©es de tombes
+.s'abat au bord d'une fosse toute fraÃ®che. La j.f. est couchÃ©e au fond du trou
 ve5 s - Ils arrivent chez la jeune fille que ses parents n'attendaient pas
-ve5 - A la maison de la j.f. le garçon débride le cheval tandis qu'elle va à l'église où l'on voit des lumières : ce sont les funérailles du marin
-ve5 s - ils trouvent la jument baignée de sueur dans l'écurie
+ve5 - A la maison de la j.f. le garÃ§on dÃ©bride le cheval tandis qu'elle va Ã  l'Ã©glise oÃ¹ l'on voit des lumiÃ¨res : ce sont les funÃ©railles du marin
+ve5 s - ils trouvent la jument baignÃ©e de sueur dans l'Ã©curie
 ve5 s - ils ne trouvent pas le jeune homme
-ve5 s - La jeune fille comprend que son fiancé est mort
+ve5 s - La jeune fille comprend que son fiancÃ© est mort
 ve5 s - la jeune fille meurt aussi
 ve6 - la j.f. tombe morte
-ve2 lb - les parents de la j.f. arrivent chez ceux du j.h en pleine veillée funèbre. Ne trouvent pas leur fille dans l'assistance
-ve7 - Le curé lui dit accepter d'aller à l'église pour mariage, avec un bébé qu'il refusera à la fille. Le fait. Elle l'aurait déchiré, dit-elle, devenue impuissante.
-.Bürger - Voici l'église et le cimetière tout proche. Le noir coursier bondit parmi les tombes et disparaît avec son cavalier dans la terre qui s'entrouvre, et des esprits dansent autour de Lénore, vaincue par la mort et appelant sur elle la pitié de la Providence qu'elle a reniée.
+ve2 lb - les parents de la j.f. arrivent chez ceux du j.h en pleine veillÃ©e funÃ¨bre. Ne trouvent pas leur fille dans l'assistance
+ve7 - Le curÃ© lui dit accepter d'aller Ã  l'Ã©glise pour mariage, avec un bÃ©bÃ© qu'il refusera Ã  la fille. Le fait. Elle l'aurait dÃ©chirÃ©, dit-elle, devenue impuissante.
+.BÃ¼rger - Voici l'Ã©glise et le cimetiÃ¨re tout proche. Le noir coursier bondit parmi les tombes et disparaÃ®t avec son cavalier dans la terre qui s'entrouvre, et des esprits dansent autour de LÃ©nore, vaincue par la mort et appelant sur elle la pitiÃ© de la Providence qu'elle a reniÃ©e.
 
 . L'ENSEVELISSEMENT COMMUN
-ve5 s - on déterre le corps du fiancé pour les enterrer ensemble
-ve2 lb - le cadavre applati et défiguré de la j.f. git dans la fosse où l'on enterre le j.h.
-ve5 s - il a sur la tête le mouchoir donné par la jeune fille
-ve6 - quand on ouvre la bière pour les enterrer ensemble on constate que le cadavre porte la capuce, le mouchoir et la bague
+ve5 s - on dÃ©terre le corps du fiancÃ© pour les enterrer ensemble
+ve2 lb - le cadavre applati et dÃ©figurÃ© de la j.f. git dans la fosse oÃ¹ l'on enterre le j.h.
+ve5 s - il a sur la tÃªte le mouchoir donnÃ© par la jeune fille
+ve6 - quand on ouvre la biÃ¨re pour les enterrer ensemble on constate que le cadavre porte la capuce, le mouchoir et la bague
 
 

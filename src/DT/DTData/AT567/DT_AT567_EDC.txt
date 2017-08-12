@@ -1,82 +1,82 @@
-I. CAPTURE ET MISE A MORT DE L'OISEAU MERVEILLEUX
-I A - Les héros sont deux frères de condition modeste
+ï»¿I. CAPTURE ET MISE A MORT DE L'OISEAU MERVEILLEUX
+I A - Les hÃ©ros sont deux frÃ¨res de condition modeste
 I A1 - qui ont une soeur
 
-I B - Le père (la mère) attrape un oiseau très joli
-I B1 - qui pond chaque jour un oeuf d'or, que lui-même (ou sa femme) va vendre à un homme riche
+I B - Le pÃ¨re (la mÃ¨re) attrape un oiseau trÃ¨s joli
+I B1 - qui pond chaque jour un oeuf d'or, que lui-mÃªme (ou sa femme) va vendre Ã  un homme riche
 
-I C - Le père (la mère)
+I C - Le pÃ¨re (la mÃ¨re)
 I C1 - ses fils
 I C2 - l'homme riche
 I C3 - le fils du roi
-I C4 - découvre(nt) une inscription
+I C4 - dÃ©couvre(nt) une inscription
 I C5 - sous (sur) l'aile de l'oiseau
-I C6 - autour de la tête de l'oiseau
+I C6 - autour de la tÃªte de l'oiseau
 I C7 - disant que celui qui en mangera le coeur
-I C8 - disant que celui qui en mangera la tête
-I C9 - trouvera chaque matin une forte somme sous son oreiller (sa tête)
+I C8 - disant que celui qui en mangera la tÃªte
+I C9 - trouvera chaque matin une forte somme sous son oreiller (sa tÃªte)
 I C10 - deviendra roi.
 
 I D - L'homme riche obtient l'oiseau
 I D1 - le fils du roi obtient l'oiseau
-I D2 - moyennant la promesse d'épouser la fille de l'homme pauvre
+I D2 - moyennant la promesse d'Ã©pouser la fille de l'homme pauvre
 I D3 - moyennant paiement
-I D4 - et sous condition que l'oiseau lui soit servi rôti.
+I D4 - et sous condition que l'oiseau lui soit servi rÃ´ti.
 
-I E - Cependant les deux garçons mangent la (les) partie(s) magique(s) de l'oiseau
+I E - Cependant les deux garÃ§ons mangent la (les) partie(s) magique(s) de l'oiseau
 I E1 - mangent l'oiseau tout entier
-I E2 - et sont chassés
+I E2 - et sont chassÃ©s
 I E3 - et s'enfuient
 
 II. REALISATION DE LA (DES) PREDICTION(S)
-II A - Le don de la forte somme quotidienne est découvert
-II A1 - par les enfants eux-mêmes
+II A - Le don de la forte somme quotidienne est dÃ©couvert
+II A1 - par les enfants eux-mÃªmes
 II A2 - par leurs parents
 II A3 - par les gens hospitaliers qui ont recueilli les deux enfants
-II A4 - par l'hôtesse qui les a hébergés
-II A5 - et qui le révèle(nt) à l'intéressé.
+II A4 - par l'hÃ´tesse qui les a hÃ©bergÃ©s
+II A5 - et qui le rÃ©vÃ¨le(nt) Ã  l'intÃ©ressÃ©.
 
-II B - Le second frère devient roi
-II B1 - en épousant une princesse
-II B2 - car il est désigné comme tel par un signe du Destin
-II B3 - le garçon au don de la somme quotidienne épouse (aussi) une princesse ou la fille d'un seigneur.
+II B - Le second frÃ¨re devient roi
+II B1 - en Ã©pousant une princesse
+II B2 - car il est dÃ©signÃ© comme tel par un signe du Destin
+II B3 - le garÃ§on au don de la somme quotidienne Ã©pouse (aussi) une princesse ou la fille d'un seigneur.
 
-III A - La femme, envieuse, apprend d'une fée ou d'un magicien le moyen de s'emparer (par un vomitif, un fil d'argent...) du coeur (de la tête) de l'oiseau qu'elle avale elle-même ; puis elle abandonne le héros
-Pour la suite, cf. décomposition en éléments du T566
+III A - La femme, envieuse, apprend d'une fÃ©e ou d'un magicien le moyen de s'emparer (par un vomitif, un fil d'argent...) du coeur (de la tÃªte) de l'oiseau qu'elle avale elle-mÃªme ; puis elle abandonne le hÃ©ros
+Pour la suite, cf. dÃ©composition en Ã©lÃ©ments du T566
 
 III. LES FRUITS MERVEILLEUX  -  (T566)
-III A - Le héros trouve et cueille
-III A1 - le héros reçoit de la (d'une) fée
-III A2 - deux sortes de fruits (légumes)
-III A3 - deux espèces d'un même fruit (légume)
-III A4 - dont les premières font pousser des cornes
+III A - Le hÃ©ros trouve et cueille
+III A1 - le hÃ©ros reÃ§oit de la (d'une) fÃ©e
+III A2 - deux sortes de fruits (lÃ©gumes)
+III A3 - deux espÃ¨ces d'un mÃªme fruit (lÃ©gume)
+III A4 - dont les premiÃ¨res font pousser des cornes
 III A5 - allongeant le nez
-III A6 - changent en âne
-III A7 - et dont les secondes font revenir à l'état normal.
+III A6 - changent en Ã¢ne
+III A7 - et dont les secondes font revenir Ã  l'Ã©tat normal.
 III B - Pommes
 III B1 - poires
 III B2 - figues
 III B3 - prunes
 
 IV. LA RECUPERATION DES OBJETS
-IV A - Revenu dans la ville ou habite la princesse (la femme), le héros déguisé en marchand
-IV A1 - installe ses fruits près de l'église où celle-ci se rend à la messe
-IV A2 - lui vend les mauvais fruits (légumes)
-IV A3 - très cher,de sorte qu'elle seule, grâce à la bourse inépuisable, peut les acheter.
-IV B - Les fruits (légumes) font leur effet sur la princesse (la femme)
+IV A - Revenu dans la ville ou habite la princesse (la femme), le hÃ©ros dÃ©guisÃ© en marchand
+IV A1 - installe ses fruits prÃ¨s de l'Ã©glise oÃ¹ celle-ci se rend Ã  la messe
+IV A2 - lui vend les mauvais fruits (lÃ©gumes)
+IV A3 - trÃ¨s cher,de sorte qu'elle seule, grÃ¢ce Ã  la bourse inÃ©puisable, peut les acheter.
+IV B - Les fruits (lÃ©gumes) font leur effet sur la princesse (la femme)
 IV B1 - et sur une (des) personne(s) de son entourage 
-IV C - Aucun médecin ne réussissant à guérir de ces difformités
-IV C1 - qui repoussent aussitôt enlevées
-IV C2 - le héros se déguise en médecin
-IV C3 - guérit grâce à ses autres fruits (légumes) une (des) personne(s) de l'entourage de la princesse
-IV C4 - fait grâce à ses autres fruits (légumes) un début de guérison sur la princesse
-IV C5 - mais déclare qu'il ne peut guérir (complètement) la princesse (femme), tant qu'elle n'aura pas avoué ses péchés, qui contrecarrent la guérison
-IV C6 - il promet de la (les) guérir en exigeant d'emblée la restitution des objets.
-IV D - La princesse restitue l'un après l'autre les objets volés (T567 / Le coeur de l'oiseau magique)
-IV D1 - elle est guérie par le héros
-IV D2 - mais est abandonnée par le héros à moitié guérie seulement
-IV D3 - grâce aux soldats fournis par son objet magique, le héros récupère les deux autres objets.
-IV E - Le héros se fait reconnaître
-IV E1 - il épouse la princesse
-IV E2 - dès qu'il est en pouvoir de l'objet magique transportant partout, le héros se souhaite au loin
-IV E3 - il restitue leurs objets à ses frères (compagnons)
+IV C - Aucun mÃ©decin ne rÃ©ussissant Ã  guÃ©rir de ces difformitÃ©s
+IV C1 - qui repoussent aussitÃ´t enlevÃ©es
+IV C2 - le hÃ©ros se dÃ©guise en mÃ©decin
+IV C3 - guÃ©rit grÃ¢ce Ã  ses autres fruits (lÃ©gumes) une (des) personne(s) de l'entourage de la princesse
+IV C4 - fait grÃ¢ce Ã  ses autres fruits (lÃ©gumes) un dÃ©but de guÃ©rison sur la princesse
+IV C5 - mais dÃ©clare qu'il ne peut guÃ©rir (complÃ¨tement) la princesse (femme), tant qu'elle n'aura pas avouÃ© ses pÃ©chÃ©s, qui contrecarrent la guÃ©rison
+IV C6 - il promet de la (les) guÃ©rir en exigeant d'emblÃ©e la restitution des objets.
+IV D - La princesse restitue l'un aprÃ¨s l'autre les objets volÃ©s (T567 / Le coeur de l'oiseau magique)
+IV D1 - elle est guÃ©rie par le hÃ©ros
+IV D2 - mais est abandonnÃ©e par le hÃ©ros Ã  moitiÃ© guÃ©rie seulement
+IV D3 - grÃ¢ce aux soldats fournis par son objet magique, le hÃ©ros rÃ©cupÃ¨re les deux autres objets.
+IV E - Le hÃ©ros se fait reconnaÃ®tre
+IV E1 - il Ã©pouse la princesse
+IV E2 - dÃ¨s qu'il est en pouvoir de l'objet magique transportant partout, le hÃ©ros se souhaite au loin
+IV E3 - il restitue leurs objets Ã  ses frÃ¨res (compagnons)

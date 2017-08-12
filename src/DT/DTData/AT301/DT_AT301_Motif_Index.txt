@@ -1,1 +1,113 @@
- 
+﻿
+Motifs du motif Index de Aarne et Thompson présents dans le type 301
+
+R10.1. Princess (maiden) abducted. (Cf. R11.1, R12.1, R13.1, R16.1, R17.1, R25.1, R31.) *Types 301, 302, 311, 312
+
+R11.1. Princess (maiden) abducted by monster (ogre). (Cf. R10.1.) *Types 301, 302, 311, 312
+
+H94. Identification by ring. *Types 301, 304, 882
+
+K1816.0.3. Menial disguise of princess's lover. *Types 301, 314, 900
+
+N681. Husband (lover) arrives home just as wife (mistress) is to marry another. *Types 301, 400, 665
+
+H1385.1. Quest for stolen princess. *Types 301, 408, 506
+
+K2211. Treacherous brother. Usually elder brother. *Types 301, 502, 506, 550, 551
+
+H111. Identification by garment. *Types 301, 510B, 451
+
+F601. Extraordinary companions. A group of men with extraordinary powers travel together. *Types 301B, 513, 514, 571
+
+G346. Devastating monster. Lays waste to the land. *Types 301, 550
+
+H1471. Watch for devastating monster. Youngest alone successful. *Types 301, 550
+
+F610. Remarkably strong man. (Strong John). (Cf. X940, X959.1.) *Panzer Beowulf; *Types 301, 650*, 650**, 650, 1003--1013
+
+B631. Human offspring from marriage to animal. *Type 301, 650
+
+F80. Journey to lower world. *Types 301, 650
+
+F611.1.1. Strong man son of bear who has stolen his mother. *Types 301, 650
+
+L114.3. Unruly hero. Types 301, 650
+
+T511.5.1. Conception from eating fish. *Types 301, 705
+
+H151.2. Attention drawn by helpful animal's theft of food from wedding table; recognition follows. *Type 301, 900
+
+B322.1. Hero feeds own flesh to helpful animal. The hero is carried on the back of an eagle who demands food. The hero finally feeds parts of his own flesh.--*Type 301
+
+B542.1.1. Eagle carries man to safety. *Type 301
+
+B635.1. The Bear's Son. Human son of woman who marries a bear acquires bear characteristics. (Cf. B601.1.)--*Type 301
+
+D1032. Magic meat. Type 301C*
+
+D1162.2. Magic candle. Type 301C*
+
+D1171.6. Magic cup. Type 301C*
+
+F92. Pit entrance to lower world. Entrance through pit, hole, spring, or cavern. *Type 301
+
+F96. Rope to lower world. *Type 301
+
+F101.3. Return from lower world on eagle. *Type 301
+
+F102.1. Hero shoots monster (or animal) and follows it into lower world. *Type 301
+
+F451.5.2. Malevolent dwarf. *Type 301
+
+F601.3. Extraordinary companions betray hero. *Type 301
+
+F611.1.2. Strong man son of woman and dwarf. Type 301
+
+F611.1.5. Strong man son of man and she-bear. Type 301
+
+F611.1.6. Strong man son of man and mare. Type 301
+
+F611.2.1. Strong hero suckled by animal. Type 301
+
+G475.1. Ogre attacks intruders in house in woods. *Type 301
+
+G475.2. Ogre attacks intruders on bridge. *Type 301.
+
+K677. Hero tests the rope on which he is to be pulled to upper world. By placing stones on the rope he discovers his companions' treacherous plan to cut the rope. *Type 301
+
+K963. Rope cut and victim dropped. Man is being hauled up on the rope. *Type 301
+
+K1931.2. Impostors abandon hero in lower world. Usually let rope drop on which he is to be raised. *Type 301
+
+K1931.5. Impostors throw hero into prison. Type 301C*.
+
+L112.4. Dirty boy as hero. Type 301
+
+N773. Adventure from following animal to cave (lower world). *Type 301
+
+R111.2.1. Princess(es) rescued from lower world. *Type 301
+
+R154.2. Son rescues father. Type 301C*
+
+T511.1. Conception from eating a fruit. (Cf. F611.1.8.) *Type 301
+
+T68.1. Princess offered as prize to rescuer. *Types 300, 301, 302, 303, 304, 506, 653
+
+K1935. Impostors steal rescued princess. *Types 300, 301, 303, 304*
+
+K1932. Impostors claim reward (prize) earned by hero. *Types 300, 301, 303, 506, 550, 551, 667*
+
+K1816.0.3.1. Hero in menial disguise at heroine's wedding. Types 300, 301, 303
+
+H80. Identification by tokens. Types 300, 301, 304, 306, 873
+
+H83. Rescue tokens. Proof that hero has succeeded in rescue. (Cf. H105, H105.1, H105.2.) *Types 300, 301, 304, 306
+
+K1933. Impostor forces oath of secrecy. Hero or heroine swears not to tell of imposture. *Types 300, 301, 533
+
+H113. Identification by handkerchief. *Types 300, 301
+
+T151. Year's respite from unwelcome marriage. *Type 300, 301
+
+D1162.1. Magic lamp. *Types 561, 301C*
+  

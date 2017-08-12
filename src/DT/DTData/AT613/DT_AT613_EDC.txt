@@ -1,98 +1,98 @@
-I. LE HEROS AVEUGLE
+ï»¿I. LE HEROS AVEUGLE
 I A - Les protagonistes sont deux
 I A1 - sont trois
-I A2 - frères
+I A2 - frÃ¨res
 I A3 - soldats
-I A4 - en congé
+I A4 - en congÃ©
 I A5 - marchands
 I A6 - muletiers
 I A7 - hommes d'une autre profession
-I A8 - mendiants (donnés comme tels dès le début du conte)
+I A8 - mendiants (donnÃ©s comme tels dÃ¨s le dÃ©but du conte)
 I A9 - amis d'enfance ou voisins
-I A10 - qui se sont rencontrés fortuitement
-I A11 - dont l'un est bon et (les) l'autre(s) méchant(s), ou dont l'un (les uns) est (sont) jaloux de l'autre
-I A12 - et qui ont des noms caractéristiques
-I A13 - Le héros est seul.
+I A10 - qui se sont rencontrÃ©s fortuitement
+I A11 - dont l'un est bon et (les) l'autre(s) mÃ©chant(s), ou dont l'un (les uns) est (sont) jaloux de l'autre
+I A12 - et qui ont des noms caractÃ©ristiques
+I A13 - Le hÃ©ros est seul.
 
-I B - Ils font un pari sur la Providence de Dieu, le mauvais compagnon prétendant que tel pont (telle ville) est plus grand(e) qu'elle
+I B - Ils font un pari sur la Providence de Dieu, le mauvais compagnon prÃ©tendant que tel pont (telle ville) est plus grand(e) qu'elle
 I B1 - ils font un autre pari
-I B2 - l'avis de la (des trois) première(s) personne(s) rencontrée(s) devant les départager ; or elle(s) donne(nt) tort au héros
-I B3 - car la (les personne(s) rencontrée(s) est (sont) le diable ou des envoyés du diable
-I B4 - et le héros, perdant le pari, perd son avoir.
+I B2 - l'avis de la (des trois) premiÃ¨re(s) personne(s) rencontrÃ©e(s) devant les dÃ©partager ; or elle(s) donne(nt) tort au hÃ©ros
+I B3 - car la (les personne(s) rencontrÃ©e(s) est (sont) le diable ou des envoyÃ©s du diable
+I B4 - et le hÃ©ros, perdant le pari, perd son avoir.
 
 I C - Partis chercher fortune
-I C1 - après avoir partagé son pain avec son compagnon qui lui par contre n'accepte de lui céder du sien que sous cette condition
+I C1 - aprÃ¨s avoir partagÃ© son pain avec son compagnon qui lui par contre n'accepte de lui cÃ©der du sien que sous cette condition
 I C2 - afin de gagner leur vie sans travailler, ou parce qu'ils sont sans travail
-I C3 - après avoir tiré au sort
-I C4 - le héros est aveuglé par son (ses) compagnon(s)
+I C3 - aprÃ¨s avoir tirÃ© au sort
+I C4 - le hÃ©ros est aveuglÃ© par son (ses) compagnon(s)
 I C5 - successivement des deux yeux
-I C6 - le héros est aveugle de naissance.
+I C6 - le hÃ©ros est aveugle de naissance.
 
-I D - Après avoir pris toujours la meilleure part de la nourriture pour lui (eux)-même(s)
+I D - AprÃ¨s avoir pris toujours la meilleure part de la nourriture pour lui (eux)-mÃªme(s)
 I D1 - afin de garder toute (ou la plus grosse part de la somme recueillie
-I D2 - le(s) mauvais compagnon(s) abandonne(nt) le héros
-I D3 - les deux compagnons se séparent.
+I D2 - le(s) mauvais compagnon(s) abandonne(nt) le hÃ©ros
+I D3 - les deux compagnons se sÃ©parent.
 
 II. LA DECOUVERTE DES SECRETS
-II A - Le héros se réfugie sur un arbre
+II A - Le hÃ©ros se rÃ©fugie sur un arbre
 II A1 - se cache dans une chapelle
-II A2 - se cache à un autre endroit
-II A3 - qui est le lieu de rendez-vous de plusieurs êtres
+II A2 - se cache Ã  un autre endroit
+II A3 - qui est le lieu de rendez-vous de plusieurs Ãªtres
 II A4 - ours
 II A5 - renard
 II A6 - loup
 II A7 - lion
 II A8 - autres animaux sauvages
-II A9 - qui sont en réalité des êtres démoniaques
+II A9 - qui sont en rÃ©alitÃ© des Ãªtres dÃ©moniaques
 II A10 - diables ou sorcier(e)s
 II A11 - brigands
-II A12 - dont le héros surprend les trois secrets qu'il mettra en pratique
+II A12 - dont le hÃ©ros surprend les trois secrets qu'il mettra en pratique
 II A13 - id., avec un autre nombre de secrets
-II A14 - et qui, en se séparant, se donnent rendez-vous l'an prochain au même endroit.
+II A14 - et qui, en se sÃ©parant, se donnent rendez-vous l'an prochain au mÃªme endroit.
 
 III. LA MISE EN PRATIQUE DES SECRETS
-III A - Le héros recouvre la vue
-III A1 - le héros fait recouvrir la vue à un roi
-III A2 - fait recouvrir la vue à une princesse
-III A3 - en frottant les yeux avec l'écorce (les feuilles, la mousse) de l'arbre sur lequel il se trouvait
-III A4 - en lavant les yeux avec l'eau d'une fontaine (d'un ruisseau) non loin de là
-III A5 - en lavant les yeux avec la rosée de cette nuit
-III A6 - et il guérit de même de nombreux aveugles.
+III A - Le hÃ©ros recouvre la vue
+III A1 - le hÃ©ros fait recouvrir la vue Ã  un roi
+III A2 - fait recouvrir la vue Ã  une princesse
+III A3 - en frottant les yeux avec l'Ã©corce (les feuilles, la mousse) de l'arbre sur lequel il se trouvait
+III A4 - en lavant les yeux avec l'eau d'une fontaine (d'un ruisseau) non loin de lÃ 
+III A5 - en lavant les yeux avec la rosÃ©e de cette nuit
+III A6 - et il guÃ©rit de mÃªme de nombreux aveugles.
 
-III B - Le héros met fin au manque d'eau d'une ville (d'un pays) en mettant à jour une source ignorée
-III B1 - qu'il fait jaillir de dessous une pierre qu'il soulève
+III B - Le hÃ©ros met fin au manque d'eau d'une ville (d'un pays) en mettant Ã  jour une source ignorÃ©e
+III B1 - qu'il fait jaillir de dessous une pierre qu'il soulÃ¨ve
 III B2 - qu'il fait jaillir de dessous un arbre qu'il coupe ou arrache.
 
-III C - Le héros fait porter des fruits à un (des) arbre(s) qui dépérissai(en)t
-III C1 - en tuant une (des) bête(s) cachées(s) à cet endroit
-III C2 - en enlevant l'or caché à cet endroit.
+III C - Le hÃ©ros fait porter des fruits Ã  un (des) arbre(s) qui dÃ©pÃ©rissai(en)t
+III C1 - en tuant une (des) bÃªte(s) cachÃ©es(s) Ã  cet endroit
+III C2 - en enlevant l'or cachÃ© Ã  cet endroit.
 
-III D - Le héros rend la santé à une princesse
-III D1 - rend la santé à une autre personne
-III D2 - dont la maladie est l'oeuvre précisément des êtres démoniaques surpris par le héros
-III D3 - car avant sa maladie elle (il) a jeté une hostie
-III D4 - qu'un crapaud (une grenouille) a avalée
-III D5 - le héros enlève ce (un, plusieurs) crapaud(s) caché(s)
-III D6 - enlève une autre bête cachée
+III D - Le hÃ©ros rend la santÃ© Ã  une princesse
+III D1 - rend la santÃ© Ã  une autre personne
+III D2 - dont la maladie est l'oeuvre prÃ©cisÃ©ment des Ãªtres dÃ©moniaques surpris par le hÃ©ros
+III D3 - car avant sa maladie elle (il) a jetÃ© une hostie
+III D4 - qu'un crapaud (une grenouille) a avalÃ©e
+III D5 - le hÃ©ros enlÃ¨ve ce (un, plusieurs) crapaud(s) cachÃ©(s)
+III D6 - enlÃ¨ve une autre bÃªte cachÃ©e
 III D7 - dans ou sous le lit de la (du) malade
-III D8 - fait brûler cette (ces) bête(s)
-III D9 - et en tire un médicament
-III D10 - grâce à l'eau d' certaine source.
+III D8 - fait brÃ»ler cette (ces) bÃªte(s)
+III D9 - et en tire un mÃ©dicament
+III D10 - grÃ¢ce Ã  l'eau d' certaine source.
 
-III E - Le héros est richement récompensé
-III E1 - il épouse la princesse
+III E - Le hÃ©ros est richement rÃ©compensÃ©
+III E1 - il Ã©pouse la princesse
 
 IV. LE COMPAGNON PUNI
-IV A - Par la suite le héros retrouve son (ses) compagnon(s)
+IV A - Par la suite le hÃ©ros retrouve son (ses) compagnon(s)
 IV A1 - sous l'aspect d'un (de) mendiant(s)
-IV A2 - car il a réuni tous les pauvres du royaume
+IV A2 - car il a rÃ©uni tous les pauvres du royaume
 IV A3 - car il passe en revue les soldats du royaume.
 
-IV B - Il se fait reconnaître de lui (d'eux)
-IV B1 - et li (leur) raconte ce qui lui est arrivé
-IV B2 - et le(s) récompense généreusement d'avoir été à l'origine de sa bonne fortune.
+IV B - Il se fait reconnaÃ®tre de lui (d'eux)
+IV B1 - et li (leur) raconte ce qui lui est arrivÃ©
+IV B2 - et le(s) rÃ©compense gÃ©nÃ©reusement d'avoir Ã©tÃ© Ã  l'origine de sa bonne fortune.
 
-IV C - Le(s) compagnon(s), voulant profiter à son (leur) tour de tels secrets, se rend(ent) à l'endroit indiqué, où, effectivement, les mêmes êtres se retrouvent, mais qui se sont rendus compte entre-temps que quelqu'un avait surpris leur conversation ; voulant vérifier que personne ne les écoute, ils découvrent le(s) compagnon(s)
-IV C1 - qu'ils dévorent
-IV C2 - qu'ils tuent d'une autre manière
+IV C - Le(s) compagnon(s), voulant profiter Ã  son (leur) tour de tels secrets, se rend(ent) Ã  l'endroit indiquÃ©, oÃ¹, effectivement, les mÃªmes Ãªtres se retrouvent, mais qui se sont rendus compte entre-temps que quelqu'un avait surpris leur conversation ; voulant vÃ©rifier que personne ne les Ã©coute, ils dÃ©couvrent le(s) compagnon(s)
+IV C1 - qu'ils dÃ©vorent
+IV C2 - qu'ils tuent d'une autre maniÃ¨re
 IV C3 - qu'ils rouent de coups.

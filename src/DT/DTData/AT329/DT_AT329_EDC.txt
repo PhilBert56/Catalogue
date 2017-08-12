@@ -1,36 +1,36 @@
-I. LE HEROS 
-I A - Un jeune homme en âge de se marier
-I A1 - veut (doit) épouser une princesse 
-I A2 - l'épousera s'il triomphe d'épreuves imposées par celui qui la tient en son pouvoir
+ï»¿I. LE HEROS 
+I A - Un jeune homme en Ã¢ge de se marier
+I A1 - veut (doit) Ã©pouser une princesse 
+I A2 - l'Ã©pousera s'il triomphe d'Ã©preuves imposÃ©es par celui qui la tient en son pouvoir
 I A3 - sinon il mourra
 II. A LA RECHERCHE DE LA PRINCESSE 
-II A - Aidé par 3 compagnons aux pouvoirs exceptionnels qu'il rencontre sur son chemin 
+II A - AidÃ© par 3 compagnons aux pouvoirs exceptionnels qu'il rencontre sur son chemin 
 II A1 - autre aide 
-II B - Les quatre compagnons arrivent chez le geôlier de la princesse
-II B1 - Le héros devra, pour obtenir la princesse, la garder toute la nuit, jusqu'au lendemain midi
+II B - Les quatre compagnons arrivent chez le geÃ´lier de la princesse
+II B1 - Le hÃ©ros devra, pour obtenir la princesse, la garder toute la nuit, jusqu'au lendemain midi
 II B2 - les quatre compagnons s'endorment
-II B3 - la princesse est cachée et doit être retrouvée dans les délais prévus en II B1
+II B3 - la princesse est cachÃ©e et doit Ãªtre retrouvÃ©e dans les dÃ©lais prÃ©vus en II B1
 II C - il devra gagner au jeu de la cachette
-II C1 - il se cache lui-même sans être trouvé
-II C2 - il retrouve trois fois son adversaire caché
-II C3 - il retrouve la princesse cachée
+II C1 - il se cache lui-mÃªme sans Ãªtre trouvÃ©
+II C2 - il retrouve trois fois son adversaire cachÃ©
+II C3 - il retrouve la princesse cachÃ©e
 III. DENOUEMENT
-III A - Le geôlier de la princesse est tué
+III A - Le geÃ´lier de la princesse est tuÃ©
 III A1 - autre
-III B - Le héros épouse la princesse
+III B - Le hÃ©ros Ã©pouse la princesse
 
 
 .*
 .		Aarne et Thompson font du T329 l'analyse suivante :
 .Un homme se cache trois fois (dans le ventre d'un poisson etc.)
-I. La Tache imposée
-I A - Une princesse (diable) impose à ses soupirants de se cacher
-I B - Elle a des fenêtres magiques qui lui donnent une vue magique
-I C - les têtes des soupirants qui ont échoué sont placées sur des pieux derrière son palais
-II. Le plus jeune des frères tente l'entreprise
-II A - Après que ses aînés y ont laissé la vie, le plus jeune tente l'entreprise
-II B - Il est aidé par des animaux reconnaissants
-II C - Il est aidé par un vieil homme  [II C1 - par une vieille femme]
-III. Dénouement
-III A - Après s'être caché grâce à l'aide de l'animal dans un oeuf de corbeau puis dans le ventre d'un poisson où il a été découvert, le héros est changé en insecte (ou autre) dans la chevelure de la princesse ; de frayeur elle brise sa fenêtre magique
-III B - L'enchantement du héros prend fin et ils se marient
+I. La Tache imposÃ©e
+I A - Une princesse (diable) impose Ã  ses soupirants de se cacher
+I B - Elle a des fenÃªtres magiques qui lui donnent une vue magique
+I C - les tÃªtes des soupirants qui ont Ã©chouÃ© sont placÃ©es sur des pieux derriÃ¨re son palais
+II. Le plus jeune des frÃ¨res tente l'entreprise
+II A - AprÃ¨s que ses aÃ®nÃ©s y ont laissÃ© la vie, le plus jeune tente l'entreprise
+II B - Il est aidÃ© par des animaux reconnaissants
+II C - Il est aidÃ© par un vieil homme  [II C1 - par une vieille femme]
+III. DÃ©nouement
+III A - AprÃ¨s s'Ãªtre cachÃ© grÃ¢ce Ã  l'aide de l'animal dans un oeuf de corbeau puis dans le ventre d'un poisson oÃ¹ il a Ã©tÃ© dÃ©couvert, le hÃ©ros est changÃ© en insecte (ou autre) dans la chevelure de la princesse ; de frayeur elle brise sa fenÃªtre magique
+III B - L'enchantement du hÃ©ros prend fin et ils se marient

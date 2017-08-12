@@ -1,1 +1,82 @@
- 
+﻿
+Motifs du motif Index de Aarne et Thompson présents dans le type 451
+
+
+S11. Cruel father. *Types 451, 516, 671, 706, 725, 870
+
+
+C400. Speaking tabu. *Type 451, 705, 710
+
+
+K2110.1. Calumniated wife. *Types 451, 706, 707, 712, 883A, 892
+
+
+H215. Magic manifestation at execution proves innocence. Types 451, 710
+
+
+C460. Laughing tabu. Type 451
+
+
+C515. Tabu: touching (plucking) flowers. Type 451
+
+
+D151.5. Transformation: man to raven. *Type 451
+
+
+D161.1. Transformation: man to swan. *Type 451
+
+
+D521. Transformation through wish. Type 451
+
+
+D515. Transformation by plucking flowers in enchanted garden. Type 451.
+
+
+D753.1. Disenchantment by sewing shirts for enchanted brothers. *Type 451
+
+
+D758. Disenchantment by maintaining silence. *Type 451
+
+
+D783. Disenchantment by being found when lost. Type 451.
+
+
+K2116.1.1. Innocent woman accused of killing her new-born children. *Type 451
+
+
+N344.1. Wrong sign put out leads to boys' leaving home. They are to be informed by a sign if a sister is born. *Type 451
+
+
+P251.6.3. Six or seven brothers. Type 451.
+
+
+P251.6.6. Eleven brothers. Type 451
+
+
+P251.6.7. Twelve brothers. Type 451.
+
+
+P253.0.5. One sister and six (seven, eleven, twelve) brothers. Type 451.
+
+
+S272. Sacrifice of brothers promised if girl is born. *Type 451
+
+
+S272.1. Flight of brothers from home to avoid being sacrificed. *Type 451
+
+
+T595. Sign hung out informing brothers whether mother has borne boy or girl. *Type 451
+
+
+Z71.5.1. Seven brothers and one sister. Type 451
+
+
+Z72.2. Seven years, seven months, seven days. Type 451
+
+N711. King (prince) accidentally finds maiden and marries her. *Types 403, 451, 705, 709
+
+
+H1232. Directions on quest given by sun, moon, wind, and stars. *Types 425, 451
+
+
+P253.2. Sister faithful to transformed brother. *Types 450, 451

@@ -1,1 +1,41 @@
- 
+﻿
+Motifs du motif Index de Aarne et Thompson présents dans le type 500
+
+
+H1092. Task: spinning impossible amount in one night. (Cf. H1022.2.) *Types 500, 501, 708
+
+
+D2183. Magic spinning. Usually performed by a supernatural helper. *Types 500, 501
+
+
+H914. Tasks assigned because of mother's foolish boasting. The mother foolishly boasts to the king that the daughter can perform an impossible task (often spinning). *Type 500, 501
+
+
+H512. Guessing with life as wager. *Type 500, 922
+
+
+C432.1. Guessing name of supernatural creature gives power over him. (Tom-Tit-Tot).--*Type 500
+
+
+C821. Tabu: finding age of monster. Type 500
+
+
+F381.1. Fairy leaves when he is named. BP I 366; cf. Type 500.
+
+
+F451.5.1.19. Dwarfs help human beings with spinning. Type 500
+
+
+H521. Test: guessing unknown propounder's name. *Type 500
+
+
+H521.1. Test: guessing unknown propounder's age. *Type 500
+
+
+H1021.8. Task: spinning gold. Type 500
+
+
+N475. Secret name overheard by eavesdropper. *Type 500
+
+
+D981.1. Magic apple. *Types 400, 500, 590, 708, 709.

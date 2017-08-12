@@ -1,40 +1,40 @@
-I. LES FRUITS QUI GUERISSENT (T610)
-I A - Le héros est le plus jeune de trois frères
+ï»¿I. LES FRUITS QUI GUERISSENT (T610)
+I A - Le hÃ©ros est le plus jeune de trois frÃ¨res
 I A1 - fils d'une pauvre veuve
 I A2 - fils de paysan ou de berger
-I A3 - le héros est lui-même berger (ou vacher)
-I A4 - il est chétif ou contrefait
-I A5 - il passe pour être simple d'esprit
-I A6 - le héros n'a pas de frère
+I A3 - le hÃ©ros est lui-mÃªme berger (ou vacher)
+I A4 - il est chÃ©tif ou contrefait
+I A5 - il passe pour Ãªtre simple d'esprit
+I A6 - le hÃ©ros n'a pas de frÃ¨re
 
-I B - Le roi fait proclamer qu'il donnera sa fille en mariage à qui lui apportera les plus beaux fruits
-I B1 - pêches
+I B - Le roi fait proclamer qu'il donnera sa fille en mariage Ã  qui lui apportera les plus beaux fruits
+I B1 - pÃªches
 I B2 - pommes
 I B3 - pommes d'orange ou oranges
 I B4 - figues
 I B5 - hors saison
 I B6 - qui ne poussent pas dans son royaume
-I B7 - car le roi en est très gourmand
-I B8 - car la princesse est très malade
-I B9 - et il a été prédit par une personne consultée qu'elle ne pourrait guérir qu'en mangeant de tels fruits
-I B10 - il a été prédit qu'elle épouserait le garçon qui lui en apporterait
-I B11 - le roi fait proclamer qu'il donnera sa fille en mariage à celui qui sortira vainqueur de certaines épreuves
-I B12 - la princesse épousera celui des prétendants qui saura attraper une pomme d'or lancée par elle ; c'est le héros qui l'attrape.
+I B7 - car le roi en est trÃ¨s gourmand
+I B8 - car la princesse est trÃ¨s malade
+I B9 - et il a Ã©tÃ© prÃ©dit par une personne consultÃ©e qu'elle ne pourrait guÃ©rir qu'en mangeant de tels fruits
+I B10 - il a Ã©tÃ© prÃ©dit qu'elle Ã©pouserait le garÃ§on qui lui en apporterait
+I B11 - le roi fait proclamer qu'il donnera sa fille en mariage Ã  celui qui sortira vainqueur de certaines Ã©preuves
+I B12 - la princesse Ã©pousera celui des prÃ©tendants qui saura attraper une pomme d'or lancÃ©e par elle ; c'est le hÃ©ros qui l'attrape.
 
-I C - L'aîné part
+I C - L'aÃ®nÃ© part
 I C1 - emportant des fruits de son jardin
-I C2 - emportant des fruits qu'il a été cueillir au loin
-I C3 - il rencontre un être secourable
+I C2 - emportant des fruits qu'il a Ã©tÃ© cueillir au loin
+I C3 - il rencontre un Ãªtre secourable
 I C4 - sous forme d'une vieille femme
-I C5 - qui est fée
+I C5 - qui est fÃ©e
 I C6 - qui est la Sainte-Vierge
-I C7 - marraine du héros
+I C7 - marraine du hÃ©ros
 I C8 - un homme
 I C9 - qui est Dieu
-I C10 - près d'une fontaine (ou d'une rivière)
+I C10 - prÃ¨s d'une fontaine (ou d'une riviÃ¨re)
 I C11 - qui lui demande ce qu'il porte dans son panier
-I C12 - qui lui demande à partager son repas
-I C13 - mais à laquelle (auquel) il répond grossièrement
+I C12 - qui lui demande Ã  partager son repas
+I C13 - mais Ã  laquelle (auquel) il rÃ©pond grossiÃ¨rement
 I C14 - 
 I C15 - qu'il porte des crottes (ou autres ordures)
 I C16 - des cornes
@@ -42,118 +42,118 @@ I C17 - des cailloux
 I C18 - des crapauds
 I C19 - des serpents
 I C20 - autre
-I C21 - et l'être rencontré répond qu'il en sera bien ainsi.
+I C21 - et l'Ãªtre rencontrÃ© rÃ©pond qu'il en sera bien ainsi.
 
-I D - C'est effectivement ce qu'il trouve dans son panier en arrivant au château
-I D1 - et il est mis à la porte
+I D - C'est effectivement ce qu'il trouve dans son panier en arrivant au chÃ¢teau
+I D1 - et il est mis Ã  la porte
 I D2 - et il est mis en prison
 I D3 - il est pendu
 
-I E - aventure identique du 2e frère
+I E - aventure identique du 2e frÃ¨re
 
-I F - Au héros qui (dans les mêmes circonstances) dit poliment la vérité
+I F - Au hÃ©ros qui (dans les mÃªmes circonstances) dit poliment la vÃ©ritÃ©
 I F1 - offre de son repas
 I F2 - offre de ses fruits
-I F3 - l'être secourable souhaite (pas toujours explicitement) que ses fruits soient encore plus beaux
-I F4 - l'être secourable remet un objet magique
+I F3 - l'Ãªtre secourable souhaite (pas toujours explicitement) que ses fruits soient encore plus beaux
+I F4 - l'Ãªtre secourable remet un objet magique
 I F5 - remet plusieurs objets magiques
 I F6 - qui pourra (-ont) lui servir par la suite
-I F7 - à l'appeler à son aide.
+I F7 - Ã  l'appeler Ã  son aide.
 
-I G - Les fruits du héros sont effectivement trouvés magnifiques
-I G1 - la princesse est guérie par eux
-I G2 - et sa main est accordée au héros
-I G3 - mais sa main ne sera accordée au héros que moyennant une (de) nouvelle(s) épreuve(s).
+I G - Les fruits du hÃ©ros sont effectivement trouvÃ©s magnifiques
+I G1 - la princesse est guÃ©rie par eux
+I G2 - et sa main est accordÃ©e au hÃ©ros
+I G3 - mais sa main ne sera accordÃ©e au hÃ©ros que moyennant une (de) nouvelle(s) Ã©preuve(s).
 
 II. LE TROUPEAU A GARDER
 II A - Afin de gagner la princesse
-II A1 - cherchant du travail et s'étant fait embaucher dans un château
-II A2 - le héros doit garder un troupeau
-II A3 - successivement des troupeaux différents
+II A1 - cherchant du travail et s'Ã©tant fait embaucher dans un chÃ¢teau
+II A2 - le hÃ©ros doit garder un troupeau
+II A3 - successivement des troupeaux diffÃ©rents
 II A4 - lapins
-II A5 - lièvres
+II A5 - liÃ¨vres
 II A6 - moutons
 II A7 - autres
 II A8 - pendant plusieurs jours
 II A9 -  sous peine de mort.
-II B - Alors que les frères du héros (les pâtres précédents) n'ont pas réussi à garder le troupeau
-II B1 - après s'être d'abord désolé de la dispersion de ses bêtes
-II B2 - le héros voit venir à lui un être secourable
-II B3 - qui est celui déjà rencontré dans l'épis. précédent
-II B4 - le héros appelle à l'aide l'être secourable déjà rencontré
-II B5 - qui lui remet un objet magique pour rassembler ses bêtes
-II B6 - qui lui conseille de se servir de l'objet magique pour rassembler ses bêtes
-II B7 - le héros, de lui-même, se sert de l'objet magique reçu pour rassembler ses bêtes
+II B - Alors que les frÃ¨res du hÃ©ros (les pÃ¢tres prÃ©cÃ©dents) n'ont pas rÃ©ussi Ã  garder le troupeau
+II B1 - aprÃ¨s s'Ãªtre d'abord dÃ©solÃ© de la dispersion de ses bÃªtes
+II B2 - le hÃ©ros voit venir Ã  lui un Ãªtre secourable
+II B3 - qui est celui dÃ©jÃ  rencontrÃ© dans l'Ã©pis. prÃ©cÃ©dent
+II B4 - le hÃ©ros appelle Ã  l'aide l'Ãªtre secourable dÃ©jÃ  rencontrÃ©
+II B5 - qui lui remet un objet magique pour rassembler ses bÃªtes
+II B6 - qui lui conseille de se servir de l'objet magique pour rassembler ses bÃªtes
+II B7 - le hÃ©ros, de lui-mÃªme, se sert de l'objet magique reÃ§u pour rassembler ses bÃªtes
 II B8 - c'est un sifflet
 II B9 - une baguette
 II B10 - (et) un autre objet.
 
-II C - Le héros réunit ainsi les bêtes au complet et les reconduit
+II C - Le hÃ©ros rÃ©unit ainsi les bÃªtes au complet et les reconduit
 II C1 - en rangs, comme des soldats.
 
-II D - Afin de mettre le héros en faute, viennent successivement essayer de lui acheter une bête
-II D1 - après s'être déguisés pour ne pas être reconnus de lui
+II D - Afin de mettre le hÃ©ros en faute, viennent successivement essayer de lui acheter une bÃªte
+II D1 - aprÃ¨s s'Ãªtre dÃ©guisÃ©s pour ne pas Ãªtre reconnus de lui
 II D2 - une servante
 II D3 - un valet
-II D4 - un prétendant
+II D4 - un prÃ©tendant
 II D5 - la princesse
 II D6 - la reine
 II D7 - le roi.
 
-II E - Le héros répond que les bêtes ne sont pas à vendre, mais à gagner moyennant une condition (à exécuter ou à endurer)
-II E1 - le héros répond que ses bêtes sont à vendre moyennant une grosse somme
+II E - Le hÃ©ros rÃ©pond que les bÃªtes ne sont pas Ã  vendre, mais Ã  gagner moyennant une condition (Ã  exÃ©cuter ou Ã  endurer)
+II E1 - le hÃ©ros rÃ©pond que ses bÃªtes sont Ã  vendre moyennant une grosse somme
 II E2 - et "autre chose"
 II E3 - baiser(s)
 II E4 - cabrioles
-II E5 - coups de pied, de bâton, gifles, etc.
-II E6 - coups d'alène dans les fesses
+II E5 - coups de pied, de bÃ¢ton, gifles, etc.
+II E6 - coups d'alÃ¨ne dans les fesses
 II E7 - morceau de peau
-II E8 - trois baisers à l'âne (cheval) sous la queue
-II E9 - autre motif obscène ou scatologique.
+II E8 - trois baisers Ã  l'Ã¢ne (cheval) sous la queue
+II E9 - autre motif obscÃ¨ne ou scatologique.
 
-II F - Le héros cède ainsi à chaque fois une bête, mais qui revient vers lui quand il se sert de son objet magique
-II F1 - au troisième coup
-II F2 - alors même qu'elle est déjà étripée ou écorchée.
+II F - Le hÃ©ros cÃ¨de ainsi Ã  chaque fois une bÃªte, mais qui revient vers lui quand il se sert de son objet magique
+II F1 - au troisiÃ¨me coup
+II F2 - alors mÃªme qu'elle est dÃ©jÃ  Ã©tripÃ©e ou Ã©corchÃ©e.
 
-II G - Le roi est obligé de constater que le héros a gagné
+II G - Le roi est obligÃ© de constater que le hÃ©ros a gagnÃ©
 II G1 - et il lui accorde la main de sa fille
-II G2 - mais il lui inflige une (de) nouvelle(s) épreuves.
+II G2 - mais il lui inflige une (de) nouvelle(s) Ã©preuves.
 
 III. AUTRES EPREUVES
-III A - Trier une énorme quantité de graines
-III A1 - manger une énorme quantité de pain (farine)
+III A - Trier une Ã©norme quantitÃ© de graines
+III A1 - manger une Ã©norme quantitÃ© de pain (farine)
 III A2 - rapporter un anneau perdu dans la mer
-III A3 - passer la nuit avec un lion féroce
+III A3 - passer la nuit avec un lion fÃ©roce
 III A4 - construire un bateau qui va sur terre comme sur mer
 III A5 - autre
 
-III B - Alors que ses frères n'ont pas réussi
-III B1 - le héros réussit
-III B2 - en appelant à l'aide l'être secourable
+III B - Alors que ses frÃ¨res n'ont pas rÃ©ussi
+III B1 - le hÃ©ros rÃ©ussit
+III B2 - en appelant Ã  l'aide l'Ãªtre secourable
 III B3 - en se servant de son objet magique
-III B4 - en émiettant du pain
-III B5 - ce qui fait apparaître des animaux secourables
+III B4 - en Ã©miettant du pain
+III B5 - ce qui fait apparaÃ®tre des animaux secourables
 III B6 - fourmis
 III B7 - rats
 III B8 - poissons.
 
 IV. LE SAC DE VERITES
-IV A - Comme dernière condition, le roi demande au héros de remplir en public un sac de vérités
-IV A1 - de remplir trois sacs de vérités
+IV A - Comme derniÃ¨re condition, le roi demande au hÃ©ros de remplir en public un sac de vÃ©ritÃ©s
+IV A1 - de remplir trois sacs de vÃ©ritÃ©s
 IV A2 - de remplir un sac de mensonges.
 
-IV B - Sur le conseil de l'être secourable
-IV B1 - le héros s'apprête à dévoiler successivement les aventures imposées par lui aux émissaires venus pour lui acheter une bête
-IV B2 - disant à chaque fois : "vérité, entre dans mon sac"
-IV B3 - exigeant des personnes nommées quelles entrent dans  son (ses) sacs.
+IV B - Sur le conseil de l'Ãªtre secourable
+IV B1 - le hÃ©ros s'apprÃªte Ã  dÃ©voiler successivement les aventures imposÃ©es par lui aux Ã©missaires venus pour lui acheter une bÃªte
+IV B2 - disant Ã  chaque fois : "vÃ©ritÃ©, entre dans mon sac"
+IV B3 - exigeant des personnes nommÃ©es quelles entrent dans  son (ses) sacs.
 
-IV C - Il est arrêté avant qu'il n'ait pu achever par l'un des protagonistes
-IV C1 - qui déclare que le sac est plein
+IV C - Il est arrÃªtÃ© avant qu'il n'ait pu achever par l'un des protagonistes
+IV C1 - qui dÃ©clare que le sac est plein
 IV C2 - c'est le roi
 IV C3 - le reine
 IV C4 - la princesse.
 
-IV D - Le héros obtient ainsi la princesse en mariage
-IV D1 - préfère de l'argent
-IV D2 - s'estime suffisamment payé par l'argent gagné lors des ventes de l'épis. II
-IV D3 - obtient la remise en liberté de ses frères.
+IV D - Le hÃ©ros obtient ainsi la princesse en mariage
+IV D1 - prÃ©fÃ¨re de l'argent
+IV D2 - s'estime suffisamment payÃ© par l'argent gagnÃ© lors des ventes de l'Ã©pis. II
+IV D3 - obtient la remise en libertÃ© de ses frÃ¨res.

@@ -1,4 +1,6 @@
-Motifs du motif Index de Aarne et Thompson prÈsents dans le type 402
+Ôªø
+Motifs du motif Index de Aarne et Thompson pr√©sents dans le type 402
+
 D735.1. Beauty and the beast. Disenchantment of animal by being kissed by woman (man).--*Type 402, 425, 433A, 440
 
 B493.1. Helpful frog. *Type 402, 440, 670B*
@@ -29,39 +31,36 @@ D700. Person disenchanted. Types 314, 402, 434*, 442, 502
 
 L10. Victorious youngest son. *Types 326, 402, 471, 513, 550, 551, 554, 569, 570, 571, 577, 580, 610, 935, 1650. 
 
+B313. Helpful animal an enchanted person. *Types 314, 328 (FFC LXXXIII), 402, 510, 530, 531, 532, 533, 545, 550, 551.
 
+B422. Helpful cat. *Types 402, 545, 560; *BP I 325, II 30, 455, III 487; *Aarne MSFO XXV 48; *Dh IV 147ff.; *Fb ‚Äùkat‚Äú II 108a.--Irish myth: Cross; Italian Novella: Rotunda; Breton: S√©billot Incidents s.v. ‚Äùchat‚Äú; Missouri French: Carri√®re; Scotch: Campbell II 279, *284ff.; India: *Thompson-Balys; Japanese: Mitford 253; Korean: Zong in-Sob 28 No. 12; Tonga: Gifford 201.	Breton, French, India, Ireland, Italian, Japanese, Korea, Scotland, Tonga
 
-B313	Helpful animal an enchanted person. *Types 314, 328 (FFC LXXXIII), 402, 510, 530, 531, 532, 533, 545, 550, 551.
+B493.1. Helpful frog. *Type 402, 440, 670B*; *BP I 1ff. (Gr. No. 1), II 30ff. (Gr. No. 63).--Jewish: Neuman; India: *Thompson-Balys: Chinese: Eberhard FFC CXX 30, 180.--Chile: Pino Saavedra 405.--Africa (Zulu): Callaway 241, (Ba Ronga): Einstein 288, (Basuto): Jacottet 202 No. 30.	BaRong, Basuto, Chile, Chinese, India, Jewish, Zulu, Ronga
 
-B422	Helpful cat. *Types 402, 545, 560; *BP I 325, II 30, 455, III 487; *Aarne MSFO XXV 48; *Dh IV 147ff.; *Fb îkatì II 108a.--Irish myth: Cross; Italian Novella: Rotunda; Breton: SÈbillot Incidents s.v. îchatì; Missouri French: CarriËre; Scotch: Campbell II 279, *284ff.; India: *Thompson-Balys; Japanese: Mitford 253; Korean: Zong in-Sob 28 No. 12; Tonga: Gifford 201.	Breton, French, India, Ireland, Italian, Japanese, Korea, Scotland, Tonga
+B493.2. Helpful toad. Type 402; BP II 30ff. (Gr. No. 63).--Missouri-French: Carri√®re; Chinese: Graham.	Chinese, French
 
-B493.1	Helpful frog. *Type 402, 440, 670B*; *BP I 1ff. (Gr. No. 1), II 30ff. (Gr. No. 63).--Jewish: Neuman; India: *Thompson-Balys: Chinese: Eberhard FFC CXX 30, 180.--Chile: Pino Saavedra 405.--Africa (Zulu): Callaway 241, (Ba Ronga): Einstein 288, (Basuto): Jacottet 202 No. 30.	BaRong, Basuto, Chile, Chinese, India, Jewish, Zulu, Ronga
+D142. Transformation: man to cat. Types 402, 566; Fb ‚Äúblod‚Äù IV 48a, ‚Äúkat‚Äù II 108a; Taylor MPh XVII (1919) 59 n. 8.--Breton: S√©billot Incidents s.v. ‚Äúchat‚Äù; French: Cosquin No. 11; German: Grimm No. 130a; India: Thompson-Balys; Tonga: Gifford 20; N. A. Indian: Thompson CColl II 400 ff.	Breton, French, German, India, Tonga, N. A. Indian
 
-B493.2	Helpful toad. Type 402; BP II 30ff. (Gr. No. 63).--Missouri-French: CarriËre; Chinese: Graham.	Chinese, French
+D661. Transformation as punishment. *Dh II 99ff., 123ff., III 284ff., 404ff., 426ff., IV 262; *Type 751A, 368*, 402*; *Fb ‚Äúfisk‚Äù I 296b, ‚Äústen‚Äù III 553b, 554a; *BP III 168, 462; K√∂hler-Bolte I 154; Bolte Zs. f. Vksk. XXIX 69; Pauli (ed. Bolte) No. 413.--Icelandic: *Boberg; Finnish: Kalevala rune 33; Spanish: Boggs FFC XC 97 No. 836A*; Breton: S√©billot Incidents s.v. ‚Äúamoureux‚Äù; Swiss: Jegerlehner Oberwallis 313 No. 82; Greek: Frazer Apollodorus I 343 (Niobe), Fox 29 (Io); Jewish: Neuman; Tahiti: Dixon 65; Africa (Fjort): Dennett 89 No. 22, 105 No. 29.	Breton, Finnish, Fjort, Greek, Iceland, Jewish, Spanish, Swiss, Tahiti
 
-D142	Transformation: man to cat. Types 402, 566; Fb ìblodî IV 48a, ìkatî II 108a; Taylor MPh XVII (1919) 59 n. 8.--Breton: SÈbillot Incidents s.v. ìchatî; French: Cosquin No. 11; German: Grimm No. 130a; India: Thompson-Balys; Tonga: Gifford 20; N. A. Indian: Thompson CColl II 400 ff.	Breton, French, German, India, Tonga, N. A. Indian
+D700. Person disenchanted. Types 314, 402, 434*, 442, 502; *Hdwb. d. Abergl. II 925 s.v. ‚ÄúErl√∂sung‚Äù.--Irish myth: Cross; Breton: S√©billot Incidents s.v. ‚Äúm√©tamorphose‚Äù; India: *Thompson-Balys; Chinese: Werner 285, 356, 364.	Breton, Chinese, India, Ireland
 
-D661	Transformation as punishment. *Dh II 99ff., 123ff., III 284ff., 404ff., 426ff., IV 262; *Type 751A, 368*, 402*; *Fb ìfiskî I 296b, ìstenî III 553b, 554a; *BP III 168, 462; Kˆhler-Bolte I 154; Bolte Zs. f. Vksk. XXIX 69; Pauli (ed. Bolte) No. 413.--Icelandic: *Boberg; Finnish: Kalevala rune 33; Spanish: Boggs FFC XC 97 No. 836A*; Breton: SÈbillot Incidents s.v. ìamoureuxî; Swiss: Jegerlehner Oberwallis 313 No. 82; Greek: Frazer Apollodorus I 343 (Niobe), Fox 29 (Io); Jewish: Neuman; Tahiti: Dixon 65; Africa (Fjort): Dennett 89 No. 22, 105 No. 29.	Breton, Finnish, Fjort, Greek, Iceland, Jewish, Spanish, Swiss, Tahiti
+D711. Disenchantment by decapitation. *Types 314, 402, 425, 440, 441, 471, 506, 507, 531, 545A, 545B, 550, 708; *Fb ‚Äúhoved‚Äù I 655a, ‚Äúl√∏se‚Äù II 517a; **Kittredge JAFL XVIII 1; BP I 9, III 60; Hartland Science 241.--Irish myth: *Cross; French Canadian: Barbeau JAFL XXIX 17; French: S√©billot France III 52, 140; India: Thompson-Balys; Africa (Fjort): Dennett 39 No. 5.	Canada, Fjort, French, French Canadian, India, Ireland
 
-D700	Person disenchanted. Types 314, 402, 434*, 442, 502; *Hdwb. d. Abergl. II 925 s.v. ìErlˆsungî.--Irish myth: Cross; Breton: SÈbillot Incidents s.v. ìmÈtamorphoseî; India: *Thompson-Balys; Chinese: Werner 285, 356, 364.	Breton, Chinese, India, Ireland
+D735.1. Beauty and the beast. Disenchantment of animal by being kissed by woman (man).--*Type 402, 425, 433A, 440; Fb ‚Äúkys‚Äù; Dickson 55 nn. 70, 72; Tobler 53; Zs. f. Vksk. XIV 245; Studien zur vgl. Littgsch. II 360, 472 n. 4.--English: Child V 486 s.v. ‚Äúkiss‚Äù; Chile: Pino Saavedra 404f.; India: Cowell Jataka V 141; Philippine: Fansler MAFLS XII 303; Africa (Kaffir): Theal 38.	Chile, England, India, Kaffir, Philippine
 
-D711	Disenchantment by decapitation. *Types 314, 402, 425, 440, 441, 471, 506, 507, 531, 545A, 545B, 550, 708; *Fb ìhovedî I 655a, ìl¯seî II 517a; **Kittredge JAFL XVIII 1; BP I 9, III 60; Hartland Science 241.--Irish myth: *Cross; French Canadian: Barbeau JAFL XXIX 17; French: SÈbillot France III 52, 140; India: Thompson-Balys; Africa (Fjort): Dennett 39 No. 5.	Canada, Fjort, French, French Canadian, India, Ireland
+H1210.1. Quest assigned by father. *Types 402, 550; Irish myth: *Cross; Missouri French: Carri√®re; Spanish: Espinosa Jr. No. 105; India: *Thompson-Balys; Chile: Pino Saavedra 399, 403, 404; Africa (Ekoi): Talbot 350.	Chile, Ekoi, French, India, Ireland, Spanish
 
-D735.1	Beauty and the beast. Disenchantment of animal by being kissed by woman (man).--*Type 402, 425, 433A, 440; Fb ìkysî; Dickson 55 nn. 70, 72; Tobler 53; Zs. f. Vksk. XIV 245; Studien zur vgl. Littgsch. II 360, 472 n. 4.--English: Child V 486 s.v. ìkissî; Chile: Pino Saavedra 404f.; India: Cowell Jataka V 141; Philippine: Fansler MAFLS XII 303; Africa (Kaffir): Theal 38.	Chile, England, India, Kaffir, Philippine
+H1242. Youngest brother alone succeeds on quest. *Type 402, 471, 550, 551, 577; BP 260, 503; Irish myth: Cross; Missouri French: Carri√®re; India: *Thompson-Balys; N. A. Indian: Thompson CColl II 398; Chile: Pino Saavedra 402--405.	Chile, French, India, Ireland, N. A. Indian
 
-H1210.1	Quest assigned by father. *Types 402, 550; Irish myth: *Cross; Missouri French: CarriËre; Spanish: Espinosa Jr. No. 105; India: *Thompson-Balys; Chile: Pino Saavedra 399, 403, 404; Africa (Ekoi): Talbot 350.	Chile, Ekoi, French, India, Ireland, Spanish
+H1301.1. Quest for the most beautiful bride. Type 402; BP III 18, Fb ‚Äúbrud‚Äù IV 65a; Irish myth: *Cross; English: Wells 151 (Richard Coer de Lyon); Missouri French: Carri√®re; India: Thompson-Balys; Tuamotu: Stimson MS (T-G 3/109, 3/404, z-G. 13/317); Chile: Pino Saavedra 402--405.	Chile, England, French, India, Ireland, Tuamotu
 
-H1242	Youngest brother alone succeeds on quest. *Type 402, 471, 550, 551, 577; BP 260, 503; Irish myth: Cross; Missouri French: CarriËre; India: *Thompson-Balys; N. A. Indian: Thompson CColl II 398; Chile: Pino Saavedra 402--405.	Chile, French, India, Ireland, N. A. Indian
+H1305. Quest for the best of bread. Type 402; BP II 34; India: Thompson-Balys.	India
 
-H1301.1	Quest for the most beautiful bride. Type 402; BP III 18, Fb ìbrudî IV 65a; Irish myth: *Cross; English: Wells 151 (Richard Coer de Lyon); Missouri French: CarriËre; India: Thompson-Balys; Tuamotu: Stimson MS (T-G 3/109, 3/404, z-G. 13/317); Chile: Pino Saavedra 402--405.	Chile, England, French, India, Ireland, Tuamotu
+H1306. Quest for the finest of linen. Type 402; BP II 34; *Hdwb. d. M√§rchens II 150b nn. 452--502; French Canadian: Barbeau JAFL XXIX 21; Spanish: Boggs FFC XC 72 No. 557, Espinosa Jr. No. 105; India: *Thompson-Balys; Chile: Pino Saavedra 402--405.
 
-H1305	Quest for the best of bread. Type 402; BP II 34; India: Thompson-Balys.	India
+H1307. Quest for the smallest of dogs. Type 402; BP II 34.
 
-H1306	Quest for the finest of linen. Type 402; BP II 34; *Hdwb. d. M‰rchens II 150b nn. 452--502; French Canadian: Barbeau JAFL XXIX 21; Spanish: Boggs FFC XC 72 No. 557, Espinosa Jr. No. 105; India: *Thompson-Balys; Chile: Pino Saavedra 402--405.
+L10. Victorious youngest son. *Types 326, 402, 471, 513, 550, 551, 554, 569, 570, 571, 577, 580, 610, 935, 1650. See also references under each of these type entries in FFC LXXIV. *Hdwb. d. M√§rchens I 186a; Malone PMLA XLIII 398f.; *A. Christensen Danske Studier (1916) 46ff.; Chauvin II 115 No. 88.--Irish myth: Cross; Icelandic: *Boberg; Spanish Exempla: Keller; Jewish: *Neuman; India: *Thompson-Balys; Chinese: Graham; Hawaii: Beckwith Myth 491; Tahiti: Henry Ancient Tahiti (Honolulu, 1928) 614; Tuamotu: Stimson MS (T-G. 3/403, 615); Easter Island: M√©traux Ethnology 383; Polynesian: Dixon 41; N. A. Indian: *Thompson Tales 327 n. 185, (California): Gayton and Newman 74; Africa (Jaunde): Heepe 262, (Fang): Tessman 107, (Zanzibar): Bateman 155ff. No. 8, (Ekoi): Talbot 207, 259, 355, (Fjort): Dennett 65 No. 13, (Gold Coast): Barker and Sinclair 171 No. 34; Cape Verde Islands: Parsons MAFLS XV (1) 110f. No. 39.	California Indian, Chinese, Ekoi, Fang, Fjort, Gold Coast, Hawaii, Iceland, India, Ireland, Jaunde, Jewish, Polynesia, Tahiti, Tuamotu, Verde Is., Zanzibar, N. A. Indian, Easter Island, Exempla, Spanish Exempla.
 
-H1307	Quest for the smallest of dogs. Type 402; BP II 34.
-
-L10	Victorious youngest son. *Types 326, 402, 471, 513, 550, 551, 554, 569, 570, 571, 577, 580, 610, 935, 1650. See also references under each of these type entries in FFC LXXIV. *Hdwb. d. M‰rchens I 186a; Malone PMLA XLIII 398f.; *A. Christensen Danske Studier (1916) 46ff.; Chauvin II 115 No. 88.--Irish myth: Cross; Icelandic: *Boberg; Spanish Exempla: Keller; Jewish: *Neuman; India: *Thompson-Balys; Chinese: Graham; Hawaii: Beckwith Myth 491; Tahiti: Henry Ancient Tahiti (Honolulu, 1928) 614; Tuamotu: Stimson MS (T-G. 3/403, 615); Easter Island: MÈtraux Ethnology 383; Polynesian: Dixon 41; N. A. Indian: *Thompson Tales 327 n. 185, (California): Gayton and Newman 74; Africa (Jaunde): Heepe 262, (Fang): Tessman 107, (Zanzibar): Bateman 155ff. No. 8, (Ekoi): Talbot 207, 259, 355, (Fjort): Dennett 65 No. 13, (Gold Coast): Barker and Sinclair 171 No. 34; Cape Verde Islands: Parsons MAFLS XV (1) 110f. No. 39.	California Indian, Chinese, Ekoi, Fang, Fjort, Gold Coast, Hawaii, Iceland, India, Ireland, Jaunde, Jewish, Polynesia, Tahiti, Tuamotu, Verde Is., Zanzibar, N. A. Indian, Easter Island, Exempla, Spanish Exempla
-
-
- T75.1 	Scorn of unloved suitor punished. Types 402*; 906*; Icelandic: Boberg.Iceland
+T75.1. Scorn of unloved suitor punished. Types 402*; 906*; Icelandic: Boberg.Iceland

@@ -114,7 +114,26 @@ class CatalogueController extends Controller
    
     }
 
+    /**
+     * @Route("/ConteType/complements/{ctCode}", name = "ct_show_complements")
+     */
+    public function showComplementsAction($ctCode) {
+    
+        $conteType = $this->rechercherLeConteType($ctCode);
+        /*
+        if (!$conteType->isDefined) {
+            $conteType->genererLesInformationsDuConteType();
+        };
+*/
 
+echo 'BONUS FILE = ', $conteType->bonusFile, '</br>';
+        return $this->render('DTCatalogueBundle:CatalogueViews:complements.html.twig',
+        [
+            'fichierHtml'=> $conteType->bonusFile,
+            'conteTypeCode' => $conteType->ctCode 
+        ]);
+   
+    }
 
     
 

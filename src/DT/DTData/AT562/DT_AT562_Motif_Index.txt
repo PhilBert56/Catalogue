@@ -1,1 +1,20 @@
- 
+﻿
+Motifs du motif Index de Aarne et Thompson présents dans le type 562
+
+
+D845. Magic object found in underground room. Type 562
+
+
+D1175.2. Magic fire-steel (flint, strike-a-light). *Type 562.
+
+
+D1391. Magic object saves person from execution. Type 562
+
+
+D1421.1.2. Magic fire-steel summons genie. (Cf. D1175.2.) *Type 562.
+
+
+D1421.1.4. Magic light summons genie. (Cf. D1162.) *Type 562
+
+
+D1426. Magic object draws woman to man. *Type 562 

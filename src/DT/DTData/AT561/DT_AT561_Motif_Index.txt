@@ -1,1 +1,35 @@
- 
+﻿
+Motifs du motif Index de Aarne et Thompson présents dans le type 561
+
+
+D1162.1. Magic lamp. *Types 561, 301C*
+
+
+N813. Helpful genie (spirit). *Types 561, 562
+
+
+D840. Magic object found. Types 561, 590
+
+
+D812.5. Magic object received from genie. *Type 561
+
+
+D871.1. Magic object exchanged for worthless. Foolish brother (wife) exchanges old object for new. *Type 561
+
+
+D881. Magic object recovered by using second magic object. *Type 561
+
+
+D1174. Magic box. *Type 561
+
+
+D1421.1.5. Magic lamp summons genie. (Cf. D1162.1.) *Type 561
+
+
+D1470.1.16. Magic wishing-lamp. (Cf. D1162.1.) *Type 561
+
+
+D1662.2. Magic lamp works by being stroked. (Cf. D1162.1.) *Type 561
+
+
+D1734.1. Magic power by rubbing talisman. *Type 561. 

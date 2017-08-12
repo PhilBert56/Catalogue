@@ -1,118 +1,118 @@
-I. Le départ des frères
-I A - Un homme et une femme ayant plusieurs garçons ont enfin une fille
+ï»¿I. Le dÃ©part des frÃ¨res
+I A - Un homme et une femme ayant plusieurs garÃ§ons ont enfin une fille
 
-I B - Les garçons partent à la naissance de leur soeur
+I B - Les garÃ§ons partent Ã  la naissance de leur soeur
 I B1 - ils partent avant la naissance de leur soeur
 I B2 - parce que leurs parents sont trop pauvres
-I B3 - parce que toute la fortune doit revenir à leur soeur
+I B3 - parce que toute la fortune doit revenir Ã  leur soeur
 I B4 - parce qu'ils ne veulent pas de soeur
-I B5 - parce que leur père veut les tuer
-I B6 - parce que leur père les a promis inconsidérément au diable pour avoir une fille
-[I B7 ou I C11] - ils accomplissent une action particulière à leur départ
+I B5 - parce que leur pÃ¨re veut les tuer
+I B6 - parce que leur pÃ¨re les a promis inconsidÃ©rÃ©ment au diable pour avoir une fille
+[I B7 ou I C11] - ils accomplissent une action particuliÃ¨re Ã  leur dÃ©part
 
-I C - Ils ont été avertis de cette naissance par un signe
-I C1 - convenu avec leur mère
-I C2 - convenu avec leur père
-I C3 - la naissance d'une fille sera désignée par une quenouille
+I C - Ils ont Ã©tÃ© avertis de cette naissance par un signe
+I C1 - convenu avec leur mÃ¨re
+I C2 - convenu avec leur pÃ¨re
+I C3 - la naissance d'une fille sera dÃ©signÃ©e par une quenouille
 I C4 - par un balai
 I C5 - par une robe
-I C6 - la naissance d'un garçon sera désignée par un fléau
-I C7 - par une bêche
+I C6 - la naissance d'un garÃ§on sera dÃ©signÃ©e par un flÃ©au
+I C7 - par une bÃªche
 I C8 - par un fusil
 I C9 - par un pantalon
-I C10 - mais le signe a été interverti
+I C10 - mais le signe a Ã©tÃ© interverti
 
-I D - Les garçons s'établissent ensemble dans une même maison
-I D1 - chacun restant un jour à la maison pour préparer le repas pendant que les autres seront au travail (à la chasse)
+I D - Les garÃ§ons s'Ã©tablissent ensemble dans une mÃªme maison
+I D1 - chacun restant un jour Ã  la maison pour prÃ©parer le repas pendant que les autres seront au travail (Ã  la chasse)
  
-II. La recherche des frères
-II A - La soeur qui a grandi apprend un jour l'existence de ses frères
-II A1 - par des lavandières qu'elle salue
+II. La recherche des frÃ¨res
+II A - La soeur qui a grandi apprend un jour l'existence de ses frÃ¨res
+II A1 - par des lavandiÃ¨res qu'elle salue
 II A2 - par des voisins (ou autre tierce personne)
 II A3 - par l'un de ses parents
 
-II B - Après avoir vaincu la résistance de sa mère
+II B - AprÃ¨s avoir vaincu la rÃ©sistance de sa mÃ¨re
 II B1 - de sa marraine
-II B2 - à la mort de ses parents
-II B3 - la petite fille se met en route à la recherche de ses frères
+II B2 - Ã  la mort de ses parents
+II B3 - la petite fille se met en route Ã  la recherche de ses frÃ¨res
 
-II C - Elle est guidée par un oiseau qui a emporté un objet de la petite qu'il ne laissera retomber qu'au terme du voyage
-II C1 - elle est guidée par un objet magique
+II C - Elle est guidÃ©e par un oiseau qui a emportÃ© un objet de la petite qu'il ne laissera retomber qu'au terme du voyage
+II C1 - elle est guidÃ©e par un objet magique
 II C2 - qui roulera devant elle
 II C3 - qui lui parlera
-II C4 - qu'elle a reçu d'une fée
-II C5 - envers laquelle elle s'est montrée aimable
-II C6 - qu'elle a reçu de la Ste Vierge
+II C4 - qu'elle a reÃ§u d'une fÃ©e
+II C5 - envers laquelle elle s'est montrÃ©e aimable
+II C6 - qu'elle a reÃ§u de la Ste Vierge
 II C7 - qui est sa marraine
 
-II D - Après avoir perdu son objet magique
-II D1 - en buvant à une fontaine où elle n'aurait pas dû boire
-II D2 - et avoir reçu un autre objet magique
-II D3 - la petite fille arrive à la maison de ses frères
+II D - AprÃ¨s avoir perdu son objet magique
+II D1 - en buvant Ã  une fontaine oÃ¹ elle n'aurait pas dÃ» boire
+II D2 - et avoir reÃ§u un autre objet magique
+II D3 - la petite fille arrive Ã  la maison de ses frÃ¨res
 II D4 - pendant leur absence
-II D5 - mange un peu du repas préparé
+II D5 - mange un peu du repas prÃ©parÃ©
 II D6 - range la maison et fait la cuisine
 II D7 - et s'y cache
 
-II E - Ce manège ayant duré autant de jours qu'il y a de frères
-II E1 - elle est finalement découverte par le dernier des frères
-II E2 - elle se fait reconnaître par l'un des frères
-II E3 - qui prépare les autres à sa venue
-II E4 - et elle est acceptée par tous ses frères avec joie
+II E - Ce manÃ¨ge ayant durÃ© autant de jours qu'il y a de frÃ¨res
+II E1 - elle est finalement dÃ©couverte par le dernier des frÃ¨res
+II E2 - elle se fait reconnaÃ®tre par l'un des frÃ¨res
+II E3 - qui prÃ©pare les autres Ã  sa venue
+II E4 - et elle est acceptÃ©e par tous ses frÃ¨res avec joie
  
-III. La transformation des frères
-III A - Il est convenu que la jeune fille restera à la maison pour faire la cuisine mais ses frères lui recommandent
-III A1 - de ne pas laisser éteindre le feu
-III A2 - de ne pas aller à la maison voisine
+III. La transformation des frÃ¨res
+III A - Il est convenu que la jeune fille restera Ã  la maison pour faire la cuisine mais ses frÃ¨res lui recommandent
+III A1 - de ne pas laisser Ã©teindre le feu
+III A2 - de ne pas aller Ã  la maison voisine
 III A3 - d'offrir de tout ce qu'elle mange aussi au chien (chat)
 
-III B - Ayant cependant laissé le feu s'éteindre
-III B1 - ayant oublié le chien (chat)
-III B2 - qui éteint le feu
+III B - Ayant cependant laissÃ© le feu s'Ã©teindre
+III B1 - ayant oubliÃ© le chien (chat)
+III B2 - qui Ã©teint le feu
 III B3 - qui refuse d'aller chercher du feu
-III B4 - la jeune fille va demander du feu (bois) à la maison voisine, où habite
+III B4 - la jeune fille va demander du feu (bois) Ã  la maison voisine, oÃ¹ habite
 III B5 - un ogre
-III B6 - une ogresse (sorcière)
+III B6 - une ogresse (sorciÃ¨re)
 III B7 - le diable
-III B8 - une bête maléfique
+III B8 - une bÃªte malÃ©fique
 
 III C - On lui donne du feu (bois)
-III C1 - mais la jeune fille doit offrir son doigt à sucer
+III C1 - mais la jeune fille doit offrir son doigt Ã  sucer
 III C2 - par un trou de la porte
 
-III D - La jeune fille qui dépérit est finalement obligée de tout avouer à ses frères
-III D1 - qui lui conseillent de prendre prétexte de sa faiblesse pour demander à l'ogre de passer sa tête à l'intérieur pour qu'ils puissent la couper
-III D2 - qui lui conseillent de tendre à l'ogre un tison rougi au feu à la place de son doigt
-III D3 - et l'ogre est tué
+III D - La jeune fille qui dÃ©pÃ©rit est finalement obligÃ©e de tout avouer Ã  ses frÃ¨res
+III D1 - qui lui conseillent de prendre prÃ©texte de sa faiblesse pour demander Ã  l'ogre de passer sa tÃªte Ã  l'intÃ©rieur pour qu'ils puissent la couper
+III D2 - qui lui conseillent de tendre Ã  l'ogre un tison rougi au feu Ã  la place de son doigt
+III D3 - et l'ogre est tuÃ©
 
-III E - Les frères sont transformés en animaux
-III E1 - parce que leur soeur, innocemment, leur a donné des légumes poussés sur la tombe de l'ogre
-III E2 - parce que leur soeur a cueilli des fleurs poussées sur la tombe de l'ogre
+III E - Les frÃ¨res sont transformÃ©s en animaux
+III E1 - parce que leur soeur, innocemment, leur a donnÃ© des lÃ©gumes poussÃ©s sur la tombe de l'ogre
+III E2 - parce que leur soeur a cueilli des fleurs poussÃ©es sur la tombe de l'ogre
 III E3 - pour en parfumer leur linge
-III E4 - parce que leur soeur leur a offert des peignes donnés ou vendus par l'ogresse
-III E5 - parce que leur soeur leur a offert des écuelles données ou vendus par l'ogresse
-III E6 - parce que l'ogresse (la sorcière) a fait mettre quelque chose dans leur bain
-III E7 - parce que l'ogresse (la sorcière) a fait mettre quelque chose dans leur repas
+III E4 - parce que leur soeur leur a offert des peignes donnÃ©s ou vendus par l'ogresse
+III E5 - parce que leur soeur leur a offert des Ã©cuelles donnÃ©es ou vendus par l'ogresse
+III E6 - parce que l'ogresse (la sorciÃ¨re) a fait mettre quelque chose dans leur bain
+III E7 - parce que l'ogresse (la sorciÃ¨re) a fait mettre quelque chose dans leur repas
  
-IV. L'heureux dénouement
-IV A - Les frères-animaux quittent la jeune fille
-IV A1 - la jeune fille mène paître ses frères-animaux
+IV. L'heureux dÃ©nouement
+IV A - Les frÃ¨res-animaux quittent la jeune fille
+IV A1 - la jeune fille mÃ¨ne paÃ®tre ses frÃ¨res-animaux
 
 IV B - Elle est vue par un prince
-IV B1 - qui l'emmène et l'épouse
-IV B2 - et promet de ne faire aucun mal à ses bêtes
+IV B1 - qui l'emmÃ¨ne et l'Ã©pouse
+IV B2 - et promet de ne faire aucun mal Ã  ses bÃªtes
 
-IV C - Les frères retrouvent leur forme humaine
+IV C - Les frÃ¨res retrouvent leur forme humaine
 IV C1 - au mariage de leur soeur
-IV C2 - grâce au mari qui menace la sorcière
-IV C3 - au baptême du premier enfant
-IV C4 - où le frère-animal préféré est parrain
-IV C5 - après de épreuves endurées par l'héroïne
-IV C6 - en sauvant au dernier moment par leur arrivée leur soeur de la mort
-IV C7 - qui a été calomniée auprès de son mari
-IV C8 - à trois reprises
-IV C9 - par sa belle-mère
+IV C2 - grÃ¢ce au mari qui menace la sorciÃ¨re
+IV C3 - au baptÃªme du premier enfant
+IV C4 - oÃ¹ le frÃ¨re-animal prÃ©fÃ©rÃ© est parrain
+IV C5 - aprÃ¨s de Ã©preuves endurÃ©es par l'hÃ©roÃ¯ne
+IV C6 - en sauvant au dernier moment par leur arrivÃ©e leur soeur de la mort
+IV C7 - qui a Ã©tÃ© calomniÃ©e auprÃ¨s de son mari
+IV C8 - Ã  trois reprises
+IV C9 - par sa belle-mÃ¨re
 IV C10 - d'avoir mis au monde des animaux
-IV C11 - d'avoir tué ses enfants
-IV C12 - et qui n'a pu se défendre parce que, pour libérer ses frères, elle devait rester muette
-IV C13 - après des épisodes analysés au T450
+IV C11 - d'avoir tuÃ© ses enfants
+IV C12 - et qui n'a pu se dÃ©fendre parce que, pour libÃ©rer ses frÃ¨res, elle devait rester muette
+IV C13 - aprÃ¨s des Ã©pisodes analysÃ©s au T450

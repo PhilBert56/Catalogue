@@ -1,39 +1,39 @@
-I. L'INVITATION AU MORT
-I A - Un homme invite un mort à venir souper avec lui
-I A1 - ou à venir à son mariage
-I A2 - parce qu'ils étaient liés d'amitié du vivant du mort
-I A3 - et qu'ils s'étaient juré de s'inviter, morts ou vifs
-I A4 - parce qu'il a trébuché contre la tête de mort
-I A5 - parce qu'il s'est servi de la tête de mort comme masque pour effrayer le village
+ï»¿I. L'INVITATION AU MORT
+I A - Un homme invite un mort Ã  venir souper avec lui
+I A1 - ou Ã  venir Ã  son mariage
+I A2 - parce qu'ils Ã©taient liÃ©s d'amitiÃ© du vivant du mort
+I A3 - et qu'ils s'Ã©taient jurÃ© de s'inviter, morts ou vifs
+I A4 - parce qu'il a trÃ©buchÃ© contre la tÃªte de mort
+I A5 - parce qu'il s'est servi de la tÃªte de mort comme masque pour effrayer le village
 I A6 - par forfanterie d'ivrogne.
-I B - A l'heure indiquée le mort arrive
-I B1 - visible aux seuls yeux de celui qui l'a invité
+I B - A l'heure indiquÃ©e le mort arrive
+I B1 - visible aux seuls yeux de celui qui l'a invitÃ©
 I B2 - sous son apparence de vivant
-I B3 - s'assied à table
+I B3 - s'assied Ã  table
 I B4 - festoie
 I B5 - fait semblant seulement de manger
 I B6 - jetant les aliments sous la table
-I B7 - il suit les mariés à l'église
+I B7 - il suit les mariÃ©s Ã  l'Ã©glise
 I B8 - il danse
 I B9 - et suit le vivant dans son lit.
-I C - La servante et la mère, après s'être évanouies de frayeur, reviennent à elles et passent la nuit en prières
+I C - La servante et la mÃ¨re, aprÃ¨s s'Ãªtre Ã©vanouies de frayeur, reviennent Ã  elles et passent la nuit en priÃ¨res
 
 II. L'INVITATION DU MORT
-II A - Le mort invite à son tour le jeune homme à venir souper au cimetière
-II A1 - le menaçant des pires malheurs q'il ne se rendait pas à cette invitation.
-II B - Conseillé par un prêtre
-II B1 - protégé par l'âme de son filleul
-II B2 - le jeune homme se rend à l'invitation
-II B3 - la table est dressée dans l'église
+II A - Le mort invite Ã  son tour le jeune homme Ã  venir souper au cimetiÃ¨re
+II A1 - le menaÃ§ant des pires malheurs q'il ne se rendait pas Ã  cette invitation.
+II B - ConseillÃ© par un prÃªtre
+II B1 - protÃ©gÃ© par l'Ã¢me de son filleul
+II B2 - le jeune homme se rend Ã  l'invitation
+II B3 - la table est dressÃ©e dans l'Ã©glise
 II B4 - ou dans le caveau
 II B5 - le jeune homme mange
 II B6 - ne fait que semblant de manger et de boire
-II B7 - il est obligé de danser avec les morts
+II B7 - il est obligÃ© de danser avec les morts
 
 III. DENOUEMENT
 III A - Le jeune homme meurt de frayeur sur-le-champ
-III A1 - il meurt peu de temps après
+III A1 - il meurt peu de temps aprÃ¨s
 III A2 - il est englouti
 III A3 - il revient sain et sauf
 III A4 - nanti de la recommandation de ne plus jamais insulter les morts
-III A5 - il se fait prêtre
+III A5 - il se fait prÃªtre

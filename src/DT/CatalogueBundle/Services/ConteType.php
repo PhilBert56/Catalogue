@@ -90,28 +90,28 @@ class ConteType
 
             $lines = file($this->fichierDesVersions);
 
-
             foreach ($lines as $lineNumber => $lineContent){ 
             
                $elements = explode (".",$lines[$lineNumber],2);
-
+               
                if ( is_numeric ($elements[0])) {
                     $version = new VersionDuConteType($this->ctCode);
                     $this->hasVersion = true;
                     $version->numero = $elements[0];
-                    $version->reference = $elements[1];
+                    $version->reference = utf8_encode ($elements[1]);
                     $this->versions[] = $version;
                     $version->trouverLeFichierSourceAssocie($this);
-                    
                 } else {
                     $ligne = $lines[$lineNumber];
-                    //echo 'ICI ligne = ',$ligne,'</br>';
                     $occurencesEDC = new OccurencesEDC ($version->numero,$ligne) ;
                     
                     if (count($occurencesEDC->edcCodes)>0){ 
                         $this->occurencesDesElementsDuConteType[] = $occurencesEDC;
                     }
+
+                    $ligne = utf8_encode ( $lines[$lineNumber] ) ;
                     $version->setDescription ($ligne);
+
                 }
             }
         }
@@ -148,14 +148,16 @@ class ConteType
                 $edct->isHeader = true;
             } else {
                 if ( count($section) > 1     ) { 
-                    $edct->codeElementDuConte = $section[1];
+                    for ($i = 1; $i<count($section); $i++){
+                        if ($section[$i] ==':') break;
+                        $edct->codeElementDuConte = $edct->codeElementDuConte.$section[$i];
+                    }
                 }
             }
             
             $edcTab[] = $edct;
         }
         $this->elementsDuConte = $edcTab;
-        //dump ($this->elementsDuConte);
     }
 
     public function associerElementsDuConteEtVersions(){
@@ -182,10 +184,17 @@ class ConteType
     public function setBonus(){
 
         //echo 'BONUS ';
-        $path = '..\web\Complements';
+        //$path = '..\DTData\A'.$this->ctCode;
         
+        
+        //$this->bonusFile = '..\src\DT\CatalogueBundle\Resources\views\Complements\A'.$this->ctCode.'.HTM';
+        $this->bonusFile = 'A'.$this->ctCode.'.HTM';
+        $this->hasBonus = true;
+   /* 
         $numeroConte = str_replace('T', '', $this->ctCode);
         $numeroConte = substr($this->ctCode,1,3);
+        
+
         
         $fichiers = scandir($path);
 
@@ -199,27 +208,26 @@ class ConteType
                 break;
             }
 
-        }
+        }*/
     }
 
 
     public function genererLaListeDesMotifs(){
-        echo 'j entre dans motifs ';
-
+        
         if (!file_exists($this->fichierDesMotifs)){
             echo 'FILE :$this->fichierDesMotifs inexistant';
             return;
        }
 
 
-        echo 'ouvre : ',$this->fichierDesMotifs;
+        //echo 'ouvre : ',$this->fichierDesMotifs;
         $lines = file($this->fichierDesMotifs);
         $motifsTab = [];
         
         foreach ($lines as $lineNumber => $lineContent){
 
             /* recherche du numero de section en chiffres romains */
-            
+
             $code = explode(' ',$lines[$lineNumber]);
             $c0 = $code[0] ;
             $l = strlen($c0);

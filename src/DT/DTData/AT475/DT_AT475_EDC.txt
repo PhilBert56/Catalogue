@@ -1,8 +1,8 @@
-I. LA RENCONTRE DU DIABLE
-I A - Le héros est un jeune garçon
+ï»¿I. LA RENCONTRE DU DIABLE
+I A - Le hÃ©ros est un jeune garÃ§on
 I A1 - parti chercher fortune
-I A2 - promis au diable par son père
-I A3 - le héros est un soldat congédié
+I A2 - promis au diable par son pÃ¨re
+I A3 - le hÃ©ros est un soldat congÃ©diÃ©
 I A4 - est un tailleur
 I A5 - est une fille
 I B - Il rencontre sur son chemin le diable
@@ -10,53 +10,53 @@ I B1 - sous l'apparence d'un monsieur bien mis
 I B2 - il trouve une jument
 I B3 - qui le conduit chez le diable
 I B4 - il se rend chez le diable
-I C - Le diable lui propose de le prendre à son service et il accepte
-I D - Le héros est transporté par les airs jusqu'à la demeure du diable
+I C - Le diable lui propose de le prendre Ã  son service et il accepte
+I D - Le hÃ©ros est transportÃ© par les airs jusqu'Ã  la demeure du diable
 
 II. CHEZ LE DIABLE
 II A - Le diable lui explique son travail
-II A1 - entretenir le feu sous une (des) chaudière(s)
-II A2 - avec interdiction de la (les) déboucher
-II A3 - coudre des vêtements
-II A4 - tenir une écurie
+II A1 - entretenir le feu sous une (des) chaudiÃ¨re(s)
+II A2 - avec interdiction de la (les) dÃ©boucher
+II A3 - coudre des vÃªtements
+II A4 - tenir une Ã©curie
 II A5 - tenir toute la maison
-II A6 - le diable lui permet de visiter tout son château
+II A6 - le diable lui permet de visiter tout son chÃ¢teau
 II A7 - sauf une chambre
 II A8 - sauf un souterrain
-II B - Le diable s'étant absenté
-II B1 - le héros commence par exécuter son travail comme convenu
+II B - Le diable s'Ã©tant absentÃ©
+II B1 - le hÃ©ros commence par exÃ©cuter son travail comme convenu
 II B2 - mais il entend des plaintes
-II B3 - mais il est tourmenté par la curiosité
-II B4 - il débouche une chaudière
-II B5 - il ouvre la pièce interdite
-II B6 - il aperçoit un (des) parent(s)
-II B7 - il aperçoit une personne (des personnes) connue(s)
+II B3 - mais il est tourmentÃ© par la curiositÃ©
+II B4 - il dÃ©bouche une chaudiÃ¨re
+II B5 - il ouvre la piÃ¨ce interdite
+II B6 - il aperÃ§oit un (des) parent(s)
+II B7 - il aperÃ§oit une personne (des personnes) connue(s)
 II B8 - un (des) inconnu(s)
-II B9 - qui est (sont) là pour des fautes minimes
-II B10 - et lui demande(nt) de modérer le feu
-II B11 - qui semble(nt) confortablement installé(s)
-II B12 - mais qui est (sont) en réalité en train de brûler
-II C - Le héros est mis en garde par cette (ces) personne(s) qui lui conseille(nt)
-II C1 - de partir immédiatement
-II C2 - de demander son congé au diable dès que celui-ci sera rentré
+II B9 - qui est (sont) lÃ  pour des fautes minimes
+II B10 - et lui demande(nt) de modÃ©rer le feu
+II B11 - qui semble(nt) confortablement installÃ©(s)
+II B12 - mais qui est (sont) en rÃ©alitÃ© en train de brÃ»ler
+II C - Le hÃ©ros est mis en garde par cette (ces) personne(s) qui lui conseille(nt)
+II C1 - de partir immÃ©diatement
+II C2 - de demander son congÃ© au diable dÃ¨s que celui-ci sera rentrÃ©
 II C3 - de n'exiger qu'un salaire ordinaire
-II C4 - de ne pas se payer lui-même
+II C4 - de ne pas se payer lui-mÃªme
 II C5 - de n'accepter ni or ni argent
 II C6 - d'exiger en paiement une vieille culotte
-II C7 - d'exiger en paiement un chargement d'âmes
-II C8 - de se laisser glisser du cheval du diable une fois arrivé sur la terre
-II D - Le héros suit ces recommandations et le diable est obligé de s'incliner
+II C7 - d'exiger en paiement un chargement d'Ã¢mes
+II C8 - de se laisser glisser du cheval du diable une fois arrivÃ© sur la terre
+II D - Le hÃ©ros suit ces recommandations et le diable est obligÃ© de s'incliner
 II D1 - mais ne lui accorde la culotte que pour un certain temps
-II D2 - le héros est chassé par le diable
+II D2 - le hÃ©ros est chassÃ© par le diable
 
 III. DENOUEMENT
-III A - Le héros revient sur la terre
+III A - Le hÃ©ros revient sur la terre
 III A1 - avec sa culotte, dont il constate qu'elle le fournit en or et en argent
-III B - Sa culotte magique éveillant l'envie d'une hôtelière, celle-ci le fait condamner comme voleur
-III B1 - mais il est sauvé par le diable accouru à son secours
-III B2 - devenu riche grâce à sa culotte, il obtient la main d'une princesse
-III B3 - dont les soeurs s'étranglent de dépit et se damnent
-III B4 - et fait rendre à la culotte autant d'or que possible avant de la restituer au diable, venu la reprendre
-III C - La héros sauve son (ses) parent(s) de l'enfer
-III C1 - par ses prières
-III C2 - par son jeûne
+III B - Sa culotte magique Ã©veillant l'envie d'une hÃ´teliÃ¨re, celle-ci le fait condamner comme voleur
+III B1 - mais il est sauvÃ© par le diable accouru Ã  son secours
+III B2 - devenu riche grÃ¢ce Ã  sa culotte, il obtient la main d'une princesse
+III B3 - dont les soeurs s'Ã©tranglent de dÃ©pit et se damnent
+III B4 - et fait rendre Ã  la culotte autant d'or que possible avant de la restituer au diable, venu la reprendre
+III C - La hÃ©ros sauve son (ses) parent(s) de l'enfer
+III C1 - par ses priÃ¨res
+III C2 - par son jeÃ»ne

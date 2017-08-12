@@ -1,51 +1,51 @@
-I. LE HEROS
-I A - Le héros s'appelle Quatorze
+ï»¿I. LE HEROS
+I A - Le hÃ©ros s'appelle Quatorze
 I A1 - s'appelle Trente
 I A2 - s'appelle Jean de l'Ours
 I A3 - autre
 
 I B - Il est fils d'une pauvre femme
-I B1 - le quatorzième enfant d'une famille pauvre
-I B2 - fils d'une femme enlevée par un ours
-I B3 - c'est un enfant trouvé par un vacher
+I B1 - le quatorziÃ¨me enfant d'une famille pauvre
+I B2 - fils d'une femme enlevÃ©e par un ours
+I B3 - c'est un enfant trouvÃ© par un vacher
 
-I C - Il est devenu très fort
-I C1 - après avoir longtemps tété sa mère
-I C2 - tété une vache
-I C3 - après avoir passé toute son enfance au lit
-I C4 - ou du moins à ne rien faire
-I C5 - après s'être essayé pendant des années à soulever la pierre le maintenant prisonnier, avec sa mère, d'un ours
-I C6 - après avoir reçu ce don de la Ste Vierge
-I C7 - après avoir reçu ce don d'une fée
-I C8 - après avoir reçu ce don du diable en échange de son âme.
+I C - Il est devenu trÃ¨s fort
+I C1 - aprÃ¨s avoir longtemps tÃ©tÃ© sa mÃ¨re
+I C2 - tÃ©tÃ© une vache
+I C3 - aprÃ¨s avoir passÃ© toute son enfance au lit
+I C4 - ou du moins Ã  ne rien faire
+I C5 - aprÃ¨s s'Ãªtre essayÃ© pendant des annÃ©es Ã  soulever la pierre le maintenant prisonnier, avec sa mÃ¨re, d'un ours
+I C6 - aprÃ¨s avoir reÃ§u ce don de la Ste Vierge
+I C7 - aprÃ¨s avoir reÃ§u ce don d'une fÃ©e
+I C8 - aprÃ¨s avoir reÃ§u ce don du diable en Ã©change de son Ã¢me.
 
-I D - C'est un énorme gaillard
+I D - C'est un Ã©norme gaillard
 I D1 - c'est un jeune homme paraissant fluet
 I D2 - qui a la force de quatorze hommes
-I D3 - qui a la force de quatorze géants
+I D3 - qui a la force de quatorze gÃ©ants
 I D4 - qui mange comme quatorze
 
 II. L'ENGAGEMENT COMME DOMESTIQUE
 II A - Ses parents le prient de partir
-II A1 - sa mère le prie de partir
+II A1 - sa mÃ¨re le prie de partir
 II A2 - parce qu'elle (ils) ne peut (peuvent) plus le nourrir
-II A3 - il décide lui-même de partir.
+II A3 - il dÃ©cide lui-mÃªme de partir.
 
-II B - Il se fait faire une canne de fer d'un poids énorme
-II B1 - il déracine un arbre et s'en fait une canne, ou une gaule.
+II B - Il se fait faire une canne de fer d'un poids Ã©norme
+II B1 - il dÃ©racine un arbre et s'en fait une canne, ou une gaule.
 
 II C - Il s'engage comme domestique chez un seigneur
 II C1 - s'engage chez un fermier
 II C2 - s'engage chez un meunier
-II C3 - pour une année
-II C4 - moyennant sa charge de blé
-II C5 - moyennant une nourriture suffisant à son appétit
-II C6 - moyennant la permission de donner une tape à son patron
+II C3 - pour une annÃ©e
+II C4 - moyennant sa charge de blÃ©
+II C5 - moyennant une nourriture suffisant Ã  son appÃ©tit
+II C6 - moyennant la permission de donner une tape Ã  son patron
 II C7 - id. trois tapes
-II C8 - s'engage à travailler comme quatorze, à condition d'obtenir la nourriture de quatorze.
+II C8 - s'engage Ã  travailler comme quatorze, Ã  condition d'obtenir la nourriture de quatorze.
 
 III. LES EXPLOITS
-III A - le héros est chargé
+III A - le hÃ©ros est chargÃ©
 III A1 - d'aller couper (ou de rentrer) du bois
 III A2 - de labourer
 III A3 - de faucher
@@ -55,89 +55,89 @@ III A6 - de mener du fumier aux champs
 III A7 - de battre
 III A8 - de vanner.
 
-III B - Après s'être reposé une bonne partie de la journée
-III B1 - et avoir beaucoup mangé
-III B2 - il accomplit le travail demandé en très peu de temps
-III B3 - il accomplit le travail au-delà de ce qui était désiré
-III B4 - il coupe toute la forêt
+III B - AprÃ¨s s'Ãªtre reposÃ© une bonne partie de la journÃ©e
+III B1 - et avoir beaucoup mangÃ©
+III B2 - il accomplit le travail demandÃ© en trÃ¨s peu de temps
+III B3 - il accomplit le travail au-delÃ  de ce qui Ã©tait dÃ©sirÃ©
+III B4 - il coupe toute la forÃªt
 III B5 - lie son faix avec des arbres tordus en liens
 III B6 - coupe le cheval en deux d'un coup de fouet
-III B7 - abîme l'attelage ou l'outillage sous des charges trop lourdes
-III B8 - les chevaux (boeufs) étant incapables d'avancer
-III B9 - et s'attelle lui-même à la charrue
-III B10 - s'attelle à la voiture
+III B7 - abÃ®me l'attelage ou l'outillage sous des charges trop lourdes
+III B8 - les chevaux (boeufs) Ã©tant incapables d'avancer
+III B9 - et s'attelle lui-mÃªme Ã  la charrue
+III B10 - s'attelle Ã  la voiture
 III B11 - et porte les chevaux (boeufs) en plus
-III B12 - il bat avec deux arbres liés en guise de fléau
+III B12 - il bat avec deux arbres liÃ©s en guise de flÃ©au
 III B13 - et vanne avec la porte de la grange.
 
-III C - Ses bêtes ayant été dévorées par des loups
+III C - Ses bÃªtes ayant Ã©tÃ© dÃ©vorÃ©es par des loups
 III C1 - id. par des ours
-III C2 - il attelle ces animaux sauvages à leur place
-III C3 - fait entrer les loups à l'étable
-III C4 - ramène des loups du pacage au lieu des vaches.
+III C2 - il attelle ces animaux sauvages Ã  leur place
+III C3 - fait entrer les loups Ã  l'Ã©table
+III C4 - ramÃ¨ne des loups du pacage au lieu des vaches.
 
-III D - Le héros doit aller charger du bois le lendemain, avec les autres valets
-III D1 - il se lève plus tard qu'eux
-III D2 - les rencontre s'en revenant déjà
+III D - Le hÃ©ros doit aller charger du bois le lendemain, avec les autres valets
+III D1 - il se lÃ¨ve plus tard qu'eux
+III D2 - les rencontre s'en revenant dÃ©jÃ 
 III D3 - et le raillant
 III D4 - il arrache plusieurs arbres, et les charge
-III D5 - les chevaux ne pouvant avancer, il s'attelle lui-même
+III D5 - les chevaux ne pouvant avancer, il s'attelle lui-mÃªme
 III D6 - et porte les chevaux
-III D7 - sur le retour, il trouve les autres valets arrêtés par un obstacle leur barrant la route
-III D8 - qu'il a lui-même installé auparavant
-III D9 - il le soulève aisément et passe
-III D10 - et leur permet également de passer
+III D7 - sur le retour, il trouve les autres valets arrÃªtÃ©s par un obstacle leur barrant la route
+III D8 - qu'il a lui-mÃªme installÃ© auparavant
+III D9 - il le soulÃ¨ve aisÃ©ment et passe
+III D10 - et leur permet Ã©galement de passer
 III D11 - il revient avant eux.
 
 IV. ESSAIS DE TUER LE HEROS
-IV A - Son maître décide de se débarrasser de lui, parce qu'il est effrayé par sa force
-IV A1 - id. par son appétit
+IV A - Son maÃ®tre dÃ©cide de se dÃ©barrasser de lui, parce qu'il est effrayÃ© par sa force
+IV A1 - id. par son appÃ©tit
 
 IV B - Il le charge de curer un puits
-IV B1 - il le charge de chercher une bague tombée au fond du puits
+IV B1 - il le charge de chercher une bague tombÃ©e au fond du puits
 IV B2 - il fait jeter de grosses pierres sur lui
-IV B3 - et finalement une énorme meule
-IV B4 - et une énorme cloche
-IV B5 - le héros crie de chasser les poules qui fientent et jettent du gravier
+IV B3 - et finalement une Ã©norme meule
+IV B4 - et une Ã©norme cloche
+IV B5 - le hÃ©ros crie de chasser les poules qui fientent et jettent du gravier
 IV B6 - il souffle et fit voler les pierres hors du puits
 IV B7 - il remonte, la meule en collier autour du cou
-IV B8 - et coiffé de la cloche comme d'un chapeau
+IV B8 - et coiffÃ© de la cloche comme d'un chapeau
 IV B9 - il assomme les valets
 
-IV C - Le maître l'envoie moudre du grain à un moulin hanté, d'où il revient indemne
-IV C1 - amenant le moulin à côté de la ferme, pour éviter dorénavant tout déplacement
+IV C - Le maÃ®tre l'envoie moudre du grain Ã  un moulin hantÃ©, d'oÃ¹ il revient indemne
+IV C1 - amenant le moulin Ã  cÃ´tÃ© de la ferme, pour Ã©viter dorÃ©navant tout dÃ©placement
 
-IV D - Son maître l'envoie à la guerre
-IV D1 - monté sur un mauvais cheval
-IV D2 - sur un âne ou un mulet
-IV D3 - il se sert en route de sa monture pour abattre des poires en la lançant dans l'arbre
-IV D4 - les balles ne lui font pas plus d'effet que des piqûres de mouches
-IV D5 - il en va de même des boulets de canon
+IV D - Son maÃ®tre l'envoie Ã  la guerre
+IV D1 - montÃ© sur un mauvais cheval
+IV D2 - sur un Ã¢ne ou un mulet
+IV D3 - il se sert en route de sa monture pour abattre des poires en la lanÃ§ant dans l'arbre
+IV D4 - les balles ne lui font pas plus d'effet que des piqÃ»res de mouches
+IV D5 - il en va de mÃªme des boulets de canon
 IV D6 - il attrape sa monture par la queue et assomme ainsi tous les soldats
 
-IV E - Son maître l'envoie demander de l'or ou de l'argent au diable
-IV E1 - l'envoie chercher le diable lui-même en enfer
-IV E2 - le héros se fait donner de fortes tenailles
-IV E3 - et ramène le diable
-IV E4 - en route, le diable s'échappe, mais il retourne le chercher en enfer
-IV E5 - le maître horrifié lui dit de le lâcher
-IV E6 - le diable est obligé de donner beaucoup d'or et d'argent
-IV E7 - que le maître partage avec le héros.
+IV E - Son maÃ®tre l'envoie demander de l'or ou de l'argent au diable
+IV E1 - l'envoie chercher le diable lui-mÃªme en enfer
+IV E2 - le hÃ©ros se fait donner de fortes tenailles
+IV E3 - et ramÃ¨ne le diable
+IV E4 - en route, le diable s'Ã©chappe, mais il retourne le chercher en enfer
+IV E5 - le maÃ®tre horrifiÃ© lui dit de le lÃ¢cher
+IV E6 - le diable est obligÃ© de donner beaucoup d'or et d'argent
+IV E7 - que le maÃ®tre partage avec le hÃ©ros.
 
 V. DENOUEMENT
-V A - Le héros dit que son temps est révolu
-V A1 - on lui fait croire que son temps est révolu
-V A2 - il accepte de s'en aller bien que son temps ne soit pas révolu.
+V A - Le hÃ©ros dit que son temps est rÃ©volu
+V A1 - on lui fait croire que son temps est rÃ©volu
+V A2 - il accepte de s'en aller bien que son temps ne soit pas rÃ©volu.
 
 V B - Il exige son salaire
-V B1 - et emporte toute la réserve de blé de son maître
+V B1 - et emporte toute la rÃ©serve de blÃ© de son maÃ®tre
 V B2 - emporte une charge immense
-V B3 - ne pouvant obtenir vraiment sa charge, il ne prend rien du tout donne au maître les tapes convenues
+V B3 - ne pouvant obtenir vraiment sa charge, il ne prend rien du tout donne au maÃ®tre les tapes convenues
 V B4 - qui envoient celui-ci si haut dans les airs, qu'on ne l'a plus jamais revu.
 
-V C - Le maître le garde
+V C - Le maÃ®tre le garde
 V C1 - et lui donne sa fille
-V C2 - et en fit son héritier
+V C2 - et en fit son hÃ©ritier
 
-V D - Il échappe au diable venu le chercher en lui lançant de l'eau bénite
+V D - Il Ã©chappe au diable venu le chercher en lui lanÃ§ant de l'eau bÃ©nite
 V D1 - mais perd sa force extraordinaire.

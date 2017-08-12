@@ -1,9 +1,9 @@
-I. POUR FAIRE RIRE LA PRINCESSE
-I A - Le roi promet sa fille en mariage à qui la fera rire
-I A1 - et saura ferrer un cheval récalcitrant
+ï»¿I. POUR FAIRE RIRE LA PRINCESSE
+I A - Le roi promet sa fille en mariage Ã  qui la fera rire
+I A1 - et saura ferrer un cheval rÃ©calcitrant
 
-I B - Le héros trouve successivement
-I B1 - le héros achète à trois reprises avec l'argent de ses études
+I B - Le hÃ©ros trouve successivement
+I B1 - le hÃ©ros achÃ¨te Ã  trois reprises avec l'argent de ses Ã©tudes
 I B2 - un bousier
 I B3 - un grillon
 I B4 - un rat
@@ -12,24 +12,24 @@ I B6 - une puce
 I B7 - autre animal
 I B8 - qui lui offrent leurs services
 
-I C - Le héros réussit à faire rire la princesse
+I C - Le hÃ©ros rÃ©ussit Ã  faire rire la princesse
 I C1 - en portant ses bestioles sur lui
-I C2 - en les attelant à un petit chariot
+I C2 - en les attelant Ã  un petit chariot
 I C3 - en leur faisant jouer de la  musique
 
-I D - Grâce à l'aide des bestioles (grillon qui assourdit le cheval, rat qui empeste et l'endort), le héros réussit aussi à ferrer le cheval.
+I D - GrÃ¢ce Ã  l'aide des bestioles (grillon qui assourdit le cheval, rat qui empeste et l'endort), le hÃ©ros rÃ©ussit aussi Ã  ferrer le cheval.
 
 II. SAUVE DE L'EMPRISONNEMENT
-Pour se débarrasser de lui, le roi fait enfermer le héros avec une (ou des) bête(s) féroce(s), mais grâce à l'aide de ses bestioles (ou de l'une d'entr'elles), le héros demeure saint et sauf.
+Pour se dÃ©barrasser de lui, le roi fait enfermer le hÃ©ros avec une (ou des) bÃªte(s) fÃ©roce(s), mais grÃ¢ce Ã  l'aide de ses bestioles (ou de l'une d'entr'elles), le hÃ©ros demeure saint et sauf.
 
 III. POUR SE DEBARRASSER DU PRETENDANT
-III A - Un prétendant plus noble se présente
-III A1 - il demande au héros qui accepte moyennant une forte somme, de lui céder sa place ou de ne pas parler (toucher) à la princesse de toute la nuit (3 nuits)
-III A2 - le roi décide que les deux prétendants passeront la nuit avec la princesse qui épousera celui vers lequel elle se trouvera tournée le lendemain matin
-III A3 - le roi décide qu'elle épousera celui qui se comportera le mieux.
+III A - Un prÃ©tendant plus noble se prÃ©sente
+III A1 - il demande au hÃ©ros qui accepte moyennant une forte somme, de lui cÃ©der sa place ou de ne pas parler (toucher) Ã  la princesse de toute la nuit (3 nuits)
+III A2 - le roi dÃ©cide que les deux prÃ©tendants passeront la nuit avec la princesse qui Ã©pousera celui vers lequel elle se trouvera tournÃ©e le lendemain matin
+III A3 - le roi dÃ©cide qu'elle Ã©pousera celui qui se comportera le mieux.
 
-III B - Les bestioles, et notamment le bousier, s'introduisent dans le lit et forcent le prétendant à mal se comporter
-III B1 - à deux ou trois reprises, et en dépit de ses précautions
+III B - Les bestioles, et notamment le bousier, s'introduisent dans le lit et forcent le prÃ©tendant Ã  mal se comporter
+III B1 - Ã  deux ou trois reprises, et en dÃ©pit de ses prÃ©cautions
 III B2 - autre.
 
-III C - Le héros épouse (définitivement) la princesse.
+III C - Le hÃ©ros Ã©pouse (dÃ©finitivement) la princesse.

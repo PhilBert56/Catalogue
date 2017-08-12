@@ -1,47 +1,47 @@
-I. LA PRINCESSE AUX SOULIERS USES
+ï»¿I. LA PRINCESSE AUX SOULIERS USES
 I A - Une princesse s'absente chaque nuit
 I A1 - et use une paire
 I A2 - ou plusieurs paires de chaussures
-I B - Le roi la donnera en mariage à qui découvrira où elle va
+I B - Le roi la donnera en mariage Ã  qui dÃ©couvrira oÃ¹ elle va
 I B1 - le roi charge des soldats de la surveiller
-I B2 - des jeunes gens s'offrent à la surveiller pour l'épouser
-I B3 - ceux qui échouent sont tués
+I B2 - des jeunes gens s'offrent Ã  la surveiller pour l'Ã©pouser
+I B3 - ceux qui Ã©chouent sont tuÃ©s
 I B4 - autre
 I C - La princesse leur fait prendre une boisson qui endort
 
 II. LE HEROS
-II A - C'est un soldat en congé
+II A - C'est un soldat en congÃ©
 II A1 - un soldat de garde
 II A2 - un jeune homme volontaire
 II A3 - autre
 II B - Il rencontre une vieille femme
 II B1 - qui lui demande quelque chose
 II B2 - il lui donne quelque chose
-II C - La vieille femme donne au héros un objet magique
+II C - La vieille femme donne au hÃ©ros un objet magique
 II C1 - des indications
-II D - Le héros veille à la porte
+II D - Le hÃ©ros veille Ã  la porte
 II D1 - couche dans une chambre voisine
-II D2 - ne boit pas la boisson apportée
+II D2 - ne boit pas la boisson apportÃ©e
 II D3 - fait semblant de dormir
 
 III. LA DECOUVERTE DU SECRET
 III A - La princesse part
 III A1 - s'aide d'une baguette magique
-III A2 - est portée par un aigle
+III A2 - est portÃ©e par un aigle
 III A3 - par le diable
-III A4 - traverse une ou plusieurs rivières
-III B - Elle arrive à un lieu où l'on danse
+III A4 - traverse une ou plusieurs riviÃ¨res
+III B - Elle arrive Ã  un lieu oÃ¹ l'on danse
 III B1 - danse avec le diable
-III B2 - avec un géant
+III B2 - avec un gÃ©ant
 III B3 - autre
-III C - Le héros la suit
-III C1 - grâce à l'objet magique
+III C - Le hÃ©ros la suit
+III C1 - grÃ¢ce Ã  l'objet magique
 III C2 - prend en route des objets comme justifications
 III C3 - rentre le premier et fait semblant de dormir
 
 IV. RAPPORT FAIT AU ROI
-IV A - Le héros raconte au roi de qu'a fait sa fille
+IV A - Le hÃ©ros raconte au roi de qu'a fait sa fille
 IV A1 - montre les objets
-IV B - Le roi donne sa fille au héros
+IV B - Le roi donne sa fille au hÃ©ros
 IV B1 - la tue
-IV B2 - récompense le héros
+IV B2 - rÃ©compense le hÃ©ros

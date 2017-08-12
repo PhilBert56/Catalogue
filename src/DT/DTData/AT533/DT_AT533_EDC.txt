@@ -1,20 +1,20 @@
-I. LA SERVANTE INFIDELE 
-I A - L'héroïne est une jeune fille 
+ï»¿I. LA SERVANTE INFIDELE 
+I A - L'hÃ©roÃ¯ne est une jeune fille 
 I A1 - est une princesse 
 I A2 - que sa servante doit conduire au mariage avec un prince
-I A2 - sa mère lui a donné une lettre 
-I A3 - sa mère lui a donné un charme d'amour
-I A4 - sa mère lui a donné un mouchoir avec trois gouttes de sang
-I B - En chemin, la servante refuse de puiser de l'eau pour sa maîtresse
-I B1 - la seconde fois le mouchoir tombe à l'eau
+I A2 - sa mÃ¨re lui a donnÃ© une lettre 
+I A3 - sa mÃ¨re lui a donnÃ© un charme d'amour
+I A4 - sa mÃ¨re lui a donnÃ© un mouchoir avec trois gouttes de sang
+I B - En chemin, la servante refuse de puiser de l'eau pour sa maÃ®tresse
+I B1 - la seconde fois le mouchoir tombe Ã  l'eau
 I B2 - la servante s'empare de la lettre magique
 
 II - LA FIANCEE SUBSTITUEE
-II A - La servante se fait épouser à la place de sa maîtresse
-II A1 - la maîtresse devient gardeuse d'oies
+II A - La servante se fait Ã©pouser Ã  la place de sa maÃ®tresse
+II A1 - la maÃ®tresse devient gardeuse d'oies
 II B- Un jeune berger retrouve le mouchoir aux trois gouttes de sang
 II B1 - Le prince interroge la gardeuse d'oies
-II B2 - Il apprend la vérité d'une autre façon
-II C - Le prince épouse la jeune fille
+II B2 - Il apprend la vÃ©ritÃ© d'une autre faÃ§on
+II C - Le prince Ã©pouse la jeune fille
 II C1 - punition de la servante
-II C2 - autre dénouement.
+II C2 - autre dÃ©nouement.

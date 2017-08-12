@@ -1,19 +1,144 @@
-I. LA SERVANTE INFIDELE 
-I A - L'h�ro�ne est une jeune fille 
-I A1 - est une princesse 
-I A2 - que sa servante doit conduire au mariage avec un prince
-I A2 - sa m�re lui a donn� une lettre 
-I A3 - sa m�re lui a donn� un charme d'amour
-I A4 - sa m�re lui a donn� un mouchoir avec trois gouttes de sang
-I B - En chemin, la servante refuse de puiser de l'eau pour sa ma�tresse
-I B1 - la seconde fois le mouchoir tombe � l'eau
-I B2 - la servante s'empare de la lettre magique
-II - LA FIANCEE SUBSTITUEE
-II A - La servante se fait �pouser � la place de sa ma�tresse
-II A1 - la ma�tresse devient gardeuse d'oies
-II B- Un jeune berger retrouve le mouchoir aux trois gouttes de sang
-II B1 - Le prince interroge la gardeuse d'oies
-II B2 - Il apprend la v�rit� d'une autre fa�on
-II C - Le prince �pouse la jeune fille
-II C1 - punition de la servante
-II C2 - autre d�nouement.
+﻿I. L'objet de la quête.
+I A : Un roi (un homme) est âgé ; 
+I A 1 : est aveugle ; 
+I A 2 : est malade ; 
+I A 3 : un roi (homme) est intrigué par le vol de fruits précieux de son jardin, et fait monter la garde successivement à ses trois fils ; les deux aînés s'endorment, seul le plus jeune réussit à découvrir l'oiseau voleur et à se saisir d'une de ses plumes.
+I B : Le roi (l'homme) désire obtenir ; 
+I B 1 : l'eau merveilleuse ; 
+I B 2 : l'oiseau merveilleux ; 
+I B 3 : dont il possède déjà une plume ; 
+I B 4 : le merle ; 
+I B 5 : un cheval (jument, mule) merveilleux(-se) ; 
+I B 6 : blanc( -che); 
+I B 7 : d'or ; 
+I B 8 : qui rend la santé ; 
+I B 9 : qui rend la vue ; 
+I B 10 : qui rajeunit ; 
+I B 11 : une princesse merveilleuse ; 
+I B 12 : car c'est la possession des trois (deux) êtres merveilleux qui rend la santé (la jeunesse).
+
+II. Les trois frères.
+II A : Le père envoie à cette quête ses trois fils ; 
+II A 1 : successivement ; 
+II A 2 : dont l'un est un bâtard (un fils adoptif) ; 
+II A 3 : dont le plus jeune est chétif, difforme ou simple ; 
+II A 4 : dont le plus jeune n'est pas aimé des siens ; 
+II A 5 : en promettant sa couronne à celui qui réussira.
+II B : L'aîné rencontre une vieille femme ; 
+II B 1 : rencontre un autre être ; 
+II B 2 : envers lequel (laquelle) il manque de charité ou de politesse ; 
+II B 3 : il se laisse retenir dans une belle auberge ; 
+II B 4 : il se laisse retenir dans un autre endroit ; 
+II B 5 : où il dépense tout son argent ; 
+II B 6 : au jeu ; 
+II B 7 : et fait des dettes ; 
+II B 8 : et est emprisonné.
+II C : Aventure identique du second frère.
+II D : Le troisième frère trouve le cadavre non enterré d'un homme insolvable, dont il paye l'enterrement et les dettes.
+II E : Un être secourable se présente au troisième frère ; 
+II E 1 : et l'invite à monter sur son dos ; 
+II E 2 : c'est un renard ; 
+II E 3 : un autre animal ; 
+II E 4 : blanc ; 
+II E 5 : qu'il épargne ou délivre d'un danger ; 
+II E 6 : c'est un homme ; 
+II E 7 : une vieille femme ; 
+II E 8 : qui est celle-là (celui-là) même rencontré(e) par ses frères et envers laquelle (lequel) le héros se montre charitable et poli ; 
+II E 9 : qui est l'apparence prise par le mort reconnaissant.
+II F : Grâce aux conseils reçus ; 
+II F 1 : le héros passe outre à l'endroit dangereux ; 
+II F 2 : le héros, à l'auberge, refuse de jouer ; 
+II F 3 : ou démasque le faux jeu du partenaire ; 
+II F 4 : et peut ainsi continuer sa route.
+
+III. La réussite des quêtes.
+III A : Grâce aux conseils de l'être secourable ; 
+III A 1 : le héros parvient auprès de la fontaine recherchée ; 
+III A 2 : parvient auprès de l'animal recherché ; 
+III A 3 : parvient auprès de la princesse ; 
+III A 4 : endormie, auprès de laquelle il passe la nuit (ou qu'il embrasse) ; 
+III A 5 : et laisse en partant un billet avec son nom ; 
+III A 6 : qui est gardé(e) par le (des) diable(s) ; 
+III A 7 : gardé(e) par un (des) géant(s) ; 
+III A 8 : gardé(e) par un (des) lion(s) ; 
+III A 9 : ou d'autres animaux féroces ; 
+III A 10 : gardé(e) par les habitants d'un château.
+III B L'être merveilleux ne peut être acquis que par échange contre
+III B 1 : un (le) cheval (jument, mule) merveilleux(-se) ; 
+III B 2 : qui fait sept lieues d'un pas ; 
+III B 3 : une (la) princesse merveilleuse ; 
+III B 4 : aux cheveux d'or.
+III C : Le héros réussit à recueillir l'eau merveilleuse ; 
+III C 1 : réussit à emmener l'être merveilleux ; 
+III C 2 : sous mine de se le faire montrer nu de l'essayer ; 
+III C 3 : parce qu'il arrive à l'heure propice où le(s) gardien(s) dort(-ment) ; 
+III C 4 : auquel il glisse un objet, en remplacement de la pria. cesse, entre les pattes : 
+III C 5 : parce qu'il réussit à apaiser le(s) gardien(s) ;
+III C 6 : parce que la princesse endort son gardien en le pouillant ; 
+III C 7 : le héros ne réussit pas à emmener l'être merveilleux ; 
+III C 8 : car il désobéit aux conseils reçus ; 
+III C 9 : il veut changer la cage de l'oiseau contre une autre plus belle ; 
+III C 10 : il veut changer le harnachement du cheval (jument, mule) contre un autre plus somptueux ; 
+III C 11 : il laisse à la princesse le temps de s'habiller ou veut la changer d'habits ; 
+III C 12 : l'être merveilleux, par ses cris (ou son chant), alerte ses (son) gardien(s) ou son propriétaire ; 
+III C 13 : et le héros est pris.
+III D: Toujours sur le conseil de l'être secourable ; 
+III D 1 : le héros, qui fait mine de réaliser l' (les) échange(s) convenu(s), réussit, grâce à une ruse ou (et) à la dextérité de sa monture, à garder les trois (deux) êtres merveilleux.
+III E : L'être secourable quitte le héros, après lui avoir recommandé ;
+III E 1 : de se méfier de ses frères ; 
+III E 2 : de ne pas acheter (ou dépendre) de « viande de gibet » ; 
+III E 3 : de ne pas prêter secours ; 
+III E 4 : de ne pas s'écarter de sa route ni descendre de monture avant d'être arrivé ; 
+III E 6 : de l'appeler en cas de besoin.
+
+IV. La traîtrise des frères.
+IV A : En dépit des conseils reçus ; 
+IV A 1 : en repassant devant l'endroit (auberge) dangereux ; 
+IV A 2 : le héros retrouve ses frères ; 
+IV A 3 : devenus des voleurs ; 
+IV A 4 : qu'il a trouvés en train de se battre ; 
+IV A 5 : (et) qu'on menait en prison ; 
+IV A 6 : (et) qu'on menait pendre ; 
+IV A 7 : il les libère en payant leurs dettes ou leurs vols.
+IV B: Jaloux du succès du héros, ses frères se débarrassent de lui ;
+IV B 1 : en le jetant dans un puits (une citerne) ; 
+IV B 2 : en le jetant dans une carrière (un précipice) ; 
+IV B 3 : en le jetant à l'eau ; 
+IV B 4 : après lui avoir ravi les (1') être(s) merveilleux ; 
+IV B 5 : après lui avoir ravi l'eau merveilleuse ; 
+IV B 6 : ils changent son eau merveilleuse contre une autre, mauvaise.
+IV C : Les frères présentent à leur père les (I') être(s) (l'eau) merveilleux(-se) ; 
+IV C 1 : mais qui reste(nt) triste(s) ; 
+IV C 2 : refuse(nt) de manger ;
+IV C 3 : devient(-nent) méchant(e, s) ; 
+IV C 4 : l'oiseau refuse de chanter ; 
+IV C 5 : l'eau est inopérante ; 
+IV C 6 : de sorte que le père n'est pas guéri (rajeuni).
+IV D : Le héros est tiré de là par l'être secourable ; 
+IV D 1 : en s'agrippant à sa queue ; 
+IV D 2 : à la deuxième ou troisième reprise ; 
+IV D 3 : et l'être secourable fait du héros un bel homme ; 
+IV D 4 : moyennant la promesse de lui abandonner la moitié du premier enfant qui lui naîtra.
+IV E : Le héros arrive avant ses frères, et croit offrir de l'eau merveilleuse à son père, mais il est obligé de constater qu'il a été dépouillé par ses frères, et il est chassé par son père ; 
+IV E 1 : le héros arrive après ses frères auprès de son père ; 
+IV E 2 : déguisé en forgeron et se montre seul capable de ferrer la mule ; 
+IV E 3 : déguisé en garçon de ferme (palefrenier) ; 
+IV E 4 : déguisé en médecin sachant guérir hommes et bêtes ; 
+IV E 5 : et l'(les) être(s) merveilleux, dès qu'il se montre, redevien(nen)t comme il(s) étai(en)t ; 
+IV E 6 : et le père est guéri ; 
+IV E 7 : et le père est rajeuni ; 
+IV E 8 : le héros se fait reconnaître ; 
+IV E 9 : et dévoile la vérité ; 
+IV E 10 : la princesse, auprès de laquelle le héros a dormi, ayant mis un fils au monde, part à la recherche du père de son enfant, et arrive à la cour du roi ; 
+IV E 11 : la princesse dévoile la vérité ; 
+IV E 12 : car les frères du héros sont incapables d'expliquer le déroulement des quêtes.
+IV F : Les frères sont emprisonnés ; 
+IV F 1 : chassés ; 
+IV F 2 : mis à mort.
+IV G : Le héros épouse la belle princesse ; 
+IV G 1 : et hérite de son père. 
+
+V. Conclusion.
+V A : Lors de la naissance de son premier enfant, le héros s'apprête à s'acquitter de sa promesse, mais le renard (ou autre animal secourable) l'arrête ; 
+V A 1 : le renard se fait reconnaître comme étant le mort reconnaissant ; 
+V A 2 : le renard demande qu'on lui coupe la tête et les pattes, et il se transforme en prince.

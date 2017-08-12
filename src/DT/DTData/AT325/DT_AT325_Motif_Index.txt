@@ -1,1 +1,42 @@
- 
+﻿
+Motifs du motif Index de Aarne et Thompson présents dans le type 325
+
+
+C837. Tabu: loosing bridle in selling man transformed to horse. Disenchantment follows.--Type 325
+
+
+D100. Transformation: man to animal. Type 325
+
+
+D722. Disenchantment by taking off bridle. Man transformed to horse (ass) thus released.--See references in D535.--*Type 325
+
+
+D610. Repeated transformation. Transformation into one form after another.-- *Type 325
+
+
+D615.2. Transformation contest between master and pupil. *Type 325
+
+
+D1711. Magician. (Cf. D1721.) *Type 325
+
+
+D1719.1. Contest in magic. (Cf. H1573.3.) Type 325
+
+
+D1721. Magic power from magician. *Type 325
+
+
+H62.1. Recognition of person transformed to animal. *Type 325
+
+
+L142.2. Pupil surpasses magician. *Type 325
+
+
+S212. Child sold to magician. *Type 325
+
+
+D671. Transformation flight. Fugitives transforms themselves in order to escape detection by the pursuer.--*Types 313, 325, 327
+
+
+H161. Recognition of transformed person among identical companions. Prearranged signals. *Type 313, 325
+  

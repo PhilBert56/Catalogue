@@ -50,4 +50,34 @@ class ShowVersionController extends Controller
         
         return 'not found';
     }
+
+
+    /**
+    * @Route("/ConteType/elementDuConte/{ctCode}/{section}/{edcCode}/", name = "ct_show_un_edc")
+    */
+
+    public function showElementDuConteAction($ctCode, $section, $edcCode){
+
+        echo 'conte type = ',$ctCode,' section = ',$section,' edc = ', $edcCode;
+
+        $conteType = $this->rechercherLeConteType($ctCode);
+        dump ($conteType);
+
+        foreach ($conteType->elementsDuConte as $edc) {
+            
+            if ($edc->section == $section && $edc->codeElementDuConte == $edcCode){
+                //dump($edc->description, $edc->listeDesVersions);
+                break;
+            }
+        };
+
+        return $this->render('DTCatalogueBundle:CatalogueViews:edcUnique.html.twig',
+        [
+            'element'=> $edc ,
+            'conteTypeCode' =>$ctCode
+        ]);
+
+
+    }
+
 }

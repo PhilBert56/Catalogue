@@ -1,56 +1,56 @@
-I. LES HEROS
-I A - Les héros sont une souer et un frère
-I A1 - une soeur et plusieurs frères
+ï»¿I. LES HEROS
+I A - Les hÃ©ros sont une souer et un frÃ¨re
+I A1 - une soeur et plusieurs frÃ¨res
 I A2 - 
 I B - Leurs parents sont dans le bbesoin
-I B1 - ils ont une méchante marâtre qui est sorcière
+I B1 - ils ont une mÃ©chante marÃ¢tre qui est sorciÃ¨re
 I B2 - ils sont orphelins
-I C - Leur père va les perdre dans la forêt
-I C1 - les enfants partent d'eux-mêmes
+I C - Leur pÃ¨re va les perdre dans la forÃªt
+I C1 - les enfants partent d'eux-mÃªmes
 
 
 II. LE FRERE-ANIMAL
-II A - Tourmentés par la soif, les enfants arrivent à une fontaine (ruisseau)
-II A1 - successivement à deux fontaines
-II A2 - successivement à trois fontaines
-II A3 - ensorcelée(s) par la marâtre
+II A - TourmentÃ©s par la soif, les enfants arrivent Ã  une fontaine (ruisseau)
+II A1 - successivement Ã  deux fontaines
+II A2 - successivement Ã  trois fontaines
+II A3 - ensorcelÃ©e(s) par la marÃ¢tre
 II A4 - dont l'eau change celui qui en boit en animal
-II B - En dépit des avertissements de bergers
-II B1 - en dépit des avertissements de l'eau elle-même
+II B - En dÃ©pit des avertissements de bergers
+II B1 - en dÃ©pit des avertissements de l'eau elle-mÃªme
 II B2 - et des supplications de la soeur
-II B3 - après avoir d'abord résisté
-II B4 - le(s) frère(s) boit (boivent) en prend (prennent) forme animale
+II B3 - aprÃ¨s avoir d'abord rÃ©sistÃ©
+II B4 - le(s) frÃ¨re(s) boit (boivent) en prend (prennent) forme animale
 
 
 III. DECOUVERTE ET MARIAGE
-III A - L'héroïne et son (ses) frère(s) en animal (animaux) vivent dans la forêt
-III A1 - où la jeune fille se réfugie dans un tronc d'arbre creux
-III B - Alerté par la maigreur du chien qui va porter tous les jours son manger à la jeune fille (cf T706 motifs II B1 et II C1)
+III A - L'hÃ©roÃ¯ne et son (ses) frÃ¨re(s) en animal (animaux) vivent dans la forÃªt
+III A1 - oÃ¹ la jeune fille se rÃ©fugie dans un tronc d'arbre creux
+III B - AlertÃ© par la maigreur du chien qui va porter tous les jours son manger Ã  la jeune fille (cf T706 motifs II B1 et II C1)
 III B1 - lors d'une chasse
-III B2 - où il a aperçu le frère animal
-III B3 - un jeune seigneur découvre l'héroïne et l'emmène ainsi que son frère animal (ses frères animaux), en promettant de ne jamais leur faire aucun mal
-III C - Le seigneur épouse la jeune fille
+III B2 - oÃ¹ il a aperÃ§u le frÃ¨re animal
+III B3 - un jeune seigneur dÃ©couvre l'hÃ©roÃ¯ne et l'emmÃ¨ne ainsi que son frÃ¨re animal (ses frÃ¨res animaux), en promettant de ne jamais leur faire aucun mal
+III C - Le seigneur Ã©pouse la jeune fille
 
 
 IV. L'EPOUSE SUBSTITUEE
-IV A - Pendant l'absence du prince, la jeune femme est jetée dans un puits
+IV A - Pendant l'absence du prince, la jeune femme est jetÃ©e dans un puits
 IV A1 - avec l'enfant dont elle vient d'accoucher
-IV A2 - par la belle-mère du prince
-IV A3 - qui espérait lui voir épouser sa propre fille
-IV A4 - par la sorcière
+IV A2 - par la belle-mÃ¨re du prince
+IV A3 - qui espÃ©rait lui voir Ã©pouser sa propre fille
+IV A4 - par la sorciÃ¨re
 IV A5 - par une servante envieuse
 IV A6 - qui prend la place de la jeune femme
-IV A7 - qui met sa fille à la place de la jeune femme
-IV A8 - et qui écrit au prince que sa femme a accouché d'un animal
+IV A7 - qui met sa fille Ã  la place de la jeune femme
+IV A8 - et qui Ã©crit au prince que sa femme a accouchÃ© d'un animal
 
 
 V. L'HEUREUX DENOUEMENT
-V A - Au retour du prince, la fausse épouse demande à manger du frère-animal
-V B - le prince envoie un serviteur le tuer, mais l'animal se réfugie auprès du puits, et échange des plaintes avec sa soeur ; le serviteur revient effrayé
-V C - Même épisode avec un second serviteur
-V D - Le prince y va lui-même, entend les plaintes, fait dégager le puits, et retrouve sa femme
+V A - Au retour du prince, la fausse Ã©pouse demande Ã  manger du frÃ¨re-animal
+V B - le prince envoie un serviteur le tuer, mais l'animal se rÃ©fugie auprÃ¨s du puits, et Ã©change des plaintes avec sa soeur ; le serviteur revient effrayÃ©
+V C - MÃªme Ã©pisode avec un second serviteur
+V D - Le prince y va lui-mÃªme, entend les plaintes, fait dÃ©gager le puits, et retrouve sa femme
 V D1 - et son enfant
-V D2 - dont elle a accouché dans le puits
+V D2 - dont elle a accouchÃ© dans le puits
 V E - Punition de la coupable
 V E1 - punition des coupables
-V F - Le(s) frère(s) retrouve(nt) forme humaine
+V F - Le(s) frÃ¨re(s) retrouve(nt) forme humaine

@@ -1,1 +1,35 @@
- 
+﻿
+Motifs du motif Index de Aarne et Thompson présents dans le type 503
+
+
+F261. Fairies dance. *Type 503
+
+
+F331.1. Mortal wins fairies' gratitude by joining in their dance. *Type 503
+
+
+F331.2. Mortal wins fairies' gratitude by letting them cut his hair and shave him. *Type 503.
+
+
+F331.3. Mortal wins fairies' gratitude by joining in their song and completing it by adding the names of the days of the week. *Type 503
+
+
+F331.4. Mortal wins fairies' gratitude by playing for their dance. *Type 503
+
+
+F340. Gifts from fairies. Type 503
+
+
+F342.1. Fairy gold. Fairies give coals (wood, earth) that turns to gold. *Type 503
+
+
+F344.1. Fairies remove hunchback's hump (or replace it). *Type 503
+
+
+F383.4. Fairy must leave at cockcrow. Type 503
+
+
+F451.5.1.4. Dwarfs' gold. Seemingly worthless gift given by dwarfs turns to gold. *Type 503
+
+
+N471. Foolish attempt of second man to overhear secrets (from animals, demons etc.). He is punished. *Types 461, 503, 613, 676

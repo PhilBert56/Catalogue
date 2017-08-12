@@ -1,57 +1,57 @@
-I. LA RECHERCHE DE L'OBJET MAGIQUE
-I A - Le héros est un soldat
-I A1 - licencié ou en permission
-I A2 - déserteur
-I A3 - parce qu'il a tué son supérieur
+ï»¿I. LA RECHERCHE DE L'OBJET MAGIQUE
+I A - Le hÃ©ros est un soldat
+I A1 - licenciÃ© ou en permission
+I A2 - dÃ©serteur
+I A3 - parce qu'il a tuÃ© son supÃ©rieur
 
 I B - Il rencontre une vieille femme
-I B1 - malformée
-I B2 - qui lui accorde le gîte
-I B3 - qui lui demande de se rendre à un château (maison)
+I B1 - malformÃ©e
+I B2 - qui lui accorde le gÃ®te
+I B3 - qui lui demande de se rendre Ã  un chÃ¢teau (maison)
 I B4 - qui lui demande de descendre dans un tronc d'arbre
 I B5 - et de lui en rapporter une chandelle
 I B6 - de lui en rapporter un briquet
 I B7 - de lui rapporter une lampe
-I B8 - auprès d'un homme en fer
-I B9 - après lui avoir donné une (des) baguette(s)
+I B8 - auprÃ¨s d'un homme en fer
+I B9 - aprÃ¨s lui avoir donnÃ© une (des) baguette(s)
 
 I C - Il arrive dans des chambres successives
-I C1 - où il y a de l'or et de l'argent
+I C1 - oÃ¹ il y a de l'or et de l'argent
 I C2 - dont il se sert
-I C3 - gardées par des bêtes dangereuses de toutes sortes
-I C4 - gardées par un chien, un loup, un lion
-I C5 - gardées par trois chiens
+I C3 - gardÃ©es par des bÃªtes dangereuses de toutes sortes
+I C4 - gardÃ©es par un chien, un loup, un lion
+I C5 - gardÃ©es par trois chiens
 
-I D - Il trouve l'objet demandé qu'il garde
+I D - Il trouve l'objet demandÃ© qu'il garde
 I D1 - il tue la vieille
 
 II. LES TROIS NUITS DE LA PRINCESSE
-II A - Le héros mène joyeuse vie grâce aux richesses emportées
+II A - Le hÃ©ros mÃ¨ne joyeuse vie grÃ¢ce aux richesses emportÃ©es
 
-II B - par la vertu de l'objet magique,dont il a découvert le pouvoir en l'allumant et qui fait apparaître
+II B - par la vertu de l'objet magique,dont il a dÃ©couvert le pouvoir en l'allumant et qui fait apparaÃ®tre
 II B1 - l'homme de fer
 II B2 - les trois animaux gardiens
-II B3 - ce qui provoque une première fois l'évanouissement de sa mère
-II B4 - le héros commande de (nouvelles) richesses
-II B5 - le héros commande que la princesse lui soit amenée
+II B3 - ce qui provoque une premiÃ¨re fois l'Ã©vanouissement de sa mÃ¨re
+II B4 - le hÃ©ros commande de (nouvelles) richesses
+II B5 - le hÃ©ros commande que la princesse lui soit amenÃ©e
 II B6 - pendant trois nuits
 II B7 - pendant plusieurs nuits.
 
-II C - Le roi emploie une ruse pour découvrir le ravisseur
-II C1 - mais elle est déjouée par le serviteur de l'objet magique
-II C2 - après une (autre) mesure qui réussit
-II C3 - le soldat est découvert, jeté en prison et condamné à mort.
+II C - Le roi emploie une ruse pour dÃ©couvrir le ravisseur
+II C1 - mais elle est dÃ©jouÃ©e par le serviteur de l'objet magique
+II C2 - aprÃ¨s une (autre) mesure qui rÃ©ussit
+II C3 - le soldat est dÃ©couvert, jetÃ© en prison et condamnÃ© Ã  mort.
 
 III. L'HEUREUX DENOUEMENT
-III A - Le héros se fait apporter dans sa prison l'objet magique oublié
+III A - Le hÃ©ros se fait apporter dans sa prison l'objet magique oubliÃ©
 III A1 - par un ancien camarade
 
-III B - Grâce à son objet magique
-III B1 - qu'il allume soit disant pour fumer sa dernière pipe
-III B2 - le héros sort de prison et est vainqueur de l'armée du roi
-III B3 - le héros met le roi dans une position insoutenable (à deux reprises)
-III B4 - le héros menace le roi de mort
-III B5 - le héros tue le roi
+III B - GrÃ¢ce Ã  son objet magique
+III B1 - qu'il allume soit disant pour fumer sa derniÃ¨re pipe
+III B2 - le hÃ©ros sort de prison et est vainqueur de l'armÃ©e du roi
+III B3 - le hÃ©ros met le roi dans une position insoutenable (Ã  deux reprises)
+III B4 - le hÃ©ros menace le roi de mort
+III B5 - le hÃ©ros tue le roi
 III B6 - et tous ceux qui lui voulaient du mal.
 
-III C - Le héros obtient la princesse en mariage.
+III C - Le hÃ©ros obtient la princesse en mariage.

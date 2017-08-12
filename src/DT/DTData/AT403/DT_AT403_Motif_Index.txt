@@ -1,1 +1,94 @@
+﻿Motifs du motif Index de Aarne et Thompson présents dans le type 403
+
+
+D683.2. Transformation by witch (sorceress). *Types 403, 405, 410, 450, 451
+
+
+K1911. The false bride (substituted bride). An impostor takes the wife's place without the husband's knowledge and banishes (kills, transforms) the wife. *Types 403, 408, 425, 450, 480, 510, 511, 533
+
+
+K2212.1. Treacherous stepsisters. *Types 403, 425, 432, 450, 510, 516, 592
+
+
+L55. Stepdaughter heroine. *Types 403, 425, 432, 450, 480, 510, 709
+
+
+S31. Cruel stepmother. *Types 403, 425, 432, 450, 451, 480, 502, 510, 511, 516, 590, 592, 706, 708, 709, 720
+
+
+D161.3. Transformation: man to duck. Types 403, 434*
+
+
+K1911.1.2. False bride takes true bride's place when child is born. *Types 403, 450, 480
+
+
+S432. Cast-off wife thrown into water. (Cf. S142.) *Types 403, 450, 707
+
+
+D161.2. Transformation: man to goose. *Types 403, 450
+
+
+D688. Transformed mother suckles child. *Types 403, 450
+
+
+D757. Disenchantment by holding enchanted person during successive transformations. *Types 403, 450
+
+
+D762. Disenchantment by proper person waking from magic sleep. The enchanted person appears three times and if the sleeper does not wake by the third time the enchantment must last.--*Type 403, 450
+
+
+E322.2. Dead wife returns to wake husband. *Types 403, 450
+
+
+E323.1.1. Dead mother returns to suckle child. *Types 403, 450
+
+
+G205. Witch stepmother. *Types 403, 450
+
+
+K1911.2.1. True bride transformed by false. *Type 403, 450
+
+
+N711. King (prince) accidentally finds maiden and marries her. *Types 403, 451, 705, 709
+
+
+H1023.3. Task: bringing berries (fruit, roses) in winter. *Type 403B, 480
+
+
+T11.2. Love through sight of picture. *Types 403, 516, 900
+
+
+F451.5.1. Helpful dwarfs. *Types 403, 709
+
+
+B848. Man unharmed in den of animals. (cf. B771.2.1.)--Type 403
+
+
+D1454.1.2. Jewels from hair. *Type 403
+
+
+D1454.2. Treasure falls from mouth. (Cf. D992.2, D1454.3.) *Type 403
+
+
+D992.2. Magic lips. Type 403
+
+
+D1071.0.1. Jewels produced by magic. *Type 403
+
+
+D1723. Magic power from fairy. Type 403
+
+
+E423.3.7. Revenant as goose. Type 403
+
+
+E423.3.10. Revenant as duck. Type 403
+
+
+M431.2. Curse: toads from mouth. *Type 403
+
+
+Q465.1. Throwing into pit of snakes as punishment. *Type 403
+
+F451. Dwarf.^1 (Underground spirit.) The dwarf, especially in Northern Europe, is considered an underground spirit. He is to be distinguished from the other conception of dwarf, viz., a very small person, pigmy, or thumbling (F535). Types 480, 403B
  

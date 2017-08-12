@@ -1,1 +1,87 @@
+﻿
+Motifs du motif Index de Aarne et Thompson présents dans le type 328
+
+
+G610. Theft from ogre. *Types 328, 314*
+
+
+D1053. Magic mantle (cloak). *Types 328, 400, 566
+
+
+D1361.12. Magic cloak of invisibility. (Cf. D1053.)--*Types 328, 400
+
+
+H911. Tasks assigned at suggestion of jealous rivals. *Types 328, 501, 531, 725
+
+
+F54.2. Plant grows to sky. (Jack and the Beanstalk). *Types 328A, 555, 852
+
+
+D1162. Magic light. *Types 328, 562
+
+
+D1067.2. Magic cap. *Types 328, 566
+
+
+D1081. Magic sword. **Burton Sword; *Types 328, 611, 665
+
+
+D833. Magic object acquired by tricking giant. Giant is persuaded to give the objects to the hero. (Cf. D831, where the person tricked is often a giant.)--Type 328.
+
+
+D1065.1. Magic boots. *Type 328
+
+
+D1300.1. Hat gives magic wisdom. (Cf. D1067.1.) *Type 328.
+
+
+D1300.2. Cap gives magic wisdom. (Cf. D1067.3.) *Type 328.
+
+
+D1400.1.4.1. Magic sword conquers enemy. (Cf. D1081, D1601.4.) *Type 328
+
+
+D1521.1. Seven-league boots. Boots with miraculous speed. (Cf. D1065.1.) *Type 328
+
+
+G121.1. Three giants with one eye. They pass it around. Type 328*.
+
+
+G512. Ogre killed. *Type 328
+
+
+G610.3. Stealing from ogre as task. *Type 328
+
+
+G612. The one eye of the three giants stolen. Type 328*.
+
+
+G514.1. Ogre trapped in box (cage). *Type 328
+
+
+G520. Ogre deceived into self-injury. *Type 328
+
+
+G610.1. Stealing from ogre for revenge. *Type 328.
+
+
+G610.2. Stealing from ogre to help a friendly king. *Type 328.
+
+
+K316.1. Theft from giant by fishing through chimney. Type 328
+
+
+K335.0.1. Owner frightened from goods by report of approaching enemy. *Type 328
+
+
+K337. Oversalting food of giant so that he must go outside for water. Meantime his goods are stolen. *Type 328
+
+
+L311. Weak (small) hero overcomes large fighter. *Type 328
+
  
+
+B313. Helpful animal an enchanted person. *Types 314, 328 (FFC LXXXIII), 402, 510, 530, 531, 532, 533, 545, 550, 551.
+
+
+D1317.7. Magic bell gives alarm. (Cf. D1213.)-- cf. Types 327A, 328

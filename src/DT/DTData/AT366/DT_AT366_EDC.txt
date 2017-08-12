@@ -1,46 +1,46 @@
-I. LA MUTILATION DU CADAVRE OU LE PILLAGE DE LA TOMBE
+ï»¿I. LA MUTILATION DU CADAVRE OU LE PILLAGE DE LA TOMBE
 I A - Un homme
 I A1 - une femme
 I A2 - ayant trois filles
 I A3 - prend (prennent) une jambe
 I A4 - une autre partie du corps
 I A5 - d'un cadavre
-I A6 - dans un cimetière
+I A6 - dans un cimetiÃ¨re
 I A7 - d'un pendu
 I A8 - d'un autre
 I B - C'est pour une fille
 I B1 - un autre enfant
-I B2 - à qui il(s) a (ont) promis de la viande
-I B3 - qui en a demandé
+I B2 - Ã  qui il(s) a (ont) promis de la viande
+I B3 - qui en a demandÃ©
 I B4 - il(s) n'a (ont) pu en trouver
-I B5 - il(s) a (ont) oublié
+I B5 - il(s) a (ont) oubliÃ©
 I B6 - autre
 I C - Un serviteur
 I C1 - un autre
 I C2 - prend dans une tombe
 I C3 - la jambe d'or d'un cadavre
 I C4 - autres objets
-I C5 - par cupidité
-I C6 - à la suite d'un pari
+I C5 - par cupiditÃ©
+I C6 - Ã  la suite d'un pari
 
 II. LA RECLAMATION ET LA VENGEANCE DU MORT
 II A - On entend le mort la nuit
-II A1 - à un autre moment
-II A2 - qui réclame ce qu'on lui a volé
+II A1 - Ã  un autre moment
+II A2 - qui rÃ©clame ce qu'on lui a volÃ©
 II A3 - on abandonne la maison qu'il hante
-II A4 - la personne qui a mangé la chair revient chercher un objet à la maison
+II A4 - la personne qui a mangÃ© la chair revient chercher un objet Ã  la maison
 II A5 - rentre dans sa chambre
 II A6 - y voit le mort
-II A7 - il réclame ce qu'on lui a pris
+II A7 - il rÃ©clame ce qu'on lui a pris
 II A8 - le mort la tue
 II A9 - l'emporte et la mange
 II A10 - on rend son bien au mort
-II B - Le voleur avertit le curé
+II B - Le voleur avertit le curÃ©
 II B1 - qui lui dit de reporter ce qu'il a pris
 II B2 - 
 II B3 - autres prescriptions ou pratiques 
-II B4 - le voleur reporte ce qu'il a volé
-II B5 - exécute les prescriptions du curé
-II B6 - est tué
-II B7 - est libéré de ses tourments
+II B4 - le voleur reporte ce qu'il a volÃ©
+II B5 - exÃ©cute les prescriptions du curÃ©
+II B6 - est tuÃ©
+II B7 - est libÃ©rÃ© de ses tourments
 II B8 - autre

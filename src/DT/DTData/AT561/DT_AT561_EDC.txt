@@ -1,59 +1,59 @@
-I. DANS LE SOUTERRAIN
-I A - Le héros est un enfant pauvre
+ï»¿I. DANS LE SOUTERRAIN
+I A - Le hÃ©ros est un enfant pauvre
 I A1 - et polisson
 I A2 - qui se nomme Aladin
 
-I B - Un homme se présente
+I B - Un homme se prÃ©sente
 I B1 - qui se dit son oncle
 I B2 - et qui le fait descendre dans un souterrain
 I B3 - en lui enjoignant d'en rapporter une vieille lampe
-I B4 - après lui avoir donné un anneau.
+I B4 - aprÃ¨s lui avoir donnÃ© un anneau.
 
-I C - L'enfant aperçoit des bêtes dangereuses
-I C1 - il aperçoit de grandes richesses
-I C2 - il aperçoit des lampes neuves
+I C - L'enfant aperÃ§oit des bÃªtes dangereuses
+I C1 - il aperÃ§oit de grandes richesses
+I C2 - il aperÃ§oit des lampes neuves
 I C3 - il trouve la vieille lampe.
 
 I D - L'homme enferme l'enfant dans le souterrain
 I D1 - parce que celui-ci a peur d'y descendre
 I D2 - parce qu'il refuse de lui remettre la lampe
-I D3 - L'homme part, pensant que l'enfant a péri.
+I D3 - L'homme part, pensant que l'enfant a pÃ©ri.
 
 II. EN POSSESSION DE L'OBJET MAGIQUE
 II A - Par la vertu de l'anneau
 II A1 - par la vertu de la lampe
-II A2 - dont il a découvert le pouvoir en le (la) frottant
-II A3 - qui fait apparaître un (des) géant(s)
-II A4 - le héros sort du souterrain
-II A5 - il retourne auprès de sa mère
+II A2 - dont il a dÃ©couvert le pouvoir en le (la) frottant
+II A3 - qui fait apparaÃ®tre un (des) gÃ©ant(s)
+II A4 - le hÃ©ros sort du souterrain
+II A5 - il retourne auprÃ¨s de sa mÃ¨re
 II A6 - et se souhaite beaucoup de richesses
-II A7 - et se souhaite un château magnifique
+II A7 - et se souhaite un chÃ¢teau magnifique
 
 II B - Il se marie
 II B1 - avec la fille du roi
-II B2 - qu'il a fait demander en mariage par sa mère 
-II B3 - après avoir satisfait, grâce à la lampe magique, aux conditions du roi
+II B2 - qu'il a fait demander en mariage par sa mÃ¨re 
+II B3 - aprÃ¨s avoir satisfait, grÃ¢ce Ã  la lampe magique, aux conditions du roi
 II B4 - apporter des objets merveilleusement riches
-II B5 - bâtir un château magnifique
+II B5 - bÃ¢tir un chÃ¢teau magnifique
 
 III. PERTE DE L'OBJET MAGIQUE    [CF. T560]
-III A - L'objet magique est repris par son ancien possesseur, qui l'obtient pendant l'absence du héros, d'une servante ou de la femme elle-même, par échange avec de objets neufs
-III A1 - l'objet magique est volé par un ancien prétendant de la femme
-III A2 - il est volé par un envieux.
+III A - L'objet magique est repris par son ancien possesseur, qui l'obtient pendant l'absence du hÃ©ros, d'une servante ou de la femme elle-mÃªme, par Ã©change avec de objets neufs
+III A1 - l'objet magique est volÃ© par un ancien prÃ©tendant de la femme
+III A2 - il est volÃ© par un envieux.
 
-III B - Celui-ci souhaite que le château soit transporté au loin
+III B - Celui-ci souhaite que le chÃ¢teau soit transportÃ© au loin
 III B1 - avec lui
-III B2 - avec la femme du héros
-III B3 - il souhaite que le château s'écroule ou disparaisse.
+III B2 - avec la femme du hÃ©ros
+III B3 - il souhaite que le chÃ¢teau s'Ã©croule ou disparaisse.
 
-III C - Le père de la princesse menace le héros de mort s'il n'a pas retrouvé et ramené sa fille et le château dans un certain délai.
+III C - Le pÃ¨re de la princesse menace le hÃ©ros de mort s'il n'a pas retrouvÃ© et ramenÃ© sa fille et le chÃ¢teau dans un certain dÃ©lai.
 
 IV. SA RECUPERATION
-IV A - Le héros recouvre la lampe
-IV A1 - après avoir demandé le chemin vers son château à trois êtres successifs
-IV A2 - grâce au pouvoir de l'anneau
-IV A3 - grâce au pouvoir de transformation accordé par trois animaux
-IV A4 - grâce à l'aide de sa femme
-IV A5 - qui empoisonne le traître
-IV B - [cf. T560) Le héros souhaite sue son château soit de retour à son emplacement
+IV A - Le hÃ©ros recouvre la lampe
+IV A1 - aprÃ¨s avoir demandÃ© le chemin vers son chÃ¢teau Ã  trois Ãªtres successifs
+IV A2 - grÃ¢ce au pouvoir de l'anneau
+IV A3 - grÃ¢ce au pouvoir de transformation accordÃ© par trois animaux
+IV A4 - grÃ¢ce Ã  l'aide de sa femme
+IV A5 - qui empoisonne le traÃ®tre
+IV B - [cf. T560) Le hÃ©ros souhaite sue son chÃ¢teau soit de retour Ã  son emplacement
 IV B1 - et punit celui (ceux) qui lui a (ont) voulu du mal.

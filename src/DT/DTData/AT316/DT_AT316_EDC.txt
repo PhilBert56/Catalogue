@@ -1,14 +1,14 @@
-I. LE HEROS 
-I A - Est le fils d'un pauvre pêcheur à qui une sirène fait promettre de lui donner son fils
+ï»¿I. LE HEROS 
+I A - Est le fils d'un pauvre pÃªcheur Ã  qui une sirÃ¨ne fait promettre de lui donner son fils
 I A1 - ou dont elle tente d'enlever l'enfant 
 I A2 - 
 I B - Devenu grand, l'enfant va par le monde
-I B2 - Ses parents lui recommandent d'éviter de s'approcher de l'eau
+I B2 - Ses parents lui recommandent d'Ã©viter de s'approcher de l'eau
 I B3 - autre
 
 
 II. LES DONS DES ANIMAUX  (ID. T302 II)
-II A - Le héros partage un cadavre ou une proie entre plusieurs animaux
+II A - Le hÃ©ros partage un cadavre ou une proie entre plusieurs animaux
 II A1 - lion
 II A2 - aigle
 II A3 - fourmi
@@ -18,30 +18,30 @@ II A6 - loup
 II A7 - chien
 II A8 - ours
 II A9 - autre
-II B - Il rend service à des animaux : remet un poisson à l'eau
-II B1 - donne à manger à une bête affamée (ou à plusieurs)
+II B - Il rend service Ã  des animaux : remet un poisson Ã  l'eau
+II B1 - donne Ã  manger Ã  une bÃªte affamÃ©e (ou Ã  plusieurs)
 II B2 - sauve un animal d'un chasseur
 II B3 - autre
-II C - Il va voir ses soeurs mariées à des animaux : mouton
+II C - Il va voir ses soeurs mariÃ©es Ã  des animaux : mouton
 II C1 - aigle
 II C2 - poisson
 II C3 - ours
-II C4 - autre (mélange avec T552)
-II D - Il reçoit des animaux un poil
+II C4 - autre (mÃ©lange avec T552)
+II D - Il reÃ§oit des animaux un poil
 II D1 - une plume
 II D2 - une patte
-II D3 - une écaille
+II D3 - une Ã©caille
 II D4 - un autre don
-II E - En grillant la partie reçue
+II E - En grillant la partie reÃ§ue
 II E1 - en la tenant
 II E2 - en invoquant l'animal
-II E3 - sur un simple désir
+II E3 - sur un simple dÃ©sir
 II E4 - autrement
 II F - Il a le pouvoir de devenir l'animal
 II F1 - d'avoir sa force ou sa petitesse
-II F2 - d'être le plus fort de son espèce (seulement pour lion, ours etc.)
+II F2 - d'Ãªtre le plus fort de son espÃ¨ce (seulement pour lion, ours etc.)
 II F3 - de faire venir l'animal
-II F4 - avec ceux de son espèce
+II F4 - avec ceux de son espÃ¨ce
 II G - Usant de ce pouvoir
 II G1 - il devient lion
 II G2 - il devient aigle
@@ -55,14 +55,14 @@ II G9 - autre
 
 
 III. ENLEVEMENT PAR LE GENIE DES EAUX ET DELIVRANCE
-III A - Le héros arrive à un château où il conquiert une princesse
-III B - Le héros est enlevé par la sirène
+III A - Le hÃ©ros arrive Ã  un chÃ¢teau oÃ¹ il conquiert une princesse
+III B - Le hÃ©ros est enlevÃ© par la sirÃ¨ne
 III A1 - par une baleine
-III B2 - par un autre génie des eaux
-III A3 - C'est la femme du héros qui est enlevée
-IV B - L'épouse supplie le ravisseur de lui montrer son mari
-III B1 - elle offre des objets précieux pour le voir
+III B2 - par un autre gÃ©nie des eaux
+III A3 - C'est la femme du hÃ©ros qui est enlevÃ©e
+IV B - L'Ã©pouse supplie le ravisseur de lui montrer son mari
+III B1 - elle offre des objets prÃ©cieux pour le voir
 III B2 - autre 
-III B3 - c'est le héros lui-même qui provoque la délivrance
-III C - Il s'échappe en oiseau
-III D - Le héros et la princesse se retrouvent
+III B3 - c'est le hÃ©ros lui-mÃªme qui provoque la dÃ©livrance
+III C - Il s'Ã©chappe en oiseau
+III D - Le hÃ©ros et la princesse se retrouvent

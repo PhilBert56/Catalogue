@@ -1,31 +1,31 @@
-I. LE HEROS
-I A - C'est un jeune garçon
-I A1 - le plus jeune de deux frères
-I A2 - un soldat en congé
+ï»¿I. LE HEROS
+I A - C'est un jeune garÃ§on
+I A1 - le plus jeune de deux frÃ¨res
+I A2 - un soldat en congÃ©
 I A3 - un autre
 I A4 - 
 I B - Il s'appelle Jean-Sans-Peur
 I B1 - d'un autre nom
 I B2 - 
-I C - Il ne connaît pas la peur
+I C - Il ne connaÃ®t pas la peur
 I C1 - ne se mariera que quand il aura eu peur
 
 
 II. TENTATIVES POUR LUI FAIRE PEUR
-II A - Son frère
+II A - Son frÃ¨re
 II A1 - un autre
-II A2 - se déguise la nuit en fantôme pour lui faire peur
-II A3 - le héros bat la personne déguisée
-II A4 - le héros tue la personne déguisée
+II A2 - se dÃ©guise la nuit en fantÃ´me pour lui faire peur
+II A3 - le hÃ©ros bat la personne dÃ©guisÃ©e
+II A4 - le hÃ©ros tue la personne dÃ©guisÃ©e
 II A5 - 
-II B - On l'envoie la nuit à l'église
+II B - On l'envoie la nuit Ã  l'Ã©glise
 II B1 - pour y sonner les cloches
-II B2 - après déguisement en fantômes de statues des saints
+II B2 - aprÃ¨s dÃ©guisement en fantÃ´mes de statues des saints
 II B3 - de mannequins
-II B4 - de personnages vivants (curé ou marguillier)
-II B5 - que le garçon renverse
-II B6 - que le garçon blesse
-II B7 - que le garçon tue
+II B4 - de personnages vivants (curÃ© ou marguillier)
+II B5 - que le garÃ§on renverse
+II B6 - que le garÃ§on blesse
+II B7 - que le garÃ§on tue
 II B8 - autre
 II C - Il doit veiller un faux mort
 II C1 - qu'il frappe lorsque celui-ci remue pour lui faire peur
@@ -36,16 +36,16 @@ II D - Autres tentatives
 
 
 III. LE DEPART ET LA ROUTE
-III A - Il part à l'aventure
+III A - Il part Ã  l'aventure
 III A1 - va chercher la peur
 III A2 - va chercher fortune
 III A3 - fuit les gendarmes
-III A4 - est chassé par ses parents
-III A5 - revient du régiment
+III A4 - est chassÃ© par ses parents
+III A5 - revient du rÃ©giment
 III A6 - 
-III B - Il emporte une étole de curé
-III B1 - ... le bâton de la croix
-III B2 - ... ou de la bannière
+III B - Il emporte une Ã©tole de curÃ©
+III B1 - ... le bÃ¢ton de la croix
+III B2 - ... ou de la banniÃ¨re
 III B3 - ... d'autres choses
 III B4 - 
 
@@ -54,86 +54,86 @@ III C1 -
 
 
 IV. AU CHATEAU HANTE
-IV A - Il demande l'hospitalité dans une auberge
+IV A - Il demande l'hospitalitÃ© dans une auberge
 IV A1 - va chez le roi
-IV A2 - on lui signale un château hanté
+IV A2 - on lui signale un chÃ¢teau hantÃ©
 IV A3 - il y va coucher
-IV A4 - il trouve le château hanté sur sa route
-IV A5 - il apprend qu'un roi donnera sa fille à qui couchera dans le château hanté
-IV B - Il demande à emporter au lieu hanté un jeu de cartes
-IV B1 - une étole de prêtre
-IV B2 - le bâton d'une croix
-IV B3 - ou d'une bannière
-IV B4 - de l'eau bénite
+IV A4 - il trouve le chÃ¢teau hantÃ© sur sa route
+IV A5 - il apprend qu'un roi donnera sa fille Ã  qui couchera dans le chÃ¢teau hantÃ©
+IV B - Il demande Ã  emporter au lieu hantÃ© un jeu de cartes
+IV B1 - une Ã©tole de prÃªtre
+IV B2 - le bÃ¢ton d'une croix
+IV B3 - ou d'une banniÃ¨re
+IV B4 - de l'eau bÃ©nite
 IV B5 - des vivres
 IV B6 - des outils
 IV B7 - d'autres objets
 IV C - Il fait du feu
-IV C1 - se met à table
+IV C1 - se met Ã  table
 IV C2 - se chauffe
 IV C3 - se couche
-IV C4 - est réveillé à minuit
+IV C4 - est rÃ©veillÃ© Ã  minuit
 IV C5 - 
-IV D - Descente par la cheminée d'un personnage
-IV D1 - en parties du corps séparées qui se rassemblent
+IV D - Descente par la cheminÃ©e d'un personnage
+IV D1 - en parties du corps sÃ©parÃ©es qui se rassemblent
 IV D2 - d'autres personnages semblables
-IV D3 - qui font de même
+IV D3 - qui font de mÃªme
 IV D4 - autres apparitions
 IV D5 - 
-IV E - Le héros à affaire au diable
-IV E1 - à plusieurs diables
-IV E2 - à un revenant
-IV E3 - à un mort
-IV E4 - à d'autres êtres
-IV F - Le diable (fantôme) mange avec lui
+IV E - Le hÃ©ros Ã  affaire au diable
+IV E1 - Ã  plusieurs diables
+IV E2 - Ã  un revenant
+IV E3 - Ã  un mort
+IV E4 - Ã  d'autres Ãªtres
+IV F - Le diable (fantÃ´me) mange avec lui
 IV F1 - se chauffe
 IV F2 - joue avec lui aux quilles
 IV F3 - aux cartes
-IV F4 - à un autre jeu
+IV F4 - Ã  un autre jeu
 IV F5 - 
 IV G - Il tombe une carte
 IV G1 - une autre chose
-IV G2 - que le garçon ne veut ramasser
+IV G2 - que le garÃ§on ne veut ramasser
 IV G3 - le diable se baisse pour la ramasser
-IV G4 - le garçon enprofite pour lui passer l'étole au cou
-IV G5 - en le frappant avec le bâton de la croix ou de la bannière
-IV G6 - en l'aspergeant d'eau bénite
+IV G4 - le garÃ§on enprofite pour lui passer l'Ã©tole au cou
+IV G5 - en le frappant avec le bÃ¢ton de la croix ou de la banniÃ¨re
+IV G6 - en l'aspergeant d'eau bÃ©nite
 IV G7 - autrement
-IV H - Le garçon est tourmenté par les visiteurs nocturnes
-IV H1 - durant trois nuits consécutives (contaminé par T400)
-IV H2 - son lit est traîné ou bousculé
-IV I - Il chasse ou laisse échapper le diable
+IV H - Le garÃ§on est tourmentÃ© par les visiteurs nocturnes
+IV H1 - durant trois nuits consÃ©cutives (contaminÃ© par T400)
+IV H2 - son lit est traÃ®nÃ© ou bousculÃ©
+IV I - Il chasse ou laisse Ã©chapper le diable
 IV I1 - [il chasse] les visiteurs nocturnes
 IV I2 - il le (les laisse partir)
 IV I3 - contre promesse de ne pas revenir
-IV I4 - reçoit le château
-IV I5 - est mené à un trésor
-IV I6 ou est renseigné sur sa place
+IV I4 - reÃ§oit le chÃ¢teau
+IV I5 - est menÃ© Ã  un trÃ©sor
+IV I6 ou est renseignÃ© sur sa place
 IV I7 - par le revenant
-IV I8 - fera un certain emploi du trésor
-IV I9 - ce qui libère le fantôme
-IV I10 - le héros force le diable à signer un engagement écrit
-IV I11 - le héros reste maître du château
+IV I8 - fera un certain emploi du trÃ©sor
+IV I9 - ce qui libÃ¨re le fantÃ´me
+IV I10 - le hÃ©ros force le diable Ã  signer un engagement Ã©crit
+IV I11 - le hÃ©ros reste maÃ®tre du chÃ¢teau
 
 
 V. AUTRES EXPLOITS
-V A - Le garçon refuse d'épouser la fille du maître du château
+V A - Le garÃ§on refuse d'Ã©pouser la fille du maÃ®tre du chÃ¢teau
 V A1 - avant d'avoir eu peur
 V A2 - il part pour d'autres aventures
 V A3 - 
-V B - Le héros libère une femme
+V B - Le hÃ©ros libÃ¨re une femme
 V B1 - une princesse
 V B2 - du diable
 V B3 - d'un monstre (T300)
 V B4 - autres exploits
-V B5 - il ne veut épouser la princesse libérée avant d'avoir eu peur
+V B5 - il ne veut Ã©pouser la princesse libÃ©rÃ©e avant d'avoir eu peur
 
 
 VI. LE HEROS AYANT EU PEUR DE SE MARIER
-VI A - Le héros tressaille
-VI A1 - quand les oiseaux s'échappent d'un pâté qu'il ouvre
-VI A2 - quand on jette dans son lit des poissons qui frétillent
+VI A - Le hÃ©ros tressaille
+VI A1 - quand les oiseaux s'Ã©chappent d'un pÃ¢tÃ© qu'il ouvre
+VI A2 - quand on jette dans son lit des poissons qui frÃ©tillent
 VI A3 - en d'autres circonstances
-VI A4 - on déclare qu'il a eu peur et peut se marier
-VI B - Il épouse la fille du maître du château
-VI B1 - [il épouse] la princesse libérée
+VI A4 - on dÃ©clare qu'il a eu peur et peut se marier
+VI B - Il Ã©pouse la fille du maÃ®tre du chÃ¢teau
+VI B1 - [il Ã©pouse] la princesse libÃ©rÃ©e

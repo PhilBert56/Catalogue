@@ -1,112 +1,112 @@
-I. L'HEROÏNE PERSECUTEE
-I A - L'héroïne a deux demi-soeurs
+ï»¿I. L'HEROÃNE PERSECUTEE
+I A - L'hÃ©roÃ¯ne a deux demi-soeurs
 I A1 - une demi-soeur
 I A2 - elle a deux (ou plusieurs) soeurs
 I A3 - une soeur
 I A4 - laide(s)
-I A5 - et méchante(s)
+I A5 - et mÃ©chante(s)
 
-I B - L'héroïne est brimée par sa marâtre
-I B1 - par sa propre mère
+I B - L'hÃ©roÃ¯ne est brimÃ©e par sa marÃ¢tre
+I B1 - par sa propre mÃ¨re
 
-I C - L'héroïne reste toujours dans les cendres du foyer
-I C1 - l'héroïne est obligée de faire tous les travaux sales
+I C - L'hÃ©roÃ¯ne reste toujours dans les cendres du foyer
+I C1 - l'hÃ©roÃ¯ne est obligÃ©e de faire tous les travaux sales
 
-I D - L'héroïne est appelée Cendrillon, ou d'un nom très voisin
+I D - L'hÃ©roÃ¯ne est appelÃ©e Cendrillon, ou d'un nom trÃ¨s voisin
 I D1 - a un autre nom
 I D2 - n'a pas de nom
 
 II. L'AIDE MAGIQUE
-II A - L'héroïne reçoit d'un être secourable (voir ci-dessous)
-II A1 - l'héroïne reçoit de son père, parti à la foire et qui a rapporté aux aînées les objets de parure qu'elles réclamaient
+II A - L'hÃ©roÃ¯ne reÃ§oit d'un Ãªtre secourable (voir ci-dessous)
+II A1 - l'hÃ©roÃ¯ne reÃ§oit de son pÃ¨re, parti Ã  la foire et qui a rapportÃ© aux aÃ®nÃ©es les objets de parure qu'elles rÃ©clamaient
 II A2 - une baguette magique
 II A3 - une noix
 II A4 - une noisette
 II A5 - une amande
-II A6 - que l'héroïne avait demandé à son père de lui rapporter
-II A7 - alors que l'héroïne n'avait rien voulu demander
+II A6 - que l'hÃ©roÃ¯ne avait demandÃ© Ã  son pÃ¨re de lui rapporter
+II A7 - alors que l'hÃ©roÃ¯ne n'avait rien voulu demander
 
 II B - Alors que ses (sa) demi-soeur(s) vont (va) au bal
-II B1 - vont (va) à la messe
-II B2 - parée(s) des atours reçus de leur père
-II B3 - l'héroïne doit rester (ou dit préférer rester) à la maison
-II B4 - et accomplir des tâches presqu'impossibles
-II B5 - graines à ramasser ou à trier
-II B6 - énorme quantité à filer
-II B7 - autres tâches
-II B8 - l'héroïne doit garder les bêtes
+II B1 - vont (va) Ã  la messe
+II B2 - parÃ©e(s) des atours reÃ§us de leur pÃ¨re
+II B3 - l'hÃ©roÃ¯ne doit rester (ou dit prÃ©fÃ©rer rester) Ã  la maison
+II B4 - et accomplir des tÃ¢ches presqu'impossibles
+II B5 - graines Ã  ramasser ou Ã  trier
+II B6 - Ã©norme quantitÃ© Ã  filer
+II B7 - autres tÃ¢ches
+II B8 - l'hÃ©roÃ¯ne doit garder les bÃªtes
 
-II C - L'héroïne est aidée, dans l'accomplissement des tâches imposées, par un être secourable
-II C1 - les tâches de l'héroïne sont accomplies en son absence par un être secourable
-II C2 - qui est une fée
+II C - L'hÃ©roÃ¯ne est aidÃ©e, dans l'accomplissement des tÃ¢ches imposÃ©es, par un Ãªtre secourable
+II C1 - les tÃ¢ches de l'hÃ©roÃ¯ne sont accomplies en son absence par un Ãªtre secourable
+II C2 - qui est une fÃ©e
 II C3 - avec baguette magique
 II C4 - qui est la Ste Vierge
 II C5 - qui est sa marraine
 II C6 - un animal
-II C7 - qui prouve ainsi sa reconnaissance à l'héroïne
+II C7 - qui prouve ainsi sa reconnaissance Ã  l'hÃ©roÃ¯ne
 
-II D - L'héroïne obtient de l'être secourable
-II D1 - l'héroïne obtient grâce à la baguette magique reçue
-II D2 - l'h'éroïne trouve dans le(s) fruit(s) reçu(s)
+II D - L'hÃ©roÃ¯ne obtient de l'Ãªtre secourable
+II D1 - l'hÃ©roÃ¯ne obtient grÃ¢ce Ã  la baguette magique reÃ§ue
+II D2 - l'h'Ã©roÃ¯ne trouve dans le(s) fruit(s) reÃ§u(s)
 II D3 - une robe couleur de soleil
 II D4 - une robe couleur de la lune
-II D5 - une robe couleur des étoiles
+II D5 - une robe couleur des Ã©toiles
 II D6 - une robe couleur du ciel
 II D7 - une robe couleur du temps [ciel]
 II D8 - une robe couleur de nuit
 II D9 - autre(s) robe(s) merveilleusess)
-II D10 - et tout un équipage
+II D10 - et tout un Ã©quipage
 [II D11 - autre chose]
 
 III. LA RENCONTRE AVEC LE PRINCE
-III A - L'héroïne se rend ainsi parée au bal
-III A1 - se rend ainsi parée à la messe
+III A - L'hÃ©roÃ¯ne se rend ainsi parÃ©e au bal
+III A1 - se rend ainsi parÃ©e Ã  la messe
 III A2 - une seule fois
-III A3 - à deux reprises
-III A4 - à trois reprises
+III A3 - Ã  deux reprises
+III A4 - Ã  trois reprises
 
-III B - Le prince n'a d'yeux que pour l'héroïne
+III B - Le prince n'a d'yeux que pour l'hÃ©roÃ¯ne
 III B1 - et ne danse qu'avec elle
-III B2 - mais elle doit être rentrée avant une heure déterminée
+III B2 - mais elle doit Ãªtre rentrÃ©e avant une heure dÃ©terminÃ©e
 
-III C - Ses (sa) soeur(s), ou la marâtre, en rentrant lui parle(nt) de la belle inconnue
-III C1 - l'héroïne répond qu'elle n'est pas plus belle qu'elle-même
-III C2 - et est rabrouée pour cette réponse
-III C3 - l'héroïne répond qu'elle(s) sont (est) bien heureuse(s), mais qu'elle-même ne peut rien voir puisqu'elle ne sort jamais
+III C - Ses (sa) soeur(s), ou la marÃ¢tre, en rentrant lui parle(nt) de la belle inconnue
+III C1 - l'hÃ©roÃ¯ne rÃ©pond qu'elle n'est pas plus belle qu'elle-mÃªme
+III C2 - et est rabrouÃ©e pour cette rÃ©ponse
+III C3 - l'hÃ©roÃ¯ne rÃ©pond qu'elle(s) sont (est) bien heureuse(s), mais qu'elle-mÃªme ne peut rien voir puisqu'elle ne sort jamais
 
-III D - S'étant attardée
-III D1 - à la dernière rencontre
-III D2 - l'héroïne perd en s'enfuyant
-III D3 - le prince (ou ses gardes) dérobe(nt) à l'héroïne en voulant la retenir
+III D - S'Ã©tant attardÃ©e
+III D1 - Ã  la derniÃ¨re rencontre
+III D2 - l'hÃ©roÃ¯ne perd en s'enfuyant
+III D3 - le prince (ou ses gardes) dÃ©robe(nt) Ã  l'hÃ©roÃ¯ne en voulant la retenir
 III D4 - une pantoufle
 III D5 - une chaussure
-III D6 - de verre [vaire et autres de même type]
+III D6 - de verre [vaire et autres de mÃªme type]
 III D7 - d'or
-III D8 - qui est ramassée par le prince (ou portée au prince)
-III D9 - les beaux atours de l'héroïne disparaissent, et elle rentre en haillons
+III D8 - qui est ramassÃ©e par le prince (ou portÃ©e au prince)
+III D9 - les beaux atours de l'hÃ©roÃ¯ne disparaissent, et elle rentre en haillons
 
 IV. PREUVE ET MARIAGE
-IV A - Le prince décide de n'épouser que celle à qui ira la chaussure (pantoufle)
+IV A - Le prince dÃ©cide de n'Ã©pouser que celle Ã  qui ira la chaussure (pantoufle)
 IV A1 - et organise un (nouveau) bal dans ce but
-IV A2 - et la fait essayer à toutes les jeunes filles du royaume
+IV A2 - et la fait essayer Ã  toutes les jeunes filles du royaume
 
-IV B - Après les essais par toutes les filles
-IV B1 - la chaussure est essayée aussi aux (à la) soeur(s) de l'héroïne
-IV B2 - qui ne parvien(nen)t pas davantage à la mettre
-IV B3 - qui réussit à la mettre en se martyrisant le pied
+IV B - AprÃ¨s les essais par toutes les filles
+IV B1 - la chaussure est essayÃ©e aussi aux (Ã  la) soeur(s) de l'hÃ©roÃ¯ne
+IV B2 - qui ne parvien(nen)t pas davantage Ã  la mettre
+IV B3 - qui rÃ©ussit Ã  la mettre en se martyrisant le pied
 
-IV C - En dépit des récriminations de ses soeurs
-IV C1 - de sa mère ou marâtre
-IV C2 - l'héroïne est conviée à essayer également la chaussure, qui s'adapte parfaitement à son pied, et elle est reconnue
+IV C - En dÃ©pit des rÃ©criminations de ses soeurs
+IV C1 - de sa mÃ¨re ou marÃ¢tre
+IV C2 - l'hÃ©roÃ¯ne est conviÃ©e Ã  essayer Ã©galement la chaussure, qui s'adapte parfaitement Ã  son pied, et elle est reconnue
 IV C3 - car elle montre l'autre chaussure
-IV C4 - car elle va mettre (ou apparaît dans) ses beaux habits
+IV C4 - car elle va mettre (ou apparaÃ®t dans) ses beaux habits
 
-IV D - La marâtre essaie de substituer sa fille à l'héroïne
-IV D1 - mais un petit chien dénonce la supercherie
-IV D2 - mais un oiseau dénonce la supercherie
-IV D3 - et apprend au prince que l'héroïne a été cachée
+IV D - La marÃ¢tre essaie de substituer sa fille Ã  l'hÃ©roÃ¯ne
+IV D1 - mais un petit chien dÃ©nonce la supercherie
+IV D2 - mais un oiseau dÃ©nonce la supercherie
+IV D3 - et apprend au prince que l'hÃ©roÃ¯ne a Ã©tÃ© cachÃ©e
 IV D4 - sous une cuve ou caisse
 
 IV E - Heureux mariage
-IV F - Les soeurs sont pardonnées
-IV F1 - ainsi que la marâtre (la mère)
+IV F - Les soeurs sont pardonnÃ©es
+IV F1 - ainsi que la marÃ¢tre (la mÃ¨re)

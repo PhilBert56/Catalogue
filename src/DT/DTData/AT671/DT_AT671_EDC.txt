@@ -1,80 +1,80 @@
-I. LE LANGAGE DES ANIMAUX
-ve4 L'héroïne (de ce type) mariée à un ivrogne, a un enfant
-I A - Le héros est l'enfant unique d'époux qui en ont longtemps désiré un
-I A1 - C'est le plus jeune de plusieurs frères
+ï»¿I. LE LANGAGE DES ANIMAUX
+ve4 L'hÃ©roÃ¯ne (de ce type) mariÃ©e Ã  un ivrogne, a un enfant
+I A - Le hÃ©ros est l'enfant unique d'Ã©poux qui en ont longtemps dÃ©sirÃ© un
+I A1 - C'est le plus jeune de plusieurs frÃ¨res
 I A2 - il s'appelle Innocent
 I A3 - c'est un "innocent"
 
-I B - Mis à l'école le héros déclare avoir appris un langage d'animal
-I B1 - chaque fois au bout d'une année
-I B2 - le héros comprend le langage
+I B - Mis Ã  l'Ã©cole le hÃ©ros dÃ©clare avoir appris un langage d'animal
+I B1 - chaque fois au bout d'une annÃ©e
+I B2 - le hÃ©ros comprend le langage
 I B3 - des chiens
 I B4 - des grenouilles
 I B5 - des oiseaux
 I B6 - de tous les animaux
-I B7 - comme don reçu de son parrain surnaturel
-I B8 - après apprentissage par sa marraine-fée
-I B9 - qui a déjà procuré l'abondance à lui et à sa famille
+I B7 - comme don reÃ§u de son parrain surnaturel
+I B8 - aprÃ¨s apprentissage par sa marraine-fÃ©e
+I B9 - qui a dÃ©jÃ  procurÃ© l'abondance Ã  lui et Ã  sa famille
 
 II. LE HEROS CHASSE 
-II A - Interrogé par ses parents pourquoi il rit en écoutant les oiseaux
+II A - InterrogÃ© par ses parents pourquoi il rit en Ã©coutant les oiseaux
 II A1 - dans une autre circonstance
-II A2 - l'enfant prédit à son père que celui-ci lui lavera un jour les mains
+II A2 - l'enfant prÃ©dit Ã  son pÃ¨re que celui-ci lui lavera un jour les mains
 II A3 - [rien]
-II A6 - et que sa mère les lui essuiera
+II A6 - et que sa mÃ¨re les lui essuiera
 
-II B - Outrés par cette stupidité
-II B1 - outrés par cet orgueil
-II B2 - les parents donnent l'ordre de tuer l'enfant, mais le(s) domestique(s) l'épargne(nt)
-II B3 - et prend (-nent) la "preuve" demandée sur un animal
+II B - OutrÃ©s par cette stupiditÃ©
+II B1 - outrÃ©s par cet orgueil
+II B2 - les parents donnent l'ordre de tuer l'enfant, mais le(s) domestique(s) l'Ã©pargne(nt)
+II B3 - et prend (-nent) la "preuve" demandÃ©e sur un animal
 II B4 - les parents chassent l'enfant
-II B5 - exposé dans un tonneau sur la mer
+II B5 - exposÃ© dans un tonneau sur la mer
 
 III. LE VOYAGE A ROME
-III A - Le héros décide d'aller à Rome où se prépare l'élection d'un nouveau pape, fait rencontre de deux pèlerins
-III A1 - qui sont un vieux moine accompagné d'un jeune, et dont l'un n'accepte sa présence qu'avec mauvaise grâce
-III A2 - qui sont ses frères, mais ceux-ci ne le reconnaissent pas
+III A - Le hÃ©ros dÃ©cide d'aller Ã  Rome oÃ¹ se prÃ©pare l'Ã©lection d'un nouveau pape, fait rencontre de deux pÃ¨lerins
+III A1 - qui sont un vieux moine accompagnÃ© d'un jeune, et dont l'un n'accepte sa prÃ©sence qu'avec mauvaise grÃ¢ce
+III A2 - qui sont ses frÃ¨res, mais ceux-ci ne le reconnaissent pas
 III B - Entendant les chiens d'une maison aboyer
-III B1 - le héros prédit l'arrivée de voleurs
-III B2 - les précautions nécessaires sont prises et les voleurs capturés
-III B3 - les chiens disaient aussi que, leur maître ne les ayant pas bien nourris, ils ne défendraient pas la maison
+III B1 - le hÃ©ros prÃ©dit l'arrivÃ©e de voleurs
+III B2 - les prÃ©cautions nÃ©cessaires sont prises et les voleurs capturÃ©s
+III B3 - les chiens disaient aussi que, leur maÃ®tre ne les ayant pas bien nourris, ils ne dÃ©fendraient pas la maison
 
 III C - Entendant les grenouilles coasser
-III C1 - le héros explique qu'une des grenouilles a vavalé l'hostie qu'une jeune fille a fait tomber à l'eau
-III C2 - lui seul réussit à faire rendre l'hostie à la grenouille
-III C3 - il rend ainsi la santé à la jeune fille qui était malade depuis ce jour
-III C4 - il guérit une jeune fille malade par un autre moyen
+III C1 - le hÃ©ros explique qu'une des grenouilles a vavalÃ© l'hostie qu'une jeune fille a fait tomber Ã  l'eau
+III C2 - lui seul rÃ©ussit Ã  faire rendre l'hostie Ã  la grenouille
+III C3 - il rend ainsi la santÃ© Ã  la jeune fille qui Ã©tait malade depuis ce jour
+III C4 - il guÃ©rit une jeune fille malade par un autre moyen
 
 III D - Entendant des oiseaux chanter
-III D1 - le héros prédit que l'un d'entr'eux (lui et ses compagnons) sera pape
-III D2 - le héros prédit qu'il y a un trésor à lever
+III D1 - le hÃ©ros prÃ©dit que l'un d'entr'eux (lui et ses compagnons) sera pape
+III D2 - le hÃ©ros prÃ©dit qu'il y a un trÃ©sor Ã  lever
 [III D3 - autre]
 
-III E - Autres épisodes où se manifeste le don de divination du héros
+III E - Autres Ã©pisodes oÃ¹ se manifeste le don de divination du hÃ©ros
 
-III F - Le héros demande à ses compagnons de route, quelle charge ils lui accordeeraient s'ils devenaient pape
-III F1 - le premier répond
-III F2 - le second répond
-III F3 - qu'il l'élèvera à un haut grade
+III F - Le hÃ©ros demande Ã  ses compagnons de route, quelle charge ils lui accordeeraient s'ils devenaient pape
+III F1 - le premier rÃ©pond
+III F2 - le second rÃ©pond
+III F3 - qu'il l'Ã©lÃ¨vera Ã  un haut grade
 III F4 - qu'il lui donnera un bas office
 
 IV. LA PREDICTION REALISEE
-IV A - Le nouveau pape sera désigné
-IV A1 - par un cierge qui s'allumera de lui-même dans sa main
-IV A2 - par les cloches qui se mettront d'elles-mêmes à sonner
-IV A3 - par une courrone qui se posera d'elle-même sur lui
+IV A - Le nouveau pape sera dÃ©signÃ©
+IV A1 - par un cierge qui s'allumera de lui-mÃªme dans sa main
+IV A2 - par les cloches qui se mettront d'elles-mÃªmes Ã  sonner
+IV A3 - par une courrone qui se posera d'elle-mÃªme sur lui
 IV A4 - par une colombe qui descendra sur lui 
 IV A5 - par un autre objet qui descendra sur lui
 
-IV B - Le héros est désigné par le signe convenu
-IV B1 - qui se répète trois fois
+IV B - Le hÃ©ros est dÃ©signÃ© par le signe convenu
+IV B1 - qui se rÃ©pÃ¨te trois fois
 IV B2 - bien que son "cierge" ne soit qu'une baguette de coudrier
-IV B3 - et est proclamé le pape Innocent
+IV B3 - et est proclamÃ© le pape Innocent
 
-IV C - Il accorde à ses anciens compagnons de route les charges qu'ils avaient respectivement l'intention de lui accorder
+IV C - Il accorde Ã  ses anciens compagnons de route les charges qu'ils avaient respectivement l'intention de lui accorder
 
-IV D - Ses parents tourmentés par le remords se rendent auprès du pape
-IV D1 - car aucun éclésiastique ne peut les absoudre de leur crime
-IV D2 - là la prédiction se réalise
+IV D - Ses parents tourmentÃ©s par le remords se rendent auprÃ¨s du pape
+IV D1 - car aucun Ã©clÃ©siastique ne peut les absoudre de leur crime
+IV D2 - lÃ  la prÃ©diction se rÃ©alise
 IV D3 - reconnaissance et pardon
 IV D4 - mort de l'un ou des deux parents

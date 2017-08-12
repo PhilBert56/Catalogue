@@ -1,1 +1,32 @@
- 
+﻿
+Motifs du motif Index de Aarne et Thompson présents dans le type 565
+
+
+D1171.1. Magic pot. *Types 565, 591
+
+
+A1115.2. Why the sea is salt: magic salt mill. Stolen by sea-captain, who takes it aboard and orders it to grind. It will stop only for its master; ship sinks and mill keeps grinding salt.--*Type 565
+
+
+C916.3. Magic porridge-pot keeps cooking. Against command, mother of owner bids pot to cook. It fills house with porridge and will not stop until ordered by mistress.--*Type 565
+
+
+D1263. Magic mill. *Type 565
+
+
+D1472.1.9. Magic pot supplies food and drink. (Cf. D1171.1.) *Types 565
+
+
+D1601.21.1. Self-grinding salt-mill. (Cf. D1263.) *Type 565
+
+
+D1601.10.1. Self-cooking pot. (Cf. D1171.1.) *Type 565
+
+
+D1651. Magic object obeys master alone. *Type 565
+
+
+D1651.3. Magic cooking-pot obeys only master. (Cf. D1601.10.1, D1171.1.) *Type 565
+
+
+F531.5.10.2. Giant maidens grind gold, peace, soldiers, salt, etc., on large stone mill. Type 565
