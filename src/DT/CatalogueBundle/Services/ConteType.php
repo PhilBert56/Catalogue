@@ -75,7 +75,7 @@ class ConteType
         $this->genererLaListeDesVersions();
         $this->genererLaListeDesElementsDuConte();
         $this->associerElementsDuConteEtVersions();
-        echo 'apelle motifs '; 
+//echo 'apelle motifs '; 
 
         $this->genererLaListeDesMotifs();
         //$this->bonus();

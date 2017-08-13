@@ -22,10 +22,13 @@
 
                 {% for ligne in version.description %}
                     {{ ligne | raw }} </br>
-                
-            
        
-    {% endfor %}
+                {% endfor %}
+
+                {% for ligne in developpements %}
+                    {{ ligne | raw }} </br>
+       
+                {% endfor %}
 
         
     </tr>

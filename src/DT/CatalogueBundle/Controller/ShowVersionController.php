@@ -15,22 +15,29 @@ class ShowVersionController extends Controller
     */
 
     public function showVersionAction($ctCode, $numeroVersion){
+//echo 'Recherche le conte type ',$ctCode,' et la version ',$numeroVersion,'</br>';
 
         $conteType = $this->rechercherLeConteType($ctCode);
         $versionAMontrer ='';
+        $developpements =[];
         foreach ($conteType->versions as $v) {
             
             if ($v->numero == $numeroVersion){
                 $versionAMontrer = $v;
-                
+
+                dump ($conteType);dump($v);
+                $developpements = $versionAMontrer->developperUneVersion($conteType);
+                dump($developpements);
+                //foreach($developpements as $ligne) echo $ligne.'</br>' ;
                 break;
             }
+            
         };
 
         return $this->render('DTCatalogueBundle:CatalogueViews:version.html.twig',
         [
-            'version'=> $versionAMontrer 
-            
+            'version'=> $versionAMontrer ,
+            'developpements'=> $developpements 
         ]);
 
 

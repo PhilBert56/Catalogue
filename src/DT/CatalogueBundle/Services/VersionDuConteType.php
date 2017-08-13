@@ -78,14 +78,16 @@ class VersionDuConteType
         /*elimine les espaces en debut et fin de section */
 
         $section2 = stristr($ligne,':');
-        $section2 = str_replace(':','',$section2);
+        /* ne pas eliminer les : dans la chaine, sinon probleme !*/
+        //$section2 = str_replace(':','',$section2);
+        $section2 = preg_replace("/:/","",$section2,1);
         /* retourne la sous-chaine de $ligne située après le caractère : */
-        $delimiters = [',',';',':'];
+        $delimiters = [',',';'];
         $temp = str_replace($delimiters, $delimiters[0], $section2);
         $launch = explode($delimiters[0], $temp);
         $sousSections = explode ($delimiters[0], $section2);
         
-        $debug = true;
+        $debug = false;
         $debug2 = false;
         $listeDesElements =[];
         $EDC=[];
@@ -104,66 +106,90 @@ class VersionDuConteType
             $EDCpresentsDansLaChaine = [];
             $positionsDebutDesEDCDansLaChaine = [];
             $positionFinDesEDCDansLaChaine = [];
+            $parentheseOuverte = false;
+            $ignoreSection = false;
 
             foreach ($sousSections as $ss){
 
                 $curseurFin = $curseurDebut + strlen($ss);
+//echo ' </br>ooooooooooooo etude de la sous section |',$ss,'| de la chaine ',$ligne,'  debut = ',$curseurDebut,' fin = ',$curseurFin, '</br>';
+                $parentheseOuvrante = strpos($ss, '('); 
+                if ($parentheseOuvrante != false) {
+//echo 'PARENTHESE : ( DETECTEE dans |',$ss,'| </br>';
+                    $parentheseOuverte = true;                   
+                }
+
+                $parentheseFermante = strpos($ss,')');
+                if ($parentheseFermante != false) {
+//echo 'PARENTHESE : ) DETECTEE dans |',$ss,'| </br>';
+                    $parentheseOuverte = false;
+                    $ignoreSection = false;
+                }
+
+                if ($parentheseOuverte)
+                { 
+                    if ($parentheseOuvrante == false && $parentheseFermante == false){
+//echo 'parenthese toujours ouverte avec la chaine ', $ss, '  ON DOIT IGNORER CETTE CHAINE </br>';
+                        $ignoreSection = true;
+                    } else $ignoreSection = false;
+
+
+                    //$parentheseFermante = strpos($ss, ')');
+                    //if ($parentheseFermante != false) {
+                }
+
 
                 //$chaineInitiale = $ss;
                 //$longueurDeLaChaineInitiale = strlen($ss);
                 //$curseurDebut = $curseurFin;
-echo '</br>chaîne |',$ss, '| position du premier caractère dans la string = |', $ligne ,'| = ', $curseurDebut ,'</br>';
-                $retour = $this->extraireLesCodesEDCpresentsDansUneChaine($ss);
-                dump($retour);
-
-                //$EDC[] = $retour[0];
-                //$positionsDebut[] = $retour[1];
-                //$positionsFin[] = $retour[2];
-
-                /*
-                foreach ($retour[1] as $pos){ 
-                    $positions[] = $curseurDebut; 
-                     
-                    echo 'pos = ',$pos  ,'</br>';
-                }*/
+//echo '</br>chaîne |',$ss, '| position du premier caractère dans la string = |', $ligne ,'| = ', $curseurDebut ,'</br>';
                 
-                $deb = $curseurDebut;
+                if ($ignoreSection) {
+//echo 'ON  IGNORE LA SECTION ',$ss,'</br>';
+                    //$curseurDebut++;
+                }
+
+
+                if (!$ignoreSection) {
+
+                    $retour = $this->extraireLesCodesEDCpresentsDansUneChaine($ss);
+
+                    $deb = $curseurDebut;
                 
-                for ($i = 0; $i<count($retour[0]); $i++){
-                    $EDC[] = $retour[0][$i];
+                    for ($i = 0; $i<count($retour[0]); $i++){
+                        $EDC[] = $retour[0][$i];
 
-                    $positionsDebut[] = $deb; 
-echo '</br>DANS LA CHAINE |',$ligne, '| CODE |',$retour[0][$i],'| début = ',$deb,'</br>';
-                    $deb = $deb + $retour[2][$i];
-                    $positionsFin[] = $deb;
-echo 'DANS LA CHAINE |',$ligne, '| CODE |',$retour[0][$i],'| fin = ',$deb,'</br>';                    
-                    $deb = $deb + 1;
+                        $positionsDebut[] = $deb; 
+//echo '</br>DANS LA CHAINE |',$ligne, '| CODE |',$retour[0][$i],'| début = ',$deb,'</br>';
+                        $deb = $deb + $retour[2][$i];
+                        $positionsFin[] = $deb;
+//echo 'DANS LA CHAINE |',$ligne, '| CODE |',$retour[0][$i],'| fin = ',$deb,'</br>';                    
+                        $deb = $deb + 1;
 
-                    
+                    }
                 }
 
 
                 $curseurDebut = $curseurFin + 1;
                
-            } 
-/*
-            foreach ($positions as $p) {
-                echo '$position = ',$p,'</br>';
-                $positionsDebutDesEDCDansLaChaine[]=$p;
-                /*
-                foreach ($p as $el){
-                    echo '$positions = ',$el,'</br>';
-                    $positionsDesEDCDansLaChaine[]=$el;
-                }
-
-            }*/
-
-            
+                } 
 
                 foreach ($EDC as $element){ 
-                    echo ' ! $edc = ',$element,' </br>';
+//echo ' ! $edc = ',$element,' </br>';
                     $EDCpresentsDansLaChaine[]=$element;
+                    //dump ($EDCpresentsDansLaChaine);
                 }
+
+                //dump ($EDCpresentsDansLaChaine);
+                /* stockage de la liste des EDC de la version */
+                $listeDesEDCParSection = [];
+                $listeDesEDCParSection[] = $section1;
+                foreach ($EDCpresentsDansLaChaine as $codeEDC){
+                    $listeDesEDCParSection[] = $codeEDC ;
+                }
+                $this->occurencesDesElementsDuConte[]=$listeDesEDCParSection;
+
+
 
                 foreach ($positionsDebut as $pos){
                     $positionsDebutDesEDCDansLaChaine[] = $pos;
@@ -172,16 +198,12 @@ echo 'DANS LA CHAINE |',$ligne, '| CODE |',$retour[0][$i],'| fin = ',$deb,'</br>
                     $positionsFinDesEDCDansLaChaine[] = $pos;
                 }
 
-/*
-            dump ($EDCpresentsDansLaChaine);
-            dump ($positionsDebutDesEDCDansLaChaine);
-            dump ($positionsFinDesEDCDansLaChaine);
-*/
-            echo 'AVANT substitution : ',$ligne, '</br>';
+
+//echo 'AVANT substitution : ',$ligne, '</br>';
             if (count($EDCpresentsDansLaChaine)>0){ 
                 $ligne = $this->effectuerLesSubstitutions($ligne, $section1, $EDCpresentsDansLaChaine, $positionsDebutDesEDCDansLaChaine, $positionsFinDesEDCDansLaChaine);
         
-                echo 'APRES substitution : ', $ligne, '</br>';
+//echo 'APRES substitution : ', $ligne, '</br>';
             }
         }
         
@@ -205,7 +227,7 @@ echo 'DANS LA CHAINE |',$ligne, '| CODE |',$retour[0][$i],'| fin = ',$deb,'</br>
         $positionsDebutDesEDC = [];
         $positionsFinDesEDC =[];
 
-        //echo '</br> STRING = |',$string,'| </br>';
+//echo '</br> STRING = |',$string,'| </br>';
         for ($i =0; $i< strlen($string) ; $i++) {
 //echo 'Dans extraire un code de la chaîne |'.$string.'|, on teste le caractère |'.$string[$i].'| i= '.$i.'|</br>';
            
@@ -256,18 +278,27 @@ avec sa position dans $string et sa longueur */
         $longueur = 1;
 //echo 'Au début $code =',$code,'</br>';
         $nouvellePosition = 0;
+        //$parentheseOuverte = false;
 
 /**********************************************************************/
+        
+
         if (strlen ($string)>1){ 
 
             $j = $position + 1;
 
             if ( $j < strlen($string) ){
-
-                if ( preg_match('#[a-z]#', $string[$j]) || preg_match('#[A-Z]#', $string[$j]) ) {
-                /* $code n' est pas un EDC */
+/*
+                if ( preg_match('#[a-z]#', $string[$j]) ||preg_match('#[A-Z]#', $string[$j]) ) {
+                // $code n' est pas un EDC 
                     return ['',$j,0];
                 }
+*/
+                if (preg_match('#[a-zA-Z-àáâãäåâòóôõöøèéêëçìíîïùúûüÿñ]#', $string[$j] ) ) {
+                // $code n' est pas un EDC 
+                    return ['',$j,0];
+                }
+
 
             }
 
@@ -275,11 +306,28 @@ avec sa position dans $string et sa longueur */
 
                 if ($string[$j]== '(') {
                     //PARENTHESE DETECTEE;
-                    $j = $this->skipParentheses($string, $j);
+                    $j = $this->skipParentheseOuvrante($string, $j);
                     //on saute directement à la position $j;
+                    //$parentheseOuvrante = true;
+                    /*
+                    $parentheseFermante = strpos($string, ')');
+                    if ($parentheseFermante == false) { 
+                        $parentheseOuverte = true; 
+                    } else $parentheseOuverte = false;*/
                 }
 
+                if ($string[$j]== ')') {
 
+//echo 'on a detecte une ) a la position ', $j, ' dans la chaine $string = ', $string, '</br>';
+                    
+                    $parentheseOuvrante = strpos($string, '('); 
+                    if ($parentheseOuvrante == false){ 
+                        $j = $this->skipParentheseFermante($string, $j);
+                    //$j = min( $j, strlen($string) - 1 );
+//echo 'RETOUR DE SKIP ) AVEC $j = ',$j, '</br>';
+                        if ($j == strlen($string) ) return ['', $j+1 , 1];
+                    }
+                }
 
                 if (  $string[$j] == ' ' || preg_match('#[0-9]#', $string[$j]) ) { 
                     $code = $code.$string[$j] ;
@@ -297,17 +345,17 @@ avec sa position dans $string et sa longueur */
             $nouvellePosition = $j;
 
         } else {
-echo 'CODE AVEC UN SEUL CARACTERE |',$code,'|</br>';
+//echo 'CODE AVEC UN SEUL CARACTERE |',$code,'|</br>';
             return [$code, 1 , 1];
         }
 
-echo '<strong>EN BOUT DE CHAINE ; on sort de là avec le code |', $code, '| et une longeur de chaine length = ', strlen ($code),' position = ', $j - strlen($code),'</strong></br>';
+//echo '<strong>EN BOUT DE CHAINE ; on sort de là avec le code |', $code, '| et une longeur de chaine length = ', strlen ($code),' position = ', $j - strlen($code),'</strong></br>';
         return [$code, $nouvellePosition , $longueur];
     }
 
 
     
-    public function skipParentheses($string, $position) {
+    public function skipParentheseOuvrante($string, $position) {
 
 //echo 'skipParentheses dans $string = |',$string,'| position = ',$position;
         for ($i = $position ; $i < strlen($string) ; $i++) {
@@ -316,11 +364,29 @@ echo '<strong>EN BOUT DE CHAINE ; on sort de là avec le code |', $code, '| et u
         }
 //echo 'pas de fermeture detectée </br>';
         return $i - 1;
-
-
-
-
     }
+
+    public function skipParentheseFermante($string, $position) {
+
+//echo 'skipParentheses dans $string = |',$string,'| position = ',$position, '</br>';
+        for ($i = 0 ; $i < strlen($string) ; $i++) {
+
+            if ($string[$i] == ')') {
+//echo 'on a detecte ) en position ',$i,' la chaine fait l = ', strlen($string), '</br>';
+//if ($i == strlen($string) -1 )echo 'FIN DE LIGNE plus rien à extraire </br>';
+                return $i + 1;
+            }
+        }
+//echo 'pas de fermeture detectée PAS NORMAL !!!! </br>';
+        return $i - 1;
+    }
+
+    
+
+
+
+
+
 
 
     public function effectuerLesSubstitutions($ligne, $section, $EDC, $positionsDebut, $positionsFin){
@@ -343,18 +409,97 @@ echo '<strong>EN BOUT DE CHAINE ; on sort de là avec le code |', $code, '| et u
     public function substituerUneChaineParUneAutre($ligne, $positionDebut, $positionFin, $aInserer) {
 
         $debutLigne = substr($ligne,0, $positionDebut);
-echo '$debutLigne = |',$debutLigne,'| </br>';
+//echo '$debutLigne = |',$debutLigne,'| position debut = ',$positionDebut,'</br>';
 
         $finLigne = substr($ligne, $positionFin , strlen($ligne) );
-echo '$finLigne = |',$finLigne,'| </br>';
+//echo '$finLigne = |',$finLigne,'| position fin = ',$positionFin,'</br>';
 
-echo 'chaine a inserer = |',$aInserer,'|</br>';
+//echo 'chaine a inserer = |',$aInserer,'|</br>';
 
-echo 'APRES SUBSTITUTION : |', $debutLigne.$aInserer.$finLigne,'|</br>';
+//echo 'APRES SUBSTITUTION : |', $debutLigne.$aInserer.$finLigne,'|</br>';
         return $debutLigne.$aInserer.$finLigne;
     }
 
 
 
+    public function developperUneVersion($conteType){
+
+        $lignesDeveloppementVersion = [];
+
+        //$conteType = $this->rechercherLeConteType($this->ctCode);
+
+        foreach ($this->occurencesDesElementsDuConte as $occurence){
+
+            $section = $occurence [0];
+
+            $lignesDeveloppementVersion[] = $this->rechercherLeDescriptifDeLaSection($conteType,$section);
+
+            for ($i = 1 ; $i < count($occurence) ; $i++) {
+
+                $lignesDeveloppementVersion[] = $this->rechercherLeDescriptifElementDuConte($conteType, $section, $occurence[$i] );
+
+                $lignesDeveloppementVersion[] = $this->rechercherLaListeDesVersionsElementDuConte($conteType,$section,$occurence[$i]  );
+            }
+
+        }
+
+        return $lignesDeveloppementVersion;
+    }
+
+
+/*
+    public function rechercherLeConteType($ctCode) {
+
+        $session = $this->get('session');
+        $tableauDesContesType = $session->get('tableauDesContesType');
+
+        foreach($tableauDesContesType as $conteType){
+            if ($ctCode == $conteType->ctCode ) {
+                return $conteType;
+            } 
+        }
+        
+        return 'not found';
+    }
+*/
+
+    public function rechercherLeDescriptifDeLaSection($conteType, $section){
+        $description = '';
+        foreach($conteType->elementsDuConte as $edc){
+            if ($edc->section == $section.'.') {
+                $description[] = '</br></br>';
+                $description = '<strong>'.$edc->description.'</strong>';
+                return $description;
+            }
+        }
+    }
+
+
+    public function rechercherLeDescriptifElementDuConte($conteType, $section, $codeEDC){
+        $description = '';
+        foreach($conteType->elementsDuConte as $edc){
+            if ($edc->section == $section && $edc->codeElementDuConte == $codeEDC) {
+                $description = $edc->description;
+                return $description;
+            } 
+        }
+
+    }
+
+    public function rechercherLaListeDesVersionsElementDuConte($conteType, $section, $codeEDC) {
+
+        foreach($conteType->elementsDuConte as $edc){
+
+            if ($edc->section == $section && $edc->codeElementDuConte == $codeEDC) {
+                $listeDesVersions = 'Présent dans les versions : ';
+                
+                foreach ($conteType->versions as $v){ 
+                    $listeDesVersions = $listeDesVersions.$v->numero.', ';
+                }
+                return $listeDesVersions;
+            }
+        }
+
+    }
 
 }
