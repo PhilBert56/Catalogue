@@ -58,8 +58,6 @@ class ShowVersionController extends Controller
 
     public function showElementDuConteAction($ctCode, $section, $edcCode){
 
-        echo 'conte type = ',$ctCode,' section = ',$section,' edc = ', $edcCode;
-
         $conteType = $this->rechercherLeConteType($ctCode);
         dump ($conteType);
 
