@@ -12,6 +12,9 @@ class MenuBuilder
         $menu->setChildrenAttribute('class', 'nav navbar-nav');
         $menu->addChild('Accueil', ['route' => 'homepage']);
         $menu->addChild('Catalogue', ['route' => 'catalogue']);
+        $menu->addChild('Motif Index', ['route' => 'motifIndex']);
+        $menu->addChild('Documentation', ['route' => 'baseContes']);
+
         return $menu;
     }
 }

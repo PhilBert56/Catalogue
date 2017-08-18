@@ -447,22 +447,6 @@ avec sa position dans $string et sa longueur */
     }
 
 
-/*
-    public function rechercherLeConteType($ctCode) {
-
-        $session = $this->get('session');
-        $tableauDesContesType = $session->get('tableauDesContesType');
-
-        foreach($tableauDesContesType as $conteType){
-            if ($ctCode == $conteType->ctCode ) {
-                return $conteType;
-            } 
-        }
-        
-        return 'not found';
-    }
-*/
-
     public function rechercherLeDescriptifDeLaSection($conteType, $section){
         $description = '';
         foreach($conteType->elementsDuConte as $edc){
@@ -491,11 +475,12 @@ avec sa position dans $string et sa longueur */
         foreach($conteType->elementsDuConte as $edc){
 
             if ($edc->section == $section && $edc->codeElementDuConte == $codeEDC) {
-                $listeDesVersions = 'Présent dans les versions : ';
+                $listeDesVersions = ' <FONT size="1">Présent dans les versions : ';
                 
                 foreach ($conteType->versions as $v){ 
                     $listeDesVersions = $listeDesVersions.$v->numero.', ';
                 }
+                $listeDesVersions = $listeDesVersions.'</FONT><BR>';
                 return $listeDesVersions;
             }
         }

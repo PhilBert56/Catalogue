@@ -1,3 +1,13 @@
+phb_base_index:
+    resource: "@PHBBaseIndexBundle/Controller"
+    type:     annotation
+    prefix:   /
+
+phb_base_contes:
+    resource: "@PHBBaseContesBundle/Controller"
+    type:     annotation
+    prefix:   /
+
 app:
     resource: "@AppBundle/Controller/"
     type:     annotation

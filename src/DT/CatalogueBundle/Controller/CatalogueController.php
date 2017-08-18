@@ -26,27 +26,27 @@ class CatalogueController extends Controller
     }
 
 
-    public function creerLeTableauDesContesTypes(){ 
+    public function creerLeTableauDesContesTypes(){
 
-        
+
         $lines = file('..\src\DT\DTData\DT_Titres_Contes_Types.txt');
         $tableauDesContesType = [];
 
         foreach ($lines as $lineNumber => $lineContent)
-        { 
-            $tableauDesContesType[] = new ConteType($lines[$lineNumber]); 
+        {
+            $tableauDesContesType[] = new ConteType($lines[$lineNumber]);
         }
         return $tableauDesContesType;
-        
+
     }
 
     /**
      * @Route("/ConteType/edc/{ctCode}", name = "ct_show_edc")
      */
     public function showEdcAction($ctCode) {
-    
+
         $conteType = $this->rechercherLeConteType($ctCode);
-        
+
         if (!$conteType->isDefined) {
             $conteType->genererLesInformationsDuConteType();
         };
@@ -54,9 +54,9 @@ class CatalogueController extends Controller
         return $this->render('DTCatalogueBundle:CatalogueViews:edc.html.twig',
         [
             'edc'=> $conteType->elementsDuConte,
-            'conteTypeCode' => $conteType->ctCode 
+            'conteTypeCode' => $conteType->ctCode
         ]);
-   
+
     }
 
     /**
@@ -71,7 +71,7 @@ class CatalogueController extends Controller
 
         return $this->render('DTCatalogueBundle:CatalogueViews:versions.html.twig',
         [
-            'versions' => $conteType->versions, 
+            'versions' => $conteType->versions,
             'conteTypeCode' => $conteType->ctCode
         ]);
     }
@@ -86,11 +86,11 @@ class CatalogueController extends Controller
         foreach($tableauDesContesType as $conteType){
             if ($ctCode == $conteType->ctCode ) {
                 return $conteType;
-            } 
+            }
         }
-        
+
         return 'not found';
-    
+
     }
 
 
@@ -99,9 +99,9 @@ class CatalogueController extends Controller
      * @Route("/ConteType/motifs du Motif-Index/{ctCode}", name = "ct_show_motifs")
      */
     public function showMotifsAction($ctCode) {
-    
+
         $conteType = $this->rechercherLeConteType($ctCode);
-        
+
         if (!$conteType->isDefined) {
             $conteType->genererLesInformationsDuConteType();
         };
@@ -109,16 +109,16 @@ class CatalogueController extends Controller
         return $this->render('DTCatalogueBundle:CatalogueViews:motifs.html.twig',
         [
             'motifs'=> $conteType->motifsDuConte,
-            'conteTypeCode' => $conteType->ctCode 
+            'conteTypeCode' => $conteType->ctCode
         ]);
-   
+
     }
 
     /**
      * @Route("/ConteType/complements/{ctCode}", name = "ct_show_complements")
      */
     public function showComplementsAction($ctCode) {
-    
+
         $conteType = $this->rechercherLeConteType($ctCode);
         /*
         if (!$conteType->isDefined) {
@@ -127,14 +127,17 @@ class CatalogueController extends Controller
 */
 
 echo 'BONUS FILE = ', $conteType->bonusFile, '</br>';
+        //$fileName = "DT\CatalogueBundle\DTData\A".$conteType->ctCode.'\'.$conteType->bonusFile;
+
+        $fileName ='DT/CatalogueBundle/DTData/AT300/AT300.htm';
         return $this->render('DTCatalogueBundle:CatalogueViews:complements.html.twig',
         [
-            'fichierHtml'=> $conteType->bonusFile,
-            'conteTypeCode' => $conteType->ctCode 
+            'fichierHtml'=> $fileName,
+            'conteTypeCode' => $conteType->ctCode
         ]);
-   
+
     }
 
-    
+
 
 }
