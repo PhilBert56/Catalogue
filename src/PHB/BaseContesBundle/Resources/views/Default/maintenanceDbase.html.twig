@@ -1,0 +1,19 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+
+    <h3><span>Maintenance</h3>
+
+    {{ form_start(orderForm)  }}
+          {{ form_widget(orderForm) }}
+          <br/>
+          <button type="submit" class ="btn btn-primary">Recahrger la base contes</button>
+
+          {{ form_end(orderForm) }}
+          <br/>
+          <div>
+              {{ message1 }}
+              {{ message2 }}
+          </div>
+
+{% endblock %}

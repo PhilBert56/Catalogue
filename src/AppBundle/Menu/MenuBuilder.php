@@ -13,7 +13,8 @@ class MenuBuilder
         $menu->addChild('Accueil', ['route' => 'homepage']);
         $menu->addChild('Catalogue', ['route' => 'catalogue']);
         $menu->addChild('Motif Index', ['route' => 'motifIndex']);
-        $menu->addChild('Documentation', ['route' => 'baseContes']);
+        $menu->addChild('Documentation Contes', ['route' => 'consulterBaseContes']);
+        $menu->addChild('Maintenance', ['route' => 'mainenanceBases']); 
 
         return $menu;
     }
