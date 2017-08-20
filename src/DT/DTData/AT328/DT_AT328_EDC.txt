@@ -15,7 +15,7 @@ I B6 - pour aller s'engager chez le roi
 
 
 II. LE MONSTRE
-II A - C'est un géant [ou plusieurs]q
+II A - C'est un géant [ou plusieurs]
 II A1 - un ogre
 II A2 - un diable
 II A3 - un autre

@@ -14,8 +14,8 @@ class MenuBuilder
         $menu->addChild('Catalogue', ['route' => 'catalogue']);
         $menu->addChild('Motif Index', ['route' => 'motifIndex']);
         $menu->addChild('Documentation Contes', ['route' => 'consulterBaseContes']);
-        $menu->addChild('Maintenance', ['route' => 'mainenanceBases']); 
-
+        $menu->addChild('Maintenance', ['route' => 'mainenanceBases']);
+        $menu->addChild('  Essais  ', ['route' => 'essais']); 
         return $menu;
     }
 }
