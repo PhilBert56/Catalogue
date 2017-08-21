@@ -5,3 +5,6 @@ services:
 
     dt_catalogue.listeLesCodesContenusDansLaLigne:
         class : DT\CatalogueBundle\Services\ExtracteurDeCodes
+
+    dt_catalogue.listeLesContesTypesContenusDansLaLigne:
+        class : DT\CatalogueBundle\Services\ExtracteurDeContesTypes

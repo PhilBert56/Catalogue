@@ -21,13 +21,13 @@ class ShowVersionController extends Controller
         $versionAMontrer ='';
         $developpements =[];
         foreach ($conteType->versions as $v) {
-            
+
             if ($v->numero == $numeroVersion){
                 $versionAMontrer = $v;
 
-                dump ($conteType);dump($v);
+                //dump ($conteType);dump($v);
                 $developpements = $versionAMontrer->developperUneVersion($conteType);
-                dump($developpements);
+                //dump($developpements);
                 //foreach($developpements as $ligne) echo $ligne.'</br>' ;
                 break;
             }
@@ -37,7 +37,7 @@ class ShowVersionController extends Controller
         return $this->render('DTCatalogueBundle:CatalogueViews:version.html.twig',
         [
             'version'=> $versionAMontrer ,
-            'developpements'=> $developpements 
+            'developpements'=> $developpements
         ]);
 
 
@@ -52,9 +52,9 @@ class ShowVersionController extends Controller
         foreach($tableauDesContesType as $conteType){
             if ($ctCode == $conteType->ctCode ) {
                 return $conteType;
-            } 
+            }
         }
-        
+
         return 'not found';
     }
 
@@ -69,7 +69,7 @@ class ShowVersionController extends Controller
         dump ($conteType);
 
         foreach ($conteType->elementsDuConte as $edc) {
-            
+
             if ($edc->section == $section && $edc->codeElementDuConte == $edcCode){
                 //dump($edc->description, $edc->listeDesVersions);
                 break;

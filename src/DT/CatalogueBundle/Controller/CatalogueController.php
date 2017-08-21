@@ -107,13 +107,37 @@ class CatalogueController extends Controller
      */
     public function showMotifsAction($ctCode) {
 
-        $conteType = $this->rechercherLeConteType($ctCode);
-        $extracteurDeCodes = $this->container->get('dt_catalogue.listeLesCodesContenusDansLaLigne');
+      $session = $this->get('session');
+      $tableauDesContesType = $session->get('tableauDesContesType');
 
-        if (!$conteType->isDefined) {
+
+      $conteType = $this->rechercherLeConteType($ctCode);
+      $extracteurDeCodes = $this->container->get('dt_catalogue.listeLesCodesContenusDansLaLigne');
+
+      if (!$conteType->isDefined) {
             $conteType->genererLesInformationsDuConteType($extracteurDeCodes);
-        };
+      };
 
+
+      $extracteurDeContestypes = $this->container->get('dt_catalogue.listeLesContesTypesContenusDansLaLigne');
+      dump($conteType);
+      $motifs = $conteType->motifsDuConte;
+      dump ($motifs);
+
+
+      for ($i=0; $i < count($motifs); $i++) {
+
+        $motif = $motifs[$i];
+
+        $ligne = $motif->motifDescription;
+        $ligne = $extracteurDeContestypes->listeLesContesTypesContenusDansLaLigne($ligne,$tableauDesContesType);
+        $motif->motifDescription = $ligne;
+      }
+
+
+
+
+        //dump ($conteType->motifsDuConte);
         return $this->render('DTCatalogueBundle:CatalogueViews:motifs.html.twig',
         [
             'motifs'=> $conteType->motifsDuConte,

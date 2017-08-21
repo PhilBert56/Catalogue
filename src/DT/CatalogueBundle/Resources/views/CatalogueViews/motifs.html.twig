@@ -10,14 +10,14 @@
         <th>Motifs du Motif-Index de Thompson</th>
     </tr>
     </thead>
-    
+
     {% for motif in motifs %}
         <tr>
-            <td> 
+            <td>
             {% if motif.isTitre %}
             </br><strong> {{ motif.motifDescription }}</strong></br></br>
             {% else %}
-                {{ motif.motifDescription }} </br></br>
+                {{ motif.motifDescription | raw }} </br></br>
             {% endif %}
 
             </td>
@@ -29,7 +29,7 @@
 
 
 </table>
-    
+
 
 
 {% endblock %}

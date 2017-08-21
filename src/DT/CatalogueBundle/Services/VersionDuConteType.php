@@ -77,6 +77,19 @@ class VersionDuConteType
           foreach ($conteType->elementsDuConte as $EDC) {
             if ($EDC->section == $code->section && $EDC->codeElementDuConte == $code->codeEDC){
               $this->setDescription($EDC->description);
+
+              if ($EDC->hasVersions) {
+                $listeVersions = '<font size = 1> Présent dans les versions : ';
+
+                foreach ($EDC->listeDesVersions as $versionADecrire) {
+                  $numero = $versionADecrire->numero;
+                  $lien = "<a href =\"/ConteType/version/".$conteType->ctCode."/".$numero."\">";
+                  $listeVersions = $listeVersions.$lien.$numero.' ; </a>';
+                }
+
+                $listeVersions = $listeVersions.'</font></br>';
+                $this->setDescription($listeVersions);
+              }
               break;
             }
           }
