@@ -68,6 +68,8 @@ class VersionDuConteType
 
     public function marquerLesOccurencesDesElementsDuConte($ligne)
     {
+
+      return;
         $edcList = [];
         /* tableau qui va contenir la liste des elements du conte repérés dans la chaîne */
         $section1 = stristr($ligne,':',true) ;
@@ -99,7 +101,7 @@ class VersionDuConteType
         if($section1 != '' && $this->isRomain($section1)){
 
             if ($debug) echo '</br></br> examine la ligne = |',$ligne,'|</br>';
-            $this->edcSection = $section1;
+            //$this->edcSection = $section1;
             if ($debug) echo 'SECTION = ', $section1, '</br>';
             $curseurDebut = $longueurSection1 + 1;
             $curseurFin = strpos($ligne, ':') + 1;

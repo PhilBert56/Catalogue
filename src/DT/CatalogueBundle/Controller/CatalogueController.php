@@ -45,10 +45,12 @@ class CatalogueController extends Controller
      */
     public function showEdcAction($ctCode) {
 
+        $extracteurDeCodes = $this->container->get('dt_catalogue.listeLesCodesContenusDansLaLigne');
+
         $conteType = $this->rechercherLeConteType($ctCode);
 
         if (!$conteType->isDefined) {
-            $conteType->genererLesInformationsDuConteType();
+            $conteType->genererLesInformationsDuConteType($extracteurDeCodes);
         };
 
         return $this->render('DTCatalogueBundle:CatalogueViews:edc.html.twig',
@@ -64,9 +66,13 @@ class CatalogueController extends Controller
      */
     public function showVersionsAction($ctCode)
     {
+
+        $extracteurDeCodes = $this->container->get('dt_catalogue.listeLesCodesContenusDansLaLigne');
+
         $conteType = $this->rechercherLeConteType($ctCode);
+
         if (!$conteType->isDefined) {
-            $conteType->genererLesInformationsDuConteType();
+            $conteType->genererLesInformationsDuConteType($extracteurDeCodes);
         };
 
         return $this->render('DTCatalogueBundle:CatalogueViews:versions.html.twig',
@@ -103,7 +109,7 @@ class CatalogueController extends Controller
         $conteType = $this->rechercherLeConteType($ctCode);
 
         if (!$conteType->isDefined) {
-            $conteType->genererLesInformationsDuConteType();
+            $conteType->genererLesInformationsDuConteType($extracteurDeCodes);
         };
 
         return $this->render('DTCatalogueBundle:CatalogueViews:motifs.html.twig',

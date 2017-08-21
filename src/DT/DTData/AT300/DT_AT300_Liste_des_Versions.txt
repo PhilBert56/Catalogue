@@ -1,6 +1,6 @@
 1. LAMERANT, Flandre V., 62 (d'après M. De Meyer, les C. pop. de Fl.).
 
-Référence citée dans le catalogue des contes populaires Flamands de M..De Meyer.
+Référence citée dans le catalogue des contes populaires Flamands de M.De Meyer.
 (Les Vlaamsche Wondervertelliugen uit Fransch Vlaanderen par Gust Lamerant, Ypres, 1911, peu connu des folkloristes, même en Flandre, constitue pourtant un des plus intéressants recueils de contes populaires flamands. L'auteur tient ses contes d'un type populaire surnommé, le conteur de Winnezeele, né en 1835; celui ci les avait entendu réciter dans sa jeunesse par un ouvrier scieur de Hazebrouck.)
 
 Lamerant. Gust. Lamerant — Vlaamsche Wondervertellingen uit Fransch-Vlaanderen. Yper, Callewaert de Meulenaere. 1911.
@@ -37,7 +37,7 @@ V : A4 (maître jardinier avec qui travaille le héros), D, D1.
 
 8. LUZEL. Cinquième rapport, 34 (Rés.) = C. B.-Bret. II, 273, Robardic le Pâtre. 
 (C'est le T. 314 avec éléments de 554 et 300)... 
-IV : B, C2, D (1er jour, combat avec cheval, chien, épée et armure, le tout couleur lune, coupe 6 têtes sur 7; deuxième id., couleur étoile, coupe 13 têtes sur 14; 3e id , couleur soleil, coupe les 30 têtes, C5 (têtes abattues repoussaient en nombre double). 
+IV : B, C2, D (1er jour, combat avec cheval, chien, épée et armure, le tout couleur lune, coupe 6 têtes sur 7; deuxième id., couleur étoile, coupe 13 têtes sur 14; 3e id , couleur soleil, coupe les 30 têtes), C5 (têtes abattues repoussaient en nombre double). 
 
 9. Id., ib. 34. Version citée avec éléments : 
 IV : E. 
@@ -155,7 +155,8 @@ IV : B, C4 (cheval seulement), D, E, C3 (il a pris chaque jour un morceau des ro
 V : A, D. 
 
 32. Id., ib., 32. 
-Dans commentaire du précédent, indication d'une variante dans laquelle le héros a obtenu de 3 tartaros 3 chevaux et 3 oulanos, sorte de gros chiens qui l'aident à lutter contre le serpent. En plus, dans V : C et E4 (charbonnier placé sur 7 barils de poudre). 
+Dans commentaire du précédent, indication d'une variante dans laquelle le héros a obtenu de 3 tartaros 3 chevaux et 3 oulanos, sorte de gros chiens qui l'aident à lutter contre le serpent. En plus, dans
+V : C et E4 (charbonnier placé sur 7 barils de poudre). 
 
 33. Id., ib., 33. Le serpent à 7 têtes, 
 Seul de 3 fils qui partent avec gâteau, le 3° accepte d'en donner à une vieille femme, et au lieu d'être dévoré par les ours, reçoit une baguette qui tue ceux qu'il touche. Se loue comme berger dans un château, 7 jours de suite tue un ours qui attaque son troupeau, prend au 7e ses richesses et sa belle demeure. Il part. 
@@ -172,19 +173,23 @@ Alt. Curieuses analogies dans la 1re moitié avec la version basque n° 33, mais g
 
 Nota : quelques éléments du T. 300 dans Barbeau, 1re série, n° 3, Le Dragon de feu. 
 
-36. LANCTOT. Canada, IV, n° 115, p. 166. Les 3 rechanges (voir T. 314). (voir T. 314). 
+36. LANCTOT. Canada, IV, n° 115, p. 166. Les 3 rechanges 
+(voir T. 314). (voir T. 314). 
 
-37. LANCTOT. Canada, VI, n° 155, p. 264. Le petit cheval vert. Ar. lit. (voir T. 314).
+37. LANCTOT. Canada, VI, n° 155, p. 264. Le petit cheval vert. 
+Ar. lit. (voir T. 314).
 
-38. S. MARIE-URSULE. Civ. trad. Lavalois, 215. Tit-Jean et le cheval blanc (Alt. Inc.). Début : T. 3114. Ensuite, T. 300. 
+38. S. MARIE-URSULE. Civ. trad. Lavalois, 215. Tit-Jean et le cheval blanc (Alt. Inc.). 
+Début : T. 3114. Ensuite, T. 300. 
 IV : Le cheval blanc soigné par Tit-Jean lui donne sabre et lui sert de monture, B, B6 (tous les 7 ans), C, E, G1.
 V : A, D, C, F. 
 
 39. Ms. A. DE FELICE. Ilots fr. U.S.A. Michigan. T. g. 2. Vers. informe. 
 
-40. CARRIERE. Missouri, n° 37. La bête à 7 têtes, 1re partie : T. 502.
-Ensuite : 
-IV : A, B, B4, D (1er  jour, avec cheval, habit 3 chiens, un sabre, tous noirs; 2e jour, rouges ; 3e jour blancs), E,E1,E3 (colliers faits aux chiens du 1er jour avec collier d’or de la princesse), G2
+40. CARRIERE. Missouri, n° 37. La bête à 7 têtes, 
+1re partie : T. 502.
+Ensuite :
+IV : A, B, B4, D (1er  jour, avec cheval, habit 3 chiens, un sabre, tous noirs; 2e jour, rouges ; 3e jour blancs), E,E1,E3 (colliers faits aux chiens du 1er jour avec collier d’or de la princesse), G2.
 V : A, C (Vite-comme-le-Vent), C (Passe-partout), C (Brise-fer), D, C2, F. 
 
 41. PARSONS. F. L. Antilles. 
