@@ -8,31 +8,37 @@
     <tr>
         <th>Conte Type {{conteTypeCode }}</th>
         <th>Elements du conte</th>
-        
+
     </tr>
     </thead>
     <tbody>
     {% for element in edc %}
         <tr>
-            <td> 
+            <td>
             {% if element.isHeader %}
                 <strong>{{ element.description }}</strong>
             {% else %}
                 {{ element.description }}
             {% endif %}
-            
+
             {% if element.hasVersions %}
-                | version(s) = 
+                | version(s) =
                 {% for version in element.listeDesVersions %}
 
-                <a href="{{ path('ct_show_une_version', {'ctCode':conteTypeCode , 'numeroVersion':version} ) }}">{{version}}; </a>
-                    
+                  {% if version.hasSource %}
+                    <strong>
+                      <a href="{{ path('ct_show_une_version', {'ctCode':conteTypeCode , 'numeroVersion':version.numero} ) }}">{{version.numero}}</a>
+                      <a href="{{version.fichierSource }}"> (source) ; </a>
+                    </strong>
+                  {% else %}
+                    <a href="{{ path('ct_show_une_version', {'ctCode':conteTypeCode , 'numeroVersion':version.numero} ) }}">{{version.numero}};</a>
+                  {% endif %}
                 {% endfor %}
             {% endif %}
 
             </td>
 
-           
+
         </tr>
     {% endfor %}
     </tbody>
@@ -40,7 +46,7 @@
 
 
 </table>
-    
+
 
 
 {% endblock %}

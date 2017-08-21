@@ -63,7 +63,7 @@ class ConteType
         $this->hasBonus = false;
         $this->setBonus();
 
-        dump($this);
+        //dump($this);
     }
 
 
@@ -74,8 +74,8 @@ class ConteType
         //$this->genererLaListeDesVersions();
         $this->genererLaListeDesVersions($extracteurDeCodes);
 
-
         $this->genererLaListeDesElementsDuConte($extracteurDeCodes);
+
         $this->associerElementsDuConteEtVersions();
 //echo 'apelle motifs ';
 
@@ -117,10 +117,6 @@ class ConteType
 
                     $ligne = utf8_encode ($lines[$lineNumber]);
 
-                    //$occurencesEDC = new OccurencesEDC ($version->numero,$ligne) ;
-                    //$extracteurDeCodes = $extracteurDeCodes->get('dt_catalogue.listeLesCodesContenusDansLaLigne');
-                    //dump ($extracteurDeCodes);die();
-
                     $section = $extracteurDeCodes->laLigneEstUnDebutDeSection($ligne);
                     if ($section !='') {
                       $nouvelleSectionOuverte = true;
@@ -132,27 +128,13 @@ class ConteType
                       }
                         else $section ='';
                     }
-                    //$ligne = utf8_encode ( $lines[$lineNumber] ) ;
+
                     $listeDesCodes = $extracteurDeCodes->listeLesCodesContenusDansLaLigne($lineNumber, $ligne, $this->ctCode, $version->numero, $section);
 
                     foreach ($listeDesCodes as $code ){
                       $version->occurencesDesElementsDuConte[] = $code;
                     }
 
-                    //dump ($listeDeCodes);
-
-                    /* ancienne version
-                    if (count($occurencesEDC)>0){
-                        $this->occurencesDesElementsDuConteType[] = $occurencesEDC;
-                    }*/
-                    /*
-                    if (count($listeDesCodes)>0){
-                        $this->occurencesDesElementsDuConteType[] = $listeDesCodes;
-                      }*/
-                    //$ligne = utf8_encode ( $lines[$lineNumber] ) ;
-
-
-                    //$version->setDescription ($ligne);
                     if (count ($listeDesCodes) > 0){
                       //dump($listeDesCodes);
                       $ligne = $extracteurDeCodes->effectuerLesSubstitutions($ligne,$listeDesCodes);
@@ -161,7 +143,6 @@ class ConteType
                 }
             }
         }
-        //dump($this->versions);
 
     }
 
@@ -176,6 +157,7 @@ class ConteType
 
 
         foreach ($lines as $lineNumber => $lineContent){
+
             $edct = new ElementDuConteType($this->ctCode);
             $edct->ctCode = $this->ctCode;
             $edct->setDescription($lines[$lineNumber]);
@@ -213,22 +195,16 @@ class ConteType
       foreach ($this->versions as $version) {
 
         $occurencesEDC = $version->occurencesDesElementsDuConte;
-
-        foreach ($occurencesEDC as $code) {
-          $edc = $this->rechercherUnEDC($code->section, $code->codeEDC);
-          if ($edc != null){
-
-            echo $edc->section.' '.$edc->codeElementDuConte.'  '.$edc->listeDesVersions.'</br>';
-
-            if ($edc->listeDesVersions = ''){
-              $edc->listeDesVersions = $version->numero;
-            } else {
-              $edc->listeDesVersions = $edc->listeDesVersions.' ; '.$version->numero;
-              echo $edc->listeDesVersions.'</br>';
-
+        if ( count($occurencesEDC) > 0 ){
+            foreach ($occurencesEDC as $code) {
+              $edc = $this->rechercherUnEDC($code->section, $code->codeEDC);
+              $versionADecrire = new VersionADecrire ($version->numero , $version->hasSource, $version->fichierSource);
+              $edc->listeDesVersions[] = $versionADecrire;
+              $edc->hasVersions = true;
+//echo ' dans version '.$version->numero.'</br>';
             }
-          }
         }
+
       }
 
       dump ($this);
@@ -236,13 +212,13 @@ class ConteType
     }
 
 
-
     public function rechercherUnEDC ($section, $codeEDC){
 
-echo 'recherche '.$section.' '.$codeEDC.'</br>';
+//echo 'recherche '.$section.' '.$codeEDC.'</br>';
 
       foreach ($this->elementsDuConte as $EDC) {
         if ($EDC->section == $section && $EDC->codeElementDuConte == $codeEDC){
+//echo 'EDC '.$section.' '.$codeEDC;
           return $EDC;
         }
       }
@@ -250,41 +226,11 @@ echo 'recherche '.$section.' '.$codeEDC.'</br>';
     }
 
 
-
-
-
-
-
-
-
     public function setBonus(){
 
-        //echo 'BONUS ';
-        //$path = '..\DTData\A'.$this->ctCode;
-
-
-        //$this->bonusFile = '..\src\DT\CatalogueBundle\Resources\views\Complements\A'.$this->ctCode.'.HTM';
         $this->bonusFile = 'A'.$this->ctCode.'.HTM';
         $this->hasBonus = true;
-   /*
-        $numeroConte = str_replace('T', '', $this->ctCode);
-        $numeroConte = substr($this->ctCode,1,3);
 
-
-
-        $fichiers = scandir($path);
-
-        foreach ($fichiers as $f){
-
-            if ( stripos(basename($f),$numeroConte) !== false ) {
-
-                $this->bonusFile = 'Complements\\'.basename($f);
-
-                $this->hasBonus = true;
-                break;
-            }
-
-        }*/
     }
 
 
@@ -294,7 +240,6 @@ echo 'recherche '.$section.' '.$codeEDC.'</br>';
             echo 'FILE :$this->fichierDesMotifs inexistant';
             return;
        }
-
 
         //echo 'ouvre : ',$this->fichierDesMotifs;
         $lines = file($this->fichierDesMotifs);

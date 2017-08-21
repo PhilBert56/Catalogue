@@ -75,13 +75,14 @@ class CatalogueController extends Controller
             $conteType->genererLesInformationsDuConteType($extracteurDeCodes);
         };
 
+
+        dump ($conteType->versions);
         return $this->render('DTCatalogueBundle:CatalogueViews:versions.html.twig',
         [
             'versions' => $conteType->versions,
             'conteTypeCode' => $conteType->ctCode
         ]);
     }
-
 
 
     public function rechercherLeConteType($ctCode) {
@@ -107,6 +108,7 @@ class CatalogueController extends Controller
     public function showMotifsAction($ctCode) {
 
         $conteType = $this->rechercherLeConteType($ctCode);
+        $extracteurDeCodes = $this->container->get('dt_catalogue.listeLesCodesContenusDansLaLigne');
 
         if (!$conteType->isDefined) {
             $conteType->genererLesInformationsDuConteType($extracteurDeCodes);
@@ -132,7 +134,7 @@ class CatalogueController extends Controller
         };
 */
 
-echo 'BONUS FILE = ', $conteType->bonusFile, '</br>';
+// echo 'BONUS FILE = ', $conteType->bonusFile, '</br>';
         //$fileName = "DT\CatalogueBundle\DTData\A".$conteType->ctCode.'\'.$conteType->bonusFile;
 
         $fileName ='DT/CatalogueBundle/DTData/AT300/AT300.htm';
