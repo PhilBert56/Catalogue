@@ -75,8 +75,6 @@ class CatalogueController extends Controller
             $conteType->genererLesInformationsDuConteType($extracteurDeCodes);
         };
 
-
-        dump ($conteType->versions);
         return $this->render('DTCatalogueBundle:CatalogueViews:versions.html.twig',
         [
             'versions' => $conteType->versions,

@@ -1,16 +1,18 @@
 {% extends 'base.html.twig' %}
 
 {% block body %}
+
     <h3><span>Catalogue Delarue Teneze</h3>
     <table class="table table-striped">
     <thead>
     <tr>
         <th>Conte Type</th>
         <th>titre</th>
-    
+
     </tr>
     </thead>
     <tbody>
+
     {% for conteType in contes_type %}
         <tr>
             <td>
@@ -38,7 +40,7 @@
                 {% endif %}
             </td>
 
-           
+
         </tr>
     {% endfor %}
     </tbody>
@@ -46,7 +48,7 @@
 
 
 </table>
-    
+
 
 
 {% endblock %}

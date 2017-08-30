@@ -8,40 +8,40 @@
     <tr>
         <p>Conte Type {{version.ctCode }}</p>
         <p>Version {{version.numero}}</p>
-            
-            
-               <strong> 
-                    {% if version.hasSource %} 
+
+
+               <strong>
+                    {% if version.hasSource %}
                         <a href="{{version.fichierSource }}">{{version.numero}}</a>
                     {% else %}
                         {{version.numero}}
-                        
+
                     {% endif %}
-                    - {{ version.reference }} 
+                    - {{ version.reference }}
                 </strong></br>
 
                 {% for ligne in version.description %}
                     {{ ligne | raw }} </br>
-       
+
                 {% endfor %}
 
                 <tr>
-                {% for ligne in developpements %}
+                {% for ligne in version.developpements %}
                     {{ ligne | raw }} </br>
-       
+
                 {% endfor %}
 
                 </tr>
     </tr>
     </thead>
     <tbody>
-    
+
     </tbody>
 
 
 
 </table>
-    
+
 
 
 {% endblock %}

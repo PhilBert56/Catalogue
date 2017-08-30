@@ -1,0 +1,30 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h3>Motif-Index</h3>
+
+    <table class="pure-table-bordered">
+    <thead>
+      <tr>
+        <th>N°</th>
+        <th>Code du Motif Type</th>
+        <th> Description </th>
+        <th> Bibliographie </th>
+      </tr>
+    </thead>
+
+      <tbody>
+
+      {% for motif in motifs %}
+        <tr>
+          <td>{{motif[1]}}</td>
+          <td>{{motif[2]}}</td>
+          <td>{{motif[3]}}</td>
+        </tr>
+      {% endfor %}
+
+      </tbody>
+
+    </table>
+
+{% endblock %}

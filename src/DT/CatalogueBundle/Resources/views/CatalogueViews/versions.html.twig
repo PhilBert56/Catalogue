@@ -6,42 +6,46 @@
     <table class="table table-striped">
     <thead>
     <tr>
+
         <th>Conte Type {{conteTypeCode }}</th>
         <th>Versions</th>
             {% for version in versions %}
             <tr>
             <td>
 
-               <strong> 
-                    {% if version.hasSource %} 
+               <strong>
+                    {% if version.hasSource %}
                         <a href="{{version.fichierSource }}">{{version.numero}}</a>
                     {% else %}
                         {{version.numero}}
-                        
+
                     {% endif %}
-                    - {{ version.reference }} 
+                    - {{ version.reference }}
                 </strong></br>
 
                 {% autoescape 'html' %}
                 {% for ligne in version.description %}
                     {{ ligne | raw }} </br>
                 {% endfor %}
+                <span ><FONT SIZE="2">
+                <a href="{{ path('ct_show_une_version', {'ctCode':conteTypeCode , 'numeroVersion':version.numero} ) }}" >Développer les éléments du conte</a>
+                </FONT></span>
+
                 {% endautoescape %}
             </td>
         </tr>
     {% endfor %}
 
-        
+
     </tr>
     </thead>
     <tbody>
-    
+
     </tbody>
 
 
 
 </table>
-    
 
 
 {% endblock %}

@@ -8,6 +8,7 @@ class VersionDuConteType
     public $numero;
     public $reference;
     public $description;
+    public $developpements;
     public $fichierSource;
     public $hasSource;
     public $occurencesDesElementsDuConte;
@@ -64,6 +65,15 @@ class VersionDuConteType
         $this->description[] = $description;
     }
 
+    public function setDeveloppements($developpements){
+    /*  (même si l'attribut descriptio est public,
+        on ne peut pas le modifier de l'extérieur sans passer par un setteur) */
+
+//echo 'on a appelé set Description pour', $description, '</br>';
+        //$nouvelleLigne = $this->marquerLesOccurencesDesElementsDuConte($description);
+
+        $this->developpements[] = $developpements;
+    }
 
 
     public function developperUneVersion($conteType){
@@ -76,7 +86,7 @@ class VersionDuConteType
 
           foreach ($conteType->elementsDuConte as $EDC) {
             if ($EDC->section == $code->section && $EDC->codeElementDuConte == $code->codeEDC){
-              $this->setDescription($EDC->description);
+              $this->setDeveloppements($EDC->description);
 
               if ($EDC->hasVersions) {
                 $listeVersions = '<font size = 1> Présent dans les versions : ';
@@ -88,7 +98,8 @@ class VersionDuConteType
                 }
 
                 $listeVersions = $listeVersions.'</font></br>';
-                $this->setDescription($listeVersions);
+                $this->setDeveloppements($listeVersions);
+                dump($this);
               }
               break;
             }

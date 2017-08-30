@@ -31,7 +31,7 @@ class ShowVersionController extends Controller
                 //foreach($developpements as $ligne) echo $ligne.'</br>' ;
                 break;
             }
-            
+
         };
 
         return $this->render('DTCatalogueBundle:CatalogueViews:version.html.twig',
@@ -66,7 +66,7 @@ class ShowVersionController extends Controller
     public function showElementDuConteAction($ctCode, $section, $edcCode){
 
         $conteType = $this->rechercherLeConteType($ctCode);
-        dump ($conteType);
+        //dump ($conteType);
 
         foreach ($conteType->elementsDuConte as $edc) {
 
