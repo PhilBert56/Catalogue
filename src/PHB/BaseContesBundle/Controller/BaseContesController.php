@@ -23,10 +23,6 @@ class BaseContesController extends Controller
     public function indexAction(Request $request)
     {
 
-
-      // On crée un objet Advert
-
-      /*
         $motClef = new MotClefRequest('% %');
         $formBuilder = $this->get('form.factory')->createBuilder(FormType::class, $motClef);
 
@@ -34,7 +30,7 @@ class BaseContesController extends Controller
           ->add('motClef', TextType::class)
         ;
         $formMotClef = $formBuilder->getForm();
-*/
+
         $aTRequest = new ATRequest('% %');
         $formBuilder = $this->get('form.factory')->createBuilder(FormType::class, $aTRequest);
 
@@ -46,17 +42,14 @@ class BaseContesController extends Controller
 
         if ($request->isMethod('POST')) {
 
-
-          echo 'REPONSE REQUETE  ';
-
           if(isset($_POST['submit_mc'])){
-            echo 'Requete Mot Clef  ';
+
             $formMotClef->handleRequest($request);
             if ($formMotClef->isValid()) {
               $requete = $formMotClef['motClef']->getData();
               $repoConte = $this->getDoctrine()->getRepository(ReferenceConte::class);
-              $request = new MotClefRequest($requete);
-              $references = $request->getReferences($repoConte , $requete);
+              $mcRequest = new MotClefRequest($requete);
+              $references = $mcRequest->getReferences($repoConte , $requete);
 
               return $this->render('PHBBaseContesBundle:Requetes:referencesview.html.twig' ,[
                   'references' => $references,
@@ -66,18 +59,15 @@ class BaseContesController extends Controller
           }
 
           if(isset($_POST['submit_nat'])){
-            echo ' Requete AT detectée :';
-            dump ($formAT);
-            //print_r($formAT->getErrors());
+
+            $formAT->handleRequest($request);
+
             if ($formAT->isValid()) {
-              echo ' FORM valide :';
-              $formAT>handleRequest($request);
               $requete = $formAT['numeroAT']->getData();
-              echo ' requete = '.$requete;
 
               $repoConte = $this->getDoctrine()->getRepository(ReferenceConte::class);
-              $request = new ATRequest($requete);
-              $references = $request->getReferences($repoConte , $requete);
+              $atrequest = new ATRequest($requete);
+              $references = $atrequest->getReferences($repoConte , $requete);
 
               return $this->render('PHBBaseContesBundle:Requetes:referencesview.html.twig' ,[
                   'references' => $references,
@@ -85,13 +75,10 @@ class BaseContesController extends Controller
 
               ]);
             }else {
-
-              echo ' FORM NON valide : requete = ';
-/*
+              /*
               $requete;
               $formAT>handleRequest($request);
               $requete = $formAT['numeroAT']->getData();
-              echo ' requete = '.$requete;
               $repoConte = $this->getDoctrine()->getRepository(ReferenceConte::class);
               $request = new ATRequest($requete);
               $references = $request->getReferences($repoConte , $requete);
@@ -100,15 +87,15 @@ class BaseContesController extends Controller
                   'references' => $references,
                   'query'=>$requete
 
-              ]);
-*/
+              ]);*/
+
             }
 
           }
         }
 
         return $this->render('PHBBaseContesBundle:Requetes:requetesview.html.twig' ,[
-        //'formMotClef' => $formMotClef->createView(),
+        'formMotClef' => $formMotClef->createView(),
         'formAT' => $formAT->createView(),
       ]);
 

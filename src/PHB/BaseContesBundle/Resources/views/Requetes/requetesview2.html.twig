@@ -1,22 +1,16 @@
 {% extends 'base.html.twig' %}
 
 {% block body %}
-  {{ form_start(formMotClef)  }}
+<h3>Tests</h3>
+{{ form_start(form)  }}
 
-  {{ form_widget(formMotClef) }}
-  <br/>
-  <button type="submit" class = "pure-button" name = "submit_mc">Rechercher</button>
+{{ form_widget(form) }}
+<br/>
 
-  {{ form_end(formMotClef) }}
-  <br/>
+<button type="submit" class = "pure-button" name = "submit_nat">Rechercher</button>
+{{ form_end(form) }}
 
-  {{ form_start(formAT)  }}
 
-  {{ form_widget(formAT) }}
-  <br/>
-  <button type="submit" class = "pure-button" name = "submit_nat">Rechercher</button>
-
-  {{ form_end(formAT) }}
   <br/>
 
 

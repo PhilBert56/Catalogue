@@ -7,6 +7,7 @@ class ATRequest{
 
   private $references;
   public $numeroAT;
+  public $autreDonnee;
 
   public function __construct($numeroAT)
   {

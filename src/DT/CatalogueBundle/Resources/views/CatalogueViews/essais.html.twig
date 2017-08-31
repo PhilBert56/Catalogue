@@ -4,7 +4,14 @@
 
     <h3><span>Essais</h3>
 
-    
+    {{ form_start(formAT)  }}
+
+    {{ form_widget(formAT) }}
+    <br/>
+    <button type="submit" class = "pure-button" name = "submit_nat">Rechercher</button>
+
+    {{ form_end(formAT) }}
+    <br/>
 
 
 {% endblock %}
