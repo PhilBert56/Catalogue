@@ -2,11 +2,14 @@
 
 {% block body %}
 
+<blockquote>
   {{ form_start(formMotClef)  }}
 
   {{ form_widget(formMotClef) }}
-  <br/>
+  <div> <font size=2> ( Pour inclure des espaces dans la requête taper le mot clef entre * *, par exemple * vert* évitera une référence avec pivert) </font></div>
+
   <button type="submit" class = "pure-button" name = "submit_mc">Rechercher</button>
+  </br>
 
   {{ form_end(formMotClef) }}
   <br/>
@@ -14,11 +17,23 @@
   {{ form_start(formAT)  }}
 
   {{ form_widget(formAT) }}
-  <br/>
+  <div> <font size=2> ( Entrer le numéro Aarne et Thompson sous le format T.xxx sans espace entre le T. et le numéro ) </font></div>
+
   <button type="submit" class = "pure-button" name = "submit_nat">Rechercher</button>
 
   {{ form_end(formAT) }}
+
+
+  </br></br>
+  {{ form_start(formLivres)  }}
+  {{ form_widget(formLivres) }}
+
+  <button type="submit" class = "pure-button" name = "submit_l">Liste des livres constituant la base de données</button>
+
+  {{ form_end(formLivres) }}
+
+  </br></br>
   <br/>
 
-
+</blockquote>
 {% endblock %}

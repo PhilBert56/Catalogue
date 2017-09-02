@@ -7,8 +7,12 @@
     <thead>
     <tr>
         <p>Conte Type {{version.ctCode }}</p>
-        <p>Version {{version.numero}}</p>
-
+        {% if version.hasSource %}
+            <a href="{{version.fichierSource }}">Version {{version.numero}}</a>
+        {% else %}
+            <p>Version {{version.numero}}</p>
+        {% endif %}
+        </br></br>
 
                <strong>
                     {% if version.hasSource %}

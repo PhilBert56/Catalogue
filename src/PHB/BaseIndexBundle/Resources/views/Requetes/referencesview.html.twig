@@ -1,0 +1,38 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+  <h3> {{ query }}</h3>
+
+  <table class="table table-striped">
+  <thead>
+  <tr>
+    <th>Code du Motif</th>
+    <th>description</th>
+    <th>Bibliographie</th>
+    <th>Bibliographie</th>
+  </tr>
+  </thead>
+  <tbody>
+
+  {%for reference in references %}
+  <tr>
+    <td>
+      {{reference.codeMotif}}
+    </td>
+    <td>
+      {{reference.description}}
+    </td>
+    <td>
+      {{reference.bibliographie1}}
+    </td>
+    <td>
+      {{reference.bibliographie2}}
+    </td>
+
+  </tr>
+  {% endfor %}
+
+  </tbody>
+</table>
+
+{% endblock %}

@@ -9,29 +9,44 @@ class MotifIndexController extends Controller
 {
 
   /**
-   * @Route("/Motif-Index", name="motifIndex")
+   * @Route("/Motif-Index", name="biblioMotifIndex")
   */
     public function indexAction()
     {
 
-      $fileName = "..\src\PHB\BaseIndexBundle\Data\IndexTable.csv";
+      $fileName = "..\src\PHB\BaseIndexBundle\Data\BiblioMotifIndexLiensComplets.csv";
       $motifs = [];
 
       if (($handle = fopen($fileName, "r")) !== FALSE) {
 
         while (($data = fgetcsv($handle, 0, ";")) !== FALSE) {
 
-          //echo utf8_encode($data[0]).'|'.utf8_encode($data[1].' | '.utf8_encode($data[2]).' | '.utf8_encode($data[3]));
-          //echo '</br>';
+          if ($data[1] != ''){
 
-          $data[2] = utf8_encode($data[2]);
-          $data[3] = utf8_encode($data[3]);
-          $motifs[] = $data;
+            $ligne = [];
+            //echo '</br> n elements = '.count($data).'| ';
+            for($i = 0; $i< count($data); $i++) {
+              //echo 'i= '.$i.'|'.$data [$i].'| ';
+              if ($data[$i] != ''){
+                $ligne[] = utf8_encode($data[$i]);
+              }else {
+                $ligne[] = '';
+              }
+
+            }
+            //echo '</br>';
+            $motifs[] = $ligne;
+            if (count($ligne)<9){
+
+              //echo '</br> !!!!!!!!!!!!!!!!!! '.$ligne[0].'</br>';
+              dump($ligne);
+            }
+
+          }
         }
-
       }
       fclose($handle);
-
+      //dump ($motifs);
       return $this->render('PHBBaseIndexBundle:Default:indexview.html.twig', [
           'motifs' => $motifs
       ]);

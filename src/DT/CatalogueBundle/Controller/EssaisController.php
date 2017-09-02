@@ -12,6 +12,8 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use PHB\BaseContesBundle\Requetes\ATRequest;
 use PHB\BaseContesBundle\Entity\ReferenceConte;
 
+use PHB\BaseContesBundle\Entity\BiblioDuMotifIndex;
+use PHB\BaseContesBundle\Entity\MotifDuMotifIndex;
 
 class EssaisController extends Controller
 {
@@ -58,11 +60,15 @@ class EssaisController extends Controller
 
       echo 'Après :'.$ligne.'</br>';
 */
+  $biblio = new BiblioDuMotifIndex();
+  $motif = new motifDuMotifIndex();
+
+
+
   $aTRequest = new ATRequest('% %');
   $formBuilder = $this->get('form.factory')->createBuilder(FormType::class, $aTRequest);
 
   $formBuilder
-  ->add('autreDonnee', TextType::class)
   ->add('numeroAT', TextType::class)
   ;
   $form = $formBuilder->getForm();
@@ -81,7 +87,6 @@ class EssaisController extends Controller
       $form->handleRequest($request);
 
       echo ' Requete AT detectée :';
-      dump ($form);
 
       if ($form->isValid()) {
           echo ' FORM valide :';

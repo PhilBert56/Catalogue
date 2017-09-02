@@ -6,7 +6,6 @@
     <table class="pure-table-bordered">
     <thead>
       <tr>
-        <th>N°</th>
         <th>Code du Motif Type</th>
         <th> Description </th>
         <th> Bibliographie </th>
@@ -20,6 +19,9 @@
           <td>{{motif[1]}}</td>
           <td>{{motif[2]}}</td>
           <td>{{motif[3]}}</td>
+          {%  if (motif[4] != '' and motif[4] != 'Url')  %}
+            <td> <a href="{{ motif[4] }}">Source </a> </td>
+          {% endif %}
         </tr>
       {% endfor %}
 

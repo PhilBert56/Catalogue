@@ -1,0 +1,59 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+
+<blockquote>
+  {{ form_start(formMotClef)  }}
+
+  {{ form_widget(formMotClef) }}
+  <div> <font size=2> ( Rappel : le MOTIF-INDEX EST EN ANGLAIS... Pour inclure des espaces dans la requête taper le mot clef entre * *) </font></div>
+
+  <button type="submit" class = "pure-button" name = "submit_mc">Rechercher</button>
+  </br>
+
+  {{ form_end(formMotClef) }}
+  <br/>
+
+  {{ form_start(formCodeMotif)  }}
+
+  {{ form_widget(formCodeMotif) }}
+  <div> <font size=2> ( Entrer le code sous le format X.x.x ) </font></div>
+
+  <button type="submit" class = "pure-button" name = "submit_code">Rechercher</button>
+
+  {{ form_end(formCodeMotif) }}
+
+
+  </br></br>
+  {{ form_start(formBiblio)  }}
+  {{ form_widget(formBiblio) }}
+
+  <button type="submit" class = "pure-button" name = "submit_bib">Bibliographie de Stith Thompson</button>
+
+  {{ form_end(formBiblio) }}
+
+  </br>
+
+  {{ form_start(formAuteur)  }}
+
+  {{ form_widget(formAuteur) }}
+
+  <button type="submit" class = "pure-button" name = "submit_auteur">Rechercher</button>
+
+  {{ form_end(formAuteur) }}
+
+  </br>
+  {{ form_start(formTitre)  }}
+
+  {{ form_widget(formTitre) }}
+
+  <button type="submit" class = "pure-button" name = "submit_titre">Rechercher</button>
+
+  {{ form_end(formTitre) }}
+
+
+  </br>
+  <br/>
+
+</blockquote>
+{% endblock %}

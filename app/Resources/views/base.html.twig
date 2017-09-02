@@ -1,48 +1,92 @@
+{# app/Resources/views/base.html.twig #}
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="UTF-8" />
-        <title>{% block title %}Le conte merveilleux{% endblock %}</title>
-        {% block stylesheets %}
 
-            <!-- Latest compiled and minified CSS -->
-            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-                  integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
-                  crossorigin="anonymous">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-            <!-- Optional theme -->
-            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-                  integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp"
-                  crossorigin="anonymous">
+  <title>Le conte merveilleux</title>
+  {% block stylesheets %}
+            <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
+            <link href="{{ asset('css/font-awesome/css/font-awesome.min.css') }}" rel="stylesheet">
+            <link href="{{ asset('js/sweetalert/sweetalert.css') }}" rel="stylesheet">
+            <link href="{{ asset('css/styles.css') }}" rel="stylesheet">
+            <link href="{{ asset('css/purestyles.css') }}" rel="stylesheet">
+            <link href='https://fonts.googleapis.com/css?family=Lobster+Two' rel='stylesheet' type='text/css'>
 
-        {% endblock %}
-        <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}" />
-    </head>
-    <body>
-        <nav class="navbar navbar-default">
-            <div class="container-fluid">
-                <!-- Brand and toggle get grouped for better mobile display -->
-                <div class="navbar-header">
+            <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css">    <!--[if lte IE 8]>
+  <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-old-ie-min.css">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+           <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-min.css">
+  {% endblock %}
 
-            <!-- Collect the nav links, forms, and other content for toggling -->
+</head>
 
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<body>
 
 
-        {{ knp_menu_render('AppBundle:MenuBuilder:mainMenu', {'currentClass' : 'active'}) }}
 
-            </div>
-            </div>
-        </nav>
+<div class="custom-menu-wrapper">
+    <div class="pure-menu custom-menu custom-menu-top">
+        <a href="#" class="pure-menu-heading custom-menu-brand">Le conte merveilleux</a>
+        <a href="#" class="custom-menu-toggle" id="toggle"><s class="bar"></s><s class="bar"></s></a>
+    </div>
+    <div class="pure-menu pure-menu-horizontal pure-menu-scrollable custom-menu custom-menu-bottom custom-menu-tucked" id="tuckedMenu">
+        <div class="custom-menu-screen"></div>
+        <ul class="pure-menu-list">
+            <li class="pure-menu-item"><a href= {{ path('homepage') }} class="pure-menu-link">Accueil</a></li>
+            <li class="pure-menu-item"><a href= {{ path('catalogue')}} class="pure-menu-link">Catalogue des contes merveilleux</a></li>
+            <li class="pure-menu-item"><a href= {{ path('motifIndex')}} class="pure-menu-link">Motif Index</a></li>
+            <li class="pure-menu-item"><a href= {{ path('consulterBaseContes')}} class="pure-menu-link">Bibliographie Générale</a></li>
+        </ul>
+    </div>
+</div>
 
-        {% block body %}{% endblock %}
-        {% block javascripts %}
 
-            <!-- Latest compiled and minified JavaScript -->
-            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
-                    integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+<script>
+(function (window, document) {
+document.getElementById('toggle').addEventListener('click', function (e) {
+    document.getElementById('tuckedMenu').classList.toggle('custom-menu-tucked');
+    document.getElementById('toggle').classList.toggle('x');
+});
+})(this, this.document);
+</script>
+
+<!--
+<div class="museum-flash alert alert-success">'message test alerte'</div>
+-->
+  {% for msg in app.session.flashBag.get('success') %}
+            <div class="catalogue-flash alert alert-success">{{ msg }}</div>
+
+  {% endfor %}
+
+  {% for msg in app.session.flashBag.get('error') %}
+            <div class="catalogue-flash alert alert-danger">{{ msg }}</div>
+  {% endfor %}
+
+ {% block body %}{% endblock %}
+
+</br> </br> </br>
+
+ <footer class="footer footer-styling">
+   <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <p> Le site du conte merveilleux </p>
+      </div>
+    </div>
+  </div>
+ </footer>
+
+    {% block javascripts %}
+            <script src="https://code.jquery.com/jquery-3.1.0.js"
+                    integrity="sha256-slogkvB1K3VOkzAI8QITxV3VzpOnkeNVsKvtkYLMjfk="
                     crossorigin="anonymous"></script>
 
-        {% endblock %}
-    </body>
+            <script src="{{ asset('js/sweetalert/sweetalert.min.js') }}"></script>
+    {% endblock %}
+
+  </body>
 </html>

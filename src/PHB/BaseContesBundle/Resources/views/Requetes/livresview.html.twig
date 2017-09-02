@@ -1,0 +1,41 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+  <h3> Votre requete : {{ query }}</h3>
+
+  <table class="table table-striped">
+  <thead>
+  <tr>
+    <th>Titre du Livre</th>
+    <th>Auteur</th>
+    <th>Editeur</th>
+    <th>Année</th>
+    <th>Traducteur</th>
+  </tr>
+  </thead>
+  <tbody>
+
+  {%for reference in references %}
+  <tr>
+    <td>
+      {{reference.titre}}
+    </td>
+    <td>
+      {{reference.auteur}}
+    </td>
+    <td>
+      {{reference.editeur}}
+    </td><td>
+      {{reference.annee}}
+    </td>
+    <td>
+      {{reference.traducteur}}
+    </td>
+
+  </tr>
+
+  {% endfor %}
+
+  </tbody>
+</table>
+{% endblock %}

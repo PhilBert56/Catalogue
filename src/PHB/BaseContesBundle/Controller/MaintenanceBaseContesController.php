@@ -12,7 +12,7 @@ class MaintenanceBaseContesController extends Controller
 {
 
   /**
-   * @Route("/Recherger la Base de donnees contes", name="mainenanceBases")
+   * @Route("/Recharger la Base de donnees contes", name="mainenanceBaseContes")
    */
     public function indexAction()
     {
