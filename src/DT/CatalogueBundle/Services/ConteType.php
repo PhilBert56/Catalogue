@@ -96,7 +96,7 @@ class ConteType
 
             foreach ($lines as $lineNumber => $lineContent){
 
-               if( grapheme_strlen($lines[$lineNumber])==0  ){
+               if( strlen($lines[$lineNumber]) < 3  ){
                  $nouvelleSectionOuverte = false;
                  $lastSection = '';
                }
@@ -106,7 +106,6 @@ class ConteType
                if ( is_numeric ($elements[0])) {
                  /* on commence la description d'une nouvelle version */
                     $version = new VersionDuConteType($this->ctCode);
-//echo 'nouvelle version numero '.$elements[0].'</br>';
                     $this->hasVersion = true;
                     $version->numero = $elements[0];
                     $version->reference = utf8_encode ($elements[1]);
@@ -263,6 +262,8 @@ class ConteType
                 $motif->setDescription($lines[$lineNumber]);
 
                 $lineDescription = $lines[$lineNumber];
+
+
                 $motif->description = $motif->setDescription($lineDescription);
 
                 $motif->motifCode = $code[0];
@@ -283,10 +284,6 @@ class ConteType
 
         } /* fin de boucle foreach */
     }
-
-
-
-
 
 
 }

@@ -9,6 +9,7 @@ class VersionDuConteType
     public $reference;
     public $description;
     public $developpements;
+    public $comparatifAvecAutreVersions;
     public $fichierSource;
     public $hasSource;
     public $occurencesDesElementsDuConte;
@@ -59,9 +60,6 @@ class VersionDuConteType
     /*  (même si l'attribut descriptio est public,
         on ne peut pas le modifier de l'extérieur sans passer par un setteur) */
 
-//echo 'on a appelé set Description pour', $description, '</br>';
-        //$nouvelleLigne = $this->marquerLesOccurencesDesElementsDuConte($description);
-
         $this->description[] = $description;
     }
 
@@ -69,8 +67,6 @@ class VersionDuConteType
     /*  (même si l'attribut descriptio est public,
         on ne peut pas le modifier de l'extérieur sans passer par un setteur) */
 
-//echo 'on a appelé set Description pour', $description, '</br>';
-        //$nouvelleLigne = $this->marquerLesOccurencesDesElementsDuConte($description);
 
         $this->developpements[] = $developpements;
     }
@@ -99,26 +95,15 @@ class VersionDuConteType
 
                 $listeVersions = $listeVersions.'</font></br>';
                 $this->setDeveloppements($listeVersions);
-                dump($this);
+                //dump($this);
               }
               break;
             }
           }
        }
+       $this->etablirLeTableauComparatifAvecLesAutresVersions($conteType);
+    }
   }
-
-
-
-/*
-
-
-      $occurencesEDC = $this->occurencesDesElementsDuConte;
-      if (count($occurencesEDC > 0)){
-
-
-*/
-
-      }
 
 
 
@@ -185,6 +170,59 @@ class VersionDuConteType
                 return $listeDesVersions;
             }
         }
+
+    }
+
+
+
+    public function etablirLeTableauComparatifAvecLesAutresVersions($conteType){
+
+      $this->comparatifAvecAutreVersions = [];
+      $tableauDesComparaisons = [];
+      $tableDesEdcDeCetteVersion = $this->occurencesDesElementsDuConte ;
+
+      if (count($tableDesEdcDeCetteVersion) == 0) return $tableauDesComparaisons;
+
+      foreach ($conteType->versions as $version) {
+        $ligne=[];
+        $tableDesEdcVersionATester = $version->occurencesDesElementsDuConte;
+
+        if ( count($tableDesEdcVersionATester)>0 && ($version->numero != $this->numero) ){
+          $ligne[]=$version->numero;
+
+          foreach ($tableDesEdcVersionATester as $edcAutreVersion) {
+
+            foreach($tableDesEdcDeCetteVersion as $edcATester){
+                if ($edcAutreVersion->section == $edcATester->section && $edcAutreVersion->codeEDC == $edcATester->codeEDC){
+                  $ligne[] = $edcATester;
+                  //echo 'ajout de '.$tableDesEdcVersionATester->numeroVersion.'  edc = '.$tableDesEdcVersionATester->section.':'.$tableDesEdcVersionATester->codeEDC.'</br>';
+
+                }
+            }
+
+          }
+          $tableauDesComparaisons[] = $ligne;
+        }
+
+      }
+
+      foreach ($tableauDesComparaisons as $lng) {
+
+        $l = ' Eléments commun avec la version : ';
+
+        $link = '<a href="/ConteType/version/'.$conteType->ctCode.'/'.$lng[0].'/">';
+        $link = $link.$lng[0].'</a> : |';
+        $l = $l.$link;
+
+        for($i = 1; $i<count($lng); $i++){
+          $link = '<a href="/ConteType/elementDuConte/'.$conteType->ctCode.'/'.$lng[$i]->section.'/'.$lng[$i]->codeEDC.'">';
+          $link = $link.$lng[$i]->section.':'.$lng[$i]->codeEDC.'</a>|';
+          $l = $l.$link;
+        }
+
+
+        $this->comparatifAvecAutreVersions[] = $l;
+      }
 
     }
 

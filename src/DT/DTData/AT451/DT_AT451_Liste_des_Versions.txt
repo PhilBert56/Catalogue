@@ -163,14 +163,15 @@ III:A, A1, B, B4, B6, C, E (moutons), E4 ; mari de l'ogresse veut bien leur rend
 I: A (7 g.), B, C, C2, C4, C7, C10 (et g. avaient décidé de ne pas revenir si c'était à nouveau un garçon !), D.
 II: A, A 2 (sa marraine), B3, D3, E2, E3, E4.
 III: A, A2, B, B4, B5, B6, C, C 1, C2, D1, D3, E (bœufs), E4.
-IV: A1, B, B1, B2, C, C13
+IV: A1, B, B1, B2, C, C13.
 [T. 450 : IV A, A 4, A7. V: A, B, D, E1 (d'abord obligée de rendre forme humaine aux 7 frères)].
 
-33. ANDREWS, C. ligures, 80-82, n° 19. Les onze cygnes.
+331. ANDREWS, C. ligures, 80-82, n° 19. Les onze cygnes.
 I: A (11 g.) ; le père, qui est roi, devenu veuf, se remarie.
 III: La nouvelle reine, pour se débarrasser des enfants, s'adresse à une sorcière qui trans­forme les onze garçons en cygnes, mais ne peut rien contre la fille qui porte sur elle une chaîne en or bénite ; la sorcière la perd dans un bois. Une femme dit à la soeur où sont ses frères - nageant sur un lac - et qu'elle pourra les délivrer si elle reste muette pendant le temps qu'elle fera une couverture avec des feuilles piquantes.
-IV: B, B1, C, C6, C7 (comme sorcière), C12. Comme il manquait un morceau à la couver­ture, un des frères conserve une aile à la place de bras.
-Cf. ID., ib., 302-308, n° 62. Les sept frères. - Vers. recueillie près de Gênes.
+IV: B, B1, C, C6, C7 (comme sorcière), C12. Comme il manquait un morceau à la couver­ture, un des frères conserve une aile à la place de bras. 
+
+332. Cf. ID., ib., 302-308, n° 62. Les sept frères. - Vers. recueillie près de Gênes.
  
 34. ORTOLI, Corse, 31-39, n° 6. L'anneau enchanté. Alt.
 I: A (6 g.), B (successivement), B2, mais ils sont tous changés en boucs par une méchante fée, dont ils ont ramassé l'anneau.
@@ -197,6 +198,9 @@ IV: A1, B, B1, B2, C, C13
 
 40.	d) FORTIER, Louisiane, 84, n° 23. Nomme qui tournin zozo. (Les hommes changés en oiseaux).
  
+
+
+
 
 Ce conte est répandu dans toute l'Europe, l'Asie Mineure et l'Afrique du Nord (1). On trouve des éléments du thème dès le XIIe siècle dans le Dolopathos du moine lorrain Jean de la Haute-Seille : c'est l'histoire des Enfants-Cygnes (que rappelle notre version 33).
  

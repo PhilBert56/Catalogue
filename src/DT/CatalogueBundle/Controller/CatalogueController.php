@@ -118,21 +118,21 @@ class CatalogueController extends Controller
 
 
       $extracteurDeContestypes = $this->container->get('dt_catalogue.listeLesContesTypesContenusDansLaLigne');
-      dump($conteType);
+      //dump($conteType);
       $motifs = $conteType->motifsDuConte;
-      dump ($motifs);
+      //dump ($motifs);
 
 
       for ($i=0; $i < count($motifs); $i++) {
 
         $motif = $motifs[$i];
-
         $ligne = $motif->motifDescription;
-        $ligne = $extracteurDeContestypes->listeLesContesTypesContenusDansLaLigne($ligne,$tableauDesContesType);
-        $motif->motifDescription = $ligne;
+        if (strpos($ligne, 'href') == FALSE){
+          $ligne = $this->etablirLienPourBaseIndex($ligne);
+          $ligne = $extracteurDeContestypes->listeLesContesTypesContenusDansLaLigne($ligne,$tableauDesContesType);
+          $motif->motifDescription = $ligne;
+        }
       }
-
-
 
 
         //dump ($conteType->motifsDuConte);
@@ -168,6 +168,17 @@ class CatalogueController extends Controller
 
     }
 
+    public function etablirLienPourBaseIndex($ligne) {
+      $mots = explode(' ',$ligne);
 
+      if ( preg_match('#[A-z][a-z]#', $mots[0])  ){
+        return $ligne;
+      };
+
+      $link = '<a href="/Code-motif-Index/'.$mots[0].'/">';
+      $link = $link.$mots[0].'</a>';
+      $ligne = str_replace($mots[0], $link, $ligne);
+      return $ligne;
+    }
 
 }

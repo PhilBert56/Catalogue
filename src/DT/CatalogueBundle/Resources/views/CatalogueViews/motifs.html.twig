@@ -15,7 +15,7 @@
         <tr>
             <td>
             {% if motif.isTitre %}
-            </br><strong> {{ motif.motifDescription }}</strong></br></br>
+            </br><strong> {{ motif.motifDescription | raw }}</strong></br></br>
             {% else %}
                 {{ motif.motifDescription | raw }} </br></br>
             {% endif %}

@@ -116,8 +116,8 @@ class BaseMotifIndexController extends Controller
 
               if ($retourValidation[0]){
                 $repoConte = $this->getDoctrine()->getRepository(MotifDuMotifIndex::class);
-                $atrequest = new CodeMotifRequest($retourValidation[1]);
-                $references = $atrequest->getReferences($repoConte , $retourValidation[1]);
+                $codeRequest = new CodeMotifRequest($retourValidation[1]);
+                $references = $codeRequest->getReferences($repoConte , $retourValidation[1]);
 
                 return $this->render('PHBBaseIndexBundle:Requetes:referencesview.html.twig' ,[
                   'references' => $references,

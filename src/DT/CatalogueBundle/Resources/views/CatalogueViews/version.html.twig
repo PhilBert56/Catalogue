@@ -36,6 +36,12 @@
                 {% endfor %}
 
                 </tr>
+
+                {% for ligne in version.comparatifAvecAutreVersions %}
+                    {{ ligne | raw }} </br>
+
+                {% endfor %}
+                
     </tr>
     </thead>
     <tbody>
