@@ -21,6 +21,11 @@
 
                     {% endif %}
                     - {{ version.reference }}
+
+                    {% if version.hasSource %}
+                        <a href="{{version.fichierSource }}">(source)</a>
+                    {% endif %}
+
                 </strong></br>
 
                 {% autoescape 'html' %}

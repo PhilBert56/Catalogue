@@ -9,5 +9,7 @@ use DT\CatalogueBundle\Services\ConteType;
 
 class DefaultController extends Controller
 {
-    public function indexAction(){}
+
+
+    
 }

@@ -1,33 +1,106 @@
- 1. GUEULLETTE. Mille et un quarts d'heures, C. tartares, 1715, n° 73 = Ca-binet des Fées, XXI, 455. Aventure d'un bûcheron et de la Mort. Inc. I : A (bûcheron), A3 (veut le noyer, rencontre la Mort). — II : Aa. Elle lui dit les vertus de ro ou 12 plantes, B, Ba, C, CI (le grand Iskander), C3. — III : A.
-a. DEULIN. Buveur de bière, 31. Le compère de la Mort. Lit. Ar. Amp.
-I : Ai (censier), Aa (ra), A3, A4, A5, 134, C, Cr. — III : B (emmène le père), BI, Ba, B3.
-3. ID., ibid., ig5. Le filleul de la Mort. I : At (grand censier), Aa (12), A3, A4, A5, B4. — II : A, Ar, B, Ba, B4, C. Il soigne une princesse qui meurt bien qu'il ait tourné le lit. Ensuite, long développement littéraire.
-4. Ms. MILLIEN-DELARUE. Vers. A. L'homme le plus juste. I : A, Aa (1a), A3, A4, A5, B, Br, B4, C. — II : A3, B, Ba, C. Ensuite T. 33r.
-5. ID. Vers. B. Le filleul de la Mort. I : A, Aa (12), A3. Renonce à trouver parrain, B4 (qu'il rencontre; la Mort ne se nomme qu'au baptême), C. —
-II : A, A3. La Mort lui donne petit instrument à mettre sous la langue ayant pouvoir de guérir 4 personnes, B, Ba, CI (le roi, un grand, la fille du roi, le fils du roi), C4. — III : Son pouvoir fini, se désole, part, rencontre la Mort, B, BI, Ba, B3.
-6. ID. Vers. C. La Mort parrain. I : A, Aa, A3, A4, A5, B, 134, C. — II Aa, B, Ba. — III : (Alt.). Le médecin se sauve pour échapper à la Mort. Elle le rencontre, lui donne 3 ans, revient, B3.
-7. ID. Vers. D. La Mort parrain. Alt. I : Ar, Aa, A3, A4, A5, Bi, B, B4. —II : A4 (le père obtient de l'élever 20 ans pour en faire un médecin), B (sera derrière la porte), B3 (en ruelle ou dans le lit), Ci (fils du seigneur), Cr (homme riche), C3 (tourne : u Son parrain à boucheton! »). La Mort vient chercher le père... Voir T. 331.
-8. ID. Vers. E. Le bonhomme Misère et la Mort. I : A (bonhomme Misère),
-A3, A4, Bi, B, 134. — II : A2, B, B2, C. La Mort vient prendre le médecin. Voir T. 33o.
-g. ID. Vers. F. Le Malheureux et la Mort. Alt. Frag. Un malheureux cherche la Mort, la rencontre. II : Elle lui dit de se faire médecin, B, B2.
-io. R.T.P., XIII, 1898, 664, Anjou. L'homme qui cherchait un parrain juste (H. Gréville). I : A, A3, A4, A5, 132, B, B4, C, Cr. — H : A2, B, Ba, C, C5. — III : B, Bi, Ba, B3.
+1. GUEULLETTE. Mille et un quarts d'heures, C. tartares, 1715, n° 73 = Cabinet des Fées, XXI, 455. Aventure d'un bûcheron et de la Mort. Inc. 
+I : A (bûcheron), A3 (veut le noyer, rencontre la Mort). 
+II : A2. Elle lui dit les vertus de ro ou 12 plantes, B, B2, C, C1 (le grand Iskander), C3. 
+III : A.
+
+2. DEULIN. Buveur de bière, 31. Le compère de la Mort. Lit. Ar. Amp.
+I : A1 (censier), A2 (12), A3, A4, A5, B4, C, C1. 
+III : B (emmène le père), B1, B2, B3.
+
+3. ID., ibid., 195. Le filleul de la Mort. 
+I : A1 (grand censier), A2 (12), A3, A4, A5, B4. 
+II : A, A1, B, B2, B4, C. Il soigne une princesse qui meurt bien qu'il ait tourné le lit. Ensuite, long développement littéraire.
+
+4. Ms. MILLIEN-DELARUE. Vers. A. L'homme le plus juste. 
+I : A, A2 (12), A3, A4, A5, B, B1, B4, C. 
+II : A3, B, B2, C. Ensuite T. 331.
+
+5. ID. Vers. B. Le filleul de la Mort. 
+I : A, A2 (12), A3. Renonce à trouver parrain, B4 (qu'il rencontre; la Mort ne se nomme qu'au baptême), C. 
+II : A, A3. La Mort lui donne petit instrument à mettre sous la langue ayant pouvoir de guérir 4 personnes, B, B2, C1 (le roi, un grand, la fille du roi, le fils du roi), C4. 
+III : Son pouvoir fini, se désole, part, rencontre la Mort, B, B1, B2, B3.
+
+6. ID. Vers. C. La Mort parrain. I : A, A2, A3, A4, A5, B, B4, C. 
+II A2, B, B2. 
+III : (Alt.). Le médecin se sauve pour échapper à la Mort. Elle le rencontre, lui donne 3 ans, revient, B3.
+
+7. ID. Vers. D. La Mort parrain. Alt. 
+I : A1, A2, A3, A4, A5, B1, B, B4. 
+II : A4 (le père obtient de l'élever 20 ans pour en faire un médecin), B (sera derrière la porte), B3 (en ruelle ou dans le lit), C1 (fils du seigneur), C1 (homme riche), C3 (tourne : u Son parrain à boucheton! »). La Mort vient chercher le père... Voir T. 331.
+
+8. ID. Vers. E. Le bonhomme Misère et la Mort. 
+I : A (bonhomme Misère), A3, A4, B1, B, B4. 
+II : A2, B, B2, C. La Mort vient prendre le médecin. Voir T. 330.
+
+9. ID. Vers. F. Le Malheureux et la Mort. Alt. Frag. Un malheureux cherche la Mort, la rencontre. 
+II : Elle lui dit de se faire médecin, B, B2.
+
+10. R.T.P., XIII, 1898, 664, Anjou. L'homme qui cherchait un parrain juste (H. Gréville). 
+I : A, A3, A4, A5, B2, B, B4, C, C1. 
+II : A2, B, B2, C, C5. 
+III : B, B1, B2, B3.
+
 11. LUZEL. Lég. chrét. E.-Bret. I, 335. L'homme juste (Vers. type résumée ci-dessus.)
-12. ID., ibid., I, 346. L'Artkou et son compère. I : A, A3, A4, A5, B4 (ne sait que c'est la Mort qu'à H A2), C, Cr. — II : Aa, B, Ba, B4 (eau pure ou herbes quelconques), Cr (seigneur), C3, Ci (autre seigneur), C3, C, Ci (roi de France), C3. — III : A (après guérison du a° seigneur), Ai. Le médecin rencontre l'Ankou avec voiture chargée des vêtements qu'il a usés à courir après lui (cont. par T.47o8). Le médecin nargue l'Ankou, accepte de mettre pierre pour boucher derrière du cheval de l'Ankou qui est foireux; la pierre projetée par cheval tue le médecin (cent. par T. i313).
-13. CADIC. C. et Lég. Bret., IV, 25. L'Ankou et son filleul. I : A (char-pentier), Aa (12), A3, A4, A5, Bi, Ba, 84, C, Ci, Ca. — II : A (qu'elle prend de 7 à 20 ans), Ai, B, Ba, C, C5, Ca, C3, C4. — III : Le soir du'mariage, l'Ankou tue la princesse, B, BI, B2, B3.
-14. SERREAU. Veillées. Aux quatre Vents de France, 194a, 135, B.-Bret. Le filleul de l'Ankou (Guilcher). I : Al (homme dur et redouté), A3 (dont mère meurt après les couches). Il ne peut trouver une marraine, 134 (qui se présente chez lui), C. — Il : Al, B, Ba, B4, C, Ca, C3. — III : B, Bi, Ba. La Mort lui fait choisir entre extinction de la flamme de la princesse ou de la sienne; choisit extinction de la sienne et meurt.
-15. SEBILLOT. C. Landes et Grèves, n° a4, p. a44 = Archivio, IV, 4a3. Le vrai juste. Inc. I : A, A3, A4, A5, B, B3 (saint Jean), Ba, B4.
-16. ID., ibid., n° 25, p. a48 = Archivio, IV, 4a6. Le compère de la Mort. (Avec 1'. 331.) I : A, A3, A4, B4. — Il : Aa, B, Ba, C, Ci (roi), C3... Ensuite
-T. 331.
-17. Lemouzi, 1911, p. vjg. A la recherche de l'homme juste. I : A, A3,
-A4, A5, Ba, B4. — III : B, Bi, Ba, 83 (d'après éléments cités in Ms. Perbosc-Cézerac).
-18. DARDY. Anth. Albret, II, 142. La Mort et Bernard. I : A (Bernard), Aa (g), A3 (appelé Dixième), A4, A5, Bi, B. — II : A (le prend jusqu'à lo ans). — III : Bernard vient chercher son fils. La Mort lui fait visiter chambres, sauf une que Bernard veut voir, Bi, Ba. Bernard demande à ne pas mourir avant d'avoir dit un Pater, la Mort accepte. Bernard laisse Pater inachevé et continue à vivre (T. 1199). Il se fait médecin. Trouve un jour cadavre devant sa voiture, machinalement, dit un Pater entier. Le cadavre se lève :-c'est la Mort qui frappe Bernard.
-19. Ms. PERBOSC-CEZERAC, n° 38. Le conte de Misère. I : A (Misère), A3, B4 (personnage qui entre sans dire qu'il est la Mort), C, CI (soupe et farci d'oeuf, sur corbeille en guise de table). — II : A2, Bi, B3 (derrière porte),
-B4 (3 herbes sèches), C, C5. Appelé vers chàtelain, annonce sa mort; reçoit 2 métairies des héritiers. — III : Misère apprend que le parrain de son enfant est la Mort. Celle-ci lui fait visiter chambres de sa demeure, sauf une que Misère veut voir, Bi, Ba, B3.
-20. BEDAT DE MONLAUR. Meunier gascon, 35. Le bûcheron médecin. Lit. I : Un bûcheron dit qu'il donnerait sa vie pour un an d'abondance. — H : La Mort se présente, lui dit de s'habiller en médecin, 13, Ba, C5, Ci (femme de l'intendant), Ca, C3. — HI : Le médecin est appelé auprès d'un malade alité entre 4 cierges : c'est la Mort qui se lève, met le médecin à sa place, éteint successivement les 4 cierges; le médecin meurt avec le 4°.
-21. LAMBERT. C. Languedoc, n° 1, p. 5 = Bey. langues rom., XXVII, 184. Le filleul de la Mort. I : A, Aa (5), A3 (Jean-de-trop). Ne peut trouver de parrain. Mendiant entre, s'offre : c'est Notre-Seigneur. La marraine arrive en voiture : c'est la Mort, C (voilée). — II : La marraine donne 200 ans de vie aux membres de la famille, A, Az, B, Ba, B4 (3 gouttes eau de réglisse), C, Ca, C4. Désolé à l'idée que sa femme vivra moins longtemps que lui, le médecin défie la Mort d'entrer dans une gourde, l'y enferme, la lâche contre promesse que sa femme vivra aussi 200 ans (T. 331).
-22. Alm. ariégeois, 1895, p. 55. La Mort et le médecin. I : A, B4. — II : Ai, B, Ba. Voir T. 33i (d'après éléments cités in ms. Perbosc-Cézerac).
-a3. MIR et DELAMPLE. Pays Occitan, io8. Misère et la Mort. Affabulation identique à celle de la vers. ig (ms. Perbosc-Cézerac).
-a4. R.T.P., X, 1885, 5g4, Dauphiné. Le filleul de la Mort. I : A, Aa (r2), A3, A4, B4. — Il : A, B, Ba, C, Ca, C3, C4, Ci (roi), C3. — III : A (après guérison de la princesse), Ai, B, Bi, Ba, B3.
-25. Arm. prouvençau 1876, p. Go. L'homme juste (Mistral). I : A, A3, A4,
-A5, Ba, B, B4.
-a6. BOLTE et POLIVKA. Anmerkungen, I, 383. Vers. fr. non localisée ni datée, retrouvée dans les papiers de J. Grimm, 1863. I : A, A3, A4, B3 (refuse la Sainte Vierge qui se présente en belle dame, parce que son fils ne traite pas les gens avec équité), B4 (se présente en dame voilée de noir). — II : Al, B, B; C, Ci (Irv fois, homme riche; a°, père d'une belle fille), C3, C4 (épouse fille du second), Ci (roi qui menace de le faire décapiter s'il ne le guérit)... (inachevé).
+
+12. ID., ibid., I, 346. L'Artkou et son compère. 
+I : A, A3, A4, A5, B4 (ne sait que c'est la Mort qu'à H A2), C, C1. 
+II : A2, B, B2, B4 (eau pure ou herbes quelconques), C1 (seigneur), C3, C1 (autre seigneur), C3, C, C1 (roi de France), C3. 
+III : A (après guérison du a° seigneur), A1. Le médecin rencontre l'Ankou avec voiture chargée des vêtements qu'il a usés à courir après lui (cont. par T.470B). Le médecin nargue l'Ankou, accepte de mettre pierre pour boucher derrière du cheval de l'Ankou qui est foireux; la pierre projetée par cheval tue le médecin (cent. par T. 1313).
+
+13. CADIC. C. et Lég. Bret., IV, 25. L'Ankou et son filleul.
+I : A (charpentier), A2 (12), A3, A4, A5, B1, B2, B4, C, C1, C2. 
+II : A (qu'elle prend de 7 à 20 ans), A1, B, B2, C, C5, C2, C3, C4. 
+III : Le soir du mariage, l'Ankou tue la princesse, B, B1, B2, B3.
+
+14. SERREAU. Veillées. Aux quatre Vents de France, 194a, 135, B.-Bret. Le filleul de l'Ankou (Guilcher). 
+I : A1 (homme dur et redouté), A3 (dont mère meurt après les couches). Il ne peut trouver une marraine, 134 (qui se présente chez lui), C. 
+Il : A1, B, B2, B4, C, C2, C3. 
+III : B, B1, B2. La Mort lui fait choisir entre extinction de la flamme de la princesse ou de la sienne; choisit extinction de la sienne et meurt.
+
+15. SEBILLOT. C. Landes et Grèves, n° 24, p. 244 = Archivio, IV, 423. Le vrai juste. Inc. 
+I : A, A3, A4, A5, B, B3 (saint Jean), B2, B4.
+
+16. ID., ibid., n° 25, p. a48 = Archivio, IV, 4a6. Le compère de la Mort. (Avec 1'. 331.) 
+I : A, A3, A4, B4. 
+Il : A2, B, B2, C, C1 (roi), C3... Ensuite T. 331.
+
+17. Lemouzi, 1911, p. 179 A la recherche de l'homme juste.
+ I : A, A3, A4, A5, B2, B4. 
+III : B, B1, B2, B3 (d'après éléments cités in Ms. Perbosc-Cézerac).
+
+18. DARDY. Anth. Albret, II, 142. La Mort et Bernard. 
+I : A (Bernard), Aa (g), A3 (appelé Dixième), A4, A5, B1, B. 
+II : A (le prend jusqu'à 10 ans). 
+III : Bernard vient chercher son fils. La Mort lui fait visiter chambres, sauf une que Bernard veut voir, B1, B2. Bernard demande à ne pas mourir avant d'avoir dit un Pater, la Mort accepte. Bernard laisse Pater inachevé et continue à vivre (T. 1199). Il se fait médecin. Trouve un jour cadavre devant sa voiture, machinalement, dit un Pater entier. Le cadavre se lève : c'est la Mort qui frappe Bernard.
+
+19. Ms. PERBOSC-CEZERAC, n° 38. Le conte de Misère. 
+I : A (Misère), A3, B4 (personnage qui entre sans dire qu'il est la Mort), C, C1 (soupe et farci d'oeuf, sur corbeille en guise de table). 
+II : A2, B1, B3 (derrière porte), B4 (3 herbes sèches), C, C5. Appelé vers chàtelain, annonce sa mort; reçoit 2 métairies des héritiers. 
+III : Misère apprend que le parrain de son enfant est la Mort. Celle-ci lui fait visiter chambres de sa demeure, sauf une que Misère veut voir, B1, B2, B3.
+
+20. BEDAT DE MONLAUR. Meunier gascon, 35. Le bûcheron médecin. Lit. 
+I : Un bûcheron dit qu'il donnerait sa vie pour un an d'abondance. 
+II : La Mort se présente, lui dit de s'habiller en médecin, B, B2, C5, C1 (femme de l'intendant), C2, C3. 
+III : Le médecin est appelé auprès d'un malade alité entre 4 cierges : c'est la Mort qui se lève, met le médecin à sa place, éteint successivement les 4 cierges; le médecin meurt avec le 4°.
+
+21. LAMBERT. C. Languedoc, n° 1, p. 5 = Bey. langues rom., XXVII, 184. Le filleul de la Mort. 
+I : A, A2 (5), A3 (Jean-de-trop). Ne peut trouver de parrain. Mendiant entre, s'offre : c'est Notre-Seigneur. La marraine arrive en voiture : c'est la Mort, C (voilée). 
+II : La marraine donne 200 ans de vie aux membres de la famille, A, A1, B, B2, B4 (3 gouttes eau de réglisse), C, C2, C4. Désolé à l'idée que sa femme vivra moins longtemps que lui, le médecin défie la Mort d'entrer dans une gourde, l'y enferme, la lâche contre promesse que sa femme vivra aussi 200 ans (T. 331).
+
+22. Alm. ariégeois, 1895, p. 55. La Mort et le médecin. 
+I : A, B4. 
+II : A1, B, B2. Voir T. 331 (d'après éléments cités in ms. Perbosc-Cézerac).
+
+23. MIR et DELAMPLE. Pays Occitan, 108 Misère et la Mort. Affabulation identique à celle de la vers. 19 (ms. Perbosc-Cézerac).
+
+24. R.T.P., X, 1885, 594, Dauphiné. Le filleul de la Mort. 
+I : A, A2 (12), A3, A4, B4. 
+Il : A, B, B2, C, C2, C3, C4, C1 (roi), C3. 
+III : A (après guérison de la princesse), A1, B, B1, B2, B3.
+
+25. Arm. prouvençau 1876, p. 60. L'homme juste (Mistral). 
+I : A, A3, A4, A5, B2, B, B4.
+
+26. BOLTE et POLIVKA. Anmerkungen, I, 383. Vers. fr. non localisée ni datée, retrouvée dans les papiers de J. Grimm, 1863. 
+I : A, A3, A4, B3 (refuse la Sainte Vierge qui se présente en belle dame, parce que son fils ne traite pas les gens avec équité), B4 (se présente en dame voilée de noir). 
+II : A1, B, B2; C, C1 (1re fois, homme riche; 2e, père d'une belle fille), C3, C4 (épouse fille du second), C1 (roi qui menace de le faire décapiter s'il ne le guérit)... (inachevé).

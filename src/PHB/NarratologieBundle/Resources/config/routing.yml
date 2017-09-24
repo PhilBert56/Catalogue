@@ -1,0 +1,3 @@
+phb_narratologie_homepage:
+    path:     /
+    defaults: { _controller: PHBNarratologieBundle:Default:index }

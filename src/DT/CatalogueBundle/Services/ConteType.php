@@ -35,11 +35,11 @@ class ConteType
     {
         $this->isDefined = false;
         $this->ctCode = (explode ("-",$description,2)[0]);
-        $this->ctCode = rtrim($this->ctCode);
+        $this->ctCode = trim($this->ctCode);
+
         $this->titre = (explode ("-",$description,2)[1]);
 
         $this->fichierDesElementsDuConte = '..\src\DT\DTData\A'.$this->ctCode.'\DT_A'.$this->ctCode.'_EDC.txt';
-
 
         /* Fichier des Versions = les versions référencées et analysée par le catalogue */
         $this->fichierDesVersions = '..\src\DT\DTData\A'.$this->ctCode.'\DT_A'.$this->ctCode.'_Liste_des_Versions.txt';
@@ -94,18 +94,24 @@ class ConteType
 
             $nouvelleSectionOuverte = false;
 
-            foreach ($lines as $lineNumber => $lineContent){
 
+            $versionExiste = false;
+
+            foreach ($lines as $lineNumber => $lineContent){
+//echo 'ligne = |'.$lineContent.'|</br>';
+//echo 'ligne = |'.utf8_encode($lineContent).'|</br>';
                if( strlen($lines[$lineNumber]) < 3  ){
                  $nouvelleSectionOuverte = false;
                  $lastSection = '';
                }
 
                $elements = explode (".",$lines[$lineNumber],2);
-
+//echo 'debut = |'.$elements[0].'|</br>';
+//echo 'debut = |'.utf8_encode($elements[0]).'|</br>';
                if ( is_numeric ($elements[0])) {
                  /* on commence la description d'une nouvelle version */
                     $version = new VersionDuConteType($this->ctCode);
+                    $versionExiste = true;
                     $this->hasVersion = true;
                     $version->numero = $elements[0];
                     $version->reference = utf8_encode ($elements[1]);
@@ -127,18 +133,19 @@ class ConteType
                       }
                         else $section ='';
                     }
+                    if ($versionExiste){
+                      $listeDesCodes = $extracteurDeCodes->listeLesCodesContenusDansLaLigne($lineNumber, $ligne, $this->ctCode, $version->numero, $section);
 
-                    $listeDesCodes = $extracteurDeCodes->listeLesCodesContenusDansLaLigne($lineNumber, $ligne, $this->ctCode, $version->numero, $section);
+                      foreach ($listeDesCodes as $code ){
+                        $version->occurencesDesElementsDuConte[] = $code;
+                      }
 
-                    foreach ($listeDesCodes as $code ){
-                      $version->occurencesDesElementsDuConte[] = $code;
-                    }
-
-                    if (count ($listeDesCodes) > 0){
+                      if (count ($listeDesCodes) > 0){
                       //dump($listeDesCodes);
-                      $ligne = $extracteurDeCodes->effectuerLesSubstitutions($ligne,$listeDesCodes);
+                        $ligne = $extracteurDeCodes->effectuerLesSubstitutions($ligne,$listeDesCodes);
+                      }
+                      $version->description[] = $ligne;
                     }
-                    $version->description[] = $ligne;
                 }
             }
         }
@@ -146,14 +153,16 @@ class ConteType
     }
 
     public function genererLaListeDesElementsduConte(){
+
+
+
         if (!file_exists($this->fichierDesElementsDuConte) ){
-            echo 'FILE :$this->fichierDesElementsDuConte inexistant';
+            echo 'Le fichier :'.$this->fichierDesElementsDuConte.' n\'existe pas </br>';
             return;
         }
+
         $lines = file($this->fichierDesElementsDuConte);
         $edcTab = [];
-
-
 
         foreach ($lines as $lineNumber => $lineContent){
 
@@ -206,7 +215,7 @@ class ConteType
 
       }
 
-      dump ($this);
+      //dump ($this);
 
     }
 
@@ -236,7 +245,7 @@ class ConteType
     public function genererLaListeDesMotifs(){
 
         if (!file_exists($this->fichierDesMotifs)){
-            echo 'FILE :$this->fichierDesMotifs inexistant';
+            echo 'FILE :'.$this->fichierDesMotifs.' inexistant </br>';
             return;
        }
 

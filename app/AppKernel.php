@@ -20,6 +20,7 @@ class AppKernel extends Kernel
             new DT\CatalogueBundle\DTCatalogueBundle(),
             new PHB\BaseContesBundle\PHBBaseContesBundle(),
             new PHB\BaseIndexBundle\PHBBaseIndexBundle(),
+            new PHB\NarratologieBundle\PHBNarratologieBundle(),
         ];
 
         if (in_array($this->getEnvironment(), ['dev', 'test'], true)) {

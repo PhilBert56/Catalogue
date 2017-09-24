@@ -1,0 +1,4 @@
+services:
+#    phb_narratologie.example:
+#        class: PHB\NarratologieBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]

@@ -1,13 +1,13 @@
 T300 - La bête à sept têtes
 T301 - Les princesses délivrées du monde souterrain
-T302 - le corps sans ame
+T302 - Le corps sans ame
 T303 - Le roi des poissons ou la bête à sept têtes
-T304 - Le chasseur adroit 
+T304 - Le chasseur adroit
 T306 - Les souliers usés à la danse
 T307 - La princesse délivrée
 T310 - Persinette
 T311 - Le gros cheval blanc
-T312 A & B - barbe-bleue
+T312 - A & B | Barbe-bleue
 T313 - La fille du diable
 T314 - Le Petit Jardinier aux cheveux d'or ou Le Teigneux
 T315 - La soeur infidèle
@@ -15,9 +15,9 @@ T316 - L'enfant promis à la sirène
 T317 - Le petit berger et les trois geants
 T325 - Le magicien et son élève ou l'apprenti magicien
 T326 - Jean sans peur
-T327 - A et B - Le Petit Poucet ou Les Enfants abandonnés dans la Forêt	
+T327 - A et B - Le Petit Poucet ou Les Enfants abandonnés dans la Forêt
 T328 - Le Garçon qui vole les trésors de l'Ogre
-T329 (var.) - La Fille du magicien et les cachettes à découvrir
+T329 - (var.)| - La Fille du magicien et les cachettes à découvrir
 T330 - Le Diable et le Maréchal Ferrant ou le Bonhomme Misère
 T331 - La Mort (ou le Diable) dans une bouteille
 T332 - La mort parrain
@@ -62,7 +62,7 @@ T518 - [Objets magiques]
 T530 - La montagne de verre
 T531 - La belle aux cheveux d'or
 T533 - La tête de cheval qui parle
-T545 - Le chat botte	
+T545 - Le chat botte
 T550 - Le merle blanc
 T551 - Les fils en quête d'un remède merveilleux pour leur père
 T552 - Les filles mariées à des animaux
