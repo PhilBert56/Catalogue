@@ -1,3 +1,3 @@
 catalogue:
-    resource :@DTBundle/Controller
-    type: annotation
+  resource: "@DTBundle/Controller"
+  type: annotation

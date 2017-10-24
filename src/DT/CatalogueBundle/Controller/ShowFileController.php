@@ -22,9 +22,8 @@ class ShowFileController extends Controller
         $fileName = $this->rechercherLeFichierDeLaVersion($conteType, $numeroVersion);
         $file = $path.$fileName;
         echo '|',$fileName,'|',$file,'|';
-        dump($file);
-        
-        return $this->render('DTCatalogueBundle:CatalogueViews:file.html.twig', 
+
+        return $this->render('DTCatalogueBundle:CatalogueViews:file.html.twig',
         ['file' => $file]);
 
     }
@@ -38,9 +37,9 @@ class ShowFileController extends Controller
         foreach($tableauDesContesType as $conteType){
             if ($ctCode == $conteType->ctCode ) {
                 return $conteType;
-            } 
+            }
         }
-        
+
         return 'not found';
     }
 

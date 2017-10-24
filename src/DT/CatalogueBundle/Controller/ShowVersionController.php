@@ -15,7 +15,6 @@ class ShowVersionController extends Controller
     */
 
     public function showVersionAction($ctCode, $numeroVersion){
-//echo 'Recherche le conte type ',$ctCode,' et la version ',$numeroVersion,'</br>';
 
         $conteType = $this->rechercherLeConteType($ctCode);
         $versionAMontrer ='';
@@ -24,11 +23,7 @@ class ShowVersionController extends Controller
 
             if ($v->numero == $numeroVersion){
                 $versionAMontrer = $v;
-
-                //dump ($conteType);dump($v);
                 $developpements = $versionAMontrer->developperUneVersion($conteType);
-                //dump($developpements);
-                //foreach($developpements as $ligne) echo $ligne.'</br>' ;
                 break;
             }
 
@@ -66,12 +61,10 @@ class ShowVersionController extends Controller
     public function showElementDuConteAction($ctCode, $section, $edcCode){
 
         $conteType = $this->rechercherLeConteType($ctCode);
-        //dump ($conteType);
 
         foreach ($conteType->elementsDuConte as $edc) {
 
             if ($edc->section == $section && $edc->codeElementDuConte == $edcCode){
-                //dump($edc->description, $edc->listeDesVersions);
                 break;
             }
         };

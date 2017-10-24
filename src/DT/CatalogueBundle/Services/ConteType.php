@@ -123,7 +123,7 @@ class ConteType
                     $ligne = utf8_encode ($lines[$lineNumber]);
 
                     $section = $extracteurDeCodes->laLigneEstUnDebutDeSection($ligne);
-                    if ($section !='') {
+                    if ($section !=='') {
                       $nouvelleSectionOuverte = true;
                       $lastSection = $section;
                     }

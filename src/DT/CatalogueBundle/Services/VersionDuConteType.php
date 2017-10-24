@@ -112,7 +112,6 @@ class VersionDuConteType
 
         $lignesDeveloppementVersion = [];
 
-        //$conteType = $this->rechercherLeConteType($this->ctCode);
 
         foreach ($this->occurencesDesElementsDuConte as $occurence){
 
@@ -187,7 +186,7 @@ class VersionDuConteType
         $ligne=[];
         $tableDesEdcVersionATester = $version->occurencesDesElementsDuConte;
 
-        if ( count($tableDesEdcVersionATester)>0 && ($version->numero != $this->numero) ){
+        if ( count($tableDesEdcVersionATester)>0 && ($version->numero !== $this->numero) ){
           $ligne[]=$version->numero;
 
           foreach ($tableDesEdcVersionATester as $edcAutreVersion) {

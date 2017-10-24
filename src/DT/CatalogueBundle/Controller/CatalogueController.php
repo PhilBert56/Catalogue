@@ -117,9 +117,9 @@ class CatalogueController extends Controller
 
 
       $extracteurDeContestypes = $this->container->get('dt_catalogue.listeLesContesTypesContenusDansLaLigne');
-      //dump($conteType);
+
       $motifs = $conteType->motifsDuConte;
-      //dump ($motifs);
+
 
 
       for ($i=0; $i < count($motifs); $i++) {
@@ -133,8 +133,6 @@ class CatalogueController extends Controller
         }
       }
 
-
-        //dump ($conteType->motifsDuConte);
         return $this->render('DTCatalogueBundle:CatalogueViews:motifs.html.twig',
         [
             'motifs'=> $conteType->motifsDuConte,
@@ -149,15 +147,7 @@ class CatalogueController extends Controller
     public function showComplementsAction($ctCode) {
 
         $conteType = $this->rechercherLeConteType($ctCode);
-        /*
-        if (!$conteType->isDefined) {
-            $conteType->genererLesInformationsDuConteType();
-        };
-*/
-
-// echo 'BONUS FILE = ', $conteType->bonusFile, '</br>';
-        //$fileName = "DT\CatalogueBundle\DTData\A".$conteType->ctCode.'\'.$conteType->bonusFile;
-
+        
         $fileName ='DT/CatalogueBundle/DTData/AT300/AT300.htm';
         return $this->render('DTCatalogueBundle:CatalogueViews:complements.html.twig',
         [
