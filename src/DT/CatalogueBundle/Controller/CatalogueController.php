@@ -9,7 +9,7 @@ use DT\CatalogueBundle\Services\ConteType;
 class CatalogueController extends Controller
 {
     /**
-     * @Route("/Catalogue Delarue Teneze", name="catalogue")
+     * @Route("/Catalogue-Delarue-Teneze", name="catalogue")
      */
     public function indexAction()
     {
@@ -17,9 +17,6 @@ class CatalogueController extends Controller
         $tableauDesContesType = $this->creerLeTableauDesContesTypes();
         $session->set('tableauDesContesType', $tableauDesContesType );
 
-        //$this->setBonus();
-
-        //dump($tableauDesContesType);
         return $this->render('DTCatalogueBundle:CatalogueViews:index.html.twig', [
                 'contes_type'=> $tableauDesContesType
         ]);
@@ -39,6 +36,8 @@ class CatalogueController extends Controller
         return $tableauDesContesType;
 
     }
+
+
 
     /**
      * @Route("/ConteType/edc/{ctCode}", name = "ct_show_edc")
@@ -101,7 +100,7 @@ class CatalogueController extends Controller
 
 
     /**
-     * @Route("/ConteType/motifs du Motif-Index/{ctCode}", name = "ct_show_motifs")
+     * @Route("/ConteType/motifs-du-Motif-Index/{ctCode}", name = "ct_show_motifs")
      */
     public function showMotifsAction($ctCode) {
 

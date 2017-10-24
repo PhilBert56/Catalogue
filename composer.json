@@ -29,7 +29,8 @@
         "sensio/framework-extra-bundle": "^3.0.2",
         "incenteev/composer-parameter-handler": "^2.0",
         "knplabs/knp-menu-bundle": "^2.0",
-        "symfony/finder": "^3.3"
+        "symfony/finder": "^3.3",
+        "coresphere/console-bundle": "~0.4"
     },
     "require-dev": {
         "sensio/generator-bundle": "^3.0",
