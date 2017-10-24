@@ -29,8 +29,7 @@ class MaintenanceBaseContesController extends Controller
 
       if (($handle = fopen($fileName, "r")) !== FALSE) {
         while (($data = fgetcsv($handle, 0, ";")) !== FALSE) {
-        echo 'CodeOuvrage '.$data[0].'|Titre :'.$data[2].'|Auteur : '.$data[3].'|Editeur :'.$data[4].'  | Traducteur = '.$data[6];
-        echo '</br>';
+
         $ouvrage = new ReferenceOuvrage();
         $ouvrage->setCodeOuvrage($data[1]);
         $ouvrage->setTitre ($data[2]);
@@ -90,9 +89,6 @@ class MaintenanceBaseContesController extends Controller
             $k = $k + 1;
           }
 
-          echo ' '.$count.'  Titre : '.$data[1].'|Genre : '.$data[2].'|Origine :'.$data[3].'  | CodeOuvrage : '.$data[4].'| NumeroAT : '.$numerosAT.'| Page :'.$data[21];
-          echo '</br>';
-
           $conte = new ReferenceConte();
           $conte->setTitre ($data[1]);
           $conte->setGenre ($data[2]);
@@ -125,9 +121,7 @@ class MaintenanceBaseContesController extends Controller
       foreach ($tableauDesOuvrages as $ouvrage){
         if ($ouvrage->getCodeOuvrage() == $codeOuvrage) return $ouvrage;
       }
-      echo 'Ouvrage non trouvé';
-      dump($codeOuvrage);
-      dump($tableauDesOuvrages);die();
+
       return null;
     }
 }
