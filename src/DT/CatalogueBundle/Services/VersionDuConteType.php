@@ -23,7 +23,7 @@ class VersionDuConteType
         $this->occurencesDesElementsDuConte =[];
     }
 
-    public function trouverLeFichierSourceAssocie($conteType){
+    public function trouverLeFichierSourceAssocie(ConteType $conteType){
 
     /*
         Balaye le fichier des versions disponibles en PDF (fichier des sources)
@@ -72,7 +72,7 @@ class VersionDuConteType
     }
 
 
-    public function developperUneVersion($conteType){
+    public function developperUneVersion(ConteType $conteType){
 
         $occurencesEDC = $this->occurencesDesElementsDuConte;
 
@@ -107,32 +107,7 @@ class VersionDuConteType
 
 
 
-
-    public function developperUneVersionOLD($conteType){
-
-        $lignesDeveloppementVersion = [];
-
-
-        foreach ($this->occurencesDesElementsDuConte as $occurence){
-
-            $section = $occurence [0];
-
-            $lignesDeveloppementVersion[] = $this->rechercherLeDescriptifDeLaSection($conteType,$section);
-
-            for ($i = 1 ; $i < count($occurence) ; $i++) {
-
-                $lignesDeveloppementVersion[] = $this->rechercherLeDescriptifElementDuConte($conteType, $section, $occurence[$i] );
-
-                $lignesDeveloppementVersion[] = $this->rechercherLaListeDesVersionsElementDuConte($conteType,$section,$occurence[$i]  );
-            }
-
-        }
-
-        return $lignesDeveloppementVersion;
-    }
-
-
-    public function rechercherLeDescriptifDeLaSection($conteType, $section){
+    public function rechercherLeDescriptifDeLaSection(ConteType $conteType, $section){
         $description = '';
         foreach($conteType->elementsDuConte as $edc){
             if ($edc->section == $section.'.') {
@@ -144,7 +119,7 @@ class VersionDuConteType
     }
 
 
-    public function rechercherLeDescriptifElementDuConte($conteType, $section, $codeEDC){
+    public function rechercherLeDescriptifElementDuConte(ConteType $conteType, $section, $codeEDC){
         $description = '';
         foreach($conteType->elementsDuConte as $edc){
             if ($edc->section == $section && $edc->codeElementDuConte == $codeEDC) {
@@ -155,7 +130,7 @@ class VersionDuConteType
 
     }
 
-    public function rechercherLaListeDesVersionsElementDuConte($conteType, $section, $codeEDC) {
+    public function rechercherLaListeDesVersionsElementDuConte(ConteType $conteType, $section, $codeEDC) {
 
         foreach($conteType->elementsDuConte as $edc){
 
@@ -174,7 +149,7 @@ class VersionDuConteType
 
 
 
-    public function etablirLeTableauComparatifAvecLesAutresVersions($conteType){
+    public function etablirLeTableauComparatifAvecLesAutresVersions(ConteType $conteType){
 
       $this->comparatifAvecAutreVersions = [];
       $tableauDesComparaisons = [];
